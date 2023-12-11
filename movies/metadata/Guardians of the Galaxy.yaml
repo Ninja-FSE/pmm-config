@@ -1,0 +1,36 @@
+metadata:
+    "Guardians of the Galaxy (2014)":
+        year: 2014
+        title: "Guardians of the Galaxy"
+        match:
+          mapping_id: 118340
+        url_poster: https://theposterdb.com/api/assets/170954
+        # IDs: imdb://tt2015381, tmdb://118340, tvdb://26
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Guardians%20of%20the%20Galaxy&category=Movies&year_filter=equals&yone=2014&tmdb_id=118340&imdb_id=tt2015381&tvdb_id=26
+        # tmdb: https://www.themoviedb.org/movie/118340
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=26
+        # imdb: https://www.imdb.com/title/tt2015381
+
+    "Guardians of the Galaxy Vol. 2 (2017)":
+        year: 2017
+        title: "Guardians of the Galaxy Vol. 2"
+        match:
+          mapping_id: 283995
+        url_poster: https://theposterdb.com/api/assets/170959
+        # IDs: imdb://tt3896198, tmdb://283995, tvdb://67
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Guardians%20of%20the%20Galaxy%20Vol.%202&category=Movies&year_filter=equals&yone=2017&tmdb_id=283995&imdb_id=tt3896198&tvdb_id=67
+        # tmdb: https://www.themoviedb.org/movie/283995
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=67
+        # imdb: https://www.imdb.com/title/tt3896198
+
+    "Guardians of the Galaxy Vol. 3 (2023)":
+        year: 2023
+        title: "Guardians of the Galaxy Vol. 3"
+        match:
+          mapping_id: 447365
+        url_poster: https://theposterdb.com/api/assets/297410
+        # IDs: imdb://tt6791350, tmdb://447365, tvdb://11716
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Guardians%20of%20the%20Galaxy%20Vol.%203&category=Movies&year_filter=equals&yone=2023&tmdb_id=447365&imdb_id=tt6791350&tvdb_id=11716
+        # tmdb: https://www.themoviedb.org/movie/447365
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=11716
+        # imdb: https://www.imdb.com/title/tt6791350

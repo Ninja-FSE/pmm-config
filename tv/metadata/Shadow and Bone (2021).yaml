@@ -1,0 +1,17 @@
+metadata:    
+    "Shadow and Bone (2021)":
+        year: 2021
+        title: "Shadow and Bone"
+        url_poster: https://theposterdb.com/api/assets/339099
+        match:
+          mapping_id: 369844
+        # IDs: imdb://tt2403776, tmdb://85720, tvdb://369844
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shadow%20and%20Bone&category=Shows&year_filter=equals&yone=2021&tmdb_id=85720&imdb_id=tt2403776&tvdb_id=369844
+        # tmdb: https://www.themoviedb.org/tv/85720
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=369844
+        # imdb: https://www.imdb.com/title/tt2403776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/339101
+            2:
+                url_poster: https://theposterdb.com/api/assets/339102

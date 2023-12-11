@@ -1,0 +1,98 @@
+metadata:
+    "X-Men (2000)":
+        year: 2000
+        title: "X-Men"
+        match:
+          mapping_id: 36657
+        url_poster: https://theposterdb.com/api/assets/171113
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men 2 (2003)":
+        year: 2003
+        title: "X2"
+        match:
+          mapping_id: 36658
+        url_poster: https://theposterdb.com/api/assets/171114
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men: The Last Stand (2006)":
+        year: 2006
+        title: "X-Men: The Last Stand"
+        match:
+          mapping_id: 36668
+        url_poster: https://theposterdb.com/api/assets/171115
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men: First Class (2011)":
+        year: 2011
+        title: "X-Men: First Class"
+        match:
+          mapping_id: 49538
+        url_poster: https://theposterdb.com/api/assets/171116
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men: Days of Future Past (2014)":
+        year: 2014
+        title: "X-Men: Days of Future Past"
+        match:
+          mapping_id: 127585
+        url_poster: https://theposterdb.com/api/assets/171117
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men: Apocalypse (2016)":
+        year: 2016
+        title: "X-Men: Apocalypse"
+        match:
+          mapping_id: 246655
+        url_poster: https://theposterdb.com/api/assets/171118
+        # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
+        # tmdb: https://www.themoviedb.org/movie/192102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1260
+        # imdb: https://www.imdb.com/title/tt2172934
+
+    "X-Men: Dark Phoenix (2019)":
+        year: 2019
+        title: "X-Men: Dark Phoenix"
+        match:
+          mapping_id: 320288
+        url_poster: https://theposterdb.com/api/assets/171119
+        # IDs: imdb://tt6565702, tmdb://320288, tvdb://185
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20Dark%20Phoenix&category=Movies&year_filter=equals&yone=2019&tmdb_id=320288&imdb_id=tt6565702&tvdb_id=185
+        # tmdb: https://www.themoviedb.org/movie/320288
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=185
+        # imdb: https://www.imdb.com/title/tt6565702
+
+    "X-Men Origins: Wolverine (2009)":
+        year: 2009
+        title: "X-Men Origins: Wolverine"
+        match:
+          mapping_id: 2080
+        url_poster: https://theposterdb.com/api/assets/171122
+        # IDs: imdb://tt6565702, tmdb://320288, tvdb://185
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20Dark%20Phoenix&category=Movies&year_filter=equals&yone=2019&tmdb_id=320288&imdb_id=tt6565702&tvdb_id=185
+        # tmdb: https://www.themoviedb.org/movie/320288
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=185
+        # imdb: https://www.imdb.com/title/tt6565702
+
+

@@ -1,0 +1,60 @@
+metadata:
+    "Pirates of the Caribbean: The Curse of the Black Pearl (2003)":
+        year: 2003
+        title: "Pirates of the Caribbean: The Curse of the Black Pearl"
+        match:
+          mapping_id: 22
+        url_poster: https://theposterdb.com/api/assets/169549
+        # IDs: imdb://tt0325980, tmdb://22, tvdb://64
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean%3A%20The%20Curse%20of%20the%20Black%20Pearl&category=Movies&year_filter=equals&yone=2003&tmdb_id=22&imdb_id=tt0325980&tvdb_id=64
+        # tmdb: https://www.themoviedb.org/movie/22
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=64
+        # imdb: https://www.imdb.com/title/tt0325980
+
+    "Pirates of the Caribbean: Dead Man's Chest (2006)":
+        year: 2006
+        title: "Pirates of the Caribbean: Dead Man's Chest"
+        match:
+          mapping_id: 58
+        url_poster: https://theposterdb.com/api/assets/169550
+        # IDs: imdb://tt0383574, tmdb://58, tvdb://177
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean%3A%20Dead%20Man%27s%20Chest&category=Movies&year_filter=equals&yone=2006&tmdb_id=58&imdb_id=tt0383574&tvdb_id=177
+        # tmdb: https://www.themoviedb.org/movie/58
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=177
+        # imdb: https://www.imdb.com/title/tt0383574
+
+    "Pirates of the Caribbean: At World's End (2007)":
+        year: 2007
+        title: "Pirates of the Caribbean: At World's End"
+        match:
+          mapping_id: 285
+        url_poster: https://theposterdb.com/api/assets/169551
+        # IDs: imdb://tt0449088, tmdb://285, tvdb://196
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean%3A%20At%20World%27s%20End&category=Movies&year_filter=equals&yone=2007&tmdb_id=285&imdb_id=tt0449088&tvdb_id=196
+        # tmdb: https://www.themoviedb.org/movie/285
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=196
+        # imdb: https://www.imdb.com/title/tt0449088
+
+    "Pirates of the Caribbean: On Stranger Tides (2011)":
+        year: 2011
+        title: "Pirates of the Caribbean: On Stranger Tides"
+        match:
+          mapping_id: 1865
+        url_poster: https://theposterdb.com/api/assets/169552
+        # IDs: imdb://tt1298650, tmdb://1865, tvdb://211
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean%3A%20On%20Stranger%20Tides&category=Movies&year_filter=equals&yone=2011&tmdb_id=1865&imdb_id=tt1298650&tvdb_id=211
+        # tmdb: https://www.themoviedb.org/movie/1865
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=211
+        # imdb: https://www.imdb.com/title/tt1298650
+
+    "Pirates of the Caribbean: Dead Men Tell No Tales (2017)":
+        year: 2017
+        title: "Pirates of the Caribbean: Dead Men Tell No Tales"
+        match:
+          mapping_id: 166426
+        url_poster: https://theposterdb.com/api/assets/169554
+        # IDs: imdb://tt1790809, tmdb://166426, tvdb://287
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean%3A%20Dead%20Men%20Tell%20No%20Tales&category=Movies&year_filter=equals&yone=2017&tmdb_id=166426&imdb_id=tt1790809&tvdb_id=287
+        # tmdb: https://www.themoviedb.org/movie/166426
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=287
+        # imdb: https://www.imdb.com/title/tt1790809

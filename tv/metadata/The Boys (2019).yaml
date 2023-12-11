@@ -1,0 +1,22 @@
+metadata:    
+    "The Boys (2019)":
+        year: 2019
+        title: "The Boys"
+        sort_title: "The Boys"
+        url_poster: https://theposterdb.com/api/assets/242071
+        match:
+          mapping_id: 76479
+        # IDs: imdb://tt2741602, tmdb://46952, tvdb://266189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist&category=Shows&year_filter=equals&yone=2013&tmdb_id=46952&imdb_id=tt2741602&tvdb_id=266189
+        # tmdb: https://www.themoviedb.org/tv/46952
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266189
+        # imdb: https://www.imdb.com/title/tt2741602
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/242073
+            2:
+                url_poster: https://theposterdb.com/api/assets/242074
+            3:
+                url_poster: https://theposterdb.com/api/assets/242075
+            #4:
+                #url_poster: https://theposterdb.com/api/assets/325816

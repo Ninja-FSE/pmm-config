@@ -1,0 +1,69 @@
+collections:
+  "Marvel Universe":
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "00", sort_separator: " - ", movie: "76170, 9738, 9947, 559, 1250, 1927, 36647, 558, 9480, 1930, 36658, 299537, 71676, 36586, 36657, 607, 166424, 49538, 497698, 36668, 211387, 2080, 127585, 566525, 102382, 608, 263115, 557, 1979, 246655, 36648", poster: https://theposterdb.com/api/assets/162417 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
+    summary: |
+      A superhero film series based on the Marvel Comics character Spider-Man. The series is centered on Peter Parker, a teenager struggling to find his place in life ever since his parents disappeared when he was a child. A spider bites him on the back of his neck, giving him spider-powers. It is a reboot of Sony's Spider-Man film franchise.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%20Universe&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Marvel%20Universe%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Marvel%20Universe
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Marvel%20Universe
+    # trakt: https://trakt.tv/search/lists?query=Marvel%20Universe
+    # collection_mode: hide
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/marvel-s-collection?sort=released,desc 
+
+########################################################################################################################
+########################################################################################################################
+
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

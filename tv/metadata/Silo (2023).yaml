@@ -1,0 +1,15 @@
+metadata:    
+    "Silo (2023)":
+        year: 2023
+        title: "Silo"
+        url_poster: https://theposterdb.com/api/assets/360000
+        match:
+          mapping_id: 403245
+        # IDs: imdb://tt14688458, tmdb://125988, tvdb://403245
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Silo&category=Shows&year_filter=equals&yone=2023&tmdb_id=125988&imdb_id=tt14688458&tvdb_id=403245
+        # tmdb: https://www.themoviedb.org/tv/125988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=403245
+        # imdb: https://www.imdb.com/title/tt14688458
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/360001

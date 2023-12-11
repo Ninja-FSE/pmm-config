@@ -1,0 +1,72 @@
+metadata:
+    "Mission: Impossible (1996)":
+        year: 1996
+        title: "Mission: Impossible"
+        match:
+          mapping_id: 954
+        url_poster: https://theposterdb.com/api/assets/190909
+        # IDs: imdb://tt0117060, tmdb://954, tvdb://284
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible&category=Movies&year_filter=equals&yone=1996&tmdb_id=954&imdb_id=tt0117060&tvdb_id=284
+        # tmdb: https://www.themoviedb.org/movie/954
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1996&query=284
+        # imdb: https://www.imdb.com/title/tt0117060
+
+    "Mission: Impossible II (2000)":
+        year: 2000
+        title: "Mission: Impossible II"
+        match:
+          mapping_id: 955
+        url_poster: https://theposterdb.com/api/assets/190910
+        # IDs: imdb://tt0120755, tmdb://955, tvdb://818
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20II&category=Movies&year_filter=equals&yone=2000&tmdb_id=955&imdb_id=tt0120755&tvdb_id=818
+        # tmdb: https://www.themoviedb.org/movie/955
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2000&query=818
+        # imdb: https://www.imdb.com/title/tt0120755
+
+    "Mission: Impossible III (2006)":
+        year: 2006
+        title: "Mission: Impossible III"
+        match:
+          mapping_id: 956
+        url_poster: https://theposterdb.com/api/assets/190911
+        # IDs: imdb://tt0317919, tmdb://956, tvdb://827
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20III&category=Movies&year_filter=equals&yone=2006&tmdb_id=956&imdb_id=tt0317919&tvdb_id=827
+        # tmdb: https://www.themoviedb.org/movie/956
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=827
+        # imdb: https://www.imdb.com/title/tt0317919
+
+    "Mission: Impossible - Ghost Protocol (2011)":
+        year: 2011
+        title: "Mission: Impossible - Ghost Protocol"
+        match:
+          mapping_id: 56292
+        url_poster: https://theposterdb.com/api/assets/190912
+        # IDs: imdb://tt1229238, tmdb://56292, tvdb://384
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20-%20Ghost%20Protocol&category=Movies&year_filter=equals&yone=2011&tmdb_id=56292&imdb_id=tt1229238&tvdb_id=384
+        # tmdb: https://www.themoviedb.org/movie/56292
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=384
+        # imdb: https://www.imdb.com/title/tt1229238
+
+    "Mission: Impossible - Fallout (2018)":
+        year: 2018
+        title: "Mission: Impossible - Fallout"
+        match:
+          mapping_id: 353081
+        url_poster: https://theposterdb.com/api/assets/190914
+        # IDs: imdb://tt4912910, tmdb://353081, tvdb://22
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20-%20Fallout&category=Movies&year_filter=equals&yone=2018&tmdb_id=353081&imdb_id=tt4912910&tvdb_id=22
+        # tmdb: https://www.themoviedb.org/movie/353081
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=22
+        # imdb: https://www.imdb.com/title/tt4912910
+
+    "Mission: Impossible - Dead Reckoning Part One (2023)":
+        year: 2023
+        title: "Mission: Impossible - Dead Reckoning Part One"
+        match:
+          mapping_id: 575264
+        url_poster: https://theposterdb.com/api/assets/383235
+        # IDs: imdb://tt9603212, tmdb://575264, tvdb://30294
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20-%20Dead%20Reckoning%20Part%20One&category=Movies&year_filter=equals&yone=2023&tmdb_id=575264&imdb_id=tt9603212&tvdb_id=30294
+        # tmdb: https://www.themoviedb.org/movie/575264
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=30294
+        # imdb: https://www.imdb.com/title/tt9603212

@@ -1,0 +1,24 @@
+metadata:
+    "Black Panther (2018)":
+        year: 2018
+        title: "Black Panther"
+        match:
+          mapping_id: 284054
+        url_poster: https://theposterdb.com/api/assets/170962
+        # IDs: imdb://tt1825683, tmdb://284054, tvdb://48
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black%20Panther&category=Movies&year_filter=equals&yone=2018&tmdb_id=284054&imdb_id=tt1825683&tvdb_id=48
+        # tmdb: https://www.themoviedb.org/movie/284054
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=48
+        # imdb: https://www.imdb.com/title/tt1825683
+
+    "Black Panther: Wakanda Forever (2022)":
+        year: 2022
+        title: "Black Panther: Wakanda Forever"
+        match:
+          mapping_id: 505642
+        url_poster: https://theposterdb.com/api/assets/279102
+        # IDs: imdb://tt9114286, tmdb://505642, tvdb://31110
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black%20Panther%3A%20Wakanda%20Forever&category=Movies&year_filter=equals&yone=2022&tmdb_id=505642&imdb_id=tt9114286&tvdb_id=31110
+        # tmdb: https://www.themoviedb.org/movie/505642
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=31110
+        # imdb: https://www.imdb.com/title/tt9114286

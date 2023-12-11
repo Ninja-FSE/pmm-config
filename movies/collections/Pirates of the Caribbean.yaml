@@ -1,0 +1,69 @@
+collections:
+  "Pirates of the Caribbean":
+    variables: { movie: "1865, 166426, 58, 22, 285", poster: https://theposterdb.com/api/assets/163404 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
+    summary: |
+      A series of fantasy swashbuckler films based on Walt Disney's theme park ride of the same name. The films follow the adventures of Captain Jack Sparrow and take place in a fictional historical setting; a world ruled by the British Empire, the East India Trading Company and the Spanish Empire, with pirates representing freedom from the ruling powers.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Pirates%20of%20the%20Caribbean&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Pirates%20of%20the%20Caribbean%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Pirates%20of%20the%20Caribbean
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Pirates%20of%20the%20Caribbean
+    # trakt: https://trakt.tv/search/lists?query=Pirates%20of%20the%20Caribbean
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

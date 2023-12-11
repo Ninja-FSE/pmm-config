@@ -1,0 +1,18 @@
+metadata:    
+    "The Wheel of Time (2021)":
+        year: 2021
+        title: "The Wheel of Time"
+        sort_title: "Wheel of Time"
+        url_poster: https://theposterdb.com/api/assets/335536
+        match:
+          mapping_id: 355730
+        # IDs: imdb://tt7462410, tmdb://71914, tvdb://355730
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Wheel%20of%20Time&category=Shows&year_filter=equals&yone=2021&tmdb_id=71914&imdb_id=tt7462410&tvdb_id=355730
+        # tmdb: https://www.themoviedb.org/tv/71914
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=355730
+        # imdb: https://www.imdb.com/title/tt7462410
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335538
+            2:
+                url_poster: https://theposterdb.com/api/assets/404133

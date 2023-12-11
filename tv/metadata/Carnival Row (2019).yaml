@@ -1,0 +1,17 @@
+metadata:    
+    "Carnival Row (2019)":
+        year: 2019
+        title: "Carnival Row"
+        url_poster: https://theposterdb.com/api/assets/335446
+        match:
+          mapping_id: 365026
+        # IDs: imdb://tt0489974, tmdb://90027, tvdb://365026
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Carnival%20Row&category=Shows&year_filter=equals&yone=2019&tmdb_id=90027&imdb_id=tt0489974&tvdb_id=365026
+        # tmdb: https://www.themoviedb.org/tv/90027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=365026
+        # imdb: https://www.imdb.com/title/tt0489974
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335448
+            2:
+                url_poster: https://theposterdb.com/api/assets/335449

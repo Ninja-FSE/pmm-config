@@ -1,0 +1,60 @@
+metadata:
+    "The Incredible Hulk (1977)":
+        year: 1977
+        title: "The Incredible Hulk"
+        match:
+          mapping_id: 65294
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://65294, tvdb://15986
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk&category=Movies&year_filter=equals&yone=1977&tmdb_id=65294&tvdb_id=15986
+        # tmdb: https://www.themoviedb.org/movie/65294
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1977&query=15986
+        # imdb: 
+
+    "The Incredible Hulk Returns (1988)":
+        year: 1988
+        title: "The Incredible Hulk Returns"
+        match:
+          mapping_id: 26881
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0095368, tmdb://26881, tvdb://19333
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk%20Returns&category=Movies&year_filter=equals&yone=1988&tmdb_id=26881&imdb_id=tt0095368&tvdb_id=19333
+        # tmdb: https://www.themoviedb.org/movie/26881
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=19333
+        # imdb: https://www.imdb.com/title/tt0095368
+
+    "The Trial of the Incredible Hulk (1989)":
+        year: 1989
+        title: "The Trial of the Incredible Hulk"
+        match:
+          mapping_id: 26883
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0098512, tmdb://26883, tvdb://18832
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Trial%20of%20the%20Incredible%20Hulk&category=Movies&year_filter=equals&yone=1989&tmdb_id=26883&imdb_id=tt0098512&tvdb_id=18832
+        # tmdb: https://www.themoviedb.org/movie/26883
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=18832
+        # imdb: https://www.imdb.com/title/tt0098512
+
+    "The Death of the Incredible Hulk (1990)":
+        year: 1990
+        title: "The Death of the Incredible Hulk"
+        match:
+          mapping_id: 19593
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0099387, tmdb://19593, tvdb://21106
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Death%20of%20the%20Incredible%20Hulk&category=Movies&year_filter=equals&yone=1990&tmdb_id=19593&imdb_id=tt0099387&tvdb_id=21106
+        # tmdb: https://www.themoviedb.org/movie/19593
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1990&query=21106
+        # imdb: https://www.imdb.com/title/tt0099387
+
+    "The Incredible Hulk (2008)":
+        year: 2008
+        title: "The Incredible Hulk"
+        match:
+          mapping_id: 1724
+        url_poster: https://theposterdb.com/api/assets/170946
+        # IDs: imdb://tt0800080, tmdb://1724, tvdb://584
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk&category=Movies&year_filter=equals&yone=2008&tmdb_id=1724&imdb_id=tt0800080&tvdb_id=584
+        # tmdb: https://www.themoviedb.org/movie/1724
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=584
+        # imdb: https://www.imdb.com/title/tt0800080

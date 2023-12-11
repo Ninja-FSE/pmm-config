@@ -1,0 +1,69 @@
+collections:
+  "Wolverine":
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "2080, 76170, 263115", poster: https://theposterdb.com/api/assets/171121 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
+    summary: |
+      A superhero film series based on the comic book character of the same name published by Marvel Comics. The series centers on Wolverine a mutant possesses animal-keen senses, enhanced physical capabilities, powerful regenerative ability known as a healing factor, and three retractable claws in each hand. Wolverine's alter ego is James Howlett and he is also known as Logan or Weapon X.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Wolverine&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Wolverine
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Wolverine
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Wolverine
+    # trakt: https://trakt.tv/search/lists?query=Wolverine
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

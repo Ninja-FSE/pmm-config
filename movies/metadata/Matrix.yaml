@@ -1,0 +1,52 @@
+metadata:
+    "The Matrix (1999)":
+        year: 1999
+        title: "The Matrix"
+        sort_title: "Matrix"
+        match:
+          mapping_id: 603
+        url_poster: https://theposterdb.com/api/assets/185524
+        # IDs: imdb://tt0133093, tmdb://603, tvdb://169
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Matrix&category=Movies&year_filter=equals&yone=1999&tmdb_id=603&imdb_id=tt0133093&tvdb_id=169
+        # tmdb: https://www.themoviedb.org/movie/603
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=169
+        # imdb: https://www.imdb.com/title/tt0133093
+
+    "The Matrix Reloaded (2003)":
+        year: 2003
+        title: "The Matrix Reloaded"
+        sort_title: "Matrix Reloaded"
+        match:
+          mapping_id: 604
+        url_poster: https://theposterdb.com/api/assets/185526
+        # IDs: imdb://tt0234215, tmdb://604, tvdb://553
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Matrix%20Reloaded&category=Movies&year_filter=equals&yone=2003&tmdb_id=604&imdb_id=tt0234215&tvdb_id=553
+        # tmdb: https://www.themoviedb.org/movie/604
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=553
+        # imdb: https://www.imdb.com/title/tt0234215
+
+    "The Matrix Revolutions (2003)":
+        year: 2003
+        title: "The Matrix Revolutions"
+        sort_title: "Matrix Revolutions"
+        match:
+          mapping_id: 605
+        url_poster: https://theposterdb.com/api/assets/185527
+        # IDs: imdb://tt0242653, tmdb://605, tvdb://687
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Matrix%20Revolutions&category=Movies&year_filter=equals&yone=2003&tmdb_id=605&imdb_id=tt0242653&tvdb_id=687
+        # tmdb: https://www.themoviedb.org/movie/605
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=687
+        # imdb: https://www.imdb.com/title/tt0242653
+
+    "The Matrix Resurrections (2021)":
+        year: 2021
+        title: "The Matrix Resurrections"
+        sort_title: "Matrix Resurrections"
+        match:
+          mapping_id: 624860
+        url_poster: https://theposterdb.com/api/assets/190892
+        # IDs: imdb://tt10838180, tmdb://624860, tvdb://131590
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Matrix%20Resurrections&category=Movies&year_filter=equals&yone=2021&tmdb_id=624860&imdb_id=tt10838180&tvdb_id=131590
+        # tmdb: https://www.themoviedb.org/movie/624860
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=131590
+        # imdb: https://www.imdb.com/title/tt10838180

@@ -1,0 +1,12 @@
+metadata:
+    "Alita: Battle Angel (2019)":
+        year: 2019
+        title: "Alita: Battle Angel"
+        match:
+          mapping_id: 399579
+        url_poster: https://theposterdb.com/api/assets/183813
+        # IDs: imdb://tt0437086, tmdb://399579, tvdb://1
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Alita%3A%20Battle%20Angel&category=Movies&year_filter=equals&yone=2019&tmdb_id=399579&imdb_id=tt0437086&tvdb_id=1
+        # tmdb: https://www.themoviedb.org/movie/399579
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=1
+        # imdb: https://www.imdb.com/title/tt0437086

@@ -1,0 +1,12 @@
+metadata:
+    "Luther: The Fallen Sun (2023)":
+        year: 2023
+        title: "Luther: The Fallen Sun"
+        match:
+          mapping_id: 722149
+        url_poster: https://theposterdb.com/api/assets/331854
+        # IDs: imdb://tt3155298, tmdb://722149, tvdb://340931
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Luther%3A%20The%20Fallen%20Sun&category=Movies&year_filter=equals&yone=2023&tmdb_id=722149&imdb_id=tt3155298&tvdb_id=340931
+        # tmdb: https://www.themoviedb.org/movie/722149
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=340931
+        # imdb: https://www.imdb.com/title/tt3155298

@@ -1,0 +1,85 @@
+metadata:
+    "Transformers (2007)":
+        year: 2007
+        title: "Transformers"
+        match:
+          mapping_id: 1858
+        url_poster: https://theposterdb.com/api/assets/184010
+        # IDs: imdb://tt0418279, tmdb://1858, tvdb://14648
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers&category=Movies&year_filter=equals&yone=2007&tmdb_id=1858&imdb_id=tt0418279&tvdb_id=14648
+        # tmdb: https://www.themoviedb.org/movie/1858
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=14648
+        # imdb: https://www.imdb.com/title/tt0418279
+
+    "Transformers: Revenge of the Fallen":
+        year: 2009
+        title: "Transformers: Revenge of the Fallen"
+        match:
+          mapping_id: 8373
+        url_poster: https://theposterdb.com/api/assets/184011
+        # IDs: imdb://tt0418279, tmdb://1858, tvdb://14648
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers&category=Movies&year_filter=equals&yone=2007&tmdb_id=1858&imdb_id=tt0418279&tvdb_id=14648
+        # tmdb: https://www.themoviedb.org/movie/1858
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=14648
+        # imdb: https://www.imdb.com/title/tt0418279
+
+    "Transformers: Dark of the Moon":
+        year: 2011
+        title: "Transformers: Dark of the Moon"
+        match:
+          mapping_id: 38356
+        url_poster: https://theposterdb.com/api/assets/184012
+        # IDs: imdb://tt0418279, tmdb://1858, tvdb://14648
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers&category=Movies&year_filter=equals&yone=2007&tmdb_id=1858&imdb_id=tt0418279&tvdb_id=14648
+        # tmdb: https://www.themoviedb.org/movie/1858
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=14648
+        # imdb: https://www.imdb.com/title/tt0418279
+
+    "Transformers: Age of Extinction (2014)":
+        year: 2014
+        title: "Transformers: Age of Extinction"
+        match:
+          mapping_id: 91314
+        url_poster: https://theposterdb.com/api/assets/184013
+        # IDs: imdb://tt2109248, tmdb://91314, tvdb://631
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A%20Age%20of%20Extinction&category=Movies&year_filter=equals&yone=2014&tmdb_id=91314&imdb_id=tt2109248&tvdb_id=631
+        # tmdb: https://www.themoviedb.org/movie/91314
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=631
+        # imdb: https://www.imdb.com/title/tt2109248
+
+    "Transformers: The Last Knight (2017)":
+        year: 2017
+        title: "Transformers: The Last Knight"
+        match:
+          mapping_id: 335988
+        url_poster: https://theposterdb.com/api/assets/184014
+        # IDs: imdb://tt3371366, tmdb://335988, tvdb://408
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A%20The%20Last%20Knight&category=Movies&year_filter=equals&yone=2017&tmdb_id=335988&imdb_id=tt3371366&tvdb_id=408
+        # tmdb: https://www.themoviedb.org/movie/335988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=408
+        # imdb: https://www.imdb.com/title/tt3371366
+
+    "Transformers: Rise of the Beasts (2023)":
+        year: 2023
+        title: "Transformers: Rise of the Beasts"
+        match:
+          mapping_id: 667538
+        url_poster: https://theposterdb.com/api/assets/371731
+        # IDs: imdb://tt3371366, tmdb://335988, tvdb://408
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A%20The%20Last%20Knight&category=Movies&year_filter=equals&yone=2017&tmdb_id=335988&imdb_id=tt3371366&tvdb_id=408
+        # tmdb: https://www.themoviedb.org/movie/335988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=408
+        # imdb: https://www.imdb.com/title/tt3371366
+
+    "Bumblebee (2018)":
+        year: 2018
+        title: "Bumblebee"
+        match:
+          mapping_id: 424783
+        url_poster: https://theposterdb.com/api/assets/184015
+        # IDs: imdb://tt3371366, tmdb://335988, tvdb://408
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A%20The%20Last%20Knight&category=Movies&year_filter=equals&yone=2017&tmdb_id=335988&imdb_id=tt3371366&tvdb_id=408
+        # tmdb: https://www.themoviedb.org/movie/335988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=408
+        # imdb: https://www.imdb.com/title/tt3371366
+

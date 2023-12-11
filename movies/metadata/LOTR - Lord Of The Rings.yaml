@@ -1,0 +1,78 @@
+metadata:
+    "The Hobbit (1977)":
+        year: 1977
+        title: "The Hobbit"
+        sort_title: "Hobbit"
+        match:
+          mapping_id: 1362
+        url_poster: https://theposterdb.com/api/assets/187491
+        # IDs: imdb://tt0077687, tmdb://1362, tvdb://4508
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hobbit&category=Movies&year_filter=equals&yone=1977&tmdb_id=1362&imdb_id=tt0077687&tvdb_id=4508
+        # tmdb: https://www.themoviedb.org/movie/1362
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1977&query=4508
+        # imdb: https://www.imdb.com/title/tt0077687
+
+    "The Lord of the Rings (1978)":
+        year: 1978
+        title: "The Lord of the Rings"
+        sort_title: "Lord of the Rings"
+        match:
+          mapping_id: 123
+        url_poster: https://theposterdb.com/api/assets/187492
+        # IDs: imdb://tt0077869, tmdb://123, tvdb://8167
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings&category=Movies&year_filter=equals&yone=1978&tmdb_id=123&imdb_id=tt0077869&tvdb_id=8167
+        # tmdb: https://www.themoviedb.org/movie/123
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1978&query=8167
+        # imdb: https://www.imdb.com/title/tt0077869
+
+    "The Return of the King (1980)":
+        year: 1980
+        title: "The Return of the King"
+        sort_title: "Return of the King"
+        match:
+          mapping_id: 1361
+        url_poster: https://theposterdb.com/api/assets/187493
+        # IDs: imdb://tt0079802, tmdb://1361, tvdb://18098
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Return%20of%20the%20King&category=Movies&year_filter=equals&yone=1980&tmdb_id=1361&imdb_id=tt0079802&tvdb_id=18098
+        # tmdb: https://www.themoviedb.org/movie/1361
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1980&query=18098
+        # imdb: https://www.imdb.com/title/tt0079802
+
+    "The Lord of the Rings: The Fellowship of the Ring (2001)":
+        year: 2001
+        title: "The Lord of the Rings: The Fellowship of the Ring"
+        sort_title: "Lord of the Rings: The Fellowship of the Ring"
+        match:
+          mapping_id: 120
+        url_poster: https://theposterdb.com/api/assets/184140
+        # IDs: imdb://tt0120737, tmdb://120, tvdb://107
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring&category=Movies&year_filter=equals&yone=2001&tmdb_id=120&imdb_id=tt0120737&tvdb_id=107
+        # tmdb: https://www.themoviedb.org/movie/120
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2001&query=107
+        # imdb: https://www.imdb.com/title/tt0120737
+
+    "The Lord of the Rings: The Two Towers (2002)":
+        year: 2002
+        title: "The Lord of the Rings: The Two Towers"
+        sort_title: "Lord of the Rings: The Two Towers"
+        match:
+          mapping_id: 121
+        url_poster: https://theposterdb.com/api/assets/184141
+        # IDs: imdb://tt0167261, tmdb://121, tvdb://157
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Two%20Towers&category=Movies&year_filter=equals&yone=2002&tmdb_id=121&imdb_id=tt0167261&tvdb_id=157
+        # tmdb: https://www.themoviedb.org/movie/121
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=157
+        # imdb: https://www.imdb.com/title/tt0167261
+
+    "The Lord of the Rings: The Return of the King (2003)":
+        year: 2003
+        title: "The Lord of the Rings: The Return of the King"
+        sort_title: "Lord of the Rings: The Return of the King"
+        match:
+          mapping_id: 122
+        url_poster: https://theposterdb.com/api/assets/184142
+        # IDs: imdb://tt0167260, tmdb://122, tvdb://74
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Return%20of%20the%20King&category=Movies&year_filter=equals&yone=2003&tmdb_id=122&imdb_id=tt0167260&tvdb_id=74
+        # tmdb: https://www.themoviedb.org/movie/122
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=74
+        # imdb: https://www.imdb.com/title/tt0167260

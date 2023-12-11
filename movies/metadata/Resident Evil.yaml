@@ -1,0 +1,108 @@
+metadata:
+    "Resident Evil (2002)":
+        year: 2002
+        title: "Resident Evil"
+        match:
+          mapping_id: 1576
+        url_poster: https://theposterdb.com/api/assets/178750
+        # IDs: imdb://tt0120804, tmdb://1576, tvdb://1659
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil&category=Movies&year_filter=equals&yone=2002&tmdb_id=1576&imdb_id=tt0120804&tvdb_id=1659
+        # tmdb: https://www.themoviedb.org/movie/1576
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=1659
+        # imdb: https://www.imdb.com/title/tt0120804
+
+    "Resident Evil: Apocalypse (2004)":
+        year: 2004
+        title: "Resident Evil: Apocalypse"
+        match:
+          mapping_id: 1577
+        url_poster: https://theposterdb.com/api/assets/178751
+        # IDs: imdb://tt0318627, tmdb://1577, tvdb://4611
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Apocalypse&category=Movies&year_filter=equals&yone=2004&tmdb_id=1577&imdb_id=tt0318627&tvdb_id=4611
+        # tmdb: https://www.themoviedb.org/movie/1577
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=4611
+        # imdb: https://www.imdb.com/title/tt0318627
+
+    "Resident Evil: Extinction (2007)":
+        year: 2007
+        title: "Resident Evil: Extinction"
+        match:
+          mapping_id: 7737
+        url_poster: https://theposterdb.com/api/assets/178752
+        # IDs: imdb://tt0432021, tmdb://7737, tvdb://12912
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Extinction&category=Movies&year_filter=equals&yone=2007&tmdb_id=7737&imdb_id=tt0432021&tvdb_id=12912
+        # tmdb: https://www.themoviedb.org/movie/7737
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=12912
+        # imdb: https://www.imdb.com/title/tt0432021
+
+    "Resident Evil: Afterlife (2010)":
+        year: 2010
+        title: "Resident Evil: Afterlife"
+        match:
+          mapping_id: 35791
+        url_poster: https://theposterdb.com/api/assets/178753
+        # IDs: imdb://tt1220634, tmdb://35791, tvdb://105875
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Afterlife&category=Movies&year_filter=equals&yone=2010&tmdb_id=35791&imdb_id=tt1220634&tvdb_id=105875
+        # tmdb: https://www.themoviedb.org/movie/35791
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=105875
+        # imdb: https://www.imdb.com/title/tt1220634
+
+    "Resident Evil: Retribution (2012)":
+        year: 2012
+        title: "Resident Evil: Retribution"
+        match:
+          mapping_id: 71679
+        url_poster: https://theposterdb.com/api/assets/178754
+        # IDs: imdb://tt1855325, tmdb://71679, tvdb://39426
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Retribution&category=Movies&year_filter=equals&yone=2012&tmdb_id=71679&imdb_id=tt1855325&tvdb_id=39426
+        # tmdb: https://www.themoviedb.org/movie/71679
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=39426
+        # imdb: https://www.imdb.com/title/tt1855325
+
+    "Resident Evil: The Final Chapter (2016)":
+        year: 2016
+        title: "Resident Evil: The Final Chapter"
+        match:
+          mapping_id: 173897
+        url_poster: https://theposterdb.com/api/assets/178755
+        # IDs: imdb://tt2592614, tmdb://173897, tvdb://99664
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20The%20Final%20Chapter&category=Movies&year_filter=equals&yone=2016&tmdb_id=173897&imdb_id=tt2592614&tvdb_id=99664
+        # tmdb: https://www.themoviedb.org/movie/173897
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=99664
+        # imdb: https://www.imdb.com/title/tt2592614
+
+    "Resident Evil: Welcome to Raccoon City (2021)":
+        year: 2021
+        title: "Resident Evil: Welcome to Raccoon City"
+        match:
+          mapping_id: 460458
+        url_poster: https://theposterdb.com/api/assets/198267
+        # IDs: imdb://tt6920084, tmdb://460458, tvdb://71151
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Welcome%20to%20Raccoon%20City&category=Movies&year_filter=equals&yone=2021&tmdb_id=460458&imdb_id=tt6920084&tvdb_id=71151
+        # tmdb: https://www.themoviedb.org/movie/460458
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=71151
+        # imdb: https://www.imdb.com/title/tt6920084
+
+    "Resident Evil: Vendetta (2017)":
+        year: 2017
+        title: "Resident Evil: Vendetta"
+        match:
+          mapping_id: 400136
+        url_poster: https://theposterdb.com/api/assets/317192
+        # IDs: imdb://tt5776208, tmdb://400136, tvdb://1851
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Vendetta&category=Movies&year_filter=equals&yone=2017&tmdb_id=400136&imdb_id=tt5776208&tvdb_id=1851
+        # tmdb: https://www.themoviedb.org/movie/400136
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=1851
+        # imdb: https://www.imdb.com/title/tt5776208
+
+    "Resident Evil: Death Island (2023)":
+        year: 2023
+        title: "Resident Evil: Death Island"
+        match:
+          mapping_id: 1083862
+        url_poster: https://theposterdb.com/api/assets/388513
+        # IDs: imdb://tt5776208, tmdb://400136, tvdb://1851
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil%3A%20Vendetta&category=Movies&year_filter=equals&yone=2017&tmdb_id=400136&imdb_id=tt5776208&tvdb_id=1851
+        # tmdb: https://www.themoviedb.org/movie/400136
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=1851
+        # imdb: https://www.imdb.com/title/tt5776208

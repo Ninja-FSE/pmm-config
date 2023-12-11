@@ -1,0 +1,39 @@
+metadata:
+    "The Hobbit: An Unexpected Journey (2012)":
+        year: 2012
+        title: "The Hobbit: An Unexpected Journey"
+        sort_title: "Hobbit: En oväntad resa"
+        match:
+          mapping_id: 49051
+        url_poster: https://theposterdb.com/api/assets/187487
+        # IDs: imdb://tt0903624, tmdb://49051, tvdb://138
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hobbit%3A%20An%20Unexpected%20Journey&category=Movies&year_filter=equals&yone=2012&tmdb_id=49051&imdb_id=tt0903624&tvdb_id=138
+        # tmdb: https://www.themoviedb.org/movie/49051
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=138
+        # imdb: https://www.imdb.com/title/tt0903624
+
+    "The Hobbit: The Desolation of Smaug (2013)":
+        year: 2013
+        title: "The Hobbit: The Desolation of Smaug"
+        sort_title: "Hobbit: Smaugs ödemark"
+        match:
+          mapping_id: 57158
+        url_poster: https://theposterdb.com/api/assets/187488
+        # IDs: imdb://tt1170358, tmdb://57158, tvdb://235
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hobbit%3A%20The%20Desolation%20of%20Smaug&category=Movies&year_filter=equals&yone=2013&tmdb_id=57158&imdb_id=tt1170358&tvdb_id=235
+        # tmdb: https://www.themoviedb.org/movie/57158
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=235
+        # imdb: https://www.imdb.com/title/tt1170358
+
+    "The Hobbit: The Battle of the Five Armies (2014)":
+        year: 2014
+        title: "The Hobbit: The Battle of the Five Armies"
+        sort_title: "Hobbit: Femhäraslaget"
+        match:
+          mapping_id: 122917
+        url_poster: https://theposterdb.com/api/assets/187489
+        # IDs: imdb://tt2310332, tmdb://122917, tvdb://30
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hobbit%3A%20The%20Battle%20of%20the%20Five%20Armies&category=Movies&year_filter=equals&yone=2014&tmdb_id=122917&imdb_id=tt2310332&tvdb_id=30
+        # tmdb: https://www.themoviedb.org/movie/122917
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=30
+        # imdb: https://www.imdb.com/title/tt2310332

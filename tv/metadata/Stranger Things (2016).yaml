@@ -1,0 +1,21 @@
+metadata:    
+    "Stranger Things (2016)":
+        year: 2016
+        title: "Stranger Things"
+        url_poster: https://theposterdb.com/api/assets/238549
+        match:
+          mapping_id: 305288
+        # IDs: imdb://tt4574334, tmdb://66732, tvdb://305288
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stranger%20Things&category=Shows&year_filter=equals&yone=2016&tmdb_id=66732&imdb_id=tt4574334&tvdb_id=305288
+        # tmdb: https://www.themoviedb.org/tv/66732
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=305288
+        # imdb: https://www.imdb.com/title/tt4574334
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238550
+            2:
+                url_poster: https://theposterdb.com/api/assets/238551
+            3:
+                url_poster: https://theposterdb.com/api/assets/238552
+            4:
+                url_poster: https://theposterdb.com/api/assets/238553

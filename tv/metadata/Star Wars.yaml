@@ -1,0 +1,125 @@
+metadata:    
+    "Star Wars: The Clone Wars (2008)":
+        year: 2008
+        title: "Star Wars: The Clone Wars"
+        url_poster: https://theposterdb.com/api/assets/328779
+        match:
+          mapping_id: 83268
+        # IDs: imdb://tt0458290, tmdb://4194, tvdb://83268
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20The%20Clone%20Wars&category=Shows&year_filter=equals&yone=2008&tmdb_id=4194&imdb_id=tt0458290&tvdb_id=83268
+        # tmdb: https://www.themoviedb.org/tv/4194
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=83268
+        # imdb: https://www.imdb.com/title/tt0458290
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/244766
+            1:
+                url_poster: https://theposterdb.com/api/assets/244783
+            2:
+                url_poster: https://theposterdb.com/api/assets/244768
+            3:
+                url_poster: https://theposterdb.com/api/assets/244769
+            4:
+                url_poster: https://theposterdb.com/api/assets/244786
+            5:
+                url_poster: https://theposterdb.com/api/assets/244787
+            6:
+                url_poster: https://theposterdb.com/api/assets/244788
+            7:
+                url_poster: https://theposterdb.com/api/assets/244789
+    
+    "The Mandalorian (2019)":
+        year: 2019
+        title: "The Mandalorian"
+        sort_title: "Mandalorian"
+        url_poster: https://theposterdb.com/api/assets/174476
+        match:
+          mapping_id: 361753
+        # IDs: imdb://tt8111088, tmdb://82856, tvdb://361753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mandalorian&category=Shows&year_filter=equals&yone=2019&tmdb_id=82856&imdb_id=tt8111088&tvdb_id=361753
+        # tmdb: https://www.themoviedb.org/tv/82856
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361753
+        # imdb: https://www.imdb.com/title/tt8111088
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/200215
+            2:
+                url_poster: https://theposterdb.com/api/assets/200216
+            3:
+                url_poster: https://theposterdb.com/api/assets/319818
+    
+    "The Book of Boba Fett (2021)":
+        year: 2021
+        title: "The Book of Boba Fett"
+        sort_title: "Book of Boba Fett"
+        url_poster: https://theposterdb.com/api/assets/200213
+        match:
+          mapping_id: 393589
+        # IDs: imdb://tt13668894, tmdb://115036, tvdb://393589
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Book%20of%20Boba%20Fett&category=Shows&year_filter=equals&yone=2021&tmdb_id=115036&imdb_id=tt13668894&tvdb_id=393589
+        # tmdb: https://www.themoviedb.org/tv/115036
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=393589
+        # imdb: https://www.imdb.com/title/tt13668894
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/200214
+    
+    "Obi-Wan Kenobi (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi"
+        url_poster: https://theposterdb.com/api/assets/238547
+        match:
+          mapping_id: 393199
+        # IDs: imdb://tt8466564, tmdb://92830, tvdb://393199
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Obi-Wan%20Kenobi&category=Shows&year_filter=equals&yone=2022&tmdb_id=92830&imdb_id=tt8466564&tvdb_id=393199
+        # tmdb: https://www.themoviedb.org/tv/92830
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393199
+        # imdb: https://www.imdb.com/title/tt8466564
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238548
+    
+    "Andor (2022)":
+        year: 2022
+        title: "Andor"
+        url_poster: https://theposterdb.com/api/assets/328800
+        match:
+          mapping_id: 393189
+        # IDs: imdb://tt9253284, tmdb://83867, tvdb://393189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Andor&category=Shows&year_filter=equals&yone=2022&tmdb_id=83867&imdb_id=tt9253284&tvdb_id=393189
+        # tmdb: https://www.themoviedb.org/tv/83867
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393189
+        # imdb: https://www.imdb.com/title/tt9253284
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/328802
+    
+    "Star Wars: Tales of the Jedi (2022)":
+        year: 2022
+        title: "Star Wars: Tales of the Jedi"
+        url_poster: https://theposterdb.com/api/assets/328803
+        match:
+          mapping_id: 420659
+        # IDs: imdb://tt20723374, tmdb://203085, tvdb://420659
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Tales%20of%20the%20Jedi&category=Shows&year_filter=equals&yone=2022&tmdb_id=203085&imdb_id=tt20723374&tvdb_id=420659
+        # tmdb: https://www.themoviedb.org/tv/203085
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=420659
+        # imdb: https://www.imdb.com/title/tt20723374
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/328804
+    
+    "Ahsoka (2023)":
+        year: 2023
+        title: "Ahsoka"
+        url_poster: https://theposterdb.com/api/assets/392135
+        match:
+          mapping_id: 393187
+        # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ahsoka&category=Shows&year_filter=equals&yone=2023&tmdb_id=114461&imdb_id=tt13622776&tvdb_id=393187
+        # tmdb: https://www.themoviedb.org/tv/114461
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393187
+        # imdb: https://www.imdb.com/title/tt13622776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/392136
