@@ -1,0 +1,21 @@
+metadata:
+    "Austin Powers in Goldmember (2002)":
+        year: 2002
+        title: "Austin Powers in Goldmember"
+        match:
+          mapping_id: 818
+        url_poster: https://theposterdb.com/api/assets/190879
+
+    "Austin Powers: International Man of Mystery (1997)":
+        year: 1997
+        title: "Austin Powers: International Man of Mystery"
+        match:
+          mapping_id: 816
+        url_poster: https://theposterdb.com/api/assets/190877
+
+    "Austin Powers: The Spy Who Shagged Me (1999)":
+        year: 1999
+        title: "Austin Powers: The Spy Who Shagged Me"
+        match:
+          mapping_id: 817
+        url_poster: https://theposterdb.com/api/assets/190878
