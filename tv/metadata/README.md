@@ -7,7 +7,8 @@ Both ```tvshows.yml``` and ```shows```are updated at the same time!
 # Request new shows using ```Issues``` or create a ```Pull Request```
 ## Use this Template
 
-```###################################################################
+```
+###################################################################
 #                                                                 #
 #  TV-Shows Your Request show (YEAR)                              #
 #                                                                 #
@@ -22,4 +23,5 @@ Both ```tvshows.yml``` and ```shows```are updated at the same time!
             1:
                 url_poster: https://theposterdb.com/api/assets/349097 # Use Season posters from the same creator
             2:
-                url_poster: https://theposterdb.com/api/assets/349098```
+                url_poster: https://theposterdb.com/api/assets/349098
+```
