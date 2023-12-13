@@ -3,7 +3,7 @@
 This is **Work In Progress** posters are from TheposterDB.org and almost all posters are from the great Musikmann2000.
 
 To request please use Issues or Pull Requests.
-A Request Template can be found https://github.com/Ninja-FSE/pmm-config/tree/dev/tv/metadata
+A Request Template can be found https://github.com/Ninja-FSE/pmm-config/tv/metadata
 
 
 # HOWTO
