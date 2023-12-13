@@ -1,6 +1,6 @@
 # Metadata
 
-If you dont want to use the ```- repo: ``` in your pmm config you can git clone this repo and use ```- folder:``` instead to bulk load all the single files that you can find in folder ```shows````
+If you dont want to use the ```- repo: ``` in your pmm config you can git clone this repo and use ```- folder:``` instead to bulk load all the single files that you can find in folder ```shows```
 
 Both ```tvshows.yml``` and ```shows```are updated at the same time!
 
