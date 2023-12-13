@@ -1,0 +1,1980 @@
+metadata:
+###################################################################
+#                                                                 #
+#  TV-Shows 0 to 100                                              #
+#                                                                 #
+###################################################################
+    "9-1-1 (2018)":
+        year: 2018
+        title: "9-1-1"
+        url_poster: https://theposterdb.com/api/assets/349096
+        match:
+          mapping_id: 75219
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/349097
+            2:
+                url_poster: https://theposterdb.com/api/assets/349098
+            3:
+                url_poster: https://theposterdb.com/api/assets/349099
+            4:
+                url_poster: https://theposterdb.com/api/assets/349100
+            5:
+                url_poster: https://theposterdb.com/api/assets/349101
+            6:
+                url_poster: https://theposterdb.com/api/assets/349102
+
+#####################################################################
+#                                                                   #
+#               TV-Show 1883 (2018)                                 #
+#                                                                   #
+#####################################################################
+    "1883 (2021)":
+        year: 2021
+        title: "1883"
+        url_poster: https://theposterdb.com/api/assets/302801
+        match:
+          mapping_id: 118357
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/302803
+
+#####################################################################
+#                                                                   #
+#               TV-Show 1923 (2022)                                 #
+#                                                                   #
+#####################################################################
+    "1923 (2022)":
+        year: 2022
+        title: "1923"
+        url_poster: https://theposterdb.com/api/assets/302804
+        match:
+          mapping_id: 157744
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/327936
+
+#####################################################################
+#                                                                   #
+#               TV-Show All the Light We Cannot See (2023)          #
+#                                                                   #
+#####################################################################
+    "All the Light We Cannot See (2023)":
+        year: 2023
+        title: "All the Light We Cannot See"
+        url_poster: https://theposterdb.com/api/assets/426827
+        match:
+          mapping_id: 155421
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/426828
+
+#####################################################################
+#                                                                   #
+#               TV-Show American Horror Stories (2021)              #
+#                                                                   #
+#####################################################################
+    "American Horror Stories (2021)":
+        year: 2021
+        title: "American Horror Stories"
+        url_poster: https://theposterdb.com/api/assets/273260
+        match:
+          mapping_id: 1413
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/273262
+            2:
+                url_poster: https://theposterdb.com/api/assets/273263
+
+#####################################################################
+#                                                                   #
+#               TV-Show Banshee (2013)                              #
+#                                                                   #
+#####################################################################
+    "Banshee (2013)":
+        year: 2013
+        title: "Banshee"
+        url_poster: https://theposterdb.com/api/assets/327893
+        match:
+          mapping_id: 41727
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/327895
+            2:
+                url_poster: https://theposterdb.com/api/assets/327896
+            3:
+                url_poster: https://theposterdb.com/api/assets/327897
+            4:
+                url_poster: https://theposterdb.com/api/assets/327898
+
+#####################################################################
+#                                                                   #
+#               TV-Show Beacon 23 (2023)                            #
+#                                                                   #
+#####################################################################
+    "Beacon 23 (2023)":
+        year: 2023
+        title: "Beacon 23"
+        url_poster: https://theposterdb.com/api/assets/430914
+        match:
+          mapping_id: 112388
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/430915
+
+#####################################################################
+#                                                                   #
+#               TV-Show Billy The Kid (2022)                        #
+#                                                                   #
+#####################################################################
+    "Billy The Kid (2022)":
+        year: 2022
+        title: "Billy the Kid"
+        url_poster: https://theposterdb.com/api/assets/362561
+        match:
+          mapping_id: 402256
+        # IDs: imdb://tt14586544, tmdb://138971, tvdb://402256
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Billy%20The%20Kid&category=Shows&year_filter=equals&yone=2022&tmdb_id=138971&imdb_id=tt14586544&tvdb_id=402256
+        # tmdb: https://www.themoviedb.org/tv/138971
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=402256
+        # imdb: https://www.imdb.com/title/tt14586544
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/362562
+
+#####################################################################
+#                                                                   #
+#               TV-Show Bodies (2023)                               #
+#                                                                   #
+#####################################################################
+    "Bodies (2023)":
+        year: 2023
+        title: "Bodies (2023)"
+        url_poster: https://theposterdb.com/api/assets/422809
+        match:
+          mapping_id: 417257
+        # IDs: imdb://tt18347622, tmdb://233629, tvdb://417257
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bodies%20%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=233629&imdb_id=tt18347622&tvdb_id=417257
+        # tmdb: https://www.themoviedb.org/tv/233629
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=417257
+        # imdb: https://www.imdb.com/title/tt18347622
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/422810
+
+#####################################################################
+#                                                                   #
+#               TV-Show Brawn: The Impossible Formula 1 Story (2023)#
+#                                                                   #
+#####################################################################
+    "Brawn: The Impossible Formula 1 Story (2023)":
+        year: 2023
+        title: "Brawn: The Impossible Formula 1 Story"
+        url_poster: https://theposterdb.com/api/assets/436603
+        match:
+          mapping_id: 233254
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/436603
+
+#####################################################################
+#                                                                   #
+#               TV-Show Carnival Row (2019)                         #
+#                                                                   #
+#####################################################################
+    "Carnival Row (2019)":
+        year: 2019
+        title: "Carnival Row"
+        url_poster: https://theposterdb.com/api/assets/335446
+        match:
+          mapping_id: 365026
+        # IDs: imdb://tt0489974, tmdb://90027, tvdb://365026
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Carnival%20Row&category=Shows&year_filter=equals&yone=2019&tmdb_id=90027&imdb_id=tt0489974&tvdb_id=365026
+        # tmdb: https://www.themoviedb.org/tv/90027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=365026
+        # imdb: https://www.imdb.com/title/tt0489974
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335448
+            2:
+                url_poster: https://theposterdb.com/api/assets/335449
+
+#####################################################################
+#                                                                   #
+#               TV-Show Citadel (2023)                              #
+#                                                                   #
+#####################################################################
+    "Citadel (2023)":
+        year: 2023
+        title: "Citadel"
+        url_poster: https://theposterdb.com/api/assets/368425
+        match:
+          mapping_id: 393268
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/368426
+
+#####################################################################
+#                                                                   #
+#               TV-Show Dr. Brain (2021)                            #
+#                                                                   #
+#####################################################################
+    "Dr. Brain (2021)":
+        year: 2021
+        title: "Dr. Brain"
+        url_poster: https://theposterdb.com/api/assets/360820
+        match:
+          mapping_id: 119955
+        seasons:
+             1:
+                 url_poster: https://theposterdb.com/api/assets/360821
+
+#####################################################################
+#                                                                   #
+#               TV-Show Foundation (2021)                           #
+#                                                                   #
+#####################################################################
+    "Foundation (2021)":
+        year: 2021
+        title: "Foundation"
+        sort_title: "Foundation (2021)"
+        url_poster: https://theposterdb.com/api/assets/321899
+        match:
+          mapping_id: 366972
+        # IDs: imdb://tt0804484, tmdb://93740, tvdb://366972
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Foundation&category=Shows&year_filter=equals&yone=2021&tmdb_id=93740&imdb_id=tt0804484&tvdb_id=366972
+        # tmdb: https://www.themoviedb.org/tv/93740
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=366972
+        # imdb: https://www.imdb.com/title/tt0804484
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/321900
+            2:
+                url_poster: https://theposterdb.com/api/assets/373881
+
+#####################################################################
+#                                                                   #
+#               TV-Show From (2022)                                 #
+#                                                                   #
+#####################################################################
+    "From (2022)":
+        year: 2022
+        title: "From"
+        url_poster: https://theposterdb.com/api/assets/362569
+        match:
+          mapping_id: 124364
+        # IDs: imdb://tt2879552, tmdb://64464, tvdb://301824
+        # tpdb: https://theposterdb.com/search/advanced/results?term=11.22.63&category=Shows&year_filter=equals&yone=2016&tmdb_id=64464&imdb_id=tt2879552&tvdb_id=301824
+        # tmdb: https://www.themoviedb.org/tv/64464
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=301824
+        # imdb: https://www.imdb.com/title/tt2879552
+        seasons:
+             1:
+                 url_poster: https://theposterdb.com/api/assets/362570
+             2:
+                 url_poster: https://theposterdb.com/api/assets/362571
+
+#####################################################################
+#                                                                   #
+#               TV-Show Full Circle (2023)                          #
+#                                                                   #
+#####################################################################
+    "Full Circle (2023)":
+        year: 2023
+        title: "Full Circle"
+        url_poster: https://theposterdb.com/api/assets/385204
+        match:
+          mapping_id: 132016
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/385205
+
+#####################################################################
+#                                                                   #
+#               TV-Show Furia (2021)                                #
+#                                                                   #
+#####################################################################
+    "Furia (2021)":
+        year: 2021
+        title: "Furia"
+        #url_poster: https://theposterdb.com/api/assets/293636
+        match:
+          mapping_id: 130129
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        #seasons:
+        #    1:
+        #        url_poster: https://theposterdb.com/api/assets/293637
+
+#####################################################################
+#                                                                   #
+#               TV-Show Gangs of London (2020)                      #
+#                                                                   #
+#####################################################################
+    "Gangs of London (2020)":
+        year: 2020
+        title: "Gangs of London"
+        url_poster: https://theposterdb.com/api/assets/366431
+        match:
+          mapping_id: 85021
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/366432
+            2:
+                url_poster: https://theposterdb.com/api/assets/366433
+
+#####################################################################
+#                                                                   #
+#               TV-Show Gen V (2023)                                #
+#                                                                   #
+#####################################################################
+    "Gen V (2023)":
+        year: 2023
+        title: "Gen V"
+        url_poster: https://theposterdb.com/api/assets/416631
+        match:
+          mapping_id: 205715
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/415368
+
+#####################################################################
+#                                                                   #
+#               TV-Show Gold Rush (2010)                            #
+#                                                                   #
+#####################################################################
+    "Gold Rush (2010)":
+        year: 2010
+        title: "Gold Rush"
+        sort_title: "Gold Rush"
+        url_poster: https://theposterdb.com/api/assets/415829
+        match:
+          mapping_id: 351291
+        # IDs: imdb://tt2177461, tmdb://77236, tvdb://351291
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Discovery%20of%20Witches&category=Shows&year_filter=equals&yone=2018&tmdb_id=77236&imdb_id=tt2177461&tvdb_id=351291
+        # tmdb: https://www.themoviedb.org/tv/77236
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=351291
+        # imdb: https://www.imdb.com/title/tt2177461
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/415831
+            2:
+                url_poster: https://theposterdb.com/api/assets/415832
+            3:
+                url_poster: https://theposterdb.com/api/assets/415833
+            4:
+                url_poster: https://theposterdb.com/api/assets/415834
+            5:
+                url_poster: https://theposterdb.com/api/assets/415835
+            6:
+                url_poster: https://theposterdb.com/api/assets/415836
+            7:
+                url_poster: https://theposterdb.com/api/assets/415837
+            8:
+                url_poster: https://theposterdb.com/api/assets/415838
+            9:
+                url_poster: https://theposterdb.com/api/assets/415839
+            10:
+                url_poster: https://theposterdb.com/api/assets/415840
+            11:
+                url_poster: https://theposterdb.com/api/assets/415841
+            12:
+                url_poster: https://theposterdb.com/api/assets/415842
+            13:
+                url_poster: https://theposterdb.com/api/assets/415843
+            14:
+                url_poster: https://theposterdb.com/api/assets/415844
+
+#####################################################################
+#                                                                   #
+#               TV-Show Goosebumps (2023)                           #
+#                                                                   #
+#####################################################################
+    "Goosebumps (2023)":
+        year: 2023
+        title: "Goosebumps"
+        url_poster: https://theposterdb.com/api/assets/420527
+        match:
+          mapping_id: 157004
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/420528
+
+#####################################################################
+#                                                                   #
+#               TV-Show Gotham Knights (2023)                       #
+#                                                                   #
+#####################################################################
+    "Gotham Knights (2023)":
+        year: 2023
+        title: "Gotham Knights"
+        url_poster: https://theposterdb.com/api/assets/367380
+        match:
+          mapping_id: 195868
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/367381
+
+#####################################################################
+#                                                                   #
+#               TV-Show Halo (2022)                                 #
+#                                                                   #
+#####################################################################
+    "Halo (2022)":
+        year: 2022
+        title: "Halo"
+        url_poster: https://theposterdb.com/api/assets/225843
+        match:
+          mapping_id: 52814
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225845
+            2:
+                url_poster: https://theposterdb.com/api/assets/307903
+
+#####################################################################
+#                                                                   #
+#               TV-Show Harlan Coben's Shelter (2023)               #
+#                                                                   #
+#####################################################################
+    "Harlan Coben's Shelter (2023)":
+        year: 2023
+        title: "Harlan Coben's Shelter"
+        url_poster: https://theposterdb.com/api/assets/399022
+        match:
+          mapping_id: 210787
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/399023
+
+#####################################################################
+#                                                                   #
+#               TV-Show Hellbound (2021)                            #
+#                                                                   #
+#####################################################################
+    "Hellbound (2021)":
+        year: 2021
+        title: "Hellbound"
+        url_poster: https://theposterdb.com/api/assets/279205
+        match:
+          mapping_id: 106651
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/279206
+
+#####################################################################
+#                                                                   #
+#               TV-Show Hijack (2023)                               #
+#                                                                   #
+#####################################################################
+    "Hijack (2023)":
+        year: 2023
+        title: "Hijack"
+        url_poster: https://theposterdb.com/api/assets/379169
+        match:
+          mapping_id: 198102
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/379170
+
+#####################################################################
+#                                                                   #
+#               TV-Show House of the Dragon (2022)                  #
+#                                                                   #
+#####################################################################
+    "House of the Dragon (2022)":
+        year: 2022
+        title: "House of the Dragon"
+        url_poster: https://theposterdb.com/api/assets/259940
+        match:
+          mapping_id: 94997
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/259942
+
+#####################################################################
+#                                                                   #
+#               TV-Show Invasion (2021)                             #
+#                                                                   #
+#####################################################################
+    "Invasion (2021)":
+        year: 2021
+        title: "Invasion"
+        url_poster: https://theposterdb.com/api/assets/245400
+        match:
+          mapping_id: 127235
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/245401
+            2:
+                url_poster: https://theposterdb.com/api/assets/401012
+
+#####################################################################
+#                                                                   #
+#               TV-Show Kung Fu (2021)                              #
+#                                                                   #
+#####################################################################
+    "Kung Fu (2021)":
+        year: 2022
+        title: "Kung Fu"
+        url_poster: https://theposterdb.com/api/assets/380563
+        match:
+          mapping_id: 114165
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/380564
+            2:
+                url_poster: https://theposterdb.com/api/assets/380565
+            3:
+                url_poster: https://theposterdb.com/api/assets/380566
+
+#####################################################################
+#                                                                   #
+#               TV-Show Locke & Key (2020)                          #
+#                                                                   #
+#####################################################################
+    "Locke & Key (2020)":
+        year: 2020
+        title: "Locke & Key"
+        url_poster: https://theposterdb.com/api/assets/283475
+        match:
+          mapping_id: 361594
+        # IDs: imdb://tt3007572, tmdb://86423, tvdb://361594
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Locke%20%26%20Key&category=Shows&year_filter=equals&yone=2020&tmdb_id=86423&imdb_id=tt3007572&tvdb_id=361594
+        # tmdb: https://www.themoviedb.org/tv/86423
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=361594
+        # imdb: https://www.imdb.com/title/tt3007572
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/283477
+            2:
+                url_poster: https://theposterdb.com/api/assets/283478
+            3:
+                url_poster: https://theposterdb.com/api/assets/283479
+
+#####################################################################
+#                                                                   #
+#               TV-Show Marvel's Loki (2021)                        #
+#                                                                   #
+#####################################################################
+    "Marvel's Loki (2021)":
+        year: 2021
+        title: "Loki"
+        url_poster: https://theposterdb.com/api/assets/170972
+        match:
+          mapping_id: 84958
+        # IDs: imdb://tt9140554, tmdb://84958, tvdb://362472
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Loki&category=Shows&year_filter=equals&yone=2021&tmdb_id=84958&imdb_id=tt9140554&tvdb_id=362472
+        # tmdb: https://www.themoviedb.org/tv/84958
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362472
+        # imdb: https://www.imdb.com/title/tt9140554
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192800
+            2:
+                url_poster: https://theposterdb.com/api/assets/392111
+
+#####################################################################
+#                                                                   #
+#               TV-Show Monarch: Legacy of Monsters (2023)          #
+#                                                                   #
+#####################################################################
+    "Monarch: Legacy of Monsters (2023)":
+        year: 2023
+        title: "Monarch: Legacy of Monsters"
+        url_poster: https://theposterdb.com/api/assets/421591
+        match:
+          mapping_id: 202411
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/421592
+
+#####################################################################
+#                                                                   #
+#               TV-Show Moving (2023)                               #
+#                                                                   #
+#####################################################################
+    "Moving (2023)":
+        year: 2023
+        title: "Moving"
+        url_poster: https://theposterdb.com/api/assets/425056
+        match:
+          mapping_id: 126485
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/425057
+
+#####################################################################
+#                                                                   #
+#               TV-Show Mythic Quest (2020)                         #
+#                                                                   #
+#####################################################################
+    "Mythic Quest (2020)":
+        year: 2020
+        title: "Mythic Quest"
+        url_poster: https://theposterdb.com/api/assets/252153
+        match:
+          mapping_id: 94951
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/252155
+            2:
+                url_poster: https://theposterdb.com/api/assets/252156
+            3:
+                url_poster: https://theposterdb.com/api/assets/287808
+
+#####################################################################
+#                                                                   #
+#               TV-Show Outlander (2014)                            #
+#                                                                   #
+#####################################################################
+    "Outlander (2014)":
+        year: 2014
+        title: "Outlander"
+        url_poster: https://theposterdb.com/api/assets/345943
+        match:
+          mapping_id: 270408
+        # IDs: imdb://tt3006802, tmdb://56570, tvdb://270408
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Outlander&category=Shows&year_filter=equals&yone=2014&tmdb_id=56570&imdb_id=tt3006802&tvdb_id=270408
+        # tmdb: https://www.themoviedb.org/tv/56570
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=270408
+        # imdb: https://www.imdb.com/title/tt3006802
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345945
+            2:
+                url_poster: https://theposterdb.com/api/assets/345946
+            3:
+                url_poster: https://theposterdb.com/api/assets/345947
+            4:
+                url_poster: https://theposterdb.com/api/assets/345948
+            5:
+                url_poster: https://theposterdb.com/api/assets/345949
+            6:
+                url_poster: https://theposterdb.com/api/assets/345950
+            7:
+                url_poster: https://theposterdb.com/api/assets/345951
+
+#####################################################################
+#                                                                   #
+#               TV-Show Painkiller (2023)                           #
+#                                                                   #
+#####################################################################
+    "Painkiller (2023)":
+        year: 2023
+        title: "Painkiller"
+        url_poster: https://theposterdb.com/api/assets/425986
+        match:
+          mapping_id: 158083
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/425987
+
+#####################################################################
+#                                                                   #
+#               TV-Show Rabbit Hole (2023)                          #
+#                                                                   #
+#####################################################################
+    "Rabbit Hole (2023)":
+        year: 2023
+        title: "Rabbit Hole"
+        url_poster: https://theposterdb.com/api/assets/347916
+        match:
+          mapping_id: 156819
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/347917
+
+#####################################################################
+#                                                                   #
+#               TV-Show Reacher (2022)                              #
+#                                                                   #
+#####################################################################
+    "Reacher (2022)":
+        year: 2022
+        title: "Reacher"
+        url_poster: https://theposterdb.com/api/assets/261709
+        match:
+          mapping_id: 366924
+        # IDs: imdb://tt9288030, tmdb://108978, tvdb://366924
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Reacher&category=Shows&year_filter=equals&yone=2022&tmdb_id=108978&imdb_id=tt9288030&tvdb_id=366924
+        # tmdb: https://www.themoviedb.org/tv/108978
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=366924
+        # imdb: https://www.imdb.com/title/tt9288030
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/26171
+
+#####################################################################
+#                                                                   #
+#               TV-Show Secret Invasion (2023)                      #
+#                                                                   #
+#####################################################################
+    "Secret Invasion (2023)":
+        year: 2023
+        title: "Secret Invasion"
+        url_poster: https://theposterdb.com/api/assets/376618
+        match:
+          mapping_id: 114472
+        # IDs: imdb://tt13157618, tmdb://114472, tvdb://393203
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Secret%20Invasion&category=Shows&year_filter=equals&yone=2023&tmdb_id=114472&imdb_id=tt13157618&tvdb_id=393203
+        # tmdb: https://www.themoviedb.org/tv/114472
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393203
+        # imdb: https://www.imdb.com/title/tt13157618
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/376619
+
+#####################################################################
+#                                                                   #
+#               TV-Show Shadow and Bone (2021)                      #
+#                                                                   #
+#####################################################################
+    "Shadow and Bone (2021)":
+        year: 2021
+        title: "Shadow and Bone"
+        url_poster: https://theposterdb.com/api/assets/339099
+        match:
+          mapping_id: 369844
+        # IDs: imdb://tt2403776, tmdb://85720, tvdb://369844
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shadow%20and%20Bone&category=Shows&year_filter=equals&yone=2021&tmdb_id=85720&imdb_id=tt2403776&tvdb_id=369844
+        # tmdb: https://www.themoviedb.org/tv/85720
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=369844
+        # imdb: https://www.imdb.com/title/tt2403776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/339101
+            2:
+                url_poster: https://theposterdb.com/api/assets/339102
+
+#####################################################################
+#                                                                   #
+#               TV-Show Silo (2023)                                 #
+#                                                                   #
+#####################################################################
+    "Silo (2023)":
+        year: 2023
+        title: "Silo"
+        url_poster: https://theposterdb.com/api/assets/360000
+        match:
+          mapping_id: 403245
+        # IDs: imdb://tt14688458, tmdb://125988, tvdb://403245
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Silo&category=Shows&year_filter=equals&yone=2023&tmdb_id=125988&imdb_id=tt14688458&tvdb_id=403245
+        # tmdb: https://www.themoviedb.org/tv/125988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=403245
+        # imdb: https://www.imdb.com/title/tt14688458
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/360001
+
+#####################################################################
+#                                                                   #
+#               TV-Show Snowpiercer (2020)                          #
+#                                                                   #
+#####################################################################
+    "Snowpiercer (2020)":
+        year: 2020
+        title: "Snowpiercer"
+        url_poster: https://theposterdb.com/api/assets/259024
+        match:
+          mapping_id: 364928
+        # IDs: imdb://tt6156584, tmdb://79680, tvdb://364928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snowpiercer&category=Shows&year_filter=equals&yone=2020&tmdb_id=79680&imdb_id=tt6156584&tvdb_id=364928
+        # tmdb: https://www.themoviedb.org/tv/79680
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364928
+        # imdb: https://www.imdb.com/title/tt6156584
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/259026
+            2:
+                url_poster: https://theposterdb.com/api/assets/259027
+            3:
+                url_poster: https://theposterdb.com/api/assets/259028
+
+#####################################################################
+#                                                                   #
+#               TV-Show Sons of Anarchy (2008)                      #
+#                                                                   #
+#####################################################################
+    "Sons of Anarchy (2008)":
+        year: 2008
+        title: "Sons of Anarchy"
+        url_poster: https://theposterdb.com/api/assets/292677
+        match:
+          mapping_id: 384429
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/292679
+            2:
+                url_poster: https://theposterdb.com/api/assets/292680
+            3:
+                url_poster: https://theposterdb.com/api/assets/292681
+            4:
+                url_poster: https://theposterdb.com/api/assets/292682
+            5:
+                url_poster: https://theposterdb.com/api/assets/292683
+            6:
+                url_poster: https://theposterdb.com/api/assets/292684
+            7:
+                url_poster: https://theposterdb.com/api/assets/292685
+
+#####################################################################
+#                                                                   #
+#               TV-Show Special Ops: Lioness (2023)                 #
+#                                                                   #
+#####################################################################
+    "Special Ops: Lioness (2023)":
+        year: 2023
+        title: "Special Ops: Lioness"
+        url_poster: https://theposterdb.com/api/assets/387903
+        match:
+          mapping_id: 113962
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/387904
+
+#####################################################################
+#                                                                   #
+#               TV-Show Squid Game (2021)                           #
+#                                                                   #
+#####################################################################
+    "Squid Game (2021)":
+        year: 2021
+        title: "Squid Game"
+        url_poster: https://theposterdb.com/api/assets/218062
+        match:
+          mapping_id: 93405
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218063
+
+#####################################################################
+#                                                                   #
+#               TV-Show Squid Game: The Challenge (2023)            #
+#                                                                   #
+#####################################################################
+    "Squid Game: The Challenge (2023)":
+        year: 2023
+        title: "Squid Game: The Challenge"
+        url_poster: https://theposterdb.com/api/assets/437217
+        match:
+          mapping_id: 384429
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/437218
+
+#####################################################################
+#                                                                   #
+#               TV-Show Star Trek: Discovery (2017)                 #
+#                                                                   #
+#####################################################################
+    "Star Trek: Discovery (2017)":
+        year: 2017
+        title: "Star Trek: Discovery"
+        url_poster: https://theposterdb.com/api/assets/175974
+        match:
+          mapping_id: 328711
+        # IDs: imdb://tt5171438, tmdb://67198, tvdb://328711
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Discovery&category=Shows&year_filter=equals&yone=2017&tmdb_id=67198&imdb_id=tt5171438&tvdb_id=328711
+        # tmdb: https://www.themoviedb.org/tv/67198
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328711
+        # imdb: https://www.imdb.com/title/tt5171438
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222157
+            2:
+                url_poster: https://theposterdb.com/api/assets/222158
+            3:
+                url_poster: https://theposterdb.com/api/assets/222159
+            4:
+                url_poster: https://theposterdb.com/api/assets/222160
+
+#####################################################################
+#                                                                   #
+#               TV-Show Star Trek: Picard (2020)                    #
+#                                                                   #
+#####################################################################
+    "Star Trek: Picard (2020)":
+        year: 2020
+        title: "Star Trek: Picard"
+        url_poster: https://theposterdb.com/api/assets/175975
+        match:
+          mapping_id: 364093
+        # IDs: imdb://tt8806524, tmdb://85949, tvdb://364093
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Picard&category=Shows&year_filter=equals&yone=2020&tmdb_id=85949&imdb_id=tt8806524&tvdb_id=364093
+        # tmdb: https://www.themoviedb.org/tv/85949
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364093
+        # imdb: https://www.imdb.com/title/tt8806524
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218153
+            2:
+                url_poster: https://theposterdb.com/api/assets/218154
+            3:
+                url_poster: https://theposterdb.com/api/assets/218155
+
+#####################################################################
+#                                                                   #
+#               TV-Show Star Trek: Strange New Worlds (2022)        #
+#                                                                   #
+#####################################################################
+    "Star Trek: Strange New Worlds (2022)":
+        year: 2022
+        title: "Star Trek: Strange New Worlds"
+        url_poster: https://theposterdb.com/api/assets/233723
+        match:
+          mapping_id: 382389
+        # IDs: imdb://tt12327578, tmdb://103516, tvdb://382389
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Strange%20New%20Worlds&category=Shows&year_filter=equals&yone=2022&tmdb_id=103516&imdb_id=tt12327578&tvdb_id=382389
+        # tmdb: https://www.themoviedb.org/tv/103516
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=382389
+        # imdb: https://www.imdb.com/title/tt12327578
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/233725
+            2:
+                url_poster: https://theposterdb.com/api/assets/373546
+
+#####################################################################
+#                                                                   #
+#               TV-Show Star Wars: The Clone Wars (2008)            #
+#                                                                   #
+#####################################################################
+    "Star Wars: The Clone Wars (2008)":
+        year: 2008
+        title: "Star Wars: The Clone Wars"
+        url_poster: https://theposterdb.com/api/assets/328779
+        match:
+          mapping_id: 83268
+        # IDs: imdb://tt0458290, tmdb://4194, tvdb://83268
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20The%20Clone%20Wars&category=Shows&year_filter=equals&yone=2008&tmdb_id=4194&imdb_id=tt0458290&tvdb_id=83268
+        # tmdb: https://www.themoviedb.org/tv/4194
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=83268
+        # imdb: https://www.imdb.com/title/tt0458290
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/244766
+            1:
+                url_poster: https://theposterdb.com/api/assets/244783
+            2:
+                url_poster: https://theposterdb.com/api/assets/244768
+            3:
+                url_poster: https://theposterdb.com/api/assets/244769
+            4:
+                url_poster: https://theposterdb.com/api/assets/244786
+            5:
+                url_poster: https://theposterdb.com/api/assets/244787
+            6:
+                url_poster: https://theposterdb.com/api/assets/244788
+            7:
+                url_poster: https://theposterdb.com/api/assets/244789
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Mandalorian (2019)                      #
+#                                                                   #
+#####################################################################
+    "The Mandalorian (2019)":
+        year: 2019
+        title: "The Mandalorian"
+        sort_title: "Mandalorian"
+        url_poster: https://theposterdb.com/api/assets/174476
+        match:
+          mapping_id: 361753
+        # IDs: imdb://tt8111088, tmdb://82856, tvdb://361753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mandalorian&category=Shows&year_filter=equals&yone=2019&tmdb_id=82856&imdb_id=tt8111088&tvdb_id=361753
+        # tmdb: https://www.themoviedb.org/tv/82856
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361753
+        # imdb: https://www.imdb.com/title/tt8111088
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/200215
+            2:
+                url_poster: https://theposterdb.com/api/assets/200216
+            3:
+                url_poster: https://theposterdb.com/api/assets/319818
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Book of Boba Fett (2021)                #
+#                                                                   #
+#####################################################################
+    "The Book of Boba Fett (2021)":
+        year: 2021
+        title: "The Book of Boba Fett"
+        sort_title: "Book of Boba Fett"
+        url_poster: https://theposterdb.com/api/assets/200213
+        match:
+          mapping_id: 393589
+        # IDs: imdb://tt13668894, tmdb://115036, tvdb://393589
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Book%20of%20Boba%20Fett&category=Shows&year_filter=equals&yone=2021&tmdb_id=115036&imdb_id=tt13668894&tvdb_id=393589
+        # tmdb: https://www.themoviedb.org/tv/115036
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=393589
+        # imdb: https://www.imdb.com/title/tt13668894
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/200214
+
+#####################################################################
+#                                                                   #
+#               TV-Show Obi-Wan Kenobi (2022)                       #
+#                                                                   #
+#####################################################################
+    "Obi-Wan Kenobi (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi"
+        url_poster: https://theposterdb.com/api/assets/238547
+        match:
+          mapping_id: 393199
+        # IDs: imdb://tt8466564, tmdb://92830, tvdb://393199
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Obi-Wan%20Kenobi&category=Shows&year_filter=equals&yone=2022&tmdb_id=92830&imdb_id=tt8466564&tvdb_id=393199
+        # tmdb: https://www.themoviedb.org/tv/92830
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393199
+        # imdb: https://www.imdb.com/title/tt8466564
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238548
+
+#####################################################################
+#                                                                   #
+#               TV-Show Andor (2022)                                #
+#                                                                   #
+#####################################################################
+    "Andor (2022)":
+        year: 2022
+        title: "Andor"
+        url_poster: https://theposterdb.com/api/assets/328800
+        match:
+          mapping_id: 393189
+        # IDs: imdb://tt9253284, tmdb://83867, tvdb://393189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Andor&category=Shows&year_filter=equals&yone=2022&tmdb_id=83867&imdb_id=tt9253284&tvdb_id=393189
+        # tmdb: https://www.themoviedb.org/tv/83867
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393189
+        # imdb: https://www.imdb.com/title/tt9253284
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/328802
+
+#####################################################################
+#                                                                   #
+#               TV-Show Star Wars: Tales of the Jedi (2022)         #
+#                                                                   #
+#####################################################################
+    "Star Wars: Tales of the Jedi (2022)":
+        year: 2022
+        title: "Star Wars: Tales of the Jedi"
+        url_poster: https://theposterdb.com/api/assets/328803
+        match:
+          mapping_id: 420659
+        # IDs: imdb://tt20723374, tmdb://203085, tvdb://420659
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Tales%20of%20the%20Jedi&category=Shows&year_filter=equals&yone=2022&tmdb_id=203085&imdb_id=tt20723374&tvdb_id=420659
+        # tmdb: https://www.themoviedb.org/tv/203085
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=420659
+        # imdb: https://www.imdb.com/title/tt20723374
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/328804
+
+#####################################################################
+#                                                                   #
+#               TV-Show Ahsoka (2023)                               #
+#                                                                   #
+#####################################################################
+    "Ahsoka (2023)":
+        year: 2023
+        title: "Ahsoka"
+        url_poster: https://theposterdb.com/api/assets/392135
+        match:
+          mapping_id: 393187
+        # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ahsoka&category=Shows&year_filter=equals&yone=2023&tmdb_id=114461&imdb_id=tt13622776&tvdb_id=393187
+        # tmdb: https://www.themoviedb.org/tv/114461
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393187
+        # imdb: https://www.imdb.com/title/tt13622776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/392136
+
+#####################################################################
+#                                                                   #
+#               TV-Show Stranger Things (2016)                      #
+#                                                                   #
+#####################################################################
+    "Stranger Things (2016)":
+        year: 2016
+        title: "Stranger Things"
+        url_poster: https://theposterdb.com/api/assets/238549
+        match:
+          mapping_id: 305288
+        # IDs: imdb://tt4574334, tmdb://66732, tvdb://305288
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stranger%20Things&category=Shows&year_filter=equals&yone=2016&tmdb_id=66732&imdb_id=tt4574334&tvdb_id=305288
+        # tmdb: https://www.themoviedb.org/tv/66732
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=305288
+        # imdb: https://www.imdb.com/title/tt4574334
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238550
+            2:
+                url_poster: https://theposterdb.com/api/assets/238551
+            3:
+                url_poster: https://theposterdb.com/api/assets/238552
+            4:
+                url_poster: https://theposterdb.com/api/assets/238553
+
+#####################################################################
+#                                                                   #
+#               TV-Show Superman & Lois (2021)                      #
+#                                                                   #
+#####################################################################
+    "Superman & Lois (2021)":
+        year: 2021
+        title: "Superman and Lois"
+        url_poster: https://theposterdb.com/api/assets/262428
+        match:
+          mapping_id: 95057
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/262430
+            2:
+                url_poster: https://theposterdb.com/api/assets/262431
+            3:
+                url_poster: https://theposterdb.com/api/assets/262428
+
+#####################################################################
+#                                                                   #
+#               TV-Show Suspicion (2022)                            #
+#                                                                   #
+#####################################################################
+    "Suspicion (2022)":
+        year: 2022
+        title: "Suspicion"
+        url_poster: https://theposterdb.com/api/assets/376733
+        match:
+          mapping_id: 100414
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/376734
+
+#####################################################################
+#                                                                   #
+#               TV-Show Sweet Tooth (2021)                          #
+#                                                                   #
+#####################################################################
+    "Sweet Tooth (2021)":
+        year: 2021
+        title: "Sweet Tooth"
+        url_poster: https://theposterdb.com/api/assets/345622
+        match:
+          mapping_id: 103768
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345623
+            2:
+                url_poster: https://theposterdb.com/api/assets/363411
+
+#####################################################################
+#                                                                   #
+#               TV-Show Tehran (2020)                               #
+#                                                                   #
+#####################################################################
+    "Tehran (2020)":
+        year: 2020
+        title: "Tehran"
+        url_poster: https://theposterdb.com/api/assets/360809
+        match:
+          mapping_id: 103913
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/360811
+            2:
+                url_poster: https://theposterdb.com/api/assets/360812
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Boys (2019)                             #
+#                                                                   #
+#####################################################################
+    "The Boys (2019)":
+        year: 2019
+        title: "The Boys"
+        sort_title: "The Boys"
+        url_poster: https://theposterdb.com/api/assets/242071
+        match:
+          mapping_id: 76479
+        # IDs: imdb://tt2741602, tmdb://46952, tvdb://266189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist&category=Shows&year_filter=equals&yone=2013&tmdb_id=46952&imdb_id=tt2741602&tvdb_id=266189
+        # tmdb: https://www.themoviedb.org/tv/46952
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266189
+        # imdb: https://www.imdb.com/title/tt2741602
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/242073
+            2:
+                url_poster: https://theposterdb.com/api/assets/242074
+            3:
+                url_poster: https://theposterdb.com/api/assets/242075
+            #4:
+                #url_poster: https://theposterdb.com/api/assets/325816
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Changeling (2023)                       #
+#                                                                   #
+#####################################################################
+    "The Changeling (2023)":
+        year: 2023
+        title: "The Changeling"
+        url_poster: https://theposterdb.com/api/assets/407302
+        match:
+          mapping_id: 131992
+        # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
+        # tmdb: https://www.themoviedb.org/tv/2119
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=73200
+        # imdb: https://www.imdb.com/title/tt0086662
+        seasons:
+            1:
+                https://theposterdb.com/api/assets/407303
+            #2:
+             #   url_poster: https://theposterdb.com/api/assets/231971
+            #3:
+             #   url_poster: https://theposterdb.com/api/assets/231972
+            #4:
+             #   url_poster: https://theposterdb.com/api/assets/2319703
+
+#####################################################################
+#                                                                   #
+#               TV-Show                                             #
+#        The Continental: From the World of John Wick (2023)        #
+#                                                                   #
+#####################################################################
+    "The Continental: From the World of John Wick (2023)":
+        year: 2023
+        title: "The Continental"
+        url_poster: https://theposterdb.com/api/assets/414372
+        match:
+          mapping_id: 72710
+        # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
+        # tmdb: https://www.themoviedb.org/tv/2119
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=73200
+        # imdb: https://www.imdb.com/title/tt0086662
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/414373
+
+#####################################################################
+#                                                                   #
+#               TV-Show The English (2022)                          #
+#                                                                   #
+#####################################################################
+    "The English (2022)":
+        year: 2022
+        title: "The English"
+        sort_title: "English"
+        url_poster: https://theposterdb.com/api/assets/346794
+        match:
+          mapping_id: 402602
+        # IDs: imdb://tt11771270, tmdb://99346, tvdb://402602
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20English&category=Shows&year_filter=equals&yone=2022&tmdb_id=99346&imdb_id=tt11771270&tvdb_id=402602
+        # tmdb: https://www.themoviedb.org/tv/99346
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=402602
+        # imdb: https://www.imdb.com/title/tt11771270
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/346795
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Fall of the House of Usher (2023)       #
+#                                                                   #
+#####################################################################
+    "The Fall of the House of Usher (2023)":
+        year: 2023
+        title: "The Fall of the House of Usher"
+        url_poster: https://theposterdb.com/api/assets/425981
+        match:
+          mapping_id: 157065
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/425982
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Handmaid's Tale (2017)                  #
+#                                                                   #
+#####################################################################
+    "The Handmaid's Tale (2017)":
+        year: 2017
+        title: "Handmaid's Tale"
+        url_poster: https://theposterdb.com/api/assets/282676
+        match:
+          mapping_id: 69478
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/282678
+            2:
+                url_poster: https://theposterdb.com/api/assets/282679
+            3:
+                url_poster: https://theposterdb.com/api/assets/282680
+            4:
+                url_poster: https://theposterdb.com/api/assets/282681
+            5:
+                url_poster: https://theposterdb.com/api/assets/282682
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Last of Us (2023)                       #
+#                                                                   #
+#####################################################################
+    "The Last of Us (2023)":
+        year: 2023
+        title: "The Last of Us"
+        url_poster: https://theposterdb.com/api/assets/297301
+        match:
+          mapping_id: 100088
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/297302
+
+#####################################################################
+#                                                                   #
+#               TV-Show                                             #
+#           The Lord of the Rings: The Rings of Power (2022)        #
+#                                                                   #
+#####################################################################
+    "The Lord of the Rings: The Rings of Power (2022)":
+        year: 2022
+        title: "The Lord of the Rings: The Rings of Power"
+        url_poster: https://theposterdb.com/api/assets/270260
+        match:
+          mapping_id: 367506
+        # IDs: imdb://tt7631058, tmdb://84773, tvdb://367506
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Rings%20of%20Power&category=Shows&year_filter=equals&yone=2022&tmdb_id=84773&imdb_id=tt7631058&tvdb_id=367506
+        # tmdb: https://www.themoviedb.org/tv/84773
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=367506
+        # imdb: https://www.imdb.com/title/tt7631058
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/270262
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Lost Flowers of Alice Hart (2023)       #
+#                                                                   #
+#####################################################################
+    "The Lost Flowers of Alice Hart (2023)":
+        year: 2023
+        title: "The Lost Flowers of Alice Hart"
+        url_poster: https://theposterdb.com/api/assets/393290
+        match:
+          mapping_id: 125816
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/393291
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Old Man (2022)                          #
+#                                                                   #
+#####################################################################
+    "The Old Man (2022)":
+        year: 2022
+        title: "The Old Man"
+        sort_title: "Old Man"
+        url_poster: https://theposterdb.com/api/assets/342269
+        match:
+          mapping_id: 367392
+        # IDs: imdb://tt5645432, tmdb://111800, tvdb://367392
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Old%20Man&category=Shows&year_filter=equals&yone=2022&tmdb_id=111800&imdb_id=tt5645432&tvdb_id=367392
+        # tmdb: https://www.themoviedb.org/tv/111800
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=367392
+        # imdb: https://www.imdb.com/title/tt5645432
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/342270
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Peripheral (2022)                       #
+#                                                                   #
+#####################################################################
+    "The Peripheral (2022)":
+        year: 2022
+        title: "The Peripheral"
+        url_poster: https://theposterdb.com/api/assets/323846
+        match:
+          mapping_id: 95403
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323848
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Quest (2022)                            #
+#                                                                   #
+#####################################################################
+    "The Quest (2022)":
+        year: 2022
+        title: "The Quest"
+        url_poster: https://theposterdb.com/api/assets/367584
+        match:
+          mapping_id: 196749
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/367585
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Rig (2023)                              #
+#                                                                   #
+#####################################################################
+    "The Rig (2023)":
+        year: 2023
+        title: "The Rig"
+        url_poster: https://theposterdb.com/api/assets/345278
+        match:
+          mapping_id: 112581
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345280
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Sandman (2022)                          #
+#                                                                   #
+#####################################################################
+    "The Sandman (2022)":
+        year: 2022
+        title: "The Sandman"
+        url_poster: https://theposterdb.com/api/assets/273192
+        match:
+          mapping_id: 90802
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/273194
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Sepent Queen (2022)                     #
+#                                                                   #
+#####################################################################
+    "The Serpent Queen (2022)":
+        year: 2022
+        title: "The Serpent Queen"
+        url_poster: https://theposterdb.com/api/assets/345995
+        match:
+          mapping_id: 118189
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345999
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Wheel of Time (2021)                    #
+#                                                                   #
+#####################################################################
+    "The Wheel of Time (2021)":
+        year: 2021
+        title: "The Wheel of Time"
+        sort_title: "Wheel of Time"
+        url_poster: https://theposterdb.com/api/assets/335536
+        match:
+          mapping_id: 355730
+        # IDs: imdb://tt7462410, tmdb://71914, tvdb://355730
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Wheel%20of%20Time&category=Shows&year_filter=equals&yone=2021&tmdb_id=71914&imdb_id=tt7462410&tvdb_id=355730
+        # tmdb: https://www.themoviedb.org/tv/71914
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=355730
+        # imdb: https://www.imdb.com/title/tt7462410
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335538
+            2:
+                url_poster: https://theposterdb.com/api/assets/404133
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Winter King (2023)                      #
+#                                                                   #
+#####################################################################
+    "The Winter King (2023)":
+        year: 2023
+        title: "The Winter King"
+        #url_poster: https://theposterdb.com/api/assets/293636
+        match:
+          mapping_id: 99737
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        #seasons:
+            #1:
+                #url_poster: https://theposterdb.com/api/assets/293637
+
+#####################################################################
+#                                                                   #
+#               TV-Show Tokyo Vice (2022)                           #
+#                                                                   #
+#####################################################################
+    "Tokyo Vice (2022)":
+        year: 2022
+        title: "Tokyo Vice"
+        url_poster: https://theposterdb.com/api/assets/295736
+        match:
+          mapping_id: 90296
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/295737
+
+#####################################################################
+#                                                                   #
+#               TV-Show Tulsa King (2022)                           #
+#                                                                   #
+#####################################################################
+    "Tulsa King (2022)":
+        year: 2022
+        title: "Tulsa King"
+        url_poster: https://theposterdb.com/api/assets/302797
+        match:
+          mapping_id: 153312
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/302798
+
+#####################################################################
+#                                                                   #
+#               TV-Show Upload (2020)                               #
+#                                                                   #
+#####################################################################
+    "Upload (2020)":
+        year: 2020
+        title: "Upload"
+        url_poster: https://theposterdb.com/api/assets/258840
+        match:
+          mapping_id: 384429
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/258841
+            2:
+                url_poster: https://theposterdb.com/api/assets/258842
+            3:
+                url_poster: https://theposterdb.com/api/assets/422957
+
+#####################################################################
+#                                                                   #
+#               TV-Show Vikings (2013)                              #
+#                                                                   #
+#####################################################################
+    "Vikings (2013)":
+        year: 2013
+        title: "Vikings"
+        url_poster: https://theposterdb.com/api/assets/323898
+        match:
+          mapping_id: 260449
+        # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
+        # tmdb: https://www.themoviedb.org/tv/44217
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=260449
+        # imdb: https://www.imdb.com/title/tt2306299
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323900
+            2:
+                url_poster: https://theposterdb.com/api/assets/323901
+            3:
+                url_poster: https://theposterdb.com/api/assets/323902
+            4:
+                url_poster: https://theposterdb.com/api/assets/323903
+            5:
+                url_poster: https://theposterdb.com/api/assets/323904
+            6:
+                url_poster: https://theposterdb.com/api/assets/323905
+
+#####################################################################
+#                                                                   #
+#               TV-Show Vikings: Valhalla (2022)                    #
+#                                                                   #
+#####################################################################
+    "Vikings: Valhalla (2022)":
+        year: 2022
+        title: "Vikings: Valhalla"
+        url_poster: https://theposterdb.com/api/assets/323906
+        match:
+          mapping_id: 372700
+        # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A%20Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
+        # tmdb: https://www.themoviedb.org/tv/116135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=372700
+        # imdb: https://www.imdb.com/title/tt11311302
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323907
+            2:
+                url_poster: https://theposterdb.com/api/assets/323908
+
+#####################################################################
+#                                                                   #
+#               TV-Show Warrior (2019)                              #
+#                                                                   #
+#####################################################################
+    "Warrior (2019)":
+        year: 2019
+        title: "Warrior"
+        url_poster: https://theposterdb.com/api/assets/375545
+        match:
+          mapping_id: 73544
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/375547
+            2:
+                url_poster: https://theposterdb.com/api/assets/375548
+            3:
+                url_poster: https://theposterdb.com/api/assets/375549
+
+#####################################################################
+#                                                                   #
+#               TV-Show Wednesday (2022)                            #
+#                                                                   #
+#####################################################################
+    "Wednesday (2022)":
+        year: 2022
+        title: "Wednesday"
+        url_poster: https://theposterdb.com/api/assets/292774
+        match:
+          mapping_id: 119051
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/292775
+
+#####################################################################
+#                                                                   #
+#               TV-Show Wolf (2023)                                 #
+#                                                                   #
+#####################################################################
+    "Wolf (2023)":
+        year: 2023
+        title: "Wolf"
+        url_poster: https://theposterdb.com/api/assets/392500
+        match:
+          mapping_id: 222117
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/392501
+
+#####################################################################
+#                                                                   #
+#               TV-Show Y: The Last Man (2021)                      #
+#                                                                   #
+#####################################################################
+    "Y: The Last Man (2021)":
+        year: 2021
+        title: "Y: The Last Man"
+        url_poster: https://theposterdb.com/api/assets/406252
+        match:
+          mapping_id: 362250
+        # IDs: imdb://tt8042500, tmdb://86550, tvdb://362250
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Y%3A%20The%20Last%20Man&category=Shows&year_filter=equals&yone=2021&tmdb_id=86550&imdb_id=tt8042500&tvdb_id=362250
+        # tmdb: https://www.themoviedb.org/tv/86550
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362250
+        # imdb: https://www.imdb.com/title/tt8042500
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/406253
+
+#####################################################################
+#                                                                   #
+#               TV-Show Yellowstone (2018)                          #
+#                                                                   #
+#####################################################################
+    "Yellowstone (2018)":
+        year: 2018
+        title: "Yellowstone"
+        url_poster: https://theposterdb.com/api/assets/295700
+        match:
+          mapping_id: 341164
+        # IDs: imdb://tt4236770, tmdb://73586, tvdb://341164
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowstone%20%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=73586&imdb_id=tt4236770&tvdb_id=341164
+        # tmdb: https://www.themoviedb.org/tv/73586
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=341164
+        # imdb: https://www.imdb.com/title/tt4236770
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/295702
+            2:
+                url_poster: https://theposterdb.com/api/assets/295703
+            3:
+                url_poster: https://theposterdb.com/api/assets/295704
+            4:
+                url_poster: https://theposterdb.com/api/assets/295705
+            5:
+                url_poster: https://theposterdb.com/api/assets/295706
+
+#####################################################################
+#                                                                   #
+#               TV-Show You (2018)                                  #
+#                                                                   #
+#####################################################################
+    "You (2018)":
+        year: 2018
+        title: "You"
+        url_poster: https://theposterdb.com/api/assets/283584
+        match:
+          mapping_id: 78191
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/283585
+            2:
+                url_poster: https://theposterdb.com/api/assets/283586
+            3:
+                url_poster: https://theposterdb.com/api/assets/283587
+            4:
+                url_poster: https://theposterdb.com/api/assets/283589
