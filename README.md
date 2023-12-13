@@ -1,4 +1,7 @@
 # Plex Meta Manager - Configs for TV and Movies
+```
+**Work In Progress**
+```
 
 # Posters are from TheposterDB.org and almost all posters are from the great Musikmann2000.
 
