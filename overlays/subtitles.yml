@@ -1,0 +1,18 @@
+templates:
+  sv-text:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      file: config/overlays/images/sv-text.png
+
+overlays:
+  sv-text:
+    template:
+      - name: sv-text
+    plex_search:
+      all:
+        subtitle_language: sv
