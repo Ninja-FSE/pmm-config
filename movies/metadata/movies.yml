@@ -880,3 +880,306 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/194506
 
 
+    "The Shawshank Redemption (1994)":
+        year: 1994
+        title: "Nyckeln till frihet"
+        match:
+          mapping_id: 278
+        url_poster: https://theposterdb.com/api/assets/328476
+
+
+    "1917 (2019)":
+        year: 2019
+        title: "1917"
+        match:
+          mapping_id: 530915
+        url_poster: https://theposterdb.com/api/assets/195274
+        
+    "2012 (2009)":
+        year: 2009
+        title: "2012"
+        match:
+          mapping_id: 14161
+        url_poster: https://theposterdb.com/api/assets/191168
+
+        
+    "2067 (2020)":
+        year: 2020
+        title: "2067"
+        match:
+          mapping_id: 528085
+        url_poster: https://theposterdb.com/api/assets/183768
+
+        
+    "A taxi driver (2017)":
+        year: 2017
+        title: "A taxi driver"
+        match:
+          mapping_id: 437068
+        url_poster: https://theposterdb.com/api/assets/439655
+
+        
+    "About My Father (2023)":
+        year: 2023
+        title: "About My Father"
+        match:
+          mapping_id: 829051
+        url_poster: https://theposterdb.com/api/assets/371747
+
+        
+    "Air (2023)":
+        year: 2023
+        title: "Air"
+        match:
+          mapping_id: 964980
+        url_poster: https://theposterdb.com/api/assets/361312
+
+        
+    "Air Force One (1997)":
+        year: 1997
+        title: "Air Force One"
+        match:
+          mapping_id: 9772
+        url_poster: https://theposterdb.com/api/assets/203182
+
+        
+    "Ali G Indahouse (2002)":
+        year: 2002
+        title: "Ali G Indahouse"
+        match:
+          mapping_id: 9298
+        url_poster: https://theposterdb.com/api/assets/203382
+
+        
+    "Alive (1993)":
+        year: 1993
+        title: "Alive"
+        match:
+          mapping_id: 7305
+        url_poster: https://theposterdb.com/api/assets/203387
+
+        
+    "American Murder: The Family Next Door (2020)":
+        year: 2020
+        title: "American Murder: The Family Next Door"
+        match:
+          mapping_id: 743601
+        url_poster: https://theposterdb.com/api/assets/175666
+
+        
+    "American Sniper (2014)":
+        year: 2014
+        title: "American Sniper"
+        match:
+          mapping_id: 190859
+        url_poster: https://theposterdb.com/api/assets/194468
+
+        
+    "Apollo 13 (1995)":
+        year: 1995
+        title: "Apollo 13"
+        match:
+          mapping_id: 568
+        url_poster: https://theposterdb.com/api/assets/203892
+
+        
+    "Asteroid City (2023)":
+        year: 2023
+        title: "Asteroid City"
+        match:
+          mapping_id: 747188
+        url_poster: https://theposterdb.com/api/assets/372456
+
+        
+    "La Bamba (1987)":
+        year: 1987
+        title: "La Bamba"
+        match:
+          mapping_id: 16620
+        url_poster: https://theposterdb.com/api/assets/205964
+
+        
+    "Barbie (2023)":
+        year: 2023
+        title: "Barbie"
+        match:
+          mapping_id: 346698
+        url_poster: https://theposterdb.com/api/assets/389600
+
+        
+    "The Batman (2022)":
+        year: 2022
+        title: "The Batman"
+        match:
+          mapping_id: 414906
+        url_poster: https://theposterdb.com/api/assets/218193
+
+        
+    "Battle for Sevastopol (2015)":
+        year: 2015
+        title: "Battle for Sevastopol"
+        match:
+          mapping_id: 332270
+        url_poster: https://theposterdb.com/api/assets/431556
+
+        
+    "Beau Is Afraid (2023)":
+        year: 2023
+        title: "Beau Is Afraid"
+        match:
+          mapping_id: 798286
+        url_poster: https://theposterdb.com/api/assets/371739
+
+        
+    "The Best Man (2023)":
+        year: 2023
+        title: "The Best Man"
+        match:
+          mapping_id: 1094319
+        url_poster: https://theposterdb.com/api/assets/361318
+
+        
+    "Bird Box (2018)":
+        year: 2018
+        title: "Bird Box"
+        match:
+          mapping_id: 405774
+        url_poster: https://theposterdb.com/api/assets/178144
+
+        
+    "The Black Demon (2023)":
+        year: 2023
+        title: "The Black Demon"
+        match:
+          mapping_id: 890771
+        url_poster: https://theposterdb.com/api/assets/370267
+
+        
+    "Black Hawk Down (2001)":
+        year: 2001
+        title: "Black Hawk Down"
+        match:
+          mapping_id: 855
+        url_poster: https://theposterdb.com/api/assets/195866
+
+        
+    "The Black Phone (2022)":
+        year: 2022
+        title: "The Black Phone"
+        match:
+          mapping_id: 756999
+        url_poster: https://theposterdb.com/api/assets/251391
+
+        
+    "Blonde (2022)":
+        year: 2022
+        title: "Blonde"
+        match:
+          mapping_id: 301502
+        url_poster: https://theposterdb.com/api/assets/272875
+
+        
+    "The Boogeyman (2023)":
+        year: 2023
+        title: "The Boogeyman"
+        match:
+          mapping_id: 532408
+        url_poster: https://theposterdb.com/api/assets/371735
+
+        
+        
+    "Braveheart (1995)":
+        year: 1995
+        title: "Braveheart"
+        match:
+          mapping_id: 197
+        url_poster: https://theposterdb.com/api/assets/184399
+
+        
+    "Bucky Larson: Born to Be a Star (2011)":
+        year: 2011
+        title: "Bucky Larson: Born to Be a Star"
+        match:
+          mapping_id: 67911
+        url_poster: https://theposterdb.com/api/assets/218237
+
+        
+    "Butcher's Crossing (2023)":
+        year: 2023
+        title: "Butcher's Crossing"
+        match:
+          mapping_id: 843846
+        url_poster: https://theposterdb.com/api/assets/414142
+
+        
+    "Capone (2020)":
+        year: 2020
+        title: "Capone"
+        match:
+          mapping_id: 429422
+        url_poster: https://theposterdb.com/api/assets/198179
+
+        
+    "Cast Away (2000)":
+        year: 2000
+        title: "Cast Away"
+        match:
+          mapping_id: 8358
+        url_poster: https://theposterdb.com/api/assets/197018
+
+        
+    "Chasing Amy (1997)":
+        year: 1997
+        title: "Chasing Amy"
+        match:
+          mapping_id: 2255
+        url_poster: https://theposterdb.com/api/assets/187838
+
+        
+    "Child 44 (2015)":
+        year: 2015
+        title: "Child 44"
+        match:
+          mapping_id: 181283
+        url_poster: https://theposterdb.com/api/assets/204382
+
+        
+    "Chupa (2023)":
+        year: 2023
+        title: "Chupa"
+        match:
+          mapping_id: 736790
+        url_poster: https://theposterdb.com/api/assets/347695
+
+        
+    "City of God (2002)":
+        year: 2002
+        title: "City of God"
+        match:
+          mapping_id: 598
+        url_poster: https://theposterdb.com/api/assets/217007
+
+        
+    "Cocaine Bear (2023)":
+        year: 2023
+        title: "Cocaine Bear"
+        match:
+          mapping_id: 804150
+        url_poster: https://theposterdb.com/api/assets/327071
+
+        
+    "Chaos Theory (2007)":
+        year: 2007
+        title: "Chaos Theory"
+        match:
+          mapping_id: 12912
+        url_poster: https://theposterdb.com/api/assets/215267
+
+        
+    "Come Out Fighting (2023)":
+        year: 2023
+        title: "Come Out Fighting"
+        match:
+          mapping_id: 1047925
+        url_poster: https://theposterdb.com/api/assets/395835
+
