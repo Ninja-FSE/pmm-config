@@ -10,7 +10,7 @@ A Request Template can be found https://github.com/Ninja-FSE/pmm-config/tree/mai
 
 In Plex Meta Manager config add
 
-```custom_repo https://github.com/Ninja-FSE/pmm-config/tree/main/```
+```custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/```
 
 then under your TV Library, metadata_path add
 
