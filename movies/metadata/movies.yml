@@ -1183,3 +1183,65 @@ metadata:
           mapping_id: 1047925
         url_poster: https://theposterdb.com/api/assets/395835
 
+
+    "Kursk (2018)":
+        year: 2018
+        title: "Kursk"
+        match:
+          mapping_id: 401200
+        url_poster: https://theposterdb.com/api/assets/195315
+        
+    "Crimson Tide (1995)":
+        year: 1995
+        title: "Crimson Tide"
+        match:
+          mapping_id: 8963
+        url_poster: https://theposterdb.com/api/assets/196061
+
+        
+    "Das Boot (1981)":
+        year: 1981
+        title: "Das Boot"
+        match:
+          mapping_id: 387
+        url_poster: https://theposterdb.com/api/assets/196910
+
+        
+    "The Enemy Below (1957)":
+        year: 1957
+        title: "The Enemy Below"
+        match:
+          mapping_id: 15876
+        url_poster: https://theposterdb.com/api/assets/326901
+
+        
+    "Greyhound (2020)":
+        year: 2020
+        title: "Greyhound"
+        match:
+          mapping_id: 516486
+        url_poster: https://theposterdb.com/api/assets/195304
+
+        
+    "The Hunt for Red October (1990)":
+        year: 1990
+        title: "The Hunt for Red October"
+        match:
+          mapping_id: 1669
+        url_poster: https://theposterdb.com/api/assets/170504
+
+        
+    "K-19: The Widowmake (2002)":
+        year: 2002
+        title: "K-19: The Widowmake"
+        match:
+          mapping_id: 8665
+        url_poster: https://theposterdb.com/api/assets/195882
+
+        
+    "Phantom (2013)":
+        year: 2013
+        title: "Phantom"
+        match:
+          mapping_id: 152259
+        url_poster: https://theposterdb.com/api/assets/195600
