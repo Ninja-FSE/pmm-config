@@ -1245,3 +1245,605 @@ metadata:
         match:
           mapping_id: 152259
         url_poster: https://theposterdb.com/api/assets/195600
+
+    "28 Days Later (2002)":
+        year: 2002
+        title: "28 Days Later"
+        match:
+          mapping_id: 170
+        url_poster: https://theposterdb.com/api/assets/173432
+        
+    "28 Weeks Later (2007)":
+        year: 2007
+        title: "28 Weeks Later"
+        match:
+          mapping_id: 1562
+        url_poster: https://theposterdb.com/api/assets/173433
+
+        
+    "365 Days (2020)":
+        year: 2020
+        title: "365 Days"
+        match:
+          mapping_id: 664413
+        url_poster: https://theposterdb.com/api/assets/233229
+
+        
+    "365 Days: This Day (2022)":
+        year: 2022
+        title: "365 Days: This Day"
+        match:
+          mapping_id: 829557
+        url_poster: https://theposterdb.com/api/assets/233230
+
+        
+    "The Next 365 Days (2022)":
+        year: 2022
+        title: "The Next 365 Days"
+        match:
+          mapping_id: 829560
+        url_poster: https://theposterdb.com/api/assets/259008
+
+        
+    "Bruce Almighty (2003)":
+        year: 2003
+        title: "Bruce Almighty"
+        match:
+          mapping_id: 310
+        url_poster: https://theposterdb.com/api/assets/187662
+
+        
+    "Evan Almighty (2007)":
+        year: 2007
+        title: "Evan Almighty"
+        match:
+          mapping_id: 2698
+        url_poster: https://theposterdb.com/api/assets/187663
+
+        
+    "American Pie (1999)":
+        year: 1999
+        title: "American Pie"
+        match:
+          mapping_id: 2105
+        url_poster: https://theposterdb.com/api/assets/186138
+
+        
+    "American Pie 2 (2001)":
+        year: 2001
+        title: "American Pie 2"
+        match:
+          mapping_id: 2770
+        url_poster: https://theposterdb.com/api/assets/186139
+
+        
+    "American Wedding (2003)":
+        year: 2003
+        title: "American Wedding"
+        match:
+          mapping_id: 8273
+        url_poster: https://theposterdb.com/api/assets/186140
+
+        
+    "American Reunion (2012)":
+        year: 2012
+        title: "American Reunion"
+        match:
+          mapping_id: 71552
+        url_poster: https://theposterdb.com/api/assets/186141
+
+        
+    "American Pie Presents: Beta House (xxxx)":
+        year: 2008
+        title: "American Pie Presents: Beta House"
+        match:
+          mapping_id: 8277
+        url_poster: https://theposterdb.com/api/assets/186148
+
+        
+    "American Pie Presents: Band Camp (2005)":
+        year: 2005
+        title: "American Pie Presents: Band Camp"
+        match:
+          mapping_id: 8274
+        url_poster: https://theposterdb.com/api/assets/186146
+
+        
+    "American Pie Presents: Girls' Rules (2020)":
+        year: 2020
+        title: "American Pie Presents: Girls' Rules"
+        match:
+          mapping_id: 660982
+        url_poster: https://theposterdb.com/api/assets/186150
+
+        
+    "American Pie Presents: The Book of Love (2009)":
+        year: 2009
+        title: "American Pie Presents: The Book of Love"
+        match:
+          mapping_id: 26123
+        url_poster: https://theposterdb.com/api/assets/186149
+
+        
+    "American Pie Presents: The Naked Mile (2006)":
+        year: 2006
+        title: "American Pie Presents: The Naked Mile"
+        match:
+          mapping_id: 8275
+        url_poster: https://theposterdb.com/api/assets/186147
+
+        
+    "Anchorman: The Legend of Ron Burgundy (2004)":
+        year: 2004
+        title: "Anchorman: The Legend of Ron Burgundy"
+        match:
+          mapping_id: 8699
+        url_poster: https://theposterdb.com/api/assets/190925
+
+        
+    "Anchorman 2: The Legend Continues (2013)":
+        year: 2013
+        title: "Anchorman 2: The Legend Continues"
+        match:
+          mapping_id: 109443
+        url_poster: https://theposterdb.com/api/assets/190927
+
+        
+    "Wake Up, Ron Burgundy: The Lost Movie (2004)":
+        year: 2004
+        title: "Wake Up, Ron Burgundy: The Lost Movie"
+        match:
+          mapping_id: 9965
+        url_poster: https://theposterdb.com/api/assets/190926
+
+        
+    "Batman & Robin (1997)":
+        year: 1997
+        title: "Batman & Robin"
+        match:
+          mapping_id: 415
+        url_poster: https://theposterdb.com/api/assets/171572
+
+        
+    "Beavis and Butt-Head Do America (1996)":
+        year: 1996
+        title: "Beavis and Butt-Head Do America"
+        match:
+          mapping_id: 3179
+        url_poster: https://theposterdb.com/api/assets/245855
+
+        
+    "Beavis and Butt-Head Do the Universe (2022)":
+        year: 2022
+        title: "Beavis and Butt-Head Do the Universe"
+        match:
+          mapping_id: 828947
+        url_poster: https://theposterdb.com/api/assets/245854
+
+        
+    "Beavis and Butt-Head Do Thanksgiving (1997)":
+        year: 1997
+        title: "Beavis and Butt-Head Do Thanksgiving"
+        match:
+          mapping_id: 893181
+        url_poster: https://theposterdb.com/api/assets/309366
+
+        
+    "Beavis and Butt-Head Do Christmas (1995)":
+        year: 1995
+        title: "Beavis and Butt-Head Do Christmas"
+        match:
+          mapping_id: 39354
+        url_poster: https://theposterdb.com/api/assets/309365
+
+        
+    "Beavis and Butt-Head: Butt-O-Ween (1995)":
+        year: 1995
+        title: "Beavis and Butt-Head: Butt-O-Ween"
+        match:
+          mapping_id: 891305
+        url_poster: https://theposterdb.com/api/assets/309364
+
+        
+    "Taint of Greatness: The Journey of Beavis and Butt-Head (2005)":
+        year: 2005
+        title: "Taint of Greatness: The Journey of Beavis and Butt-Head"
+        match:
+          mapping_id: 795183
+        url_poster: https://theposterdb.com/api/assets/309367
+
+        
+    "Clerks (1994)":
+        year: 1994
+        title: "Clerks"
+        match:
+          mapping_id: 2292
+        url_poster: https://theposterdb.com/api/assets/187836
+
+        
+    "Clerks II (2006)":
+        year: 2006
+        title: "xxClerks IIx"
+        match:
+          mapping_id: 2295
+        url_poster: https://theposterdb.com/api/assets/187841
+
+        
+    "Clerks III (2022)":
+        year: 2022
+        title: "Clerks III"
+        match:
+          mapping_id: 635891
+        url_poster: https://theposterdb.com/api/assets/275817
+
+        
+    "The Nun (2018)":
+        year: 2018
+        title: "The Nun"
+        match:
+          mapping_id: 439079
+        url_poster: https://theposterdb.com/api/assets/175578
+
+        
+    "Annabelle: Creation (2017)":
+        year: 2017
+        title: "Annabelle: Creation"
+        match:
+          mapping_id: 396422
+        url_poster: https://theposterdb.com/api/assets/175577
+
+        
+    "The Conjuring (2013)":
+        year: 2013
+        title: "The Conjuring"
+        match:
+          mapping_id: 138843
+        url_poster: https://theposterdb.com/api/assets/175574
+
+        
+    "The Conjuring: The Devil Made Me Do It (2021)":
+        year: 2021
+        title: "The Conjuring: The Devil Made Me Do It"
+        match:
+          mapping_id: 423108
+        url_poster: https://theposterdb.com/api/assets/175581
+
+        
+    "Annabelle Comes Home (2019)":
+        year: 2019
+        title: "Annabelle Comes Home"
+        match:
+          mapping_id: 521029
+        url_poster: https://theposterdb.com/api/assets/175580
+
+        
+    "Annabelle (2014)":
+        year: 2014
+        title: "Annabelle"
+        match:
+          mapping_id: 250546
+        url_poster: xxxxxx
+
+        
+    "The Conjuring 2 (2016)":
+        year: 2016
+        title: "The Conjuring 2"
+        match:
+          mapping_id: 259693
+        url_poster: xxhttps://theposterdb.com/api/assets/175576xxxx
+
+        
+    "The Curse of La Llorona (2019)":
+        year: 2019
+        title: "The Curse of La Llorona"
+        match:
+          mapping_id: 480414
+        url_poster: https://theposterdb.com/api/assets/289492
+
+        
+    "Constantine (2005)":
+        year: 2005
+        title: "Constantine"
+        match:
+          mapping_id: 561
+        url_poster: https://theposterdb.com/api/assets/171582
+
+        
+    "Deadpool (2016)":
+        year: 2016
+        title: "Deadpool"
+        match:
+          mapping_id: 293660
+        url_poster: https://theposterdb.com/api/assets/171134
+
+        
+    "Once Upon a Deadpool (2018)":
+        year: 2018
+        title: "Once Upon a Deadpool"
+        match:
+          mapping_id: 567604
+        url_poster: https://theposterdb.com/api/assets/171136
+        
+        
+    "Deadpool 2 (2018)":
+        year: 2018
+        title: "Deadpool 2"
+        match:
+          mapping_id: 383498
+        url_poster: https://theposterdb.com/api/assets/171135
+
+        
+    "Dumb and Dumberer: When Harry Met Lloyd (2003)":
+        year: 2003
+        title: "Dumb and Dumberer: When Harry Met Lloyd"
+        match:
+          mapping_id: 10152
+        url_poster: https://theposterdb.com/api/assets/193763
+
+        
+    "Elite Squad (2007)":
+        year: 2007
+        title: "Elite Squad"
+        match:
+          mapping_id: 7347
+        url_poster: https://theposterdb.com/api/assets/211180
+
+        
+    "Elite Squad: The Enemy Within (2010)":
+        year: 2010
+        title: "Elite Squad: The Enemy Within"
+        match:
+          mapping_id: 47931
+        url_poster: https://theposterdb.com/api/assets/211181
+
+        
+    "The Equalizer (2014)":
+        year: 2014
+        title: "The Equalizer"
+        match:
+          mapping_id: 156022
+        url_poster: https://theposterdb.com/api/assets/200761
+
+        
+    "The Equalizer 2 (2018)":
+        year: 2018
+        title: "The Equalizer 2"
+        match:
+          mapping_id: 345887
+        url_poster: https://theposterdb.com/api/assets/200762
+
+        
+    "The Equalizer 3 (2023)":
+        year: 2023
+        title: "The Equalizer 3"
+        match:
+          mapping_id: 926393
+        url_poster: https://theposterdb.com/api/assets/410266
+
+        
+    "Max 2: White House Hero (2017)":
+        year: 2017
+        title: "Max 2: White House Hero"
+        match:
+          mapping_id: 446829
+        url_poster: https://theposterdb.com/api/assets/442940
+        
+    "8-Bit Christmas (2021)":
+        year: 2021
+        title: "8-Bit Christmas"
+        match:
+          mapping_id: 802217
+        url_poster: https://theposterdb.com/api/assets/192767
+        
+    "Bad Santa (2003)":
+        year: 2003
+        title: "Bad Santa"
+        match:
+          mapping_id: 10147
+        url_poster: https://theposterdb.com/api/assets/189965
+
+        
+    "Bad Santa 2 (2016)":
+        year: 2016
+        title: "Bad Santa 2"
+        match:
+          mapping_id: 338964
+        url_poster: https://theposterdb.com/api/assets/189966
+
+        
+    "The Christmas Chronicles (2018)":
+        year: 2018
+        title: "The Christmas Chronicles"
+        match:
+          mapping_id: 527435
+        url_poster: https://theposterdb.com/api/assets/189963
+
+        
+    "The Christmas Chronicles: Part Two (2020)":
+        year: 2020
+        title: "The Christmas Chronicles: Part Two"
+        match:
+          mapping_id: 654028
+        url_poster: https://theposterdb.com/api/assets/189964
+
+        
+    "Elf (2003)":
+        year: 2003
+        title: "Elf"
+        match:
+          mapping_id: 10719
+        url_poster: https://theposterdb.com/api/assets/190414
+
+        
+    "Four Christmases (2008)":
+        year: 2008
+        title: "Four Christmases"
+        match:
+          mapping_id: 12193
+        url_poster: https://theposterdb.com/api/assets/190417
+
+        
+    "Gremlins (1984)":
+        year: 1984
+        title: "Gremlins"
+        match:
+          mapping_id: 927
+        url_poster: https://theposterdb.com/api/assets/174790
+
+        
+    "Gremlins 2: The New Batch (1990)":
+        year: 1990
+        title: "Gremlins 2: The New Batch"
+        match:
+          mapping_id: 928
+        url_poster: https://theposterdb.com/api/assets/174791
+
+        
+    "The Guardians of the Galaxy Holiday Special (2022)":
+        year: 2022
+        title: "The Guardians of the Galaxy Holiday Special"
+        match:
+          mapping_id: 774752
+        url_poster: https://theposterdb.com/api/assets/291178
+
+        
+    "Home Alone (1990)":
+        year: 1990
+        title: "Home Alone"
+        match:
+          mapping_id: 771
+        url_poster: https://theposterdb.com/api/assets/190427
+
+        
+    "Home Alone 2: Lost in New York (1992)":
+        year: 1992
+        title: "Home Alone 2: Lost in New York"
+        match:
+          mapping_id: 772
+        url_poster: https://theposterdb.com/api/assets/190428
+
+        
+    "Home Alone 3 (1997)":
+        year: 1997
+        title: "Home Alone 3"
+        match:
+          mapping_id: 9714
+        url_poster: https://theposterdb.com/api/assets/190429
+
+        
+    "Home Alone 4 (2002)":
+        year: 2002
+        title: "Home Alone 4"
+        match:
+          mapping_id: 12536
+        url_poster: https://theposterdb.com/api/assets/190430
+
+        
+    "Home Alone: The Holiday Heist (2012)":
+        year: 2012
+        title: "Home Alone: The Holiday Heist"
+        match:
+          mapping_id: 134375
+        url_poster: https://theposterdb.com/api/assets/190431
+
+        
+    "Home Sweet Home Alone (2021)":
+        year: 2021
+        title: "Home Sweet Home Alone"
+        match:
+          mapping_id: 654974
+        url_poster: https://theposterdb.com/api/assets/190432
+        
+    "Just Friends (2005)":
+        year: 2005
+        title: "Just Friends"
+        match:
+          mapping_id: 10033
+        url_poster: https://theposterdb.com/api/assets/247003
+        
+    "Love Actually (2003)":
+        year: 2003
+        title: "Love Actually"
+        match:
+          mapping_id: 508
+        url_poster: https://theposterdb.com/api/assets/190441
+        
+    "Vegas Vacation (1997)":
+        year: 1997
+        title: "Vegas Vacation"
+        match:
+          mapping_id: 11419
+        url_poster: https://theposterdb.com/api/assets/190028
+        
+    "National Lampoon's Christmas Vacation (1989)":
+        year: 1989
+        title: "National Lampoon's Christmas Vacation"
+        match:
+          mapping_id: 5825
+        url_poster: https://theposterdb.com/api/assets/190027
+        
+    "National Lampoon's European Vacation (1985)":
+        year: 1985
+        title: "National Lampoon's European Vacation"
+        match:
+          mapping_id: 11418
+        url_poster: https://theposterdb.com/api/assets/190026
+              
+    "National Lampoon's Vacation (1983)":
+        year: 1983
+        title: "National Lampoon's Vacation"
+        match:
+          mapping_id: 11153
+        url_poster: https://theposterdb.com/api/assets/190025
+              
+    "The Night Before (2015)":
+        year: 2015
+        title: "The Night Before"
+        match:
+          mapping_id: 296100
+        url_poster: https://theposterdb.com/api/assets/190452    
+                  
+    "Office Christmas Party (2016)":
+        year: 2016
+        title: "Office Christmas Party"
+        match:
+          mapping_id: 384682
+        url_poster: https://theposterdb.com/api/assets/190455
+                          
+    "ronin (1998)":
+        year: 1998
+        title: "ronin"
+        match:
+          mapping_id: 8195
+        url_poster: https://theposterdb.com/api/assets/194578
+                          
+    "The Shepherd (2023)":
+        year: 2023
+        title: "The Shepherd"
+        match:
+          mapping_id: 1116488
+        url_poster: https://theposterdb.com/api/assets/439560
+                          
+    "Spoiler Alert (2022)":
+        year: 2022
+        title: "Spoiler Alert"
+        match:
+          mapping_id: 507903
+        url_poster: https://theposterdb.com/api/assets/312261
+                          
+    "There's Something in the Barn (2023)":
+        year: 2023
+        title: "There's Something in the Barn"
+        match:
+          mapping_id: 956920
+        url_poster: https://theposterdb.com/api/assets/442254
+                          
+    "Violent Night (2022)":
+        year: 2022
+        title: "Violent Night"
+        match:
+          mapping_id: 899112
+        url_poster: https://theposterdb.com/api/assets/300805
+
+
+   
