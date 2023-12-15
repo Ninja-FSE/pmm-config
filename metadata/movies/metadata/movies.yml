@@ -1333,7 +1333,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/186141
 
         
-    "American Pie Presents: Beta House (xxxx)":
+    "American Pie Presents: Beta House (2008)":
         year: 2008
         title: "American Pie Presents: Beta House"
         match:
@@ -1522,7 +1522,7 @@ metadata:
         title: "Annabelle"
         match:
           mapping_id: 250546
-        url_poster: xxxxxx
+        url_poster: https://theposterdb.com/api/assets/175575
 
         
     "The Conjuring 2 (2016)":
@@ -1530,7 +1530,7 @@ metadata:
         title: "The Conjuring 2"
         match:
           mapping_id: 259693
-        url_poster: xxhttps://theposterdb.com/api/assets/175576xxxx
+        url_poster: https://theposterdb.com/api/assets/175576
 
         
     "The Curse of La Llorona (2019)":
@@ -1868,7 +1868,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/439693
 
         
-    "Wanted Man (xxxx)":
+    "Wanted Man (2024)":
         year: 2024
         title: "Wanted Man"
         match:
@@ -1897,3 +1897,11 @@ metadata:
         match:
           mapping_id: 1020006
         url_poster: https://theposterdb.com/api/assets/432076
+
+        
+    "The Abyss (1989)":
+        year: 1989
+        title: "The Abyss"
+        match:
+          mapping_id: 2756
+        url_poster: https://theposterdb.com/api/assets/186793
