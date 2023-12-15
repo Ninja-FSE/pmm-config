@@ -19,6 +19,7 @@ then under your TV Library, metadata_path add
 ```yaml
 - repo: metadata/tv/tvshows
 ```
+
 ```yaml
 - repo: overlays/subtitles
 ``` # This is adding the Swedish flags if PMM finds Swedish subtitles
@@ -28,6 +29,7 @@ then under your Movie Library, metadata_path add
 ```yaml
 -repo: metadata/movies/movies
 ```
+
 ```yaml
 - repo: overlays/subtitles
 ``` # This is adding the Swedish flags if PMM finds Swedish subtitles
