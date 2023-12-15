@@ -4,7 +4,7 @@ If you dont want to use the ```- repo: ``` in your pmm config you can git clone 
 
 Both ```tvshows.yml``` and ```shows``` are updated at the same time!
 
-# Request new shows using ```Issues``` or create a ```Pull Request```
+# Request new shows using ```Issues```
 ## Use this Template
 
 ```
@@ -25,3 +25,6 @@ Both ```tvshows.yml``` and ```shows``` are updated at the same time!
             2:
                 url_poster: https://theposterdb.com/api/assets/349098
 ```
+
+
+Dont forget to use code brackets or the formating will be wrong!!
