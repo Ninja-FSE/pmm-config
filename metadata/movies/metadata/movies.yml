@@ -1905,3 +1905,10 @@ metadata:
         match:
           mapping_id: 2756
         url_poster: https://theposterdb.com/api/assets/186793
+  
+    "The Island (2023)":
+        year: 2023
+        title: "The Island"
+        match:
+          mapping_id: 1138749
+        url_poster: https://theposterdb.com/api/assets/421935
