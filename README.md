@@ -34,7 +34,7 @@ then under your Movie Library, metadata_path add
 ```yaml
 ###################################################################
 #                                                                 #
-#  TV-Shows Your Request Show/Movie (YEAR)                        #
+#  Your Request Show/Movie (YEAR)                                 #
 #                                                                 #
 ###################################################################
     "Your Request show (YEAR)": # TV Show Name
