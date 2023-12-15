@@ -1,10 +1,10 @@
 metadata:
-    "57 Seconds (2023)":
-        year: 2023
-        title: "57 Seconds"
+    "Abigail (2019)":
+        year: 2019
+        title: "Abigail"
         match:
-          mapping_id: 937249
-        url_poster: https://theposterdb.com/api/assets/416583
+          mapping_id: 575094
+        url_poster: https://theposterdb.com/api/assets/440580
         # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260
         # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Days%20to%20Kill&category=Movies&year_filter=equals&yone=2014&tmdb_id=192102&imdb_id=tt2172934&tvdb_id=1260
         # tmdb: https://www.themoviedb.org/movie/192102
