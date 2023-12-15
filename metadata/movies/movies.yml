@@ -1745,3 +1745,1906 @@ metadata:
         match:
           mapping_id: 1138749
         url_poster: https://theposterdb.com/api/assets/421935
+
+    "57 Seconds (2023)":
+        year: 2023
+        title: "57 Seconds"
+        match:
+          mapping_id: 937249
+        url_poster: https://theposterdb.com/api/assets/416583
+
+    "A Quiet Place (2018)":
+        year: 2018
+        title: "A Quiet Place"
+        match:
+          mapping_id: 758323
+        url_poster: https://theposterdb.com/api/assets/160981
+
+    "A Quiet Place Part II (2021)":
+        year: 2021
+        title: "A Quiet Place Part II"
+        match:
+          mapping_id: 758323
+        url_poster: https://theposterdb.com/api/assets/173414
+
+    "Abigail (2019)":
+        year: 2019
+        title: "Abigail"
+        match:
+          mapping_id: 575094
+        url_poster: https://theposterdb.com/api/assets/440580
+
+    "Accident Man 2 (2022)":
+        year: 2022
+        title: "Accident Man 2"
+        match:
+          mapping_id: 879444
+        url_poster: https://theposterdb.com/api/assets/291157
+
+    "After (2019)":
+        year: 2019
+        title: "After"
+        match:
+          mapping_id: 537915
+        url_poster: https://theposterdb.com/api/assets/198637
+
+
+    "After We Collided (2020)":
+        year: 2020
+        title: "After We Collided"
+        match:
+          mapping_id: 613504
+        url_poster: https://theposterdb.com/api/assets/198228
+
+
+    "After We Fell (2021)":
+        year: 2021
+        title: "After We Fell"
+        match:
+          mapping_id: 744275
+        url_poster: https://theposterdb.com/api/assets/205009
+
+
+    "After Ever Happy (2022)":
+        year: 2022
+        title: "After Ever Happy"
+        match:
+          mapping_id: 744276
+        url_poster: https://theposterdb.com/api/assets/268279
+
+
+    "After Everything (2023)":
+        year: 2023
+        title: "After Everything"
+        match:
+          mapping_id: 820525
+        url_poster: https://theposterdb.com/api/assets/410562
+
+    "Alita: Battle Angel (2019)":
+        year: 2019
+        title: "Alita: Battle Angel"
+        match:
+          mapping_id: 399579
+        url_poster: https://theposterdb.com/api/assets/183813
+
+    "Ant-Man (2015)":
+        year: 2015
+        title: "Ant-Man"
+        match:
+          mapping_id: 102899
+        url_poster: https://theposterdb.com/api/assets/170956
+
+    "Ant-Man and the Wasp (2018)":
+        year: 2018
+        title: "Ant-Man and the Wasp"
+        match:
+          mapping_id: 363088
+        url_poster: https://theposterdb.com/api/assets/170964
+
+    "Ant-Man and the Wasp: Quantumania (2023)":
+        year: 2023
+        title: "Ant-Man and the Wasp: Quantumania"
+        match:
+          mapping_id: 640146
+        url_poster: https://theposterdb.com/api/assets/297409
+
+    "Aquaman (2018)":
+        year: 2018
+        title: "Aquaman"
+        match:
+          mapping_id: 297802
+        url_poster: https://theposterdb.com/api/assets/171548
+
+    "Aquaman and the Lost Kingdom (2023)":
+        year: 2023
+        title: "Aquaman and the Lost Kingdom"
+        match:
+          mapping_id: 572802
+        url_poster: https://theposterdb.com/api/assets/171548
+
+    "Austin Powers in Goldmember (2002)":
+        year: 2002
+        title: "Austin Powers in Goldmember"
+        match:
+          mapping_id: 818
+        url_poster: https://theposterdb.com/api/assets/190879
+
+    "Austin Powers: International Man of Mystery (1997)":
+        year: 1997
+        title: "Austin Powers: International Man of Mystery"
+        match:
+          mapping_id: 816
+        url_poster: https://theposterdb.com/api/assets/190877
+
+    "Austin Powers: The Spy Who Shagged Me (1999)":
+        year: 1999
+        title: "Austin Powers: The Spy Who Shagged Me"
+        match:
+          mapping_id: 817
+        url_poster: https://theposterdb.com/api/assets/190878
+
+    "Avatar (2009)":
+        year: 2009
+        title: "Avatar"
+        match:
+          mapping_id: 19995
+        url_poster: https://theposterdb.com/api/assets/187633
+
+    "Avatar: The Way of Water (2022)":
+        year: 2022
+        title: "Avatar: The Way of Water"
+        match:
+          mapping_id: 76600
+        url_poster: https://theposterdb.com/api/assets/291316
+
+    "The Avengers (2012)":
+        year: 2012
+        title: "The Avengers"
+        match:
+          mapping_id: 24428
+        url_poster: https://theposterdb.com/api/assets/170950
+
+    "Avengers: Age of Ultron (2015)":
+        year: 2015
+        title: "Avengers: Age of Ultron"
+        match:
+          mapping_id: 99861
+        url_poster: https://theposterdb.com/api/assets/170955
+
+    "Avengers: Infinity War (2018)":
+        year: 2018
+        title: "Avengers: Infinity War"
+        match:
+          mapping_id: 299536
+        url_poster: https://theposterdb.com/api/assets/170963
+
+    "Avengers: Endgame (2019)":
+        year: 2019
+        title: "Avengers: Endgame"
+        match:
+          mapping_id: 299534
+        url_poster: https://theposterdb.com/api/assets/170966
+
+    "Avengers: The Kang Dynasty (2026)":
+        year: 2026
+        title: "Avengers: The Kang Dynasty"
+        match:
+          mapping_id: 1003596
+
+    "Avengers: Secret Wars (2027)":
+        year: 2027
+        title: "Avengers: Secret Wars"
+        match:
+          mapping_id: 1003598
+
+    "Ballerina (2023)":
+        year: 2023
+        title: "Ballerina"
+        match:
+          mapping_id: 961268
+        url_poster: https://theposterdb.com/api/assets/423050
+
+    "Beck 50 (2023)":
+        year: 2023
+        title: "Beck 50 - Deadlock"
+        match:
+          mapping_id: 1037367
+        #url_poster: https://theposterdb.com/api/assets/200126
+
+    "Beck 49 (2023)":
+        year: 2023
+        title: "Beck 50 - Inferno"
+        match:
+          mapping_id: 1037365
+        #url_poster: https://theposterdb.com/api/assets/200126
+
+    "Beck 48 (2023)":
+        year: 2023
+        title: "Beck 50 - Quid Pro Quo"
+        match:
+          mapping_id: 1037360
+        #url_poster: https://theposterdb.com/api/assets/200126
+
+    "Bird Box: Barcelona (2023)":
+        year: 2023
+        title: "Bird Box: Barcelona"
+        match:
+          mapping_id: 805320
+        url_poster: https://theposterdb.com/api/assets/385630
+
+    "Black Panther (2018)":
+        year: 2018
+        title: "Black Panther"
+        match:
+          mapping_id: 284054
+        url_poster: https://theposterdb.com/api/assets/170962
+
+    "Black Panther: Wakanda Forever (2022)":
+        year: 2022
+        title: "Black Panther: Wakanda Forever"
+        match:
+          mapping_id: 505642
+        url_poster: https://theposterdb.com/api/assets/279102
+
+    "Blade (2025)":
+        year: 2025
+        title: "Blade"
+        match:
+          mapping_id: 617127
+        #url_poster: https://theposterdb.com/api/assets/200126
+
+    "Blade Runner (1982)":
+        year: 1982
+        title: "Blade Runner"
+        match:
+          mapping_id: 78
+        url_poster: https://theposterdb.com/api/assets/184335
+
+    "Dangerous Days: Making Blade Runner (2007)":
+        year: 2007
+        title: "Dangerous Days: Making Blade Runner"
+        match:
+          mapping_id: 57656
+        url_poster: https://theposterdb.com/api/assets/184339
+
+    "Blade Runner 2049 (2017)":
+        year: 2017
+        title: "Blade Runner 2049"
+        match:
+          mapping_id: 335984
+        url_poster: https://theposterdb.com/api/assets/184338
+
+    "Blue Beetle (2023)":
+        year: 2023
+        title: "Blue Beetle"
+        match:
+          mapping_id: 565770
+        url_poster: https://theposterdb.com/api/assets/297416
+
+    "Bohemian Rhapsody (2018)":
+        year: 2018
+        title: "Bohemian Rhapsody"
+        match:
+          mapping_id: 424694
+        url_poster: https://theposterdb.com/api/assets/195774
+
+    "Bones of Crows (2023)":
+        year: 2023
+        title: "Bones of Crows"
+        match:
+          mapping_id: 1005814
+        url_poster: https://theposterdb.com/api/assets/412644
+
+    "Braven (2018)":
+        year: 2018
+        title: "Braven"
+        match:
+          mapping_id: 459910
+        url_poster: https://theposterdb.com/api/assets/200527
+
+    "Candyman: Day of the Dead (1999)":
+        year: 1999
+        title: "Candyman: Day of the Dead"
+        match:
+          mapping_id: 12485
+        url_poster: https://theposterdb.com/api/assets/176380
+
+    "Candyman":
+        year: 1992
+        title: "Candyman"
+        match:
+          mapping_id: 9529
+        url_poster: https://theposterdb.com/api/assets/176378
+
+    "Candyman: Farewell to the flesh (1995)":
+        year: 1995
+        title: "Candyman: Farewerll to the Flesh"
+        match:
+          mapping_id: 10824
+        url_poster: https://theposterdb.com/api/assets/176379
+
+    "Candyman (2021)":
+        year: 2021
+        title: "Candyman"
+        match:
+          mapping_id: 565028
+        url_poster: https://theposterdb.com/api/assets/176381
+
+    "Captain America: The First Avenger (2011)":
+        year: 2011
+        title: "Captain America: The First Avenger"
+        match:
+          mapping_id: 1771
+        url_poster: https://theposterdb.com/api/assets/170949
+
+    "Captain America: The Winter Soldier (2014)":
+        year: 2014
+        title: "Captain America: The Winter Soldier"
+        match:
+          mapping_id: 100402
+        url_poster: https://theposterdb.com/api/assets/170953
+
+    "Captain America: Civil War (2016)":
+        year: 2016
+        title: "Captain America: Civil War"
+        match:
+          mapping_id: 271110
+        url_poster: https://theposterdb.com/api/assets/170957
+
+    "Captain America: Brave New World (2025)":
+        year: 2025
+        title: "Captain America: Brave New World"
+        match:
+          mapping_id: 822119
+        #url_poster: https://theposterdb.com/api/assets/170957
+
+    "Chevalier (2023)":
+        year: 2023
+        title: "Chevalier"
+        match:
+          mapping_id: 812635
+        url_poster: https://theposterdb.com/api/assets/379954
+
+    "Cobweb (2023)":
+        year: 2023
+        title: "Cobweb"
+        match:
+          mapping_id: 709631
+        url_poster: https://theposterdb.com/api/assets/389605
+
+    "Crank (2006)":
+        year: 2006
+        title: "Crank"
+        match:
+          mapping_id: 1948
+        url_poster: https://theposterdb.com/api/assets/213435
+
+    "Darkland: The Return (2023)":
+        year: 2023
+        title: "Darkland: The Return"
+        match:
+          mapping_id: 1085218
+        url_poster: https://theposterdb.com/api/assets/416197
+
+    "Deadpool 3 (2024)":
+        year: 2024
+        title: "Deadpool 3"
+        match:
+          mapping_id: 533535
+
+    "Disney's Snow White (2025)":
+        year: 2025
+        title: "Disney's Snow White"
+        match:
+          mapping_id: 447273
+        #url_poster: https://theposterdb.com/api/assets/395654
+
+    "Doctor Strange (2016)":
+        year: 2016
+        title: "Doctor Strange"
+        match:
+          mapping_id: 284052
+        url_poster: https://theposterdb.com/api/assets/170958
+
+    "Doctor Strange in the Multiverse of Madness (2022)":
+        year: 2022
+        title: "Doctor Strange in the Multiverse of Madness"
+        match:
+          mapping_id: 453395
+        url_poster: https://theposterdb.com/api/assets/200217
+
+    "Dominion: Prequel to The Exorcist (2005)":
+        year: 2005
+        title: "Dominion: Prequel to The Exorcist"
+        match:
+          mapping_id: 12700
+        url_poster: https://theposterdb.com/api/assets/177162
+
+    "Dune (1984)":
+        year: 1984
+        title: "Dune"
+        match:
+          mapping_id: 841
+        url_poster: https://theposterdb.com/api/assets/186188
+
+    "Dune (2021)":
+        year: 2021
+        title: "Dune"
+        match:
+          mapping_id: 438631
+        url_poster: https://theposterdb.com/api/assets/186187
+
+    "Dune: Part Two (2024)":
+        year: 2024
+        title: "Dune: Part Two"
+        match:
+          mapping_id: 693134
+        url_poster: https://theposterdb.com/api/assets/414894
+
+    "Dungeons & Dragons: Honor Among Thieves (2023)":
+        year: 2023
+        title: "Dungeons & Dragons: Honor Among Thieves"
+        match:
+          mapping_id: 493529
+        url_poster: https://theposterdb.com/api/assets/297422
+
+    "The Exorcist (1973)":
+        year: 1973
+        title: "The Exorcist"
+        match:
+          mapping_id: 9552
+        url_poster: https://theposterdb.com/api/assets/177158
+
+    "Exorcist II: The Heretic (1977)":
+        year: 1977
+        title: "Exorcist II: The Heretic"
+        match:
+          mapping_id: 11586
+        url_poster: https://theposterdb.com/api/assets/177159
+
+    "The Exorcist III (1990)":
+        year: 1990
+        title: "The Exorcist III"
+        match:
+          mapping_id: 11587
+        url_poster: https://theposterdb.com/api/assets/177160
+
+    "Exorcist: The Beginning (2004)":
+        year: 2004
+        title: "Exorcist: The Beginning"
+        match:
+          mapping_id: 11026
+        url_poster: https://theposterdb.com/api/assets/177161
+
+    "The Exorcist: Believer (2023)":
+        year: 2023
+        title: "The Exorcist: Believer"
+        match:
+          mapping_id: 807172
+        url_poster: https://theposterdb.com/api/assets/389106
+
+    "The Exorcist: Deceiver (2025)":
+        year: 2025
+        title: "The Exorcist: Deceiver"
+        match:
+          mapping_id: 1156227
+        url_poster: https://theposterdb.com/api/assets/389106
+
+    "The Expendables (2010)":
+        year: 2010
+        title: "The Expendables"
+        sort_title: "Expendables"
+        match:
+          mapping_id: 27578
+        url_poster: https://theposterdb.com/api/assets/191142
+
+    "The Expendables 2 (2012)":
+        year: 2012
+        title: "The Expendables 2"
+        sort_title: "Expendables 2"
+        match:
+          mapping_id: 76163
+        url_poster: https://theposterdb.com/api/assets/191143
+
+    "The Expendables 3 (2014)":
+        year: 2014
+        title: "The Expendables 3"
+        sort_title: "Expendables 3"
+        match:
+          mapping_id: 138103
+        url_poster: https://theposterdb.com/api/assets/191144
+
+    "Expend4bles (2023)":
+        year: 2023
+        title: "Expend4bles"
+        match:
+          mapping_id: 299054
+        url_poster: https://theposterdb.com/api/assets/402094
+
+    "Extraction (2020)":
+        year: 2020
+        title: "Extraction"
+        match:
+          mapping_id: 545609
+        url_poster: https://theposterdb.com/api/assets/198407
+
+    "Extraction 2 (2023)":
+        year: 2023
+        title: "Extraction 2"
+        match:
+          mapping_id: 697843
+        url_poster: https://theposterdb.com/api/assets/371734
+
+    "Fantastic Beast: And Where To Find Them (2016)":
+        year: 2016
+        title: "Fantastic Beasts and Where to Find Them"
+        match:
+          mapping_id: 259316
+        url_poster: https://theposterdb.com/api/assets/173774
+
+    "Fantastic Beasts: The Crimes of Grindelwald (2018)":
+        year: 2018
+        title: "Fantastic Beasts: The Crimes of Grindelwald"
+        match:
+          mapping_id: 338952
+        url_poster: https://theposterdb.com/api/assets/173775
+
+    "Fantastic Beasts: The Secrets of Dumbledore (2022)":
+        year: 2022
+        title: "Fantastic Beasts: The Secrets of Dumbledore"
+        match:
+          mapping_id: 338953
+        url_poster: https://theposterdb.com/api/assets/234917
+
+    "The Fast and the Furious (2001)":
+        year: 2001
+        title: "The Fast and the Furious"
+        sort_title: "Fast and the Furious - 1"
+        match:
+          mapping_id: 9799
+        url_poster: https://theposterdb.com/api/assets/173861
+
+    "2 Fast 2 Furious (2003)":
+        year: 2003
+        title: "2 Fast 2 Furious"
+        sort_title: "Fast and the Furious - 2"
+        match:
+          mapping_id: 584
+        url_poster: https://theposterdb.com/api/assets/173862
+
+    "The Fast and the Furious: Tokyo Drift (2006)":
+        year: 2006
+        title: "The Fast and the Furious: Tokyo Drift"
+        sort_title: "Fast and the Furious - 3"
+        match:
+          mapping_id: 9615
+        url_poster: https://theposterdb.com/api/assets/173863
+
+    "Fast & Furious (2009)":
+        year: 2009
+        title: "Fast & Furious"
+        sort_title: "Fast and the Furious - 4"
+        match:
+          mapping_id: 13804
+        url_poster: https://theposterdb.com/api/assets/173864
+
+    "Fast Five (2011)":
+        year: 2011
+        title: "Fast Five"
+        sort_title: "Fast and the Furious - 5"
+        match:
+          mapping_id: 51497
+        url_poster: https://theposterdb.com/api/assets/173865
+
+    "Fast & Furious 6 (2013)":
+        year: 2013
+        title: "Fast & Furious 6"
+        sort_title: "Fast and the Furious - 6"
+        match:
+          mapping_id: 82992
+        url_poster: https://theposterdb.com/api/assets/173866
+
+    "Furious 7 (2015)":
+        year: 2015
+        title: "Furious 7"
+        sort_title: "Fast and the Furious - 7"
+        match:
+          mapping_id: 168259
+        url_poster: https://theposterdb.com/api/assets/173867
+
+    "The Fate of the Furious (2017)":
+        year: 2017
+        title: "The Fate of the Furious"
+        sort_title: "Fate of the Furious"
+        match:
+          mapping_id: 337339
+        url_poster: https://theposterdb.com/api/assets/173868
+
+    "Fast & Furious Presents: Hobbs & Shaw (2019)":
+        year: 2019
+        title: "Fast & Furious Presents: Hobbs & Shaw"
+        sort_title: "Fast and the Furious - 9"
+        match:
+          mapping_id: 384018
+        url_poster: https://theposterdb.com/api/assets/173869
+
+    "F9: The Fast Saga (2021)":
+        year: 2021
+        title: "F9: The Fast Saga"
+        match:
+          mapping_id: 385128
+        url_poster: https://theposterdb.com/api/assets/173870
+
+    "Fast X (2023)":
+        year: 2023
+        title: "Fast X"
+        match:
+          mapping_id: 385687
+        url_poster: https://theposterdb.com/api/assets/368983
+
+    "Flamin' Hot (2023)":
+        year: 2023
+        title: "Flamin' Hot"
+        match:
+          mapping_id: 626332
+        url_poster: https://theposterdb.com/api/assets/371730
+
+    "Ghosted (2023)":
+        year: 2023
+        title: "Ghosted"
+        match:
+          mapping_id: 868759
+        url_poster: https://theposterdb.com/api/assets/352527
+
+    "Gran Turismo (2023)":
+        year: 2023
+        title: "Gran Turismo"
+        match:
+          mapping_id: 980489
+        url_poster: https://theposterdb.com/api/assets/395634
+
+    "Guardians of the Galaxy (2014)":
+        year: 2014
+        title: "Guardians of the Galaxy"
+        match:
+          mapping_id: 118340
+        url_poster: https://theposterdb.com/api/assets/170954
+
+    "Guardians of the Galaxy Vol. 2 (2017)":
+        year: 2017
+        title: "Guardians of the Galaxy Vol. 2"
+        match:
+          mapping_id: 283995
+        url_poster: https://theposterdb.com/api/assets/170959
+
+    "Guardians of the Galaxy Vol. 3 (2023)":
+        year: 2023
+        title: "Guardians of the Galaxy Vol. 3"
+        match:
+          mapping_id: 447365
+        url_poster: https://theposterdb.com/api/assets/297410
+
+    "Harry Potter and the Philosopher's Stone (2001)":
+        year: 2001
+        title: "Harry Potter and the Philosopher's Stone"
+        match:
+          mapping_id: 671
+        url_poster: https://theposterdb.com/api/assets/173813
+
+    "Harry Potter and the Chamber of Secrets (2002)":
+        year: 2002
+        title: "Harry Potter and the Chamber of Secrets"
+        match:
+          mapping_id: 672
+        url_poster: https://theposterdb.com/api/assets/173814
+
+    "Harry Potter and the Prisoner of Azkaban (2004)":
+        year: 2004
+        title: "Harry Potter and the Prisoner of Azkaban"
+        match:
+          mapping_id: 673
+        url_poster: https://theposterdb.com/api/assets/173815
+
+    "Harry Potter and the Goblet of Fire (2005)":
+        year: 2005
+        title: "Harry Potter and the Goblet of Fire"
+        match:
+          mapping_id: 674
+        url_poster: https://theposterdb.com/api/assets/173816
+
+    "Harry Potter and the Order of the Phoenix (2007)":
+        year: 2007
+        title: "Harry Potter and the Order of the Phoenix"
+        match:
+          mapping_id: 675
+        url_poster: https://theposterdb.com/api/assets/173817
+
+    "Harry Potter and the Half-Blood Prince (2009)":
+        year: 2009
+        title: "Harry Potter and the Half-Blood Prince"
+        match:
+          mapping_id: 767
+        url_poster: https://theposterdb.com/api/assets/173818
+
+    "Harry Potter and the Deathly Hallows: Part 1 (2010)":
+        year: 2010
+        title: "Harry Potter and the Deathly Hallows: Part 1"
+        match:
+          mapping_id: 12444
+        url_poster: https://theposterdb.com/api/assets/173819
+
+    "Harry Potter and the Deathly Hallows: Part 2 (2011)":
+        year: 2011
+        title: "Harry Potter and the Deathly Hallows: Part 2"
+        match:
+          mapping_id: 12445
+        url_poster: https://theposterdb.com/api/assets/173820
+
+    "Haunted Mansion (2023)":
+        year: 2023
+        title: "Haunted Mansion"
+        match:
+          mapping_id: 616747
+        url_poster: https://theposterdb.com/api/assets/362518
+
+    "Heart of Stone (2023)":
+        year: 2023
+        title: "Heart of Stone"
+        match:
+          mapping_id: 724209
+        url_poster: https://theposterdb.com/api/assets/395653
+
+    "Hidden Strike (2023)":
+        year: 2023
+        title: "Hidden Strike"
+        match:
+          mapping_id: 457332
+        url_poster: https://theposterdb.com/api/assets/390721
+
+    "How High (2001)":
+        year: 2001
+        title: "How High"
+        match:
+          mapping_id: 8386
+        url_poster: https://theposterdb.com/api/assets/385912
+
+    "How High 2 (2019)":
+        year: 2019
+        title: "How High 2"
+        match:
+          mapping_id: 532327
+        #url_poster: https://theposterdb.com/api/assets/385912
+
+    "The Hunger Games (2012)":
+        year: 2012
+        title: "The Hunger Games"
+        sort_title: "Hunger Games"
+        match:
+          mapping_id: 70160
+        url_poster: https://theposterdb.com/api/assets/173434
+
+    "The Hunger Games: Catching Fire (2013)":
+        year: 2013
+        title: "The Hunger Games: Catching Fire"
+        sort_title: "Hunger Games: Catching Fire"
+        match:
+          mapping_id: 101299
+        url_poster: https://theposterdb.com/api/assets/173435
+
+    "The Hunger Games: Mockingjay - Part 1 (2014)":
+        year: 2014
+        title: "The Hunger Games: Mockingjay - Part 1"
+        sort_title: "Hunger Games: Mockingjay - Part 1"
+        match:
+          mapping_id: 131631
+        url_poster: https://theposterdb.com/api/assets/173436
+
+    "The Hunger Games: Mockingjay - Part 2 (2015)":
+        year: 2015
+        title: "The Hunger Games: Mockingjay - Part 2"
+        sort_title: "Hunger Games: Mockingjay - Part 2"
+        match:
+          mapping_id: 131634
+        url_poster: https://theposterdb.com/api/assets/173437
+
+    "Hypnotic (2023)":
+        year: 2023
+        title: "Hypnotic"
+        match:
+          mapping_id: 536437
+        url_poster: https://theposterdb.com/api/assets/368984
+
+    "The Incredible Hulk (1977)":
+        year: 1977
+        title: "The Incredible Hulk"
+        match:
+          mapping_id: 65294
+        # url_poster: https://theposterdb.com/api/assets/
+
+    "The Incredible Hulk Returns (1988)":
+        year: 1988
+        title: "The Incredible Hulk Returns"
+        match:
+          mapping_id: 26881
+        # url_poster: https://theposterdb.com/api/assets/
+
+    "The Trial of the Incredible Hulk (1989)":
+        year: 1989
+        title: "The Trial of the Incredible Hulk"
+        match:
+          mapping_id: 26883
+        # url_poster: https://theposterdb.com/api/assets/
+
+    "The Death of the Incredible Hulk (1990)":
+        year: 1990
+        title: "The Death of the Incredible Hulk"
+        match:
+          mapping_id: 19593
+        # url_poster: https://theposterdb.com/api/assets/
+
+    "The Incredible Hulk (2008)":
+        year: 2008
+        title: "The Incredible Hulk"
+        match:
+          mapping_id: 1724
+        url_poster: https://theposterdb.com/api/assets/170946
+
+    "Indiana Jones and the Dial of Destiny (2023)":
+        year: 2023
+        title: "Indiana Jones and the Dial of Destiny"
+        match:
+          mapping_id: 335977
+        url_poster: https://theposterdb.com/api/assets/371771
+
+    "Iron Man (2008)":
+        year: 2008
+        title: "Iron Man"
+        match:
+          mapping_id: 1726
+        url_poster: https://theposterdb.com/api/assets/170945
+
+    "Iron Man 2 (2010)":
+        year: 2010
+        title: "Iron Man 2"
+        match:
+          mapping_id: 10138
+        url_poster: https://theposterdb.com/api/assets/170947
+
+    "Iron Man 3 (2013)":
+        year: 2013
+        title: "Iron Man 3"
+        match:
+          mapping_id: 68721
+        url_poster: https://theposterdb.com/api/assets/170951
+
+    "Iron Man 3 Unmasked (2013)":
+        year: 2013
+        match:
+          mapping_id: tt3212636
+          title:
+            - Iron Man 3 Unmasked
+            - Iron Man 3: Unmasked
+            - Iron Man 3: Unmasked (2013)
+        # url_poster: https://theposterdb.com/api/assets/
+
+    "Jagun Jagun (2023)":
+        year: 2023
+        title: "Jagun Jagun"
+        match:
+          mapping_id: 1163045
+        url_poster: https://theposterdb.com/api/assets/406949
+
+    "John Wick (2014)":
+        year: 2014
+        title: "John Wick"
+        match:
+          mapping_id: 245891
+        url_poster: https://theposterdb.com/api/assets/190883
+
+    "John Wick: Chapter 2 (2017)":
+        year: 2017
+        title: "John Wick: Chapter 2"
+        match:
+          mapping_id: 324552
+        url_poster: https://theposterdb.com/api/assets/190884
+
+    "John Wick: Chapter 3 - Parabellum (2019)":
+        year: 2019
+        title: "John Wick: Chapter 3 - Parabellum"
+        match:
+          mapping_id: 458156
+        url_poster: https://theposterdb.com/api/assets/190885
+
+    "John Wick: Chapter 4 (2023)":
+        year: 2023
+        title: "John Wick: Chapter 4"
+        match:
+          mapping_id: 603692
+        url_poster: https://theposterdb.com/api/assets/341223
+
+    "Johnny & Clyde (2023)":
+        year: 2023
+        title: "Johnny & Clyde"
+        match:
+          mapping_id: 857553
+        url_poster: https://theposterdb.com/api/assets/376072
+
+    "Jungle Cruise (2021)":
+        year: 2021
+        title: "Jungle Cruise"
+        match:
+          mapping_id: 451048
+        url_poster: https://theposterdb.com/api/assets/173315
+
+    "Jurassic Park (1993)":
+        year: 1993
+        title: "Jurassic Park"
+        match:
+          mapping_id: 329
+        url_poster: https://theposterdb.com/api/assets/179165
+
+    "Jurassic Park: The Lost World (1997)":
+        year: 1997
+        title: "Jurassic Park: The Lost World"
+        match:
+          mapping_id: 330
+        url_poster: https://theposterdb.com/api/assets/179166
+
+    "Jurassic Park III (2001)":
+        year: 2001
+        title: "Jurassic Park III"
+        match:
+          mapping_id: 331
+        url_poster: https://theposterdb.com/api/assets/179167
+
+    "Jurassic World (2015)":
+        year: 2015
+        title: "Jurassic World"
+        match:
+          mapping_id: 135397
+        url_poster: https://theposterdb.com/api/assets/179168
+
+    "Jurassic World: Fallen Kingdom (2018)":
+        year: 2018
+        title: "Jurassic World: Fallen Kingdom"
+        match:
+          mapping_id: 351286
+        url_poster: https://theposterdb.com/api/assets/179169
+
+    "Jurassic World Dominion (2022)":
+        year: 2022
+        title: "Jurassic World Dominion"
+        match:
+          mapping_id: 507086
+        url_poster: https://theposterdb.com/api/assets/242689
+
+    "Kandahar (2023)":
+        year: 2023
+        title: "Kandahar"
+        match:
+          mapping_id: 717930
+        url_poster: https://theposterdb.com/api/assets/371762
+
+    "Killers of the Flower Moon (2023)":
+        year: 2023
+        title: "Killers of the Flower Moon"
+        match:
+          mapping_id: 466420
+        url_poster: https://theposterdb.com/api/assets/424590
+
+    "Knights of the Zodiac (2023)":
+        year: 2023
+        title: "Knights of the Zodiac"
+        match:
+          mapping_id: 455476
+        url_poster: https://theposterdb.com/api/assets/372160
+
+    "The Hobbit: An Unexpected Journey (2012)":
+        year: 2012
+        title: "The Hobbit: An Unexpected Journey"
+        sort_title: "Hobbit: En oväntad resa"
+        match:
+          mapping_id: 49051
+        url_poster: https://theposterdb.com/api/assets/187487
+
+    "The Hobbit: The Desolation of Smaug (2013)":
+        year: 2013
+        title: "The Hobbit: The Desolation of Smaug"
+        sort_title: "Hobbit: Smaugs ödemark"
+        match:
+          mapping_id: 57158
+        url_poster: https://theposterdb.com/api/assets/187488
+
+    "The Hobbit: The Battle of the Five Armies (2014)":
+        year: 2014
+        title: "The Hobbit: The Battle of the Five Armies"
+        sort_title: "Hobbit: Femhäraslaget"
+        match:
+          mapping_id: 122917
+        url_poster: https://theposterdb.com/api/assets/187489
+
+    "The Hobbit (1977)":
+        year: 1977
+        title: "The Hobbit"
+        sort_title: "Hobbit"
+        match:
+          mapping_id: 1362
+        url_poster: https://theposterdb.com/api/assets/187491
+
+    "The Lord of the Rings (1978)":
+        year: 1978
+        title: "The Lord of the Rings"
+        sort_title: "Lord of the Rings"
+        match:
+          mapping_id: 123
+        url_poster: https://theposterdb.com/api/assets/187492
+
+    "The Return of the King (1980)":
+        year: 1980
+        title: "The Return of the King"
+        sort_title: "Return of the King"
+        match:
+          mapping_id: 1361
+        url_poster: https://theposterdb.com/api/assets/187493
+
+    "The Lord of the Rings: The Fellowship of the Ring (2001)":
+        year: 2001
+        title: "The Lord of the Rings: The Fellowship of the Ring"
+        sort_title: "Lord of the Rings: The Fellowship of the Ring"
+        match:
+          mapping_id: 120
+        url_poster: https://theposterdb.com/api/assets/184140
+
+    "The Lord of the Rings: The Two Towers (2002)":
+        year: 2002
+        title: "The Lord of the Rings: The Two Towers"
+        sort_title: "Lord of the Rings: The Two Towers"
+        match:
+          mapping_id: 121
+        url_poster: https://theposterdb.com/api/assets/184141
+
+    "The Lord of the Rings: The Return of the King (2003)":
+        year: 2003
+        title: "The Lord of the Rings: The Return of the King"
+        sort_title: "Lord of the Rings: The Return of the King"
+        match:
+          mapping_id: 122
+        url_poster: https://theposterdb.com/api/assets/184142
+
+    "Luther: The Fallen Sun (2023)":
+        year: 2023
+        title: "Luther: The Fallen Sun"
+        match:
+          mapping_id: 722149
+        url_poster: https://theposterdb.com/api/assets/331854
+
+    "The Matrix (1999)":
+        year: 1999
+        title: "The Matrix"
+        sort_title: "Matrix"
+        match:
+          mapping_id: 603
+        url_poster: https://theposterdb.com/api/assets/185524
+
+    "The Matrix Reloaded (2003)":
+        year: 2003
+        title: "The Matrix Reloaded"
+        sort_title: "Matrix Reloaded"
+        match:
+          mapping_id: 604
+        url_poster: https://theposterdb.com/api/assets/185526
+
+    "The Matrix Revolutions (2003)":
+        year: 2003
+        title: "The Matrix Revolutions"
+        sort_title: "Matrix Revolutions"
+        match:
+          mapping_id: 605
+        url_poster: https://theposterdb.com/api/assets/185527
+
+    "The Matrix Resurrections (2021)":
+        year: 2021
+        title: "The Matrix Resurrections"
+        sort_title: "Matrix Resurrections"
+        match:
+          mapping_id: 624860
+        url_poster: https://theposterdb.com/api/assets/190892
+
+    "Mission: Impossible (1996)":
+        year: 1996
+        title: "Mission: Impossible"
+        match:
+          mapping_id: 954
+        url_poster: https://theposterdb.com/api/assets/190909
+
+    "Mission: Impossible II (2000)":
+        year: 2000
+        title: "Mission: Impossible II"
+        match:
+          mapping_id: 955
+        url_poster: https://theposterdb.com/api/assets/190910
+
+    "Mission: Impossible III (2006)":
+        year: 2006
+        title: "Mission: Impossible III"
+        match:
+          mapping_id: 956
+        url_poster: https://theposterdb.com/api/assets/190911
+
+    "Mission: Impossible - Ghost Protocol (2011)":
+        year: 2011
+        title: "Mission: Impossible - Ghost Protocol"
+        match:
+          mapping_id: 56292
+        url_poster: https://theposterdb.com/api/assets/190912
+
+    "Mission: Impossible - Fallout (2018)":
+        year: 2018
+        title: "Mission: Impossible - Fallout"
+        match:
+          mapping_id: 353081
+        url_poster: https://theposterdb.com/api/assets/190914
+
+    "Mission: Impossible - Dead Reckoning Part One (2023)":
+        year: 2023
+        title: "Mission: Impossible - Dead Reckoning Part One"
+        match:
+          mapping_id: 575264
+        url_poster: https://theposterdb.com/api/assets/383235
+
+    "Morbius (2022)":
+        year: 2022
+        title: "Morbius"
+        sort_title: "Morbius"
+        match:
+          mapping_id: 526896
+        url_poster: https://theposterdb.com/api/assets/235669
+
+    "No Hard Feelings (2023)":
+        year: 2023
+        title: "No Hard Feelings"
+        match:
+          mapping_id: 884605
+        url_poster: https://theposterdb.com/api/assets/383230
+
+    "Nowhere (2023)":
+        year: 2023
+        title: "Nowhere"
+        match:
+          mapping_id: 1151534
+        url_poster: https://theposterdb.com/api/assets/416569
+
+    "Operation Fortune: Ruse de Guerre (2023)":
+        year: 2023
+        title: "Operation Fortune: Ruse de Guerre"
+        match:
+          mapping_id: 739405
+        url_poster: https://theposterdb.com/api/assets/331853
+
+    "Oppenheimer (2023)":
+        year: 2023
+        title: "Oppenheimer"
+        match:
+          mapping_id: 872585
+        url_poster: https://theposterdb.com/api/assets/370672
+
+    "Pet Sematary: Bloodlines (2023)":
+        year: 2023
+        title: "Pet Sematary: Bloodlines"
+        match:
+          mapping_id: 830764
+        url_poster: https://theposterdb.com/api/assets/418121
+
+    "Peter Pan & Wendy (2023)":
+        year: 2023
+        title: "Peter Pan och Lena"
+        match:
+          mapping_id: 420808
+        url_poster: https://theposterdb.com/api/assets/362079
+
+    "Pirates of the Caribbean: The Curse of the Black Pearl (2003)":
+        year: 2003
+        title: "Pirates of the Caribbean: The Curse of the Black Pearl"
+        match:
+          mapping_id: 22
+        url_poster: https://theposterdb.com/api/assets/169549
+
+    "Pirates of the Caribbean: Dead Man's Chest (2006)":
+        year: 2006
+        title: "Pirates of the Caribbean: Dead Man's Chest"
+        match:
+          mapping_id: 58
+        url_poster: https://theposterdb.com/api/assets/169550
+
+    "Pirates of the Caribbean: At World's End (2007)":
+        year: 2007
+        title: "Pirates of the Caribbean: At World's End"
+        match:
+          mapping_id: 285
+        url_poster: https://theposterdb.com/api/assets/169551
+
+    "Pirates of the Caribbean: On Stranger Tides (2011)":
+        year: 2011
+        title: "Pirates of the Caribbean: On Stranger Tides"
+        match:
+          mapping_id: 1865
+        url_poster: https://theposterdb.com/api/assets/169552
+
+    "Pirates of the Caribbean: Dead Men Tell No Tales (2017)":
+        year: 2017
+        title: "Pirates of the Caribbean: Dead Men Tell No Tales"
+        match:
+          mapping_id: 166426
+        url_poster: https://theposterdb.com/api/assets/169554
+
+    "Ready Player One (2018)":
+        year: 2018
+        title: "Ready Player One"
+        match:
+          mapping_id: 333339
+        url_poster: https://theposterdb.com/api/assets/210735
+
+    "Resident Evil (2002)":
+        year: 2002
+        title: "Resident Evil"
+        match:
+          mapping_id: 1576
+        url_poster: https://theposterdb.com/api/assets/178750
+
+    "Resident Evil: Apocalypse (2004)":
+        year: 2004
+        title: "Resident Evil: Apocalypse"
+        match:
+          mapping_id: 1577
+        url_poster: https://theposterdb.com/api/assets/178751
+
+    "Resident Evil: Extinction (2007)":
+        year: 2007
+        title: "Resident Evil: Extinction"
+        match:
+          mapping_id: 7737
+        url_poster: https://theposterdb.com/api/assets/178752
+
+    "Resident Evil: Afterlife (2010)":
+        year: 2010
+        title: "Resident Evil: Afterlife"
+        match:
+          mapping_id: 35791
+        url_poster: https://theposterdb.com/api/assets/178753
+
+    "Resident Evil: Retribution (2012)":
+        year: 2012
+        title: "Resident Evil: Retribution"
+        match:
+          mapping_id: 71679
+        url_poster: https://theposterdb.com/api/assets/178754
+
+    "Resident Evil: The Final Chapter (2016)":
+        year: 2016
+        title: "Resident Evil: The Final Chapter"
+        match:
+          mapping_id: 173897
+        url_poster: https://theposterdb.com/api/assets/178755
+
+    "Resident Evil: Welcome to Raccoon City (2021)":
+        year: 2021
+        title: "Resident Evil: Welcome to Raccoon City"
+        match:
+          mapping_id: 460458
+        url_poster: https://theposterdb.com/api/assets/198267
+
+    "Resident Evil: Vendetta (2017)":
+        year: 2017
+        title: "Resident Evil: Vendetta"
+        match:
+          mapping_id: 400136
+        url_poster: https://theposterdb.com/api/assets/317192
+
+    "Resident Evil: Death Island (2023)":
+        year: 2023
+        title: "Resident Evil: Death Island"
+        match:
+          mapping_id: 1083862
+        url_poster: https://theposterdb.com/api/assets/388513
+
+    "Retribution (2023)":
+        year: 2023
+        title: "Retribution"
+        match:
+          mapping_id: 762430
+        url_poster: https://theposterdb.com/api/assets/412846
+
+    "Rubikon (2022)":
+        year: 2022
+        title: "Rubikon"
+        match:
+          mapping_id: 793961
+        url_poster: https://theposterdb.com/api/assets/264897
+
+    "San Andreas (2015)":
+        year: 2015
+        title: "San Andreas"
+        match:
+          mapping_id: 254128
+        url_poster: https://theposterdb.com/api/assets/184535
+
+    "Saw (2004)":
+        year: 2004
+        title: "Saw"
+        match:
+          mapping_id: 176
+        url_poster: https://theposterdb.com/api/assets/395816
+
+    "Saw II (2005)":
+        year: 2005
+        title: "Saw II"
+        match:
+          mapping_id: 215
+        url_poster: https://theposterdb.com/api/assets/395817
+
+    "Saw III (2006)":
+        year: 2006
+        title: "Saw III"
+        match:
+          mapping_id: 214
+        url_poster: https://theposterdb.com/api/assets/395818
+
+    "Saw IV (2007)":
+        year: 2007
+        title: "Saw IV"
+        match:
+          mapping_id: 663
+        url_poster: https://theposterdb.com/api/assets/395819
+
+    "Saw V (2008)":
+        year: 2008
+        title: "Saw V"
+        match:
+          mapping_id: 11917
+        url_poster: https://theposterdb.com/api/assets/395820
+
+    "Saw VI (2009)":
+        year: 2009
+        title: "Saw VI"
+        match:
+          mapping_id: 22804
+        url_poster: https://theposterdb.com/api/assets/395821
+
+    "Saw 3D (2010)":
+        year: 2010
+        title: "Saw 3D"
+        match:
+          mapping_id: 41439
+        url_poster: https://theposterdb.com/api/assets/395822
+
+    "Jigsaw (2017)":
+        year: 2017
+        title: "Jigsaw"
+        match:
+          mapping_id: 298250
+        url_poster: https://theposterdb.com/api/assets/395823
+
+    "Spiral_ From the Book of Saw (2021)":
+        year: 2021
+        title: "Spiral: From the book of Saw"
+        match:
+          mapping_id: 602734
+        url_poster: https://theposterdb.com/api/assets/395824
+
+    "Saw X (2023)":
+        year: 2023
+        title: "Saw X"
+        match:
+          mapping_id: 951491
+        url_poster: https://theposterdb.com/api/assets/395825
+
+    "Sentinelle (2023)":
+        year: 2023
+        title: "Sentinelle"
+        match:
+          mapping_id: 1000081
+        url_poster: https://theposterdb.com/api/assets/424952
+
+    "Sharper (2023)":
+        year: 2023
+        title: "Sharper"
+        match:
+          mapping_id: 717980
+        url_poster: https://theposterdb.com/api/assets/322630
+
+    "Shazam! (2019)":
+        year: 2019
+        title: "Shazam!"
+        match:
+          mapping_id: 287947
+        url_poster: https://theposterdb.com/api/assets/171549
+
+    "Shazam! Fury of the Gods (2023)":
+        year: 2023
+        title: "Shazam! Fury of the Gods"
+        match:
+          mapping_id: 594767
+        url_poster: https://theposterdb.com/api/assets/341269
+
+    "Simulant (2023)":
+        year: 2023
+        title: "Simulant"
+        match:
+          mapping_id: 942199
+        url_poster: https://theposterdb.com/api/assets/359137
+
+    "Sisu (2023)":
+        year: 2023
+        title: "Sisu"
+        match:
+          mapping_id: 840326
+        url_poster: https://theposterdb.com/api/assets/362476
+
+    "Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)":
+        year: 2023
+        title: "Sniper: G.R.I.T. - Global Response & Intelligence Team"
+        match:
+          mapping_id: 1171541
+        url_poster: https://theposterdb.com/api/assets/417997
+
+    "Spider-Man: Homecoming (2017)":
+        year: 2017
+        title: "Spider-Man: Homecoming"
+        match:
+          mapping_id: 315635
+        url_poster: https://theposterdb.com/api/assets/170960
+
+    "Spider-Man: Far from Home (2019)":
+        year: 2019
+        title: "Spider-Man: Far from Home"
+        match:
+          mapping_id: 429617
+        url_poster: https://theposterdb.com/api/assets/170967
+
+    "Spider-Man: No Way Home (2021)":
+        year: 2021
+        title: "Spider-Man: No Way Home"
+        match:
+          mapping_id: 634649
+        url_poster: https://theposterdb.com/api/assets/188543
+
+    "Spider-Man 3 (2007)":
+        year: 2007
+        title: "Spider-Man 3"
+        match:
+          mapping_id: 559
+        url_poster: https://theposterdb.com/api/assets/171151
+
+    "Spider-Man: Across the Spider-Verse (2023)":
+        year: 2023
+        title: "Spider-Man: Across the Spider-Verse"
+        match:
+          mapping_id: 569094
+        url_poster: https://theposterdb.com/api/assets/369894
+
+    "Spider-Man: Into the Spider-Verse (2018)":
+        year: 2018
+        title: "Spider-Man: Into the Spider-Verse"
+        match:
+          mapping_id: 324857
+        url_poster: https://theposterdb.com/api/assets/171157
+
+    "Star Wars: Episode IV - A New Hope (1977)":
+        year: 1977
+        title: "Star Wars: Episode IV - A New Hope"
+        match:
+          mapping_id: 11
+        url_poster: https://theposterdb.com/api/assets/174457
+
+    "The Star Wars Holiday Special (1978)":
+        year: 1978
+        title: "The Star Wars Holiday Special"
+        sort_title: "Star Wars - 20"
+        match:
+          mapping_id: 74849
+        url_poster: https://theposterdb.com/api/assets/174458
+
+    "Star Wars: Episode V - The Empire Strikes Back (1980)":
+        year: 1980
+        title: "Star Wars: Episode V - The Empire Strikes Back"
+        match:
+          mapping_id: 1891
+        url_poster: https://theposterdb.com/api/assets/174481
+
+    "Star Wars: Episode VI - Return of the Jedi (1983)":
+        year: 1983
+        title: "Star Wars: Episode VI - Return of the Jedi"
+        match:
+          mapping_id: 1892
+        url_poster: https://theposterdb.com/api/assets/174482
+
+    "Star Wars: Episode I - The Phantom Menace (1999)":
+        year: 1999
+        title: "Star Wars: Episode I - The Phantom Menace"
+        sort_title: "Star Wars - 01"
+        match:
+          mapping_id: 1893
+        url_poster: https://theposterdb.com/api/assets/174463
+
+    "Star Wars: Episode II - Attack of the Clones (2002)":
+        year: 2002
+        title: "Star Wars: Episode II - Attack of the Clones"
+        sort_title: "Star Wars - 02"
+        match:
+          mapping_id: 1894
+        url_poster: https://theposterdb.com/api/assets/174464
+
+    "Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)":
+        year: 2004
+        title: "Empire of Dreams: The Story of the 'Star Wars' Trilogy"
+        match:
+          mapping_id: 76180
+        url_poster: https://theposterdb.com/api/assets/244801
+
+    "Star Wars: Episode III - Revenge of the Sith (2005)":
+        year: 2005
+        title: "Star Wars: Episode III - Revenge of the Sith"
+        sort_title: "Star Wars - 03"
+        match:
+          mapping_id: 1895
+        url_poster: https://theposterdb.com/api/assets/174465
+
+    "Star Wars: The Clone Wars (2008)":
+        year: 2008
+        title: "Star Wars: The Clone Wars"
+        match:
+          mapping_id: 12180
+        url_poster: https://theposterdb.com/api/assets/174473
+
+    "Star Wars: Episode VII - The Force Awakens (2015)":
+        year: 2015
+        title: "Star Wars: Episode VII - The Force Awakens"
+        match:
+          mapping_id: 140607
+        url_poster: https://theposterdb.com/api/assets/174467
+
+    "Rogue One: A Star Wars Story (2016)":
+        year: 2016
+        title: "Rogue One: A Star Wars Story"
+        sort_title: "Star Wars - 11"
+        match:
+          mapping_id: 330459
+        url_poster: https://theposterdb.com/api/assets/174468
+
+    "Star Wars: Episode VIII - The Last Jedi (2017)":
+        year: 2017
+        title: "Star Wars: Episode VIII - The Last Jedi"
+        match:
+          mapping_id: 181808
+        url_poster: https://theposterdb.com/api/assets/174469
+
+    "Solo: A Star Wars Story (2018)":
+        year: 2018
+        title: "Solo: A Star Wars Story"
+        sort_title: "Star Wars - 12"
+        match:
+          mapping_id: 348350
+        url_poster: https://theposterdb.com/api/assets/174470
+
+    "Star Wars: Episode IX - The Rise of Skywalker (2019)":
+        year: 2019
+        title: "Star Wars: Episode IX - The Rise of Skywalker"
+        match:
+          mapping_id: 181812
+        url_poster: https://theposterdb.com/api/assets/174471
+
+    "The Skywalker Legacy (2020)":
+        year: 2020
+        title: "The Skywalker Legacy"
+        sort_title: "Skywalker Legacy"
+        match:
+          mapping_id: 680382
+        url_poster: https://theposterdb.com/api/assets/174486
+
+    "Talk to Me (2023)":
+        year: 2023
+        title: "Talk to Me"
+        match:
+          mapping_id: 1008042
+        url_poster: https://theposterdb.com/api/assets/389598
+
+    "The 5th Wave":
+        year: 2016
+        title: "The 5th Wave"
+        match:
+          mapping_id: 299687
+        url_poster: https://theposterdb.com/api/assets/184348
+
+    "The Beekeeper (2024)":
+        year: 2024
+        title: "The Beekeeper"
+        match:
+          mapping_id: 866398
+        #url_poster: https://theposterdb.com/api/assets/200126
+
+    "The Black Book":
+        year: 2023
+        title: "The Black Book"
+        match:
+          mapping_id: 1172009
+        url_poster: https://theposterdb.com/api/assets/414137
+
+    "The Burial (2023)":
+        year: 2023
+        title: "The Burial"
+        match:
+          mapping_id: 763165
+        url_poster: https://theposterdb.com/api/assets/417952
+
+    "The Collective (2023)":
+        year: 2023
+        title: "The Collective"
+        match:
+          mapping_id: 1060090
+        url_poster: https://theposterdb.com/api/assets/395654
+
+    "The Creator (2023)":
+        year: 2023
+        title: "The Creator"
+        match:
+          mapping_id: 670292
+        url_poster: https://theposterdb.com/api/assets/410252
+
+    "The Equalizer (2023)":
+        year: 2023
+        title: "The Equalizer 3"
+        match:
+          mapping_id: 926393
+        url_poster: https://theposterdb.com/api/assets/410266
+
+    "The Fifth Element (1997)":
+        year: 1997
+        title: "Det femte elementet"
+        match:
+          mapping_id: 18
+        url_poster: https://theposterdb.com/api/assets/186807
+
+    "The Flash (2023)":
+        year: 2023
+        title: "The Flash"
+        match:
+          mapping_id: 298618
+        url_poster: https://theposterdb.com/api/assets/371772
+
+    "The Kill Room (2023)":
+        year: 2023
+        title: "The Kill Room"
+        match:
+          mapping_id: 958006
+        url_poster: https://theposterdb.com/api/assets/395629
+
+    "The Killer (2023)":
+        year: 2023
+        title: "The Killer"
+        match:
+          mapping_id: 800158
+        url_poster: https://theposterdb.com/api/assets/417939
+
+    "The Last Kingdom: Seven Kings Must Die (2023)":
+        year: 2023
+        title: "The Last Kingdom: Seven Kings Must Die"
+        match:
+          mapping_id: 948713
+        url_poster: https://theposterdb.com/api/assets/351191
+
+    "The Last Voyage of the Demeter (2023)":
+        year: 2023
+        title: "The Last Voyage of the Demeter"
+        match:
+          mapping_id: 635910
+        url_poster: https://theposterdb.com/api/assets/383532
+
+    "The Little Mermaid (2023)":
+        year: 2023
+        title: "The Little Mermaid"
+        match:
+          mapping_id: 447277
+        url_poster: https://theposterdb.com/api/assets/416197
+
+    "The Machine (2023)":
+        year: 2023
+        title: "The Machine"
+        match:
+          mapping_id: 647250
+        url_poster: https://theposterdb.com/api/assets/371748
+
+    "The Mother (2023)":
+        year: 2023
+        title: "The Mother"
+        match:
+          mapping_id: 552688
+        url_poster: https://theposterdb.com/api/assets/361310
+
+    "The Nun II (2023)":
+        year: 2023
+        title: "The Nun II"
+        match:
+          mapping_id: 968051
+        url_poster: https://theposterdb.com/api/assets/406846
+
+    "The Pope's Exorcist (2023)":
+        year: 2023
+        title: "The Pope's Exorcist"
+        match:
+          mapping_id: 758323
+        url_poster: https://theposterdb.com/api/assets/356890
+
+    "The Ritual Killer (2023)":
+        year: 2023
+        title: "The Ritual Killer"
+        match:
+          mapping_id: 862552
+        url_poster: https://theposterdb.com/api/assets/331869
+
+    "The Woman King (2022)":
+        year: 2022
+        title: "The Woman King"
+        match:
+          mapping_id: 724495
+        url_poster: https://theposterdb.com/api/assets/283085
+
+    "Thor (2011)":
+        year: 2011
+        title: "Thor"
+        match:
+          mapping_id: 10195
+        url_poster: https://theposterdb.com/api/assets/170948
+
+    "Thor: The Dark World (2013)":
+        year: 2013
+        title: "Thor: The Dark World"
+        match:
+          mapping_id: 76338
+        url_poster: https://theposterdb.com/api/assets/170952
+
+    "Thor: Ragnarok (2017)":
+        year: 2017
+        title: "Thor: Ragnarok"
+        match:
+          mapping_id: 284053
+        url_poster: https://theposterdb.com/api/assets/170961
+
+    "Thor: Love and Thunder (2022)":
+        year: 2022
+        title: "Thor: Love and Thunder"
+        match:
+          mapping_id: 616037
+        url_poster: https://theposterdb.com/api/assets/248997
+
+    "Top Gun (1986)":
+        year: 1986
+        title: "Top Gun"
+        match:
+          mapping_id: 744
+        url_poster: https://theposterdb.com/api/assets/252569
+
+    "Top Gun: Maverick (2022)":
+        year: 2022
+        title: "Top Gun: Maverick"
+        match:
+          mapping_id: 361743
+        url_poster: https://theposterdb.com/api/assets/252570
+
+    "Transformers (2007)":
+        year: 2007
+        title: "Transformers"
+        match:
+          mapping_id: 1858
+        url_poster: https://theposterdb.com/api/assets/184010
+
+    "Transformers: Revenge of the Fallen":
+        year: 2009
+        title: "Transformers: Revenge of the Fallen"
+        match:
+          mapping_id: 8373
+        url_poster: https://theposterdb.com/api/assets/184011
+
+    "Transformers: Dark of the Moon":
+        year: 2011
+        title: "Transformers: Dark of the Moon"
+        match:
+          mapping_id: 38356
+        url_poster: https://theposterdb.com/api/assets/184012
+
+    "Transformers: Age of Extinction (2014)":
+        year: 2014
+        title: "Transformers: Age of Extinction"
+        match:
+          mapping_id: 91314
+        url_poster: https://theposterdb.com/api/assets/184013
+
+    "Transformers: The Last Knight (2017)":
+        year: 2017
+        title: "Transformers: The Last Knight"
+        match:
+          mapping_id: 335988
+        url_poster: https://theposterdb.com/api/assets/184014
+
+    "Transformers: Rise of the Beasts (2023)":
+        year: 2023
+        title: "Transformers: Rise of the Beasts"
+        match:
+          mapping_id: 667538
+        url_poster: https://theposterdb.com/api/assets/371731
+
+    "Bumblebee (2018)":
+        year: 2018
+        title: "Bumblebee"
+        match:
+          mapping_id: 424783
+        url_poster: https://theposterdb.com/api/assets/184015
+
+    "Venom: Let There Be Carnage (2021)":
+        year: 2021
+        title: "Venom: Let There Be Carnage"
+        match:
+          mapping_id: 580489
+        url_poster: https://theposterdb.com/api/assets/171156
+
+    "X-Men (2000)":
+        year: 2000
+        title: "X-Men"
+        match:
+          mapping_id: 36657
+        url_poster: https://theposterdb.com/api/assets/171113
+
+    "X-Men 2 (2003)":
+        year: 2003
+        title: "X2"
+        match:
+          mapping_id: 36658
+        url_poster: https://theposterdb.com/api/assets/171114
+
+    "X-Men: The Last Stand (2006)":
+        year: 2006
+        title: "X-Men: The Last Stand"
+        match:
+          mapping_id: 36668
+        url_poster: https://theposterdb.com/api/assets/171115
+
+    "X-Men: First Class (2011)":
+        year: 2011
+        title: "X-Men: First Class"
+        match:
+          mapping_id: 49538
+        url_poster: https://theposterdb.com/api/assets/171116
+
+    "X-Men: Days of Future Past (2014)":
+        year: 2014
+        title: "X-Men: Days of Future Past"
+        match:
+          mapping_id: 127585
+        url_poster: https://theposterdb.com/api/assets/171117
+
+    "X-Men: Apocalypse (2016)":
+        year: 2016
+        title: "X-Men: Apocalypse"
+        match:
+          mapping_id: 246655
+        url_poster: https://theposterdb.com/api/assets/171118
+
+    "X-Men: Dark Phoenix (2019)":
+        year: 2019
+        title: "X-Men: Dark Phoenix"
+        match:
+          mapping_id: 320288
+        url_poster: https://theposterdb.com/api/assets/171119
+
+    "X-Men Origins: Wolverine (2009)":
+        year: 2009
+        title: "X-Men Origins: Wolverine"
+        match:
+          mapping_id: 2080
+        url_poster: https://theposterdb.com/api/assets/171122
+
+    "Yojimbo (1961)":
+        year: 1961
+        title: "Yojimbo"
+        match:
+          mapping_id: 11878
+        url_poster: https://theposterdb.com/api/assets/228251
