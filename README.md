@@ -27,14 +27,14 @@ then under your Movie Library, metadata_path add
 - repo: overlays/subtitles # This is adding the Swedish flags if PMM finds Swedish subtitles
  ```
 
- 
-# Request new shows using ```Issues```
+
+# Request new Shows/Movies using ```Issues```
 ## Use this Template
 
 ```yaml
 ###################################################################
 #                                                                 #
-#  TV-Shows Your Request show (YEAR)                              #
+#  TV-Shows Your Request Show/Movie (YEAR)                        #
 #                                                                 #
 ###################################################################
     "Your Request show (YEAR)": # TV Show Name
