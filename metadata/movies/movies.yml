@@ -3,14 +3,7 @@
 #
 metadata:
 
-    "troy (2004)":
-        year: 2004
-        title: "troy"
-        match:
-          mapping_id: 652
-        url_poster: https://theposterdb.com/api/assets/194499
-        
-    "troy (2004)":
+    "Troy (2004)":
         year: 2004
         title: "troy"
         match:
