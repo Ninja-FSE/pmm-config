@@ -9,6 +9,13 @@ metadata:
         match:
           mapping_id: 652
         url_poster: https://theposterdb.com/api/assets/194499
+        
+    "troy (2004)":
+        year: 2004
+        title: "troy"
+        match:
+          mapping_id: 652
+        url_poster: https://theposterdb.com/api/assets/194499
 
     "Guy Ritchie's The Covenant (2023)":
         year: 2023
