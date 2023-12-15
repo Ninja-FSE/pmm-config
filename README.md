@@ -10,14 +10,24 @@ A Request Template can be found https://github.com/Ninja-FSE/pmm-config/tree/mai
 
 In Plex Meta Manager config add
 
-```custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/```
+```yaml
+custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
+```
 
 then under your TV Library, metadata_path add
 
-```- repo: metadata/tv/tvshows```
-```- repo: overlays/subtitles``` # This is adding the Swedish flags if PMM finds Swedish subtitles
+```yaml
+- repo: metadata/tv/tvshows
+```
+```yaml
+- repo: overlays/subtitles
+``` # This is adding the Swedish flags if PMM finds Swedish subtitles
 
 then under your Movie Library, metadata_path add
 
-```-repo: metadata/movies/movies```
-```- repo: overlays/subtitles``` # This is adding the Swedish flags if PMM finds Swedish subtitles
+```yaml
+-repo: metadata/movies/movies
+```
+```yaml
+- repo: overlays/subtitles
+``` # This is adding the Swedish flags if PMM finds Swedish subtitles
