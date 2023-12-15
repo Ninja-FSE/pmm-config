@@ -2,9 +2,9 @@
 
 If you dont want to use the ```- repo: ``` in your pmm config you can git clone this repo and use ```- folder:``` instead to bulk load all the single files that you can find in folder ```shows```
 
-Both ```tvshows.yml``` and ```shows```are updated at the same time!
+Both ```tvshows.yml``` and ```shows``` are updated at the same time!
 
-# Request new shows using ```Issues``` or create a ```Pull Request```
+# Request new shows using ```Issues```
 ## Use this Template
 
 ```
@@ -25,3 +25,6 @@ Both ```tvshows.yml``` and ```shows```are updated at the same time!
             2:
                 url_poster: https://theposterdb.com/api/assets/349098
 ```
+
+
+Dont forget to use code brackets or the formating will be wrong!!
