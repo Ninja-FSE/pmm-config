@@ -2977,13 +2977,6 @@ metadata:
           mapping_id: 166426
         url_poster: https://theposterdb.com/api/assets/169554
 
-    "Ready Player One (2018)":
-        year: 2018
-        title: "Ready Player One"
-        match:
-          mapping_id: 333339
-        url_poster: https://theposterdb.com/api/assets/210735
-
     "Resident Evil (2002)":
         year: 2002
         title: "Resident Evil"
@@ -3046,13 +3039,6 @@ metadata:
         match:
           mapping_id: 1083862
         url_poster: https://theposterdb.com/api/assets/388513
-
-    "Retribution (2023)":
-        year: 2023
-        title: "Retribution"
-        match:
-          mapping_id: 762430
-        url_poster: https://theposterdb.com/api/assets/412846
 
     "Rubikon (2022)":
         year: 2022
