@@ -1845,5 +1845,50 @@ metadata:
           mapping_id: 899112
         url_poster: https://theposterdb.com/api/assets/300805
 
+    "The Family Plan (2023)":
+        year: 2023
+        title: "The Family Plan"
+        match:
+          mapping_id: 1029575
+        url_poster: https://theposterdb.com/api/assets/443004
+        
+    "Civil War (2024)":
+        year: 2024
+        title: "Civil War"
+        match:
+          mapping_id: 929590
+        url_poster: https://theposterdb.com/api/assets/441951
+
+        
+    "I.S.S. (2024)":
+        year: 2024
+        title: "I.S.S."
+        match:
+          mapping_id: 790462
+        url_poster: https://theposterdb.com/api/assets/439693
+
+        
+    "Wanted Man (xxxx)":
+        year: 2024
+        title: "Wanted Man"
+        match:
+          mapping_id: 666035
+        url_poster: https://theposterdb.com/api/assets/442733
+
+        
+    "Mean Girls (2024)":
+        year: 2024
+        title: "Mean Girls"
+        match:
+          mapping_id: 673593
+        url_poster: https://theposterdb.com/api/assets/439698
+
+        
+    "Finestkind (2023)":
+        year: 2023
+        title: "Finestkind"
+        match:
+          mapping_id: 507532
+        url_poster: https://theposterdb.com/api/assets/426028
 
    
