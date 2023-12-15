@@ -14,4 +14,10 @@ In Plex Meta Manager config add
 
 then under your TV Library, metadata_path add
 
-```- repo: tv/tvshows```
+```- repo: metadata/tv/tvshows```
+```- repo: overlays/subtitles``` # This is adding the Swedish flags if PMM finds Swedish subtitles
+
+then under your Movie Library, metadata_path add
+
+```-repo: metadata/movies/movies```
+```- repo: overlays/subtitles``` # This is adding the Swedish flags if PMM finds Swedish subtitles
