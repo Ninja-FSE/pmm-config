@@ -1890,5 +1890,10 @@ metadata:
         match:
           mapping_id: 507532
         url_poster: https://theposterdb.com/api/assets/426028
-
-   
+       
+    "Priscilla (2023)":
+        year: 2023
+        title: "Priscilla"
+        match:
+          mapping_id: 1020006
+        url_poster: https://theposterdb.com/api/assets/432076
