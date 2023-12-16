@@ -2012,3 +2012,67 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/278651
             8:
                 url_poster: https://theposterdb.com/api/assets/278652
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Curse of Oak Island (2014)              #
+#                                                                   #
+#####################################################################
+    "The Curse of Oak Island (2014)":
+        year: 2014
+        title: "The Curse of Oak Island"
+        url_poster: https://theposterdb.com/api/assets/430928
+        match:
+          mapping_id: 72710
+
+#####################################################################
+#                                                                   #
+#               TV-Show Bering Sea Gold (2012)                      #
+#                                                                   #
+#####################################################################
+    "Bering Sea Gold (2012)":
+        year: 2012
+        title: "Bering Sea Gold"
+        url_poster: https://theposterdb.com/api/assets/438434
+        match:
+          mapping_id: 58704
+        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
+        # tmdb: https://www.themoviedb.org/tv/90669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
+        # imdb: https://www.imdb.com/title/tt9319668
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/438436
+            2:
+                url_poster: https://theposterdb.com/api/assets/438437
+            3:
+                url_poster: https://theposterdb.com/api/assets/438438
+            4:
+                url_poster: https://theposterdb.com/api/assets/438439
+            5:
+                url_poster: https://theposterdb.com/api/assets/438440
+            6:
+                url_poster: https://theposterdb.com/api/assets/438441
+            7:
+                url_poster: https://theposterdb.com/api/assets/438442
+            8:
+                url_poster: https://theposterdb.com/api/assets/438443
+            9:
+                url_poster: https://theposterdb.com/api/assets/438444
+            10:
+                url_poster: https://theposterdb.com/api/assets/438445
+            11:
+                url_poster: https://theposterdb.com/api/assets/438446
+            12:
+                url_poster: https://theposterdb.com/api/assets/438447
+            13:
+                url_poster: https://theposterdb.com/api/assets/438448
+            14:
+                url_poster: https://theposterdb.com/api/assets/438449
+            15:
+                url_poster: https://theposterdb.com/api/assets/438450
+            16:
+                url_poster: https://theposterdb.com/api/assets/438451
+            17:
+                url_poster: https://theposterdb.com/api/assets/438452
