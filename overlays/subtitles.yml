@@ -7,7 +7,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      url: https://github.com/Ninja-FSE/pmm-config/blob/dev/overlays/images/sv-text.png
+      url: https://raw.githubusercontent.com/Ninja-FSE/pmm-config/dev/overlays/images/sv-text.png
 
 overlays:
   sv-text:
