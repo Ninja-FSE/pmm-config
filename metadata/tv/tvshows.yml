@@ -1479,7 +1479,7 @@ metadata:
 #####################################################################
     "The Handmaid's Tale (2017)":
         year: 2017
-        title: "Handmaid's Tale"
+        title: "The Handmaid's Tale"
         url_poster: https://theposterdb.com/api/assets/282676
         match:
           mapping_id: 69478
