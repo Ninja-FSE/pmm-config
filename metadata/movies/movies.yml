@@ -3641,117 +3641,122 @@ metadata:
         match:
           mapping_id: 7443
         url_poster: https://theposterdb.com/api/assets/329020
-        
+
     "Let's Be Cops(2014)":
         year: 2014
         title: "Let's Be Cops"
         match:
           mapping_id: 193893
         url_poster: https://theposterdb.com/api/assets/205642
-        
+
     "Venom(2018)":
         year: 2018
         title: "Venom"
         match:
           mapping_id: 335983
         url_poster: https://theposterdb.com/api/assets/171155
-        
+
     "Vacation Friends(2021)":
         year: 2021
         title: "Vacation Friends"
         match:
           mapping_id: 653349
         url_poster: https://theposterdb.com/api/assets/401516
-        
+
     "Vacation Friends 2(2023)":
         year: 2023
         title: "Vacation Friends 2"
         match:
           mapping_id: 869641
         url_poster: https://theposterdb.com/api/assets/401517
-        
+
     "Ted(2012)":
         year: 2012
         title: "Ted"
         match:
           mapping_id: 72105
         url_poster: https://theposterdb.com/api/assets/204871
-        
+
     "Ted 2(2015)":
         year: 2015
         title: "Ted 2"
         match:
           mapping_id: 214756
         url_poster: https://theposterdb.com/api/assets/204872
-        
+
     "Super Troopers(2001)":
         year: 2001
         title: "Super Troopers"
         match:
           mapping_id: 39939
         url_poster: https://theposterdb.com/api/assets/201063
-        
-        
+
     "Super Troopers 2(2018)":
         year: 2018
         title: "Super Troopers 2"
         match:
           mapping_id: 50022
         url_poster: https://theposterdb.com/api/assets/201064
-        
+
     "Step Up(2006)":
         year: 2006
         title: "Step Up"
         match:
           mapping_id: 9762
         url_poster: https://theposterdb.com/api/assets/189582
-        
+
     "Step Up 2: The Streets(2008)":
         year: 2008
         title: "Step Up 2: The Streets"
         match:
           mapping_id: 8328
         url_poster: https://theposterdb.com/api/assets/189583
-        
+
     "Step Up 3D(2010)":
         year: 2010
         title: "Step Up 3D"
         match:
           mapping_id: 41233
         url_poster: https://theposterdb.com/api/assets/189584
-        
+
     "Step Up Revolution(2012)":
         year: 2012
         title: "Step Up Revolution"
         match:
           mapping_id: 85446
         url_poster: https://theposterdb.com/api/assets/189585
-        
+
     "Step Up All In(2014)":
         year: 2014
         title: "Step Up All In"
         match:
           mapping_id: 243683
         url_poster: https://theposterdb.com/api/assets/189586
-        
+
     "Step Up: Year of the Dance(2019)":
         year: 2019
         title: "Step Up: Year of the Dance"
         match:
           mapping_id: 593680
         url_poster: https://theposterdb.com/api/assets/418250
-        
+
     "The Flintstones(1994)":
         year: 1994
         title: "The Flintstones"
         match:
           mapping_id: 888
         url_poster: https://theposterdb.com/api/assets/174515
-        
+
     "The Flintstones in Viva Rock Vegas(2000)":
         year: 2000
         title: "The Flintstones in Viva Rock Vegas"
         match:
           mapping_id: 889
         url_poster: https://theposterdb.com/api/assets/174516
-        
+
+    "TAYLOR SWIFT | THE ERAS TOUR (2023)":
+        year: 2023
+        title: "Taylor Swift: The Eras Tour"
+        match:
+          mapping_id: 1160164
+        url_poster: https://theposterdb.com/api/assets/422537
