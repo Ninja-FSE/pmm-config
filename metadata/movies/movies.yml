@@ -3759,7 +3759,57 @@ metadata:
         title: "Taylor Swift: The Eras Tour"
         match:
           mapping_id: 1160164
-        url_poster: https://theposterdb.com/api/assets/422537
+        url_poster: https://theposterdb.com/api/assets/422537        
+
+    "On the Road (2012)":
+        year: 2012
+        title: "On the Road"
+        match:
+          mapping_id: 83770
+        url_poster: https://theposterdb.com/api/assets/209440
+        
+    "Mission: Impossible - Rogue Nation (2015)":
+        year: 2015
+        title: "Mission: Impossible - Rogue Nation"
+        match:
+          mapping_id: 177677
+        url_poster: https://theposterdb.com/api/assets/190913
+                    
+    "Ocean's Eight (2018)":
+        year: 2018
+        title: "Ocean's Eight"
+        match:
+          mapping_id: 402900
+        url_poster: https://theposterdb.com/api/assets/192717
+                                
+    "Pacific Rim: Uprising (2018)":
+        year: 2018
+        title: "Pacific Rim: Uprising"
+        match:
+          mapping_id: 268896
+        url_poster: https://theposterdb.com/api/assets/201001
+                                            
+    "Thanksgiving (2023)":
+        year: 2023
+        title: "Thanksgiving"
+        match:
+          mapping_id: 1071215
+        url_poster: https://theposterdb.com/api/assets/424595
+                                                        
+    "The Hunger Games: The Ballad of Songbirds & Snakes (2023)":
+        year: 2023
+        title: "The Hunger Games: The Ballad of Songbirds & Snakes"
+        match:
+          mapping_id: 695721
+        url_poster: https://theposterdb.com/api/assets/441190
+                                                        
+    "Silent Night (2023)":
+        year: 2023
+        title: "Silent Night"
+        match:
+          mapping_id: 891699
+        url_poster: https://theposterdb.com/api/assets/417938
+                                                        
 
     "Friday the 13th (1980)":
         year: 1980
