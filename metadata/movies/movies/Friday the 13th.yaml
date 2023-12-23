@@ -1,0 +1,78 @@
+metadata:
+
+    "Friday the 13th (1980)":
+        year: 1980
+        title: "Friday the 13th"
+        match:
+          mapping_id: 4488
+        url_poster: https://theposterdb.com/api/assets/177114
+
+    "Friday the 13th Part 2 (1981)":
+        year: 1981
+        title: "Friday the 13th Part 2"
+        match:
+          mapping_id: 9725
+        url_poster: https://theposterdb.com/api/assets/177115
+
+    "Friday the 13th Part III (1982)":
+        year: 1982
+        title: "Friday the 13th Part III"
+        match:
+          mapping_id: 9728
+        url_poster: https://theposterdb.com/api/assets/177116
+
+    "Friday the 13th: The Final Chapter (1984)":
+        year: 1984
+        title: "Friday the 13th: The Final Chapter"
+        match:
+          mapping_id: 9730
+        url_poster: https://theposterdb.com/api/assets/177117
+
+    "Friday the 13th: A New Beginning (1985)":
+        year: 1985
+        title: "Friday the 13th: A New Beginning"
+        match:
+          mapping_id: 9731
+        url_poster: https://theposterdb.com/api/assets/177118
+
+    "Friday the 13th Part VI: Jason Lives (1986)":
+        year: 1986
+        title: "Friday the 13th Part VI: Jason Lives"
+        match:
+          mapping_id: 10225
+        url_poster: https://theposterdb.com/api/assets/177119
+
+    "Friday the 13th: The New Blood (1988)":
+        year: 1988
+        title: "Friday the 13th: The New Blood"
+        match:
+          mapping_id: 10281
+        url_poster: https://theposterdb.com/api/assets/177120
+
+    "Friday the 13th Part VIII: Jason Takes Manhattan (1989)":
+        year: 1989
+        title: "Friday the 13th Part VIII: Jason Takes Manhattan"
+        match:
+          mapping_id: 10283
+        url_poster: https://theposterdb.com/api/assets/177121
+
+    "Jason Goes to Hell (1993)":
+        year: 1993
+        title: "Jason Goes to Hell"
+        match:
+          mapping_id: 10285
+        url_poster: https://theposterdb.com/api/assets/177122
+
+    "Jason X (2021)":
+        year: 2021
+        title: "Jason X"
+        match:
+          mapping_id: 11470
+        url_poster: https://theposterdb.com/api/assets/177123
+
+    "Freddy vs. Jason (2003)":
+        year: 2003
+        title: "Freddy vs. Jason"
+        match:
+          mapping_id: 6466
+        url_poster: https://theposterdb.com/api/assets/177124

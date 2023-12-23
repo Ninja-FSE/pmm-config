@@ -3760,3 +3760,248 @@ metadata:
         match:
           mapping_id: 1160164
         url_poster: https://theposterdb.com/api/assets/422537
+
+    "Friday the 13th (1980)":
+        year: 1980
+        title: "Friday the 13th"
+        match:
+          mapping_id: 4488
+        url_poster: https://theposterdb.com/api/assets/177114
+        
+    "Friday the 13th Part 2 (1981)":
+        year: 1981
+        title: "Friday the 13th Part 2"
+        match:
+          mapping_id: 9725
+        url_poster: https://theposterdb.com/api/assets/177115
+
+    "Friday the 13th Part III (1982)":
+        year: 1982
+        title: "Friday the 13th Part III"
+        match:
+          mapping_id: 9728
+        url_poster: https://theposterdb.com/api/assets/177116
+
+    "Friday the 13th: The Final Chapter (1984)":
+        year: 1984
+        title: "Friday the 13th: The Final Chapter"
+        match:
+          mapping_id: 9730
+        url_poster: https://theposterdb.com/api/assets/177117
+
+    "Friday the 13th: A New Beginning (1985)":
+        year: 1985
+        title: "Friday the 13th: A New Beginning"
+        match:
+          mapping_id: 9731
+        url_poster: https://theposterdb.com/api/assets/177118
+
+    "Friday the 13th Part VI: Jason Lives (1986)":
+        year: 1986
+        title: "Friday the 13th Part VI: Jason Lives"
+        match:
+          mapping_id: 10225
+        url_poster: https://theposterdb.com/api/assets/177119
+
+    "Friday the 13th: The New Blood (1988)":
+        year: 1988
+        title: "Friday the 13th: The New Blood"
+        match:
+          mapping_id: 10281
+        url_poster: https://theposterdb.com/api/assets/177120
+
+    "Friday the 13th Part VIII: Jason Takes Manhattan (1989)":
+        year: 1989
+        title: "Friday the 13th Part VIII: Jason Takes Manhattan"
+        match:
+          mapping_id: 10283
+        url_poster: https://theposterdb.com/api/assets/177121
+
+    "Jason Goes to Hell (1993)":
+        year: 1993
+        title: "Jason Goes to Hell"
+        match:
+          mapping_id: 10285
+        url_poster: https://theposterdb.com/api/assets/177122
+
+    "Jason X (2021)":
+        year: 2021
+        title: "Jason X"
+        match:
+          mapping_id: 11470
+        url_poster: https://theposterdb.com/api/assets/177123
+
+    "Freddy vs. Jason (2003)":
+        year: 2003
+        title: "Freddy vs. Jason"
+        match:
+          mapping_id: 6466
+        url_poster: https://theposterdb.com/api/assets/177124
+
+    "Halloween (2007)":
+        year: 2007
+        title: "Halloween"
+        match:
+          mapping_id: 2082
+        url_poster: https://theposterdb.com/api/assets/177082
+
+    "Halloween II (2009)":
+        year: 2009
+        title: "Halloween II"
+        match:
+          mapping_id: 24150
+        url_poster: https://theposterdb.com/api/assets/177083
+
+    "Jarhead (2005)":
+        year: 2005
+        title: "Jarhead"
+        match:
+          mapping_id: 25
+        url_poster: https://theposterdb.com/api/assets/195707
+
+    "Jarhead 2: Field of Fire (2014)":
+        year: 2014
+        title: "Jarhead 2: Field of Fire"
+        match:
+          mapping_id: 285423
+        url_poster: https://theposterdb.com/api/assets/398127
+
+    "Jarhead 3: The Siege (2016)":
+        year: 2016
+        title: "Jarhead 3: The Siege"
+        match:
+          mapping_id: 378385
+        url_poster: https://theposterdb.com/api/assets/398128
+
+    "Jarhead: Law of Return (xxxx)":
+        year: xxxx
+        title: "Jarhead: Law of Return"
+        match:
+          mapping_id: 635744
+        url_poster: https://theposterdb.com/api/assets/398129
+
+    "Men in Black (1997)":
+        year: 1997
+        title: "Men in Black"
+        match:
+          mapping_id: 607
+        url_poster: https://theposterdb.com/api/assets/183822
+
+    "Men in Black II  (2002)":
+        year: 2002
+        title: "Men in Black II "
+        match:
+          mapping_id: 608
+        url_poster: https://theposterdb.com/api/assets/183823
+
+    "Men in Black 3 (2012)":
+        year: 2012
+        title: "Men in Black 3"
+        match:
+          mapping_id: 41154
+        url_poster: https://theposterdb.com/api/assets/183824
+
+    "Men in Black: International (2019)":
+        year: 2019
+        title: "Men in Black: International"
+        match:
+          mapping_id: 479455
+        url_poster: https://theposterdb.com/api/assets/183825
+
+    "Ong-Bak (2003)":
+        year: 2003
+        title: "Ong-Bak"
+        match:
+          mapping_id: 9316
+        url_poster: https://theposterdb.com/api/assets/213074
+
+    "Ong Bak 2 (2008)":
+        year: 2008
+        title: "Ong Bak 2"
+        match:
+          mapping_id: 16353
+        url_poster: https://theposterdb.com/api/assets/213075
+
+    "Ong Bak 3 (2010)":
+        year: 2010
+        title: "Ong Bak 3"
+        match:
+          mapping_id: 43209
+        url_poster: https://theposterdb.com/api/assets/213076
+
+    "First Blood (1982)":
+        year: 1982
+        title: "First Blood"
+        match:
+          mapping_id: 1368
+        url_poster: https://theposterdb.com/api/assets/192688
+
+    "Rambo: First Blood Part II (1985)":
+        year: 1985
+        title: "Rambo: First Blood Part II"
+        match:
+          mapping_id: 1369
+        url_poster: https://theposterdb.com/api/assets/192689
+
+    "Rambo III (1988)":
+        year: 1988
+        title: "Rambo III"
+        match:
+          mapping_id: 1370
+        url_poster: https://theposterdb.com/api/assets/192690
+
+    "Rambo (2008)":
+        year: 2008
+        title: "Rambo"
+        match:
+          mapping_id: 7555
+        url_poster: https://theposterdb.com/api/assets/192691
+
+    "Rambo: Last Blood (2019)":
+        year: 2019
+        title: "Rambo: Last Blood"
+        match:
+          mapping_id: 522938
+        url_poster: https://theposterdb.com/api/assets/192692
+
+    "Scream (1996)":
+        year: 1996
+        title: "Scream"
+        match:
+          mapping_id: 4232
+        url_poster: https://theposterdb.com/api/assets/178984
+
+    "Scream 2 (1997)":
+        year: 1997
+        title: "Scream 2"
+        match:
+          mapping_id: 4233
+        url_poster: https://theposterdb.com/api/assets/178985
+
+    "Scream 3 (2000)":
+        year: 2000
+        title: "Scream 3"
+        match:
+          mapping_id: 4234
+        url_poster: https://theposterdb.com/api/assets/178986
+
+    "Scream 4 (2011)":
+        year: 2011
+        title: "Scream 4"
+        match:
+          mapping_id: 41446
+        url_poster: https://theposterdb.com/api/assets/178987
+
+    "Scream (2022)":
+        year: 2022
+        title: "Scream"
+        match:
+          mapping_id: 646385
+        url_poster: https://theposterdb.com/api/assets/214308
+
+    "Scream VI (2023)":
+        year: 2023
+        title: "Scream VI"
+        match:
+          mapping_id: 934433
+        url_poster: https://theposterdb.com/api/assets/334356
