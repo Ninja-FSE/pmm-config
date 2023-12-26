@@ -4140,6 +4140,13 @@ metadata:
           mapping_id: 172106
         url_poster: https://theposterdb.com/api/assets/447269
                                                                
+    "BlackJack (1990)":
+        year: 1990
+        title: "BlackJack"
+        match:
+          mapping_id: 46977
+        url_poster: https://theposterdb.com/api/assets/447270
+                                                                             
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
