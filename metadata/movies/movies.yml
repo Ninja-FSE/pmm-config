@@ -4169,6 +4169,13 @@ metadata:
           mapping_id: 11466
         url_poster: https://theposterdb.com/api/assets/447280
                                                                                               
+    "The Little Death (2014)":
+        year: 2014
+        title: "The Little Death"
+        match:
+          mapping_id: 276844
+        url_poster: https://theposterdb.com/api/assets/447282
+                                                                                                      
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
