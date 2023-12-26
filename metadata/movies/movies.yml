@@ -4132,6 +4132,21 @@ metadata:
           mapping_id: 303623
         url_poster: https://theposterdb.com/api/assets/447267
                                                       
+    "Initial D (2005)":
+        year: 2005
+        title: "Initial D"
+        match:
+          mapping_id: 16411
+        url_poster: https://theposterdb.com/api/assets/447268
+              
+                                                      
+    "Jappeloup (2013)":
+        year: 2013
+        title: "Jappeloup"
+        match:
+          mapping_id: 172106
+        url_poster: https://theposterdb.com/api/assets/447269
+                                                               
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
