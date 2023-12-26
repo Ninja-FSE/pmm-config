@@ -4117,7 +4117,7 @@ metadata:
         match:
           mapping_id: 967874
         url_poster: https://theposterdb.com/api/assets/447262
-        
+
     "Framed (1988)":
         year: 1988
         title: "STRUL"
@@ -4125,6 +4125,13 @@ metadata:
           mapping_id: 35327
         url_poster: https://theposterdb.com/api/assets/447266
                                           
+    "Hello Ladies: The Movie (2014)":
+        year: 2014
+        title: "Hello Ladies: The Movie"
+        match:
+          mapping_id: 303623
+        url_poster: https://theposterdb.com/api/assets/447267
+                                                      
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
