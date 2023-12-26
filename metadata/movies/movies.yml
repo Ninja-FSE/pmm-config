@@ -4111,6 +4111,13 @@ metadata:
           mapping_id: 26436
         url_poster: https://theposterdb.com/api/assets/447261
               
+    "Father & Soldier (2023)":
+        year: 2023
+        title: "Father & Soldier"
+        match:
+          mapping_id: 967874
+        url_poster: https://theposterdb.com/api/assets/447262
+                            
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
