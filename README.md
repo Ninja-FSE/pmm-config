@@ -1,5 +1,5 @@
 # Plex Meta Manager - Configs for TV and Movies
-## This only contains links to TheposterDB and links to themoviedb.org
+## This only contains metadata with links to TheposterDB and themoviedb.org
 
 This is **Work In Progress** posters are from TheposterDB.org and almost all posters are from the great Musikmann2000.
 

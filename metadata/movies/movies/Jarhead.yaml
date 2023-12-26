@@ -1,0 +1,29 @@
+metadata:
+
+    "Jarhead (2005)":
+        year: 2005
+        title: "Jarhead"
+        match:
+          mapping_id: 25
+        url_poster: https://theposterdb.com/api/assets/195707
+
+    "Jarhead 2: Field of Fire (2014)":
+        year: 2014
+        title: "Jarhead 2: Field of Fire"
+        match:
+          mapping_id: 285423
+        url_poster: https://theposterdb.com/api/assets/398127
+
+    "Jarhead 3: The Siege (2016)":
+        year: 2016
+        title: "Jarhead 3: The Siege"
+        match:
+          mapping_id: 378385
+        url_poster: https://theposterdb.com/api/assets/398128
+
+    "Jarhead: Law of Return (xxxx)":
+        year: xxxx
+        title: "Jarhead: Law of Return"
+        match:
+          mapping_id: 635744
+        url_poster: https://theposterdb.com/api/assets/398129
