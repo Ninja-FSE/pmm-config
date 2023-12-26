@@ -4117,3 +4117,19 @@ metadata:
         match:
           mapping_id: 967874
         url_poster: https://theposterdb.com/api/assets/447262
+        
+    "Framed (1988)":
+        year: 1988
+        title: "STRUL"
+        match:
+          mapping_id: 35327
+        url_poster: https://theposterdb.com/api/assets/447266
+                                          
+    "xxxxx (xxxx)":
+        year: xxxx
+        title: "xxxx"
+        match:
+          mapping_id: xxxxx
+        url_poster: xxxxxxx
+              
+
