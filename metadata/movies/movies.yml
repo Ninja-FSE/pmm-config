@@ -276,13 +276,6 @@ metadata:
           mapping_id: 16869
         url_poster: https://theposterdb.com/api/assets/170582
 
-    "Initial D (2005)":
-        year: 2005
-        title: "Initial D"
-        match:
-          mapping_id: 16411
-        url_poster: https://theposterdb.com/api/assets/56242
-
     "Into the Storm (2014)":
         year: 2014
         title: "Into the Storm"
