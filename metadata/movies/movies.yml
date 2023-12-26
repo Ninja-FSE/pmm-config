@@ -4075,28 +4075,28 @@ metadata:
         match:
           mapping_id: 823482
         url_poster: https://theposterdb.com/api/assets/432071
-                                                                                                        
+
     "The Call-up (1979)":
         year: 1979
-        title: "RepmÃ¥nad"
+        title: "Repmånad"
         match:
           mapping_id: 18142
         url_poster: https://theposterdb.com/api/assets/447244
-                                                                                                                    
+
     "Canceled (2023)":
         year: 2023
         title: "Canceled"
         match:
           mapping_id: 1070535
         url_poster: https://theposterdb.com/api/assets/447245
-                                                                                                                                                   
+
     "Pippa (2023)":
         year: 2023
         title: "PIPPA"
         match:
           mapping_id: 733038
         url_poster: https://theposterdb.com/api/assets/447250
-                                                                                                                                     
+
     "Screwed in Tallinn - A Small Film About Loneliness (1999)":
         year: 1999
         title: "TORSK PÃ… TALLINN"
