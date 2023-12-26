@@ -4155,6 +4155,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/447272
               
                                                                              
+    "The Tank (2023)":
+        year: 2023
+        title: "The Tank"
+        match:
+          mapping_id: 1098160
+        url_poster: https://theposterdb.com/api/assets/445753
+                                                                                     
+    "Slim Susie (2003)":
+        year: 2003
+        title: "Smala Sussie"
+        match:
+          mapping_id: 11466
+        url_poster: https://theposterdb.com/api/assets/447280
+              
+                                                                                     
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
