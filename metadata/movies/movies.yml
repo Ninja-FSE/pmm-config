@@ -4061,3 +4061,10 @@ metadata:
         match:
           mapping_id: 848326
         url_poster: https://theposterdb.com/api/assets/402012
+
+    "The Abyss (2023)":
+        year: 2023
+        title: "The Abyss"
+        match:
+          mapping_id: 1053544
+        url_poster: https://theposterdb.com/api/assets/447224
