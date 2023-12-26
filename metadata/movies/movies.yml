@@ -4190,6 +4190,13 @@ metadata:
           mapping_id: 475249
         url_poster: https://theposterdb.com/api/assets/447284
                                                                                                                 
+    "6 Souls (2010)":
+        year: 2010
+        title: "6 Souls"
+        match:
+          mapping_id: 41505
+        url_poster: https://theposterdb.com/api/assets/447285
+                                                                                                                             
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
