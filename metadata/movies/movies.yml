@@ -4176,6 +4176,20 @@ metadata:
           mapping_id: 276844
         url_poster: https://theposterdb.com/api/assets/447282
                                                                                                       
+    "National Lampoon's Loaded Weapon 1 (1993)":
+        year: 1993
+        title: "Loaded Weapon 1"
+        match:
+          mapping_id: 9644
+        url_poster: https://theposterdb.com/api/assets/425695
+                                                                                                                
+    "Christmas Blood (2017)":
+        year: 2017
+        title: "Juleblod"
+        match:
+          mapping_id: 475249
+        url_poster: https://theposterdb.com/api/assets/447284
+                                                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
