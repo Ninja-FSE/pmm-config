@@ -4103,11 +4103,3 @@ metadata:
         match:
           mapping_id: 16076
         url_poster: https://theposterdb.com/api/assets/447256
-
-    "xxxxx (xxxx)":
-        year: xxxx
-        title: "xxxx"
-        match:
-          mapping_id: xxxxx
-        url_poster: xxxxxxx
-                                   
