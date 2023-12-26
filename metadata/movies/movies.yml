@@ -4103,3 +4103,18 @@ metadata:
         match:
           mapping_id: 16076
         url_poster: https://theposterdb.com/api/assets/447256
+
+    "A Summer Tale (2000)":
+        year: 2000
+        title: "Den bästa sommaren"
+        match:
+          mapping_id: 26436
+        url_poster: https://theposterdb.com/api/assets/447261
+              
+    "xxxxx (xxxx)":
+        year: xxxx
+        title: "xxxx"
+        match:
+          mapping_id: xxxxx
+        url_poster: xxxxxxx
+              
