@@ -890,7 +890,7 @@ metadata:
         title: "American Murder: The Family Next Door"
         match:
           mapping_id: 743601
-        url_poster: https://theposterdb.com/api/assets/175666
+        url_poster: https://theposterdb.com/api/assets/447281
 
     "American Sniper (2014)":
         year: 2014
@@ -4168,13 +4168,6 @@ metadata:
         match:
           mapping_id: 11466
         url_poster: https://theposterdb.com/api/assets/447280
-                                                                                            
-    "American Murder: The Family Next Door (2020)":
-        year: 2020
-        title: "American Murder: The Family Next Door"
-        match:
-          mapping_id: 743601
-        url_poster: https://theposterdb.com/api/assets/447281
                                                                                               
     "xxxxx (xxxx)":
         year: xxxx
