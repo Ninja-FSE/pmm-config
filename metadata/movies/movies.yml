@@ -4147,6 +4147,14 @@ metadata:
           mapping_id: 46977
         url_poster: https://theposterdb.com/api/assets/447270
                                                                              
+    "In Bed with Santa (1999)":
+        year: 1999
+        title: "Tomten är far till alla barnen"
+        match:
+          mapping_id: 29822
+        url_poster: https://theposterdb.com/api/assets/447272
+              
+                                                                             
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
