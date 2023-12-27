@@ -4334,6 +4334,13 @@ metadata:
           mapping_id: 460280
         url_poster: https://theposterdb.com/api/assets/447480
 
+    "Festival (2001)":
+        year: 2001
+        title: "Festival"
+        match:
+          mapping_id: 77353
+        url_poster: https://theposterdb.com/api/assets/447481
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
