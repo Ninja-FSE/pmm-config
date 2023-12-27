@@ -4327,6 +4327,13 @@ metadata:
           mapping_id: 972433
         url_poster: https://theposterdb.com/api/assets/439692
 
+    "Becker - Kungen av Tingsryd (2017)":
+        year: 2017
+        title: "Becker - Kungen av Tingsryd"
+        match:
+          mapping_id: 460280
+        url_poster: https://theposterdb.com/api/assets/447480
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
