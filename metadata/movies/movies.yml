@@ -4348,6 +4348,20 @@ metadata:
           mapping_id: 537646
         url_poster: https://theposterdb.com/api/assets/447491
 
+    "The 40 Year Old Virgin (2005)":
+        year: 2005
+        title: "The 40 Year Old Virgin"
+        match:
+          mapping_id: 6957
+        url_poster: https://theposterdb.com/api/assets/194467
+
+    "Apocalypto (2006)":
+        year: 2006
+        title: "Apocalypto"
+        match:
+          mapping_id: https://theposterdb.com/api/assets/195684
+        url_poster: https://theposterdb.com/api/assets/195684
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
