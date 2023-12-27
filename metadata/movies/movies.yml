@@ -4204,4 +4204,9 @@ metadata:
           mapping_id: 820609
         url_poster: https://theposterdb.com/api/assets/414139
 
-
+    "Hunter Killer (2018)":
+        year: 2018
+        title: "Hunter Killer"
+        match:
+          mapping_id: 399402
+        url_poster: https://theposterdb.com/api/assets/195308
