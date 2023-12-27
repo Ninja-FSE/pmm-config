@@ -4362,6 +4362,13 @@ metadata:
           mapping_id: https://theposterdb.com/api/assets/195684
         url_poster: https://theposterdb.com/api/assets/195684
 
+    "Apocalypse Now (1979)":
+        year: 1979
+        title: "Apocalypse Now"
+        match:
+          mapping_id: 28
+        url_poster: https://theposterdb.com/api/assets/195040
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
