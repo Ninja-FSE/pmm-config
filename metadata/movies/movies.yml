@@ -4376,6 +4376,13 @@ metadata:
           mapping_id: 1081789
         url_poster: https://theposterdb.com/api/assets/447497
 
+    "Dr. Death: Cutthroat Conman (2023)":
+        year: 2023
+        title: "Dr. Death: Cutthroat Conman"
+        match:
+          mapping_id: 1217348
+        url_poster: https://theposterdb.com/api/assets/447501
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
