@@ -4359,7 +4359,7 @@ metadata:
         year: 2006
         title: "Apocalypto"
         match:
-          mapping_id: https://theposterdb.com/api/assets/195684
+          mapping_id: 1579
         url_poster: https://theposterdb.com/api/assets/195684
 
     "Apocalypse Now (1979)":
