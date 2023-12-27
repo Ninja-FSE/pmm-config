@@ -4264,6 +4264,34 @@ metadata:
           mapping_id: 978783
         url_poster: https://theposterdb.com/api/assets/447449
         
+    "How to Please a Woman (2022)":
+        year: 2022
+        title: "How to Please a Woman"
+        match:
+          mapping_id: 894686
+        url_poster: https://theposterdb.com/api/assets/447450
+        
+    "House of Angels - Third Time Lucky (2010)":
+        year: 2010
+        title: "Änglagård - Tredje gången gillt"
+        match:
+          mapping_id: 58557
+        url_poster: https://theposterdb.com/api/assets/447451
+        
+    "House of Angels: The Second Summer (1994)":
+        year: 1994
+        title: "Änglagård - andra sommaren"
+        match:
+          mapping_id: 44965
+        url_poster: https://theposterdb.com/api/assets/447454
+        
+    "House of Angels (1992)":
+        year: 1992
+        title: "Änglsgård"
+        match:
+          mapping_id: 34683
+        url_poster: https://theposterdb.com/api/assets/447456
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
