@@ -4117,92 +4117,92 @@ metadata:
         match:
           mapping_id: 35327
         url_poster: https://theposterdb.com/api/assets/447266
-                                          
+
     "Hello Ladies: The Movie (2014)":
         year: 2014
         title: "Hello Ladies: The Movie"
         match:
           mapping_id: 303623
         url_poster: https://theposterdb.com/api/assets/447267
-                                                      
+
     "Initial D (2005)":
         year: 2005
         title: "Initial D"
         match:
           mapping_id: 16411
         url_poster: https://theposterdb.com/api/assets/447268
-              
-                                                      
+
     "Jappeloup (2013)":
         year: 2013
         title: "Jappeloup"
         match:
           mapping_id: 172106
         url_poster: https://theposterdb.com/api/assets/447269
-                                                               
+
     "BlackJack (1990)":
         year: 1990
         title: "BlackJack"
         match:
           mapping_id: 46977
         url_poster: https://theposterdb.com/api/assets/447270
-                                                                             
+
     "In Bed with Santa (1999)":
         year: 1999
         title: "Tomten är far till alla barnen"
         match:
           mapping_id: 29822
         url_poster: https://theposterdb.com/api/assets/447272
-              
-                                                                             
+
     "The Tank (2023)":
         year: 2023
         title: "The Tank"
         match:
           mapping_id: 1098160
         url_poster: https://theposterdb.com/api/assets/445753
-                                                                                     
+
     "Slim Susie (2003)":
         year: 2003
-        title: "Smala Sussie"
         match:
+          title:
+            - Smala Sussie
+            - Slim Sussie
           mapping_id: 11466
         url_poster: https://theposterdb.com/api/assets/447280
-                                                                                              
+
     "The Little Death (2014)":
         year: 2014
         title: "The Little Death"
         match:
           mapping_id: 276844
         url_poster: https://theposterdb.com/api/assets/447282
-                                                                                                      
+
     "National Lampoon's Loaded Weapon 1 (1993)":
         year: 1993
         title: "Loaded Weapon 1"
         match:
           mapping_id: 9644
         url_poster: https://theposterdb.com/api/assets/425695
-                                                                                                                
+
     "Christmas Blood (2017)":
         year: 2017
         title: "Juleblod"
         match:
           mapping_id: 475249
         url_poster: https://theposterdb.com/api/assets/447284
-                                                                                                                
+
     "6 Souls (2010)":
         year: 2010
         title: "6 Souls"
         match:
           mapping_id: 41505
         url_poster: https://theposterdb.com/api/assets/447285
-                                                                                                                             
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxx"
         match:
           mapping_id: xxxxx
         url_poster: xxxxxxx
-              
-     
+
+
 
