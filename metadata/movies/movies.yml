@@ -4292,6 +4292,27 @@ metadata:
           mapping_id: 34683
         url_poster: https://theposterdb.com/api/assets/447456
         
+    "The Bricklayer (2023)":
+        year: 2023
+        title: "The Bricklayer"
+        match:
+          mapping_id: 927107
+        url_poster: https://theposterdb.com/api/assets/447471
+   
+    "Society of the Snow (2023)":
+        year: 2023
+        title: "Society of the Snow"
+        match:
+          mapping_id: 906126
+        url_poster: https://theposterdb.com/api/assets/447476
+ 
+    "One Life (2023)":
+        year: 2023
+        title: "One Life"
+        match:
+          mapping_id: 760774
+        url_poster: https://theposterdb.com/api/assets/447477
+ 
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
