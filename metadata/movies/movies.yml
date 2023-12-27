@@ -73,12 +73,12 @@ metadata:
           mapping_id: 374720
         url_poster: https://theposterdb.com/api/assets/194476
 
-    "The Emigrants (2022)":
-        year: 2022
+    "The Emigrants (2021)":
+        year: 2021
         title: "Utvandrarna"
         match:
-          mapping_id: 230116
-        url_poster: https://theposterdb.com/api/assets/431890
+          mapping_id: 744733
+        url_poster: https://theposterdb.com/api/assets/447446
 
     "Enemy at the Gates (2001)":
         year: 2001
@@ -4160,15 +4160,6 @@ metadata:
           mapping_id: 1098160
         url_poster: https://theposterdb.com/api/assets/445753
 
-    "Slim Susie (2003)":
-        year: 2003
-        match:
-          title:
-            - Smala Sussie
-            - Slim Susie
-          mapping_id: 11466
-        url_poster: https://theposterdb.com/api/assets/447280
-
     "The Little Death (2014)":
         year: 2014
         title: "The Little Death"
@@ -4210,3 +4201,58 @@ metadata:
         match:
           mapping_id: 399402
         url_poster: https://theposterdb.com/api/assets/195308
+    "The Dog Trick (2002)":
+        year: 2002
+        title: "Hundtricket"
+        match:
+          mapping_id: 18225
+        url_poster: https://theposterdb.com/api/assets/447436
+        
+    "Slim Susie (2003)":
+        year: 2003
+        title: "Smala Sussie"
+        match:
+          mapping_id: 11466
+        url_poster: https://theposterdb.com/api/assets/447280
+        
+    "Long Live the Bonus Family (2022)":
+        year: 2022
+        title: "Länge leve bonus familjen"
+        match:
+          mapping_id: 1033755
+        url_poster: https://theposterdb.com/api/assets/447439
+        
+    "Onoda: 10,000 Nights in the Jungle (2021)":
+        year: 2021
+        title: "Onoda: 10,000 Nights in the Jungle"
+        match:
+          mapping_id: 695089
+        url_poster: https://theposterdb.com/api/assets/447440
+        
+    "Redline (2007)":
+        year: 2007
+        title: "Redline"
+        match:
+          mapping_id: 16392
+        url_poster: https://theposterdb.com/api/assets/447441
+                
+    "The Sugar Experiment (2023)":
+        year: 2023
+        title: "Sockerexperimentet"
+        match:
+          mapping_id: 1013045
+        url_poster: https://theposterdb.com/api/assets/447444
+                        
+    "The Visitors (1988)":
+        year: 1988
+        title: "Besökarna"
+        match:
+          mapping_id: 16079
+        url_poster: https://theposterdb.com/api/assets/447447
+                                
+    "Under the Sun (1998)":
+        year: 1998
+        title: "Under solen"
+        match:
+          mapping_id: 52673
+        url_poster: https://theposterdb.com/api/assets/447448
