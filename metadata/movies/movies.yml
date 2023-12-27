@@ -4256,3 +4256,18 @@ metadata:
         match:
           mapping_id: 52673
         url_poster: https://theposterdb.com/api/assets/447448
+        
+    "A Day and a Half (2023)":
+        year: 2023
+        title: "En dag och en halv"
+        match:
+          mapping_id: 978783
+        url_poster: https://theposterdb.com/api/assets/447449
+        
+    "xxxxx (xxxx)":
+        year: xxxx
+        title: "xxx"
+        match:
+          mapping_id: xxx
+        url_poster: xxxxxx
+
