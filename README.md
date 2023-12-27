@@ -1,55 +1,32 @@
-# Plex Meta Manager - Configs for TV and Movies
-## This only contains metadata with links to TheposterDB and themoviedb.org
+# Plex Meta Manager - Configs för TV och Filmer
+## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org
 
-This is **Work In Progress** posters are from TheposterDB.org and almost all posters are from the great Musikmann2000.
+Denna GitHub är **Work In Progress** All metadata och affischer är från TheposterDB.org. Användaren Musikmann2000 står för nästan alla affischer som vi använder oss av men en del är egengjorda.
 
-To request please use Issues or Pull Requests.
-A Request Template can be found https://github.com/Ninja-FSE/pmm-config/tree/main/tv/metadata
+Dessa config-filer är anpassade till [Plex Meta Manager :nightly](https://metamanager.wiki/en/latest/index.html)-branch.
 
+Glöm inte och följa [Trash-guides](https://trash-guides.info/) för att namnge ditt bibliotek på ett korrekt sätt!
+
+Finns inte din TV Serie eller Film så finns det en template https://github.com/Ninja-FSE/pmm-config/tree/main/tv/metadata som du kan använda dig utav och lägga till en Request, använd sedan ```Issues```
+Glöm inte att använda kod-taggning annars blir formateringen fel.
 
 # HOWTO
 
-In Plex Meta Manager config add
+I Plex Meta Manager config lägg till
 
 ```yaml
 custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
 ```
 
-then under your TV Library, metadata_path add
+Sedan under TV biblioteket, metadata_path lägg till
 
 ```yaml
 - repo: metadata/tv/tvshows
-- repo: overlays/subtitles # This is adding the Swedish flags if PMM finds Swedish subtitles
+- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om TV-Serien har svenskt text.
 ```
 
-then under your Movie Library, metadata_path add
+Sedan under Film biblioteket, metadata_path lägg till
 ```yaml
 - repo: metadata/movies/movies
-- repo: overlays/subtitles # This is adding the Swedish flags if PMM finds Swedish subtitles
+- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om Filmen har svenskt text.
  ```
-
-
-# Request new Shows/Movies using ```Issues```
-## Use this Template
-
-```yaml
-###################################################################
-#                                                                 #
-#  Your Request Show/Movie (YEAR)                                 #
-#                                                                 #
-###################################################################
-    "Your Request show (YEAR)": # TV Show Name
-        year: YEAR  # Year, example 2023
-        title: "Your Request Show" # This is how Plex is showing it as, this is quite sensetive
-        url_poster: https://theposterdb.com/api/assets/349096 # Please only use posters from the creator MusikMann2000 or similuar posters
-        match:
-          mapping_id: 75219 # Show ID from https://www.themoviedb.org
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/349097 # Use Season posters from the same creator
-            2:
-                url_poster: https://theposterdb.com/api/assets/349098
-```
-
-
-Dont forget to use code brackets or the formating will be wrong!!
