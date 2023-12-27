@@ -6,6 +6,7 @@ Denna GitHub är **Work In Progress** All metadata och affischer är från Thepo
 Dessa config-filer är anpassade till [Plex Meta Manager :nightly](https://metamanager.wiki/en/latest/index.html)-branch.
 
 Glöm inte och följa [Trash-guides](https://trash-guides.info/) för att namnge ditt bibliotek på ett korrekt sätt!
+Samt att Plex Meta Scrapper (den som Plex Servern hämtar filminformationen med) är satt på engelska, detta för att förhindra att få TV-Serier/Filmer med det svenska namnet om ett sådant finns!
 
 Finns inte din TV Serie eller Film så finns det en template https://github.com/Ninja-FSE/pmm-config/tree/main/tv/metadata som du kan använda dig utav och lägga till en Request, använd sedan ```Issues```
 Glöm inte att använda kod-taggning annars blir formateringen fel.
