@@ -75,10 +75,10 @@ metadata:
 
     "The Emigrants (2021)":
         year: 2021
-        title: "The Emigrants"
+        title: "Utvandrarna"
         match:
-          mapping_id: 230116
-        url_poster: https://theposterdb.com/api/assets/431890
+          mapping_id: 744733
+        url_poster: https://theposterdb.com/api/assets/447446
 
     "Enemy at the Gates (2001)":
         year: 2001
@@ -276,13 +276,6 @@ metadata:
           mapping_id: 16869
         url_poster: https://theposterdb.com/api/assets/170582
 
-    "Initial D (2005)":
-        year: 2005
-        title: "Initial D"
-        match:
-          mapping_id: 16411
-        url_poster: https://theposterdb.com/api/assets/56242
-
     "Into the Storm (2014)":
         year: 2014
         title: "Into the Storm"
@@ -344,7 +337,7 @@ metadata:
         title: "Kopps"
         match:
           mapping_id: 9256
-        url_poster: https://theposterdb.com/api/assets/283201
+        url_poster: https://theposterdb.com/api/assets/447258
 
     "Lamborghini: The Man Behind the Legend (2022)":
         year: 2022
@@ -897,7 +890,7 @@ metadata:
         title: "American Murder: The Family Next Door"
         match:
           mapping_id: 743601
-        url_poster: https://theposterdb.com/api/assets/175666
+        url_poster: https://theposterdb.com/api/assets/447281
 
     "American Sniper (2014)":
         year: 2014
@@ -4064,7 +4057,294 @@ metadata:
 
     "The Abyss (2023)":
         year: 2023
-        title: "The Abyss"
+        title: "Avgrunden"
         match:
           mapping_id: 1053544
-        url_poster: https://theposterdb.com/api/assets/447224
+        url_poster: https://theposterdb.com/api/assets/447279
+
+    "Dream Scenario (2023)":
+        year: 2023
+        title: "Dream Scenario"
+        match:
+          mapping_id: 823482
+        url_poster: https://theposterdb.com/api/assets/432071
+
+    "The Call-up (1979)":
+        year: 1979
+        title: "Repmånad"
+        match:
+          mapping_id: 18142
+        url_poster: https://theposterdb.com/api/assets/447244
+
+    "Canceled (2023)":
+        year: 2023
+        title: "Canceled"
+        match:
+          mapping_id: 1070535
+        url_poster: https://theposterdb.com/api/assets/447245
+
+    "Pippa (2023)":
+        year: 2023
+        title: "PIPPA"
+        match:
+          mapping_id: 733038
+        url_poster: https://theposterdb.com/api/assets/447250
+
+    "Screwed in Tallinn - A Small Film About Loneliness (1999)":
+        year: 1999
+        title: "TORSK PÃ… TALLINN"
+        match:
+          mapping_id: 16076
+        url_poster: https://theposterdb.com/api/assets/447256
+
+    "A Summer Tale (2000)":
+        year: 2000
+        title: "Den bästa sommaren"
+        match:
+          mapping_id: 26436
+        url_poster: https://theposterdb.com/api/assets/447261
+
+    "Father & Soldier (2023)":
+        year: 2023
+        title: "Father & Soldier"
+        match:
+          mapping_id: 967874
+        url_poster: https://theposterdb.com/api/assets/447262
+
+    "Framed (1988)":
+        year: 1988
+        title: "STRUL"
+        match:
+          mapping_id: 35327
+        url_poster: https://theposterdb.com/api/assets/447266
+
+    "Hello Ladies: The Movie (2014)":
+        year: 2014
+        title: "Hello Ladies: The Movie"
+        match:
+          mapping_id: 303623
+        url_poster: https://theposterdb.com/api/assets/447267
+
+    "Initial D (2005)":
+        year: 2005
+        title: "Initial D"
+        match:
+          mapping_id: 16411
+        url_poster: https://theposterdb.com/api/assets/447268
+
+    "Jappeloup (2013)":
+        year: 2013
+        title: "Jappeloup"
+        match:
+          mapping_id: 172106
+        url_poster: https://theposterdb.com/api/assets/447269
+
+    "BlackJack (1990)":
+        year: 1990
+        title: "BlackJack"
+        match:
+          mapping_id: 46977
+        url_poster: https://theposterdb.com/api/assets/447270
+
+    "In Bed with Santa (1999)":
+        year: 1999
+        title: "Tomten är far till alla barnen"
+        match:
+          mapping_id: 29822
+        url_poster: https://theposterdb.com/api/assets/447272
+
+    "The Tank (2023)":
+        year: 2023
+        title: "The Tank"
+        match:
+          mapping_id: 1098160
+        url_poster: https://theposterdb.com/api/assets/445753
+
+    "The Little Death (2014)":
+        year: 2014
+        title: "The Little Death"
+        match:
+          mapping_id: 276844
+        url_poster: https://theposterdb.com/api/assets/447282
+
+    "National Lampoon's Loaded Weapon 1 (1993)":
+        year: 1993
+        title: "Loaded Weapon 1"
+        match:
+          mapping_id: 9644
+        url_poster: https://theposterdb.com/api/assets/425695
+
+    "Christmas Blood (2017)":
+        year: 2017
+        title: "Juleblod"
+        match:
+          mapping_id: 475249
+        url_poster: https://theposterdb.com/api/assets/447284
+
+    "6 Souls (2010)":
+        year: 2010
+        title: "6 Souls"
+        match:
+          mapping_id: 41505
+        url_poster: https://theposterdb.com/api/assets/447285
+
+    "No One Will Save You (2023)":
+        year: 2023
+        title: "No One Will Save You"
+        match:
+          mapping_id: 820609
+        url_poster: https://theposterdb.com/api/assets/414139
+
+    "Hunter Killer (2018)":
+        year: 2018
+        title: "Hunter Killer"
+        match:
+          mapping_id: 399402
+        url_poster: https://theposterdb.com/api/assets/195308
+    "The Dog Trick (2002)":
+        year: 2002
+        title: "Hundtricket"
+        match:
+          mapping_id: 18225
+        url_poster: https://theposterdb.com/api/assets/447437
+        
+    "Slim Susie (2003)":
+        year: 2003
+        title: "Smala Sussie"
+        match:
+          mapping_id: 11466
+        url_poster: https://theposterdb.com/api/assets/447280
+        
+    "Long Live the Bonus Family (2022)":
+        year: 2022
+        title: "Länge leve bonus familjen"
+        match:
+          mapping_id: 1033755
+        url_poster: https://theposterdb.com/api/assets/447439
+        
+    "Onoda: 10,000 Nights in the Jungle (2021)":
+        year: 2021
+        title: "Onoda: 10,000 Nights in the Jungle"
+        match:
+          mapping_id: 695089
+        url_poster: https://theposterdb.com/api/assets/447440
+        
+    "Redline (2007)":
+        year: 2007
+        title: "Redline"
+        match:
+          mapping_id: 16392
+        url_poster: https://theposterdb.com/api/assets/447441
+                
+    "The Sugar Experiment (2023)":
+        year: 2023
+        title: "Sockerexperimentet"
+        match:
+          mapping_id: 1013045
+        url_poster: https://theposterdb.com/api/assets/447444
+                        
+    "The Visitors (1988)":
+        year: 1988
+        title: "Besökarna"
+        match:
+          mapping_id: 16079
+        url_poster: https://theposterdb.com/api/assets/447447
+                                
+    "Under the Sun (1998)":
+        year: 1998
+        title: "Under solen"
+        match:
+          mapping_id: 52673
+        url_poster: https://theposterdb.com/api/assets/447448
+        
+    "A Day and a Half (2023)":
+        year: 2023
+        title: "En dag och en halv"
+        match:
+          mapping_id: 978783
+        url_poster: https://theposterdb.com/api/assets/447449
+        
+    "How to Please a Woman (2022)":
+        year: 2022
+        title: "How to Please a Woman"
+        match:
+          mapping_id: 894686
+        url_poster: https://theposterdb.com/api/assets/447450
+        
+    "House of Angels - Third Time Lucky (2010)":
+        year: 2010
+        title: "Änglagård - Tredje gången gillt"
+        match:
+          mapping_id: 58557
+        url_poster: https://theposterdb.com/api/assets/447451
+        
+    "House of Angels: The Second Summer (1994)":
+        year: 1994
+        title: "Änglagård - andra sommaren"
+        match:
+          mapping_id: 44965
+        url_poster: https://theposterdb.com/api/assets/447454
+        
+    "House of Angels (1992)":
+        year: 1992
+        title: "Änglsgård"
+        match:
+          mapping_id: 34683
+        url_poster: https://theposterdb.com/api/assets/447456
+        
+    "The Bricklayer (2023)":
+        year: 2023
+        title: "The Bricklayer"
+        match:
+          mapping_id: 927107
+        url_poster: https://theposterdb.com/api/assets/447471
+   
+    "Society of the Snow (2023)":
+        year: 2023
+        title: "Society of the Snow"
+        match:
+          mapping_id: 906126
+        url_poster: https://theposterdb.com/api/assets/447476
+ 
+    "One Life (2023)":
+        year: 2023
+        title: "One Life"
+        match:
+          mapping_id: 760774
+        url_poster: https://theposterdb.com/api/assets/447477
+ 
+    "The Final Race (2023)":
+        year: 2023
+        title: "Ett sista race"
+        match:
+          mapping_id: 1135894
+        url_poster: https://theposterdb.com/api/assets/447478 
+
+    "Race for Glory: Audi vs. Lancia (2024)":
+        year: 2024
+        title: "Race for Glory"
+        match:
+          mapping_id: 972433
+        url_poster: https://theposterdb.com/api/assets/439692
+
+    "Becker - Kungen av Tingsryd (2017)":
+        year: 2017
+        title: "Becker - Kungen av Tingsryd"
+        match:
+          mapping_id: 460280
+        url_poster: https://theposterdb.com/api/assets/447480
+
+    "Festival (2001)":
+        year: 2001
+        title: "Festival"
+        match:
+          mapping_id: 77353
+        url_poster: https://theposterdb.com/api/assets/447481
+
+    "xxxxx (xxxx)":
+        year: xxxx
+        title: "xxx"
+        match:
+          mapping_id: xxx
+        url_poster: xxxxxx
+
