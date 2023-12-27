@@ -2506,7 +2506,7 @@ metadata:
         title: "How High 2"
         match:
           mapping_id: 532327
-        #url_poster: https://theposterdb.com/api/assets/385912
+        url_poster: https://theposterdb.com/api/assets/447482
 
     "The Hunger Games (2012)":
         year: 2012
@@ -4340,6 +4340,13 @@ metadata:
         match:
           mapping_id: 77353
         url_poster: https://theposterdb.com/api/assets/447481
+
+    "Lyrro - Ut & invandrarna (2018)":
+        year: 2018
+        title: "LYRRO"
+        match:
+          mapping_id: 537646
+        url_poster: https://theposterdb.com/api/assets/447491
 
     "xxxxx (xxxx)":
         year: xxxx
