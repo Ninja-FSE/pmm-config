@@ -4383,6 +4383,13 @@ metadata:
           mapping_id: 1217348
         url_poster: https://theposterdb.com/api/assets/447501
 
+    "Spaceman (2024)":
+        year: 2024
+        title: "Spaceman"
+        match:
+          mapping_id: 636706
+        url_poster: https://theposterdb.com/api/assets/446252
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
