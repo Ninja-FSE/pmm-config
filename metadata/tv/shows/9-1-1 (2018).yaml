@@ -4,7 +4,7 @@ metadata:
         title: "9-1-1"
         url_poster: https://theposterdb.com/api/assets/349096
         match:
-          mapping_id: 75219
+          mapping_id: 337907
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
