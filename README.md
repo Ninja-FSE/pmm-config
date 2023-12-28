@@ -49,14 +49,15 @@ libraries:
       sync_tags: true
       add_blank_entries: false
     metadata_path:
-    - folder: metadata/movies/movies
+    - file: metadata/movies/movies.yml
     - folder: metadata/movies/collections
     overlay_path:
     - folder: overlays/subtitles
 
   TV:
     metadata_path:
-    - folder: metadata/tv/tvshows
+    - file: metadata/tv/tvshows.yml
+    - folder: metadata/tv/collections
     overlay_path:
     - folder: overlays/subtitles
     - remove_overlays: false
