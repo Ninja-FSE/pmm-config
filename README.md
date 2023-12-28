@@ -1,5 +1,5 @@
-# Plex Meta Manager - Configs för TV och Filmer
-## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org
+# Plex Meta Manager - Configs för TV och Filmer.
+## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org.
 
 Denna GitHub är **Work In Progress** All metadata och affischer är från TheposterDB.org. Användaren Musikmann2000 står för nästan alla affischer som vi använder oss av men en del är egengjorda.
 
@@ -12,22 +12,52 @@ Finns inte din TV Serie eller Film så finns det en template https://github.com/
 Glöm inte att använda kod-taggning annars blir formateringen fel.
 
 # HOWTO
-
-I Plex Meta Manager config lägg till
-
-```yaml
-custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
-```
-
-Sedan under TV biblioteket, metadata_path lägg till
+## Användning via GitHub.
+Nedan är ett exempel hur din Plex Meta Manager config fil borde se ut som så att Plex Meta Manager läser filerna från GitHub utan att behöva ha filerna på din server.
 
 ```yaml
-- repo: metadata/tv/tvshows
-- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om TV-Serien har svenskt text.
-```
+libraries:
+  Movies:
+    operations:
+      sync_tags: true
+      add_blank_entries: false
+    metadata_path:
+    - repo: metadata/movies/movies
+    overlay_path:
+    - repo: overlays/subtitles
 
-Sedan under Film biblioteket, metadata_path lägg till
+  TV:
+    metadata_path:
+    - repo: metadata/tv/tvshows
+    overlay_path:
+    - repo: overlays/subtitles
+    - remove_overlays: false
+    - reapply_overlay: true
+
+settings:
+  custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
+ ```
+
+## Användning lokalt.
+### OBS DENNA METOD GÖR SÅ ATT DU MISSAR UPPDATERINGAR.
+För att installera detta på din server så clona/ladda ner repo'n. lägg filerna som dom ligger rakt in i din Plex Meta Manager mapp och justera din Plex Meta Manager config fil så att den ser ut som följande.
+
 ```yaml
-- repo: metadata/movies/movies
-- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om Filmen har svenskt text.
+libraries:
+  Movies:
+    operations:
+      sync_tags: true
+      add_blank_entries: false
+    metadata_path:
+    - folder: metadata/movies/movies
+    overlay_path:
+    - folder: overlays/subtitles
+
+  TV:
+    metadata_path:
+    - folder: metadata/tv/tvshows
+    overlay_path:
+    - folder: overlays/subtitles
+    - remove_overlays: false
+    - reapply_overlay: true
  ```
