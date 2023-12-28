@@ -1751,19 +1751,19 @@ metadata:
           mapping_id: 248682
         seasons:
             1:
-               #url_poster: https://theposterdb.com/api/assets/261677
+               url_poster: https://theposterdb.com/api/assets/261677
             2:
-                #url_poster: https://theposterdb.com/api/assets/261678
+                url_poster: https://theposterdb.com/api/assets/261678
             3:
-                #url_poster: https://theposterdb.com/api/assets/261679
+                url_poster: https://theposterdb.com/api/assets/261679
             4:
-                #url_poster: https://theposterdb.com/api/assets/261680
+                url_poster: https://theposterdb.com/api/assets/261680
             5:
-                #url_poster: https://theposterdb.com/api/assets/261681
+                url_poster: https://theposterdb.com/api/assets/261681
             6:
-                #url_poster: https://theposterdb.com/api/assets/261682
+                url_poster: https://theposterdb.com/api/assets/261682
             7:
-                #url_poster: https://theposterdb.com/api/assets/261683
+                url_poster: https://theposterdb.com/api/assets/261683
                                                                                     
 #####################################################################
 #                                                                   #
@@ -1778,11 +1778,11 @@ metadata:
           mapping_id: 361565 
         seasons:
             1:
-               #url_poster: https://theposterdb.com/api/assets/252140
+               url_poster: https://theposterdb.com/api/assets/252140
             2:
-                #url_poster: https://theposterdb.com/api/assets/252141
+                url_poster: https://theposterdb.com/api/assets/252141
             3:
-                #url_poster: https://theposterdb.com/api/assets/262481
+                url_poster: https://theposterdb.com/api/assets/262481
 
 #####################################################################
 #                                                                   #
@@ -1797,14 +1797,14 @@ metadata:
           mapping_id: 84645 
         seasons:
             1:
-               #url_poster: https://theposterdb.com/api/assets/360407
+               url_poster: https://theposterdb.com/api/assets/360407
             2:
-                #url_poster: https://theposterdb.com/api/assets/360408
+                url_poster: https://theposterdb.com/api/assets/360408
             3:
-                #url_poster: https://theposterdb.com/api/assets/360409
+                url_poster: https://theposterdb.com/api/assets/360409
             4:
-                #url_poster: https://theposterdb.com/api/assets/360410
+                url_poster: https://theposterdb.com/api/assets/360410
             5:
-                #url_poster: https://theposterdb.com/api/assets/360411
+                url_poster: https://theposterdb.com/api/assets/360411
               
           
