@@ -1,5 +1,5 @@
-# Plex Meta Manager - Configs för TV och Filmer
-## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org
+# Plex Meta Manager - Configs för TV och Filmer.
+## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org.
 
 Denna GitHub är **Work In Progress** All metadata och affischer är från TheposterDB.org. Användaren Musikmann2000 står för nästan alla affischer som vi använder oss av men en del är egengjorda.
 
@@ -12,7 +12,7 @@ Finns inte din TV Serie eller Film så finns det en template https://github.com/
 Glöm inte att använda kod-taggning annars blir formateringen fel.
 
 # HOWTO
-## Användning via GitHub
+## Användning via GitHub.
 Nedan är ett exempel hur din Plex Meta Manager config fil borde se ut som så att Plex Meta Manager läser filerna från GitHub utan att behöva ha filerna på din server.
 
 ```yaml
@@ -38,8 +38,9 @@ settings:
   custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
  ```
 
-## Användning lokalt. OBS DENNA METOD GÖR SÅ ATT DU MISSAR UPPDATERINGAR
-För att installera detta på din server så clona/ladda ner repo'n. lägg filerna som dom ligger rakt in i din Plex Meta Manager mapp och justera din Plex Meta Manager config fil så att den ser ut som följande
+## Användning lokalt.
+### OBS DENNA METOD GÖR SÅ ATT DU MISSAR UPPDATERINGAR.
+För att installera detta på din server så clona/ladda ner repo'n. lägg filerna som dom ligger rakt in i din Plex Meta Manager mapp och justera din Plex Meta Manager config fil så att den ser ut som följande.
 
 ```yaml
 libraries:
