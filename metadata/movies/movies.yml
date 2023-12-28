@@ -4390,6 +4390,13 @@ metadata:
           mapping_id: 636706
         url_poster: https://theposterdb.com/api/assets/446252
 
+    "CHiPS (2017)":
+        year: 2017
+        title: "CHiPS"
+        match:
+          mapping_id: 417644
+        url_poster: https://theposterdb.com/api/assets/201320
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
