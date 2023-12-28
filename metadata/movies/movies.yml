@@ -2506,7 +2506,7 @@ metadata:
         title: "How High 2"
         match:
           mapping_id: 532327
-        #url_poster: https://theposterdb.com/api/assets/385912
+        url_poster: https://theposterdb.com/api/assets/447482
 
     "The Hunger Games (2012)":
         year: 2012
@@ -4060,7 +4060,7 @@ metadata:
         title: "Avgrunden"
         match:
           mapping_id: 1053544
-        url_poster: https://theposterdb.com/api/assets/447279
+        url_poster: https://theposterdb.com/api/assets/447498
 
     "Dream Scenario (2023)":
         year: 2023
@@ -4341,10 +4341,60 @@ metadata:
           mapping_id: 77353
         url_poster: https://theposterdb.com/api/assets/447481
 
+    "Lyrro - Ut & invandrarna (2018)":
+        year: 2018
+        title: "LYRRO"
+        match:
+          mapping_id: 537646
+        url_poster: https://theposterdb.com/api/assets/447491
+
+    "The 40 Year Old Virgin (2005)":
+        year: 2005
+        title: "The 40 Year Old Virgin"
+        match:
+          mapping_id: 6957
+        url_poster: https://theposterdb.com/api/assets/194467
+
+    "Apocalypto (2006)":
+        year: 2006
+        title: "Apocalypto"
+        match:
+          mapping_id: 1579
+        url_poster: https://theposterdb.com/api/assets/195684
+
+    "Apocalypse Now (1979)":
+        year: 1979
+        title: "Apocalypse Now"
+        match:
+          mapping_id: 28
+        url_poster: https://theposterdb.com/api/assets/195040
+
+    "The Weeknd: Live at SoFi Stadium (2023)":
+        year: 2023
+        title: "The Weeknd: Live at SoFi Stadium"
+        match:
+          mapping_id: 1081789
+        url_poster: https://theposterdb.com/api/assets/447497
+
+    "Dr. Death: Cutthroat Conman (2023)":
+        year: 2023
+        title: "Dr. Death: Cutthroat Conman"
+        match:
+          mapping_id: 1217348
+        url_poster: https://theposterdb.com/api/assets/447501
+
+    "Spaceman (2024)":
+        year: 2024
+        title: "Spaceman"
+        match:
+          mapping_id: 636706
+        url_poster: https://theposterdb.com/api/assets/446252
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
+
 

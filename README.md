@@ -7,6 +7,7 @@ Dessa config-filer är anpassade till [Plex Meta Manager :nightly](https://metam
 
 Glöm inte och följa [Trash-guides](https://trash-guides.info/) för att namnge ditt bibliotek på ett korrekt sätt!
 
+
 Finns inte din TV Serie eller Film så finns det en template https://github.com/Ninja-FSE/pmm-config/tree/main/tv/metadata som du kan använda dig utav och lägga till en Request, använd sedan ```Issues```
 Glöm inte att använda kod-taggning annars blir formateringen fel.
 
