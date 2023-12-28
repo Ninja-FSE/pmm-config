@@ -1765,3 +1765,22 @@ metadata:
             #7:
                 #url_poster: https://theposterdb.com/api/assets/261683
                                                                                     
+#####################################################################
+#                                                                   #
+#               TV-Show SEE  (2019)                                 #
+#                                                                   #
+#####################################################################
+    "SEE (2019)":
+        year: 2019
+        title: "SEE"
+        #url_poster: https://theposterdb.com/api/assets/252139
+        match:
+          mapping_id: 361565 
+        seasons:
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/252140
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/252141
+            #3:
+                #url_poster: https://theposterdb.com/api/assets/262481
+          
