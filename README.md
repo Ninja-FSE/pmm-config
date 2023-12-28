@@ -18,16 +18,30 @@ I Plex Meta Manager config lägg till
 ```yaml
 custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
 ```
-
-Sedan under TV biblioteket, metadata_path lägg till
+Nedan är ett exempel hur din Plex Meta Manager config fil borde se ut som för att få våra configs att funka!
 
 ```yaml
-- repo: metadata/tv/tvshows
-- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om TV-Serien har svenskt text.
-```
+libraries:
+  Movies:
+    operations:
+      sync_tags: true
+      add_blank_entries: false
+    # delete_collections:
+    #    configured: false
+    #    managed: true
+    metadata_path:
+    - repo: metadata/movies/movies
+    overlay_path:
+    - repo: overlays/subtitles
 
-Sedan under Film biblioteket, metadata_path lägg till
-```yaml
-- repo: metadata/movies/movies
-- repo: overlays/subtitles # Detta lägger till en Svensk flagga i högra nedre hörn om Filmen har svenskt text.
+  TV:
+    metadata_path:
+    - repo: metadata/tv/tvshows
+    overlay_path:
+    - repo: overlays/subtitles
+    - remove_overlays: false
+    - reapply_overlay: true
+
+settings:
+  custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
  ```
