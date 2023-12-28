@@ -1783,4 +1783,28 @@ metadata:
                 #url_poster: https://theposterdb.com/api/assets/252141
             #3:
                 #url_poster: https://theposterdb.com/api/assets/262481
+
+#####################################################################
+#                                                                   #
+#               TV-Show Southland  (2009)                            #
+#                                                                   #
+#####################################################################
+    "Southland (2009)":
+        year: 2009
+        title: "SouthLAnd"
+        #url_poster: https://theposterdb.com/api/assets/360406
+        match:
+          mapping_id: 84645 
+        seasons:
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/360407
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/360408
+            #3:
+                #url_poster: https://theposterdb.com/api/assets/360409
+            #4:
+                #url_poster: https://theposterdb.com/api/assets/360410
+            #5:
+                #url_poster: https://theposterdb.com/api/assets/360411
+              
           
