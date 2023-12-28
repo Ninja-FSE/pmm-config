@@ -39,7 +39,7 @@ metadata:
         title: "1883"
         url_poster: https://theposterdb.com/api/assets/302801
         match:
-          mapping_id: 118357
+          mapping_id: 396390
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -59,7 +59,7 @@ metadata:
         title: "1923"
         url_poster: https://theposterdb.com/api/assets/302804
         match:
-          mapping_id: 157744
+          mapping_id: 416491
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -79,7 +79,7 @@ metadata:
         title: "All the Light We Cannot See"
         url_poster: https://theposterdb.com/api/assets/426827
         match:
-          mapping_id: 155421
+          mapping_id: 411029
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -99,7 +99,7 @@ metadata:
         title: "American Horror Stories"
         url_poster: https://theposterdb.com/api/assets/273260
         match:
-          mapping_id: 1413
+          mapping_id: 382187
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -121,7 +121,7 @@ metadata:
         title: "Banshee"
         url_poster: https://theposterdb.com/api/assets/327893
         match:
-          mapping_id: 41727
+          mapping_id: 259765
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -147,7 +147,7 @@ metadata:
         title: "Beacon 23"
         url_poster: https://theposterdb.com/api/assets/430914
         match:
-          mapping_id: 112388
+          mapping_id: 399240
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -207,7 +207,7 @@ metadata:
         title: "Brawn: The Impossible Formula 1 Story"
         url_poster: https://theposterdb.com/api/assets/436603
         match:
-          mapping_id: 233254
+          mapping_id: 438650
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -264,7 +264,7 @@ metadata:
         title: "Dr. Brain"
         url_poster: https://theposterdb.com/api/assets/360820
         match:
-          mapping_id: 119955
+          mapping_id: 396362
         seasons:
              1:
                  url_poster: https://theposterdb.com/api/assets/360821
@@ -302,7 +302,7 @@ metadata:
         title: "From"
         url_poster: https://theposterdb.com/api/assets/362569
         match:
-          mapping_id: 124364
+          mapping_id: 401003
         # IDs: imdb://tt2879552, tmdb://64464, tvdb://301824
         # tpdb: https://theposterdb.com/search/advanced/results?term=11.22.63&category=Shows&year_filter=equals&yone=2016&tmdb_id=64464&imdb_id=tt2879552&tvdb_id=301824
         # tmdb: https://www.themoviedb.org/tv/64464
@@ -324,7 +324,7 @@ metadata:
         title: "Full Circle"
         url_poster: https://theposterdb.com/api/assets/385204
         match:
-          mapping_id: 132016
+          mapping_id: 409142
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -344,7 +344,7 @@ metadata:
         title: "Furia"
         #url_poster: https://theposterdb.com/api/assets/293636
         match:
-          mapping_id: 130129
+          mapping_id: 397747
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -364,7 +364,7 @@ metadata:
         title: "Gangs of London"
         url_poster: https://theposterdb.com/api/assets/366431
         match:
-          mapping_id: 85021
+          mapping_id: 364387
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -386,7 +386,7 @@ metadata:
         title: "Gen V"
         url_poster: https://theposterdb.com/api/assets/416631
         match:
-          mapping_id: 205715
+          mapping_id: 417909
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -407,7 +407,7 @@ metadata:
         sort_title: "Gold Rush"
         url_poster: https://theposterdb.com/api/assets/415829
         match:
-          mapping_id: 351291
+          mapping_id: 208111
         # IDs: imdb://tt2177461, tmdb://77236, tvdb://351291
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Discovery%20of%20Witches&category=Shows&year_filter=equals&yone=2018&tmdb_id=77236&imdb_id=tt2177461&tvdb_id=351291
         # tmdb: https://www.themoviedb.org/tv/77236
@@ -453,7 +453,7 @@ metadata:
         title: "Goosebumps"
         url_poster: https://theposterdb.com/api/assets/420527
         match:
-          mapping_id: 157004
+          mapping_id: 415840
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -473,7 +473,7 @@ metadata:
         title: "Gotham Knights"
         url_poster: https://theposterdb.com/api/assets/367380
         match:
-          mapping_id: 195868
+          mapping_id: 420061
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -493,7 +493,7 @@ metadata:
         title: "Halo"
         url_poster: https://theposterdb.com/api/assets/225843
         match:
-          mapping_id: 52814
+          mapping_id: 366524
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -515,7 +515,7 @@ metadata:
         title: "Harlan Coben's Shelter"
         url_poster: https://theposterdb.com/api/assets/399022
         match:
-          mapping_id: 210787
+          mapping_id: 417857
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -535,7 +535,7 @@ metadata:
         title: "Hellbound"
         url_poster: https://theposterdb.com/api/assets/279205
         match:
-          mapping_id: 106651
+          mapping_id: 397444
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -555,7 +555,7 @@ metadata:
         title: "Hijack"
         url_poster: https://theposterdb.com/api/assets/379169
         match:
-          mapping_id: 198102
+          mapping_id: 419254
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -575,7 +575,7 @@ metadata:
         title: "House of the Dragon"
         url_poster: https://theposterdb.com/api/assets/259940
         match:
-          mapping_id: 94997
+          mapping_id: 371572
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -595,7 +595,7 @@ metadata:
         title: "Invasion"
         url_poster: https://theposterdb.com/api/assets/245400
         match:
-          mapping_id: 127235
+          mapping_id: 404492
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -617,7 +617,7 @@ metadata:
         title: "Kung Fu"
         url_poster: https://theposterdb.com/api/assets/380563
         match:
-          mapping_id: 114165
+          mapping_id: 382272
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -665,7 +665,7 @@ metadata:
         title: "Loki"
         url_poster: https://theposterdb.com/api/assets/170972
         match:
-          mapping_id: 84958
+          mapping_id: 362472
         # IDs: imdb://tt9140554, tmdb://84958, tvdb://362472
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Loki&category=Shows&year_filter=equals&yone=2021&tmdb_id=84958&imdb_id=tt9140554&tvdb_id=362472
         # tmdb: https://www.themoviedb.org/tv/84958
@@ -687,7 +687,7 @@ metadata:
         title: "Monarch: Legacy of Monsters"
         url_poster: https://theposterdb.com/api/assets/421591
         match:
-          mapping_id: 202411
+          mapping_id: 422598
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -707,7 +707,7 @@ metadata:
         title: "Moving"
         url_poster: https://theposterdb.com/api/assets/425056
         match:
-          mapping_id: 126485
+          mapping_id: 411944
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -727,7 +727,7 @@ metadata:
         title: "Mythic Quest"
         url_poster: https://theposterdb.com/api/assets/252153
         match:
-          mapping_id: 94951
+          mapping_id: 362829
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -783,7 +783,7 @@ metadata:
         title: "Painkiller"
         url_poster: https://theposterdb.com/api/assets/425986
         match:
-          mapping_id: 158083
+          mapping_id: 403756
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -803,7 +803,7 @@ metadata:
         title: "Rabbit Hole"
         url_poster: https://theposterdb.com/api/assets/347916
         match:
-          mapping_id: 156819
+          mapping_id: 415584
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -843,7 +843,7 @@ metadata:
         title: "Secret Invasion"
         url_poster: https://theposterdb.com/api/assets/376618
         match:
-          mapping_id: 114472
+          mapping_id: 393203
         # IDs: imdb://tt13157618, tmdb://114472, tvdb://393203
         # tpdb: https://theposterdb.com/search/advanced/results?term=Secret%20Invasion&category=Shows&year_filter=equals&yone=2023&tmdb_id=114472&imdb_id=tt13157618&tvdb_id=393203
         # tmdb: https://www.themoviedb.org/tv/114472
@@ -929,7 +929,7 @@ metadata:
         title: "Sons of Anarchy"
         url_poster: https://theposterdb.com/api/assets/292677
         match:
-          mapping_id: 384429
+          mapping_id: 82696
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -961,7 +961,7 @@ metadata:
         title: "Special Ops: Lioness"
         url_poster: https://theposterdb.com/api/assets/387903
         match:
-          mapping_id: 113962
+          mapping_id: 388589
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -981,7 +981,7 @@ metadata:
         title: "Squid Game"
         url_poster: https://theposterdb.com/api/assets/218062
         match:
-          mapping_id: 93405
+          mapping_id: 383275
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1001,7 +1001,7 @@ metadata:
         title: "Squid Game: The Challenge"
         url_poster: https://theposterdb.com/api/assets/437217
         match:
-          mapping_id: 384429
+          mapping_id: 421260
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1279,7 +1279,7 @@ metadata:
         title: "Superman and Lois"
         url_poster: https://theposterdb.com/api/assets/262428
         match:
-          mapping_id: 95057
+          mapping_id: 375655
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1303,7 +1303,7 @@ metadata:
         title: "Suspicion"
         url_poster: https://theposterdb.com/api/assets/376733
         match:
-          mapping_id: 100414
+          mapping_id: 385690
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1323,7 +1323,7 @@ metadata:
         title: "Sweet Tooth"
         url_poster: https://theposterdb.com/api/assets/345622
         match:
-          mapping_id: 103768
+          mapping_id: 355837
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1345,7 +1345,7 @@ metadata:
         title: "Tehran"
         url_poster: https://theposterdb.com/api/assets/360809
         match:
-          mapping_id: 103913
+          mapping_id: 380010
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1368,7 +1368,7 @@ metadata:
         sort_title: "The Boys"
         url_poster: https://theposterdb.com/api/assets/242071
         match:
-          mapping_id: 76479
+          mapping_id: 355567
         # IDs: imdb://tt2741602, tmdb://46952, tvdb://266189
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist&category=Shows&year_filter=equals&yone=2013&tmdb_id=46952&imdb_id=tt2741602&tvdb_id=266189
         # tmdb: https://www.themoviedb.org/tv/46952
@@ -1394,7 +1394,7 @@ metadata:
         title: "The Changeling"
         url_poster: https://theposterdb.com/api/assets/407302
         match:
-          mapping_id: 131992
+          mapping_id: 409143
         # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
         # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
         # tmdb: https://www.themoviedb.org/tv/2119
@@ -1421,7 +1421,7 @@ metadata:
         title: "The Continental"
         url_poster: https://theposterdb.com/api/assets/414372
         match:
-          mapping_id: 72710
+          mapping_id: 414734
         # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
         # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
         # tmdb: https://www.themoviedb.org/tv/2119
@@ -1462,7 +1462,7 @@ metadata:
         title: "The Fall of the House of Usher"
         url_poster: https://theposterdb.com/api/assets/425981
         match:
-          mapping_id: 157065
+          mapping_id: 411021
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1482,7 +1482,7 @@ metadata:
         title: "The Handmaid's Tale"
         url_poster: https://theposterdb.com/api/assets/282676
         match:
-          mapping_id: 69478
+          mapping_id: 321239
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1510,7 +1510,7 @@ metadata:
         title: "The Last of Us"
         url_poster: https://theposterdb.com/api/assets/297301
         match:
-          mapping_id: 100088
+          mapping_id: 392256
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1551,7 +1551,7 @@ metadata:
         title: "The Lost Flowers of Alice Hart"
         url_poster: https://theposterdb.com/api/assets/393290
         match:
-          mapping_id: 125816
+          mapping_id: 403090
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1592,7 +1592,7 @@ metadata:
         title: "The Peripheral"
         url_poster: https://theposterdb.com/api/assets/323846
         match:
-          mapping_id: 95403
+          mapping_id: 349187
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1612,7 +1612,7 @@ metadata:
         title: "The Quest"
         url_poster: https://theposterdb.com/api/assets/367584
         match:
-          mapping_id: 196749
+          mapping_id: 418549
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1632,7 +1632,7 @@ metadata:
         title: "The Rig"
         url_poster: https://theposterdb.com/api/assets/345278
         match:
-          mapping_id: 112581
+          mapping_id: 399194
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1652,7 +1652,7 @@ metadata:
         title: "The Sandman"
         url_poster: https://theposterdb.com/api/assets/273192
         match:
-          mapping_id: 90802
+          mapping_id: 366211
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1672,7 +1672,7 @@ metadata:
         title: "The Serpent Queen"
         url_poster: https://theposterdb.com/api/assets/345995
         match:
-          mapping_id: 118189
+          mapping_id: 396325
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1715,7 +1715,7 @@ metadata:
         title: "The Winter King"
         url_poster: https://theposterdb.com/api/assets/445319
         match:
-          mapping_id: 99737
+          mapping_id: 428022
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1735,7 +1735,7 @@ metadata:
         title: "Tokyo Vice"
         url_poster: https://theposterdb.com/api/assets/295736
         match:
-          mapping_id: 90296
+          mapping_id: 366624
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1755,7 +1755,7 @@ metadata:
         title: "Tulsa King"
         url_poster: https://theposterdb.com/api/assets/302797
         match:
-          mapping_id: 153312
+          mapping_id: 413215
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1775,7 +1775,7 @@ metadata:
         title: "Upload"
         url_poster: https://theposterdb.com/api/assets/258840
         match:
-          mapping_id: 384429
+          mapping_id: 368211
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1851,7 +1851,7 @@ metadata:
         title: "Warrior"
         url_poster: https://theposterdb.com/api/assets/375545
         match:
-          mapping_id: 73544
+          mapping_id: 359326
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1875,7 +1875,7 @@ metadata:
         title: "Wednesday"
         url_poster: https://theposterdb.com/api/assets/292774
         match:
-          mapping_id: 119051
+          mapping_id: 397060
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1895,7 +1895,7 @@ metadata:
         title: "Wolf"
         url_poster: https://theposterdb.com/api/assets/392500
         match:
-          mapping_id: 222117
+          mapping_id: 400190
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1963,7 +1963,7 @@ metadata:
         title: "You"
         url_poster: https://theposterdb.com/api/assets/283584
         match:
-          mapping_id: 78191
+          mapping_id: 336924
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -1989,7 +1989,7 @@ metadata:
         title: "House"
         url_poster: https://theposterdb.com/api/assets/278643
         match:
-          mapping_id: 1408
+          mapping_id: 73255
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -2023,7 +2023,7 @@ metadata:
         title: "The Curse of Oak Island"
         url_poster: https://theposterdb.com/api/assets/430928
         match:
-          mapping_id: 72710
+          mapping_id: 276515
 
 #####################################################################
 #                                                                   #
@@ -2035,7 +2035,7 @@ metadata:
         title: "Bering Sea Gold"
         url_poster: https://theposterdb.com/api/assets/438434
         match:
-          mapping_id: 58704
+          mapping_id: 254203
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -2087,7 +2087,7 @@ metadata:
         title: "The Crown"
         url_poster: https://theposterdb.com/api/assets/242967
         match:
-          mapping_id: 65494
+          mapping_id: 305574
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -2117,7 +2117,7 @@ metadata:
         title: "Lawmen: Bass Reeves"
         url_poster: https://theposterdb.com/api/assets/427904
         match:
-          mapping_id: 157732
+          mapping_id: 416503
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
@@ -2134,10 +2134,10 @@ metadata:
 #####################################################################
     "Percy Jackson and the Olympians (2023)":
         year: 2023
-        title: "Percy Jackson och Olympierna"
+        title: "Percy Jackson and the Olympians"
         url_poster: https://theposterdb.com/api/assets/445773
         match:
-          mapping_id: 103540
+          mapping_id: 415151
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669
