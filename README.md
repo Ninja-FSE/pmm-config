@@ -26,9 +26,6 @@ libraries:
     operations:
       sync_tags: true
       add_blank_entries: false
-    # delete_collections:
-    #    configured: false
-    #    managed: true
     metadata_path:
     - repo: metadata/movies/movies
     overlay_path:
