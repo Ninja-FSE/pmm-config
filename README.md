@@ -13,11 +13,6 @@ Glöm inte att använda kod-taggning annars blir formateringen fel.
 
 # HOWTO
 
-I Plex Meta Manager config lägg till
-
-```yaml
-custom_repo: https://github.com/Ninja-FSE/pmm-config/tree/main/
-```
 Nedan är ett exempel hur din Plex Meta Manager config fil borde se ut som för att få våra configs att funka!
 
 ```yaml
