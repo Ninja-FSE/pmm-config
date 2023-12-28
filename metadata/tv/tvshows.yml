@@ -1737,3 +1737,31 @@ metadata:
                #url_poster: https://theposterdb.com/api/assets/441836
             #2:
                 #url_poster: https://theposterdb.com/api/assets/441837
+
+#####################################################################
+#                                                                   #
+#               TV-Show New Girl  (2011)                           #
+#                                                                   #
+#####################################################################
+    "New Girl (2011)":
+        year: 2011
+        title: "New Girl"
+        #url_poster: https://theposterdb.com/api/assets/261676
+        match:
+          mapping_id: 248682
+        seasons:
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/261677
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/261678
+            #3:
+                #url_poster: https://theposterdb.com/api/assets/261679
+            #4:
+                #url_poster: https://theposterdb.com/api/assets/261680
+            #5:
+                #url_poster: https://theposterdb.com/api/assets/261681
+            #6:
+                #url_poster: https://theposterdb.com/api/assets/261682
+            #7:
+                #url_poster: https://theposterdb.com/api/assets/261683
+                                                                                    
