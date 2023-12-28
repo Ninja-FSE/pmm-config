@@ -50,6 +50,7 @@ libraries:
       add_blank_entries: false
     metadata_path:
     - folder: metadata/movies/movies
+    - folder: metadata/movies/collections
     overlay_path:
     - folder: overlays/subtitles
 
