@@ -1720,3 +1720,20 @@ metadata:
                #url_poster: https://theposterdb.com/api/assets/441836
             #2:
                 #url_poster: https://theposterdb.com/api/assets/441837
+
+#####################################################################
+#                                                                   #
+#               TV-Show Sanningen  (2023)                           #
+#                                                                   #
+#####################################################################
+    "Sanningen (2023)":
+        year: 2023
+        title: "Sanningen"
+        #url_poster: https://theposterdb.com/api/assets/447738
+        match:
+          mapping_id: 443351
+        seasons:
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/441836
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/441837
