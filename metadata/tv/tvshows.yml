@@ -1703,3 +1703,20 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/441836
             2:
                 url_poster: https://theposterdb.com/api/assets/441837
+
+#####################################################################
+#                                                                   #
+#               TV-Show Godfather of Harlem  (2019)                 #
+#                                                                   #
+#####################################################################
+    "Godfather of Harlem (2019)":
+        year: 2019
+        title: "Godfather of Harlem"
+        url_poster: https://theposterdb.com/api/assets/447738
+        match:
+          mapping_id: 365186
+        seasons:
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/441836
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/441837
