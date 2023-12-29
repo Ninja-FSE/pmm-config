@@ -4418,6 +4418,13 @@ metadata:
           mapping_id: 416194
         url_poster: https://theposterdb.com/api/assets/191182
 
+    "Ferrari (2023)":
+        year: 2023
+        title: "Ferrari"
+        match:
+          mapping_id: 365620
+        url_poster: https://theposterdb.com/api/assets/447180
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
