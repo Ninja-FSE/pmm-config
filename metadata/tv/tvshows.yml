@@ -2193,3 +2193,86 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/362859
             9:
                 url_poster: https://theposterdb.com/api/assets/362860 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  Fear the Walking Dead (2015)                     #
+#                                                                   #
+#####################################################################
+    "Fear the Walking Dead (2015)":
+        year: 2015
+        title: "Fear the Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/276061
+        match:
+          mapping_id: 290853
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/276062
+            1:
+                url_poster: https://theposterdb.com/api/assets/276063
+            2:
+                url_poster: https://theposterdb.com/api/assets/276064
+            3:
+                url_poster: https://theposterdb.com/api/assets/276065
+            4:
+                url_poster: https://theposterdb.com/api/assets/276066
+            5:
+                url_poster: https://theposterdb.com/api/assets/276067
+            6:
+                url_poster: https://theposterdb.com/api/assets/276068
+            7:
+                url_poster: https://theposterdb.com/api/assets/276069
+            8:
+                url_poster: https://theposterdb.com/api/assets/368210              
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#             Tales of the Walking Dead (2022)                      #
+#                                                                   #
+#####################################################################
+    "Tales of the Walking Dead (2022)":
+        year: 2022
+        title: "Tales of the Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/276070
+        match:
+          mapping_id: 411314
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/276071
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#               The Walking Dead: World Beyond (2020)               #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: World Beyond (2020)":
+        year: 2020
+        title: "The Walking Dead: World Beyond"
+        url_poster: https://theposterdb.com/api/assets/276073
+        match:
+          mapping_id: 372787
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/276074
+            2:
+                url_poster: https://theposterdb.com/api/assets/276075
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                   The Walking Dead: Dead City (2023)              #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: Dead City (2023)":
+        year: 2023
+        title: "The Walking Dead: Dead City"
+        url_poster: https://theposterdb.com/api/assets/368745
+        match:
+          mapping_id: 417549
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/368746
+                                       
