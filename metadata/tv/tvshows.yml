@@ -1817,7 +1817,7 @@ metadata:
         title: "The Walking Dead: Daryl Dixon"
         url_poster: https://theposterdb.com/api/assets/406442
         match:
-          mapping_id: 84645 
+          mapping_id: 427464 
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/406443
