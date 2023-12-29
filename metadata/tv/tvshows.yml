@@ -2122,38 +2122,3 @@ metadata:
             8:
                 url_poster: https://theposterdb.com/api/assets/401773
 
-#####################################################################
-#                                                                   #
-#                           TV-Show                                 #
-#                         xxxxx (xxxx)                              #
-#                                                                   #
-#####################################################################
-    "xxxx (xxxx)":
-        year: xxxx
-        title: "xxxx"
-        url_poster: xxxx
-        match:
-          mapping_id: xxxx
-        seasons:
-            1:
-                url_poster: xxxxx
-            2:
-                url_poster: xxxx
-            3:
-                url_poster: xxxx
-            4:
-                url_poster: xxxx
-            5:
-                url_poster: xxxx
-            6:
-                url_poster: xxxx
-            7:
-                url_poster: xxxx
-            8:
-                url_poster: xxxx
-            9:
-                url_poster: xxxx
-            10:
-                url_poster: xxxx
-            11:
-                url_poster: xxxxx         
