@@ -1971,7 +1971,88 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363344
             2:
                 url_poster: https://theposterdb.com/api/assets/363345
-  
+                 
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Catch-22 (2019)                           #   
+#                                                                   #
+#####################################################################
+    "Catch-22 (2019)":
+        year: 2019
+        title: "Catch-22"
+        url_poster: https://theposterdb.com/api/assets/344273
+        match:
+          mapping_id: 357558
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/344274    
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#              Formula 1: Drive to Survive (2019)                   #
+#                                                                   #
+#####################################################################
+    "Formula 1: Drive to Survive (xxxx)":
+        year: 2019
+        title: "Formula 1: Drive to Survive"
+        url_poster: https://theposterdb.com/api/assets/225782
+        match:
+          mapping_id: 359913
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225783
+            2:
+                url_poster: https://theposterdb.com/api/assets/225784
+            3:
+                url_poster: https://theposterdb.com/api/assets/225785
+            4:
+                url_poster: https://theposterdb.com/api/assets/225786
+            5:
+                url_poster: https://theposterdb.com/api/assets/325775 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                    The Good Doctor (2017)                         #
+#                                                                   #
+#####################################################################
+    "The Good Doctor (xxxx)":
+        year: xxxx
+        title: "The Good Doctor"
+        url_poster: xxxx
+        match:
+          mapping_id: 328634
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/353810
+            2:
+                url_poster: https://theposterdb.com/api/assets/353811
+            3:
+                url_poster: https://theposterdb.com/api/assets/353812
+            4:
+                url_poster: https://theposterdb.com/api/assets/353813
+            5:
+                url_poster: https://theposterdb.com/api/assets/353814
+            6:
+                url_poster: https://theposterdb.com/api/assets/353815 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  Lessons in Chemistry (xxxx)                      #
+#                                                                   #
+#####################################################################
+    "Lessons in Chemistry (2023)":
+        year: 2023
+        title: "Lessons in Chemistry"
+        url_poster: https://theposterdb.com/api/assets/426014
+        match:
+          mapping_id: 395685
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/426015
                 
 #####################################################################
 #                                                                   #
