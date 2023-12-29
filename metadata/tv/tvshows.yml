@@ -2295,4 +2295,22 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/380955
             3:
                 url_poster: https://theposterdb.com/api/assets/380956
-                                        
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Life on Our Planet (2023)                 #
+#                                                                   #
+#####################################################################
+    "Life on Our Planet (xxxx)":
+        year: 2023
+        title: "Life on Our Planet"
+        url_poster: https://theposterdb.com/api/assets/424722
+        match:
+          mapping_id: 426715
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/424724
+            0:
+                url_poster: https://theposterdb.com/api/assets/424723
+                                          
