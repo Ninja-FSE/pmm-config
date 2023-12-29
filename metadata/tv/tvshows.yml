@@ -1702,23 +1702,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Sanningen  (2023)                           #
-#                                                                   #
-#####################################################################
-    "Fallen (2023)":
-        year: 2023
-        title: "Sanningen"
-        url_poster: https://theposterdb.com/api/assets/447983
-        match:
-          mapping_id: 443351
-        seasons:
-            #1:
-               #url_poster: https://theposterdb.com/api/assets/441836
-            #2:
-                #url_poster: https://theposterdb.com/api/assets/441837
-
-#####################################################################
-#                                                                   #
 #               TV-Show New Girl  (2011)                            #
 #                                                                   #
 #####################################################################
@@ -1743,7 +1726,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/261682
             7:
                 url_poster: https://theposterdb.com/api/assets/261683
-                                                                                    
+
 #####################################################################
 #                                                                   #
 #               TV-Show SEE  (2019)                                 #
@@ -1754,7 +1737,7 @@ metadata:
         title: "SEE"
         url_poster: https://theposterdb.com/api/assets/252139
         match:
-          mapping_id: 361565 
+          mapping_id: 361565
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/252140
@@ -1773,7 +1756,7 @@ metadata:
         title: "SouthLAnd"
         url_poster: https://theposterdb.com/api/assets/360406
         match:
-          mapping_id: 84645 
+          mapping_id: 84645
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/360407
@@ -1785,7 +1768,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360410
             5:
                 url_poster: https://theposterdb.com/api/assets/360411
-              
+
 #####################################################################
 #                                                                   #
 #               TV-Show The Walking Dead: Daryl Dixon  (2023)       #
@@ -1796,11 +1779,11 @@ metadata:
         title: "The Walking Dead: Daryl Dixon"
         url_poster: https://theposterdb.com/api/assets/406442
         match:
-          mapping_id: 427464 
+          mapping_id: 427464
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/406443
-              
+
 #####################################################################
 #                                                                   #
 #               TV-Show Band of Brothers  (2001)                    #
@@ -1811,7 +1794,7 @@ metadata:
         title: "Band of Brothers"
         url_poster: https://theposterdb.com/api/assets/218218
         match:
-          mapping_id: 74205 
+          mapping_id: 74205
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/285126
@@ -1851,7 +1834,7 @@ metadata:
         title: "Tacoma FD"
         url_poster: https://theposterdb.com/api/assets/400607
         match:
-          mapping_id: 347719 
+          mapping_id: 347719
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/400609
@@ -1891,5 +1874,47 @@ metadata:
             8:
                 url_poster: https://theposterdb.com/api/assets/278652
 
-              
-          
+#####################################################################
+#                                                                   #
+#               TV-Show Sanningen  (2023)                           #
+#                                                                   #
+#####################################################################
+    "Fallen (2023)":
+        year: 2023
+        title: "Sanningen"
+        url_poster: https://theposterdb.com/api/assets/447983
+        match:
+          mapping_id: 443351
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447984
+
+#####################################################################
+#                                                                   #
+#               TV-Show Fenris  (2022)                              #
+#                                                                   #
+#####################################################################
+    "Fenris (2022)":
+        year: 2022
+        title: "Fenris"
+        url_poster: https://theposterdb.com/api/assets/447994
+        match:
+          mapping_id: 424513
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447995
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Girl in the Mirror  (2022)                  #
+#                                                                   #
+#####################################################################
+    "The Girl in the Mirror (2022)":
+        year: 2022
+        title: "The Girl in the Mirror"
+        url_poster: https://theposterdb.com/api/assets/447998
+        match:
+          mapping_id: 388567
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447999
