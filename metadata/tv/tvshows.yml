@@ -9,12 +9,7 @@ metadata:
         title: "9-1-1"
         url_poster: https://theposterdb.com/api/assets/349096
         match:
-          mapping_id: 75219
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 337907
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/349097
@@ -39,12 +34,7 @@ metadata:
         title: "1883"
         url_poster: https://theposterdb.com/api/assets/302801
         match:
-          mapping_id: 118357
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 396390
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327933
@@ -59,12 +49,7 @@ metadata:
         title: "1923"
         url_poster: https://theposterdb.com/api/assets/302804
         match:
-          mapping_id: 157744
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 416491
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327936
@@ -79,12 +64,7 @@ metadata:
         title: "All the Light We Cannot See"
         url_poster: https://theposterdb.com/api/assets/426827
         match:
-          mapping_id: 155421
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 411029
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/426828
@@ -99,12 +79,7 @@ metadata:
         title: "American Horror Stories"
         url_poster: https://theposterdb.com/api/assets/273260
         match:
-          mapping_id: 1413
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 382187
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/273262
@@ -121,12 +96,7 @@ metadata:
         title: "Banshee"
         url_poster: https://theposterdb.com/api/assets/327893
         match:
-          mapping_id: 41727
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 259765
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327895
@@ -147,12 +117,7 @@ metadata:
         title: "Beacon 23"
         url_poster: https://theposterdb.com/api/assets/430914
         match:
-          mapping_id: 112388
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 399240
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/430915
@@ -168,11 +133,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/362561
         match:
           mapping_id: 402256
-        # IDs: imdb://tt14586544, tmdb://138971, tvdb://402256
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Billy%20The%20Kid&category=Shows&year_filter=equals&yone=2022&tmdb_id=138971&imdb_id=tt14586544&tvdb_id=402256
-        # tmdb: https://www.themoviedb.org/tv/138971
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=402256
-        # imdb: https://www.imdb.com/title/tt14586544
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/362562
@@ -188,11 +148,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/422809
         match:
           mapping_id: 417257
-        # IDs: imdb://tt18347622, tmdb://233629, tvdb://417257
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Bodies%20%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=233629&imdb_id=tt18347622&tvdb_id=417257
-        # tmdb: https://www.themoviedb.org/tv/233629
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=417257
-        # imdb: https://www.imdb.com/title/tt18347622
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/422810
@@ -207,12 +162,7 @@ metadata:
         title: "Brawn: The Impossible Formula 1 Story"
         url_poster: https://theposterdb.com/api/assets/436603
         match:
-          mapping_id: 233254
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 438650
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/436603
@@ -228,11 +178,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/335446
         match:
           mapping_id: 365026
-        # IDs: imdb://tt0489974, tmdb://90027, tvdb://365026
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Carnival%20Row&category=Shows&year_filter=equals&yone=2019&tmdb_id=90027&imdb_id=tt0489974&tvdb_id=365026
-        # tmdb: https://www.themoviedb.org/tv/90027
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=365026
-        # imdb: https://www.imdb.com/title/tt0489974
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335448
@@ -264,7 +209,7 @@ metadata:
         title: "Dr. Brain"
         url_poster: https://theposterdb.com/api/assets/360820
         match:
-          mapping_id: 119955
+          mapping_id: 396362
         seasons:
              1:
                  url_poster: https://theposterdb.com/api/assets/360821
@@ -281,11 +226,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/321899
         match:
           mapping_id: 366972
-        # IDs: imdb://tt0804484, tmdb://93740, tvdb://366972
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Foundation&category=Shows&year_filter=equals&yone=2021&tmdb_id=93740&imdb_id=tt0804484&tvdb_id=366972
-        # tmdb: https://www.themoviedb.org/tv/93740
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=366972
-        # imdb: https://www.imdb.com/title/tt0804484
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/321900
@@ -302,12 +242,7 @@ metadata:
         title: "From"
         url_poster: https://theposterdb.com/api/assets/362569
         match:
-          mapping_id: 124364
-        # IDs: imdb://tt2879552, tmdb://64464, tvdb://301824
-        # tpdb: https://theposterdb.com/search/advanced/results?term=11.22.63&category=Shows&year_filter=equals&yone=2016&tmdb_id=64464&imdb_id=tt2879552&tvdb_id=301824
-        # tmdb: https://www.themoviedb.org/tv/64464
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=301824
-        # imdb: https://www.imdb.com/title/tt2879552
+          mapping_id: 401003
         seasons:
              1:
                  url_poster: https://theposterdb.com/api/assets/362570
@@ -324,12 +259,7 @@ metadata:
         title: "Full Circle"
         url_poster: https://theposterdb.com/api/assets/385204
         match:
-          mapping_id: 132016
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 409142
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/385205
@@ -342,17 +272,14 @@ metadata:
     "Furia (2021)":
         year: 2021
         title: "Furia"
-        #url_poster: https://theposterdb.com/api/assets/293636
+        url_poster: https://theposterdb.com/api/assets/447990
         match:
-          mapping_id: 130129
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
-        #seasons:
-        #    1:
-        #        url_poster: https://theposterdb.com/api/assets/293637
+          mapping_id: 397747
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/447991
+            2:
+                url_poster: https://theposterdb.com/api/assets/447992
 
 #####################################################################
 #                                                                   #
@@ -364,12 +291,7 @@ metadata:
         title: "Gangs of London"
         url_poster: https://theposterdb.com/api/assets/366431
         match:
-          mapping_id: 85021
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 364387
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366432
@@ -386,12 +308,7 @@ metadata:
         title: "Gen V"
         url_poster: https://theposterdb.com/api/assets/416631
         match:
-          mapping_id: 205715
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 417909
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/415368
@@ -407,12 +324,7 @@ metadata:
         sort_title: "Gold Rush"
         url_poster: https://theposterdb.com/api/assets/415829
         match:
-          mapping_id: 351291
-        # IDs: imdb://tt2177461, tmdb://77236, tvdb://351291
-        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Discovery%20of%20Witches&category=Shows&year_filter=equals&yone=2018&tmdb_id=77236&imdb_id=tt2177461&tvdb_id=351291
-        # tmdb: https://www.themoviedb.org/tv/77236
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=351291
-        # imdb: https://www.imdb.com/title/tt2177461
+          mapping_id: 208111
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/415831
@@ -453,12 +365,7 @@ metadata:
         title: "Goosebumps"
         url_poster: https://theposterdb.com/api/assets/420527
         match:
-          mapping_id: 157004
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 415840
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/420528
@@ -473,12 +380,7 @@ metadata:
         title: "Gotham Knights"
         url_poster: https://theposterdb.com/api/assets/367380
         match:
-          mapping_id: 195868
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 420061
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367381
@@ -493,12 +395,7 @@ metadata:
         title: "Halo"
         url_poster: https://theposterdb.com/api/assets/225843
         match:
-          mapping_id: 52814
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 366524
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/225845
@@ -515,12 +412,7 @@ metadata:
         title: "Harlan Coben's Shelter"
         url_poster: https://theposterdb.com/api/assets/399022
         match:
-          mapping_id: 210787
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 417857
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/399023
@@ -535,12 +427,7 @@ metadata:
         title: "Hellbound"
         url_poster: https://theposterdb.com/api/assets/279205
         match:
-          mapping_id: 106651
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 397444
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/279206
@@ -555,12 +442,7 @@ metadata:
         title: "Hijack"
         url_poster: https://theposterdb.com/api/assets/379169
         match:
-          mapping_id: 198102
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 419254
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/379170
@@ -575,12 +457,7 @@ metadata:
         title: "House of the Dragon"
         url_poster: https://theposterdb.com/api/assets/259940
         match:
-          mapping_id: 94997
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 371572
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/259942
@@ -595,12 +472,7 @@ metadata:
         title: "Invasion"
         url_poster: https://theposterdb.com/api/assets/245400
         match:
-          mapping_id: 127235
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 404492
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/245401
@@ -617,12 +489,7 @@ metadata:
         title: "Kung Fu"
         url_poster: https://theposterdb.com/api/assets/380563
         match:
-          mapping_id: 114165
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 382272
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/380564
@@ -642,11 +509,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/283475
         match:
           mapping_id: 361594
-        # IDs: imdb://tt3007572, tmdb://86423, tvdb://361594
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Locke%20%26%20Key&category=Shows&year_filter=equals&yone=2020&tmdb_id=86423&imdb_id=tt3007572&tvdb_id=361594
-        # tmdb: https://www.themoviedb.org/tv/86423
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=361594
-        # imdb: https://www.imdb.com/title/tt3007572
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/283477
@@ -665,12 +527,7 @@ metadata:
         title: "Loki"
         url_poster: https://theposterdb.com/api/assets/170972
         match:
-          mapping_id: 84958
-        # IDs: imdb://tt9140554, tmdb://84958, tvdb://362472
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Loki&category=Shows&year_filter=equals&yone=2021&tmdb_id=84958&imdb_id=tt9140554&tvdb_id=362472
-        # tmdb: https://www.themoviedb.org/tv/84958
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362472
-        # imdb: https://www.imdb.com/title/tt9140554
+          mapping_id: 362472
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192800
@@ -687,12 +544,7 @@ metadata:
         title: "Monarch: Legacy of Monsters"
         url_poster: https://theposterdb.com/api/assets/421591
         match:
-          mapping_id: 202411
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 422598
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/421592
@@ -707,12 +559,7 @@ metadata:
         title: "Moving"
         url_poster: https://theposterdb.com/api/assets/425056
         match:
-          mapping_id: 126485
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 411944
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/425057
@@ -727,12 +574,7 @@ metadata:
         title: "Mythic Quest"
         url_poster: https://theposterdb.com/api/assets/252153
         match:
-          mapping_id: 94951
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 362829
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/252155
@@ -752,11 +594,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/345943
         match:
           mapping_id: 270408
-        # IDs: imdb://tt3006802, tmdb://56570, tvdb://270408
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Outlander&category=Shows&year_filter=equals&yone=2014&tmdb_id=56570&imdb_id=tt3006802&tvdb_id=270408
-        # tmdb: https://www.themoviedb.org/tv/56570
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=270408
-        # imdb: https://www.imdb.com/title/tt3006802
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345945
@@ -783,12 +620,7 @@ metadata:
         title: "Painkiller"
         url_poster: https://theposterdb.com/api/assets/425986
         match:
-          mapping_id: 158083
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 403756
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/425987
@@ -803,12 +635,7 @@ metadata:
         title: "Rabbit Hole"
         url_poster: https://theposterdb.com/api/assets/347916
         match:
-          mapping_id: 156819
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 415584
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/347917
@@ -824,14 +651,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/261709
         match:
           mapping_id: 366924
-        # IDs: imdb://tt9288030, tmdb://108978, tvdb://366924
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Reacher&category=Shows&year_filter=equals&yone=2022&tmdb_id=108978&imdb_id=tt9288030&tvdb_id=366924
-        # tmdb: https://www.themoviedb.org/tv/108978
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=366924
-        # imdb: https://www.imdb.com/title/tt9288030
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/26171
+                url_poster: https://theposterdb.com/api/assets/261710
+            2:
+                url_poster: https://theposterdb.com/api/assets/432627              
 
 #####################################################################
 #                                                                   #
@@ -843,12 +667,7 @@ metadata:
         title: "Secret Invasion"
         url_poster: https://theposterdb.com/api/assets/376618
         match:
-          mapping_id: 114472
-        # IDs: imdb://tt13157618, tmdb://114472, tvdb://393203
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Secret%20Invasion&category=Shows&year_filter=equals&yone=2023&tmdb_id=114472&imdb_id=tt13157618&tvdb_id=393203
-        # tmdb: https://www.themoviedb.org/tv/114472
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393203
-        # imdb: https://www.imdb.com/title/tt13157618
+          mapping_id: 393203
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/376619
@@ -864,11 +683,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/339099
         match:
           mapping_id: 369844
-        # IDs: imdb://tt2403776, tmdb://85720, tvdb://369844
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Shadow%20and%20Bone&category=Shows&year_filter=equals&yone=2021&tmdb_id=85720&imdb_id=tt2403776&tvdb_id=369844
-        # tmdb: https://www.themoviedb.org/tv/85720
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=369844
-        # imdb: https://www.imdb.com/title/tt2403776
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/339101
@@ -886,11 +700,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/360000
         match:
           mapping_id: 403245
-        # IDs: imdb://tt14688458, tmdb://125988, tvdb://403245
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Silo&category=Shows&year_filter=equals&yone=2023&tmdb_id=125988&imdb_id=tt14688458&tvdb_id=403245
-        # tmdb: https://www.themoviedb.org/tv/125988
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=403245
-        # imdb: https://www.imdb.com/title/tt14688458
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360001
@@ -906,11 +715,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/259024
         match:
           mapping_id: 364928
-        # IDs: imdb://tt6156584, tmdb://79680, tvdb://364928
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Snowpiercer&category=Shows&year_filter=equals&yone=2020&tmdb_id=79680&imdb_id=tt6156584&tvdb_id=364928
-        # tmdb: https://www.themoviedb.org/tv/79680
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364928
-        # imdb: https://www.imdb.com/title/tt6156584
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/259026
@@ -929,12 +733,7 @@ metadata:
         title: "Sons of Anarchy"
         url_poster: https://theposterdb.com/api/assets/292677
         match:
-          mapping_id: 384429
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 82696
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/292679
@@ -961,12 +760,7 @@ metadata:
         title: "Special Ops: Lioness"
         url_poster: https://theposterdb.com/api/assets/387903
         match:
-          mapping_id: 113962
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 388589
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/387904
@@ -981,12 +775,7 @@ metadata:
         title: "Squid Game"
         url_poster: https://theposterdb.com/api/assets/218062
         match:
-          mapping_id: 93405
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 383275
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/218063
@@ -1001,12 +790,7 @@ metadata:
         title: "Squid Game: The Challenge"
         url_poster: https://theposterdb.com/api/assets/437217
         match:
-          mapping_id: 384429
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 421260
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/437218
@@ -1022,11 +806,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/175974
         match:
           mapping_id: 328711
-        # IDs: imdb://tt5171438, tmdb://67198, tvdb://328711
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Discovery&category=Shows&year_filter=equals&yone=2017&tmdb_id=67198&imdb_id=tt5171438&tvdb_id=328711
-        # tmdb: https://www.themoviedb.org/tv/67198
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328711
-        # imdb: https://www.imdb.com/title/tt5171438
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222157
@@ -1048,11 +827,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/175975
         match:
           mapping_id: 364093
-        # IDs: imdb://tt8806524, tmdb://85949, tvdb://364093
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Picard&category=Shows&year_filter=equals&yone=2020&tmdb_id=85949&imdb_id=tt8806524&tvdb_id=364093
-        # tmdb: https://www.themoviedb.org/tv/85949
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364093
-        # imdb: https://www.imdb.com/title/tt8806524
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/218153
@@ -1072,11 +846,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/233723
         match:
           mapping_id: 382389
-        # IDs: imdb://tt12327578, tmdb://103516, tvdb://382389
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Strange%20New%20Worlds&category=Shows&year_filter=equals&yone=2022&tmdb_id=103516&imdb_id=tt12327578&tvdb_id=382389
-        # tmdb: https://www.themoviedb.org/tv/103516
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=382389
-        # imdb: https://www.imdb.com/title/tt12327578
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/233725
@@ -1094,11 +863,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/328779
         match:
           mapping_id: 83268
-        # IDs: imdb://tt0458290, tmdb://4194, tvdb://83268
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20The%20Clone%20Wars&category=Shows&year_filter=equals&yone=2008&tmdb_id=4194&imdb_id=tt0458290&tvdb_id=83268
-        # tmdb: https://www.themoviedb.org/tv/4194
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=83268
-        # imdb: https://www.imdb.com/title/tt0458290
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/244766
@@ -1129,11 +893,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/174476
         match:
           mapping_id: 361753
-        # IDs: imdb://tt8111088, tmdb://82856, tvdb://361753
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mandalorian&category=Shows&year_filter=equals&yone=2019&tmdb_id=82856&imdb_id=tt8111088&tvdb_id=361753
-        # tmdb: https://www.themoviedb.org/tv/82856
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361753
-        # imdb: https://www.imdb.com/title/tt8111088
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/200215
@@ -1154,11 +913,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/200213
         match:
           mapping_id: 393589
-        # IDs: imdb://tt13668894, tmdb://115036, tvdb://393589
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Book%20of%20Boba%20Fett&category=Shows&year_filter=equals&yone=2021&tmdb_id=115036&imdb_id=tt13668894&tvdb_id=393589
-        # tmdb: https://www.themoviedb.org/tv/115036
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=393589
-        # imdb: https://www.imdb.com/title/tt13668894
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/200214
@@ -1174,11 +928,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/238547
         match:
           mapping_id: 393199
-        # IDs: imdb://tt8466564, tmdb://92830, tvdb://393199
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Obi-Wan%20Kenobi&category=Shows&year_filter=equals&yone=2022&tmdb_id=92830&imdb_id=tt8466564&tvdb_id=393199
-        # tmdb: https://www.themoviedb.org/tv/92830
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393199
-        # imdb: https://www.imdb.com/title/tt8466564
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/238548
@@ -1194,11 +943,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/328800
         match:
           mapping_id: 393189
-        # IDs: imdb://tt9253284, tmdb://83867, tvdb://393189
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Andor&category=Shows&year_filter=equals&yone=2022&tmdb_id=83867&imdb_id=tt9253284&tvdb_id=393189
-        # tmdb: https://www.themoviedb.org/tv/83867
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393189
-        # imdb: https://www.imdb.com/title/tt9253284
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328802
@@ -1214,11 +958,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/328803
         match:
           mapping_id: 420659
-        # IDs: imdb://tt20723374, tmdb://203085, tvdb://420659
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Tales%20of%20the%20Jedi&category=Shows&year_filter=equals&yone=2022&tmdb_id=203085&imdb_id=tt20723374&tvdb_id=420659
-        # tmdb: https://www.themoviedb.org/tv/203085
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=420659
-        # imdb: https://www.imdb.com/title/tt20723374
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328804
@@ -1234,11 +973,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/392135
         match:
           mapping_id: 393187
-        # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Ahsoka&category=Shows&year_filter=equals&yone=2023&tmdb_id=114461&imdb_id=tt13622776&tvdb_id=393187
-        # tmdb: https://www.themoviedb.org/tv/114461
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393187
-        # imdb: https://www.imdb.com/title/tt13622776
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/392136
@@ -1254,11 +988,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/238549
         match:
           mapping_id: 305288
-        # IDs: imdb://tt4574334, tmdb://66732, tvdb://305288
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Stranger%20Things&category=Shows&year_filter=equals&yone=2016&tmdb_id=66732&imdb_id=tt4574334&tvdb_id=305288
-        # tmdb: https://www.themoviedb.org/tv/66732
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=305288
-        # imdb: https://www.imdb.com/title/tt4574334
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/238550
@@ -1279,12 +1008,7 @@ metadata:
         title: "Superman and Lois"
         url_poster: https://theposterdb.com/api/assets/262428
         match:
-          mapping_id: 95057
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 375655
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262430
@@ -1303,12 +1027,7 @@ metadata:
         title: "Suspicion"
         url_poster: https://theposterdb.com/api/assets/376733
         match:
-          mapping_id: 100414
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 385690
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/376734
@@ -1323,12 +1042,7 @@ metadata:
         title: "Sweet Tooth"
         url_poster: https://theposterdb.com/api/assets/345622
         match:
-          mapping_id: 103768
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 355837
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345623
@@ -1345,12 +1059,7 @@ metadata:
         title: "Tehran"
         url_poster: https://theposterdb.com/api/assets/360809
         match:
-          mapping_id: 103913
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 380010
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360811
@@ -1368,12 +1077,7 @@ metadata:
         sort_title: "The Boys"
         url_poster: https://theposterdb.com/api/assets/242071
         match:
-          mapping_id: 76479
-        # IDs: imdb://tt2741602, tmdb://46952, tvdb://266189
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist&category=Shows&year_filter=equals&yone=2013&tmdb_id=46952&imdb_id=tt2741602&tvdb_id=266189
-        # tmdb: https://www.themoviedb.org/tv/46952
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266189
-        # imdb: https://www.imdb.com/title/tt2741602
+          mapping_id: 355567
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242073
@@ -1394,12 +1098,7 @@ metadata:
         title: "The Changeling"
         url_poster: https://theposterdb.com/api/assets/407302
         match:
-          mapping_id: 131992
-        # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
-        # tmdb: https://www.themoviedb.org/tv/2119
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=73200
-        # imdb: https://www.imdb.com/title/tt0086662
+          mapping_id: 409143
         seasons:
             1:
                 https://theposterdb.com/api/assets/407303
@@ -1421,12 +1120,7 @@ metadata:
         title: "The Continental"
         url_poster: https://theposterdb.com/api/assets/414372
         match:
-          mapping_id: 72710
-        # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200
-        # tmdb: https://www.themoviedb.org/tv/2119
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=73200
-        # imdb: https://www.imdb.com/title/tt0086662
+          mapping_id: 414734
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/414373
@@ -1443,11 +1137,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/346794
         match:
           mapping_id: 402602
-        # IDs: imdb://tt11771270, tmdb://99346, tvdb://402602
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20English&category=Shows&year_filter=equals&yone=2022&tmdb_id=99346&imdb_id=tt11771270&tvdb_id=402602
-        # tmdb: https://www.themoviedb.org/tv/99346
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=402602
-        # imdb: https://www.imdb.com/title/tt11771270
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346795
@@ -1462,12 +1151,7 @@ metadata:
         title: "The Fall of the House of Usher"
         url_poster: https://theposterdb.com/api/assets/425981
         match:
-          mapping_id: 157065
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 411021
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/425982
@@ -1482,12 +1166,7 @@ metadata:
         title: "The Handmaid's Tale"
         url_poster: https://theposterdb.com/api/assets/282676
         match:
-          mapping_id: 69478
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 321239
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/282678
@@ -1510,12 +1189,7 @@ metadata:
         title: "The Last of Us"
         url_poster: https://theposterdb.com/api/assets/297301
         match:
-          mapping_id: 100088
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 392256
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/297302
@@ -1532,11 +1206,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/270260
         match:
           mapping_id: 367506
-        # IDs: imdb://tt7631058, tmdb://84773, tvdb://367506
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Rings%20of%20Power&category=Shows&year_filter=equals&yone=2022&tmdb_id=84773&imdb_id=tt7631058&tvdb_id=367506
-        # tmdb: https://www.themoviedb.org/tv/84773
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=367506
-        # imdb: https://www.imdb.com/title/tt7631058
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/270262
@@ -1551,12 +1220,7 @@ metadata:
         title: "The Lost Flowers of Alice Hart"
         url_poster: https://theposterdb.com/api/assets/393290
         match:
-          mapping_id: 125816
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 403090
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/393291
@@ -1573,11 +1237,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/342269
         match:
           mapping_id: 367392
-        # IDs: imdb://tt5645432, tmdb://111800, tvdb://367392
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Old%20Man&category=Shows&year_filter=equals&yone=2022&tmdb_id=111800&imdb_id=tt5645432&tvdb_id=367392
-        # tmdb: https://www.themoviedb.org/tv/111800
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=367392
-        # imdb: https://www.imdb.com/title/tt5645432
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/342270
@@ -1592,12 +1251,7 @@ metadata:
         title: "The Peripheral"
         url_poster: https://theposterdb.com/api/assets/323846
         match:
-          mapping_id: 95403
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 349187
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/323848
@@ -1612,12 +1266,7 @@ metadata:
         title: "The Quest"
         url_poster: https://theposterdb.com/api/assets/367584
         match:
-          mapping_id: 196749
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 418549
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367585
@@ -1632,12 +1281,7 @@ metadata:
         title: "The Rig"
         url_poster: https://theposterdb.com/api/assets/345278
         match:
-          mapping_id: 112581
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 399194
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345280
@@ -1652,12 +1296,7 @@ metadata:
         title: "The Sandman"
         url_poster: https://theposterdb.com/api/assets/273192
         match:
-          mapping_id: 90802
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 366211
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/273194
@@ -1672,12 +1311,7 @@ metadata:
         title: "The Serpent Queen"
         url_poster: https://theposterdb.com/api/assets/345995
         match:
-          mapping_id: 118189
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 396325
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345999
@@ -1694,11 +1328,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/335536
         match:
           mapping_id: 355730
-        # IDs: imdb://tt7462410, tmdb://71914, tvdb://355730
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Wheel%20of%20Time&category=Shows&year_filter=equals&yone=2021&tmdb_id=71914&imdb_id=tt7462410&tvdb_id=355730
-        # tmdb: https://www.themoviedb.org/tv/71914
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=355730
-        # imdb: https://www.imdb.com/title/tt7462410
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335538
@@ -1715,12 +1344,7 @@ metadata:
         title: "The Winter King"
         url_poster: https://theposterdb.com/api/assets/445319
         match:
-          mapping_id: 99737
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 428022
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/445320
@@ -1735,12 +1359,7 @@ metadata:
         title: "Tokyo Vice"
         url_poster: https://theposterdb.com/api/assets/295736
         match:
-          mapping_id: 90296
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 366624
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/295737
@@ -1755,12 +1374,7 @@ metadata:
         title: "Tulsa King"
         url_poster: https://theposterdb.com/api/assets/302797
         match:
-          mapping_id: 153312
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 413215
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/302798
@@ -1775,12 +1389,7 @@ metadata:
         title: "Upload"
         url_poster: https://theposterdb.com/api/assets/258840
         match:
-          mapping_id: 384429
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 368211
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/258841
@@ -1800,11 +1409,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/323898
         match:
           mapping_id: 260449
-        # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
-        # tmdb: https://www.themoviedb.org/tv/44217
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=260449
-        # imdb: https://www.imdb.com/title/tt2306299
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/323900
@@ -1830,11 +1434,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/323906
         match:
           mapping_id: 372700
-        # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A%20Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
-        # tmdb: https://www.themoviedb.org/tv/116135
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=372700
-        # imdb: https://www.imdb.com/title/tt11311302
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/323907
@@ -1851,12 +1450,7 @@ metadata:
         title: "Warrior"
         url_poster: https://theposterdb.com/api/assets/375545
         match:
-          mapping_id: 73544
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 359326
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/375547
@@ -1875,12 +1469,7 @@ metadata:
         title: "Wednesday"
         url_poster: https://theposterdb.com/api/assets/292774
         match:
-          mapping_id: 119051
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 397060
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/292775
@@ -1895,12 +1484,7 @@ metadata:
         title: "Wolf"
         url_poster: https://theposterdb.com/api/assets/392500
         match:
-          mapping_id: 222117
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 400190
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/392501
@@ -1916,11 +1500,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/406252
         match:
           mapping_id: 362250
-        # IDs: imdb://tt8042500, tmdb://86550, tvdb://362250
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Y%3A%20The%20Last%20Man&category=Shows&year_filter=equals&yone=2021&tmdb_id=86550&imdb_id=tt8042500&tvdb_id=362250
-        # tmdb: https://www.themoviedb.org/tv/86550
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362250
-        # imdb: https://www.imdb.com/title/tt8042500
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/406253
@@ -1936,11 +1515,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/295700
         match:
           mapping_id: 341164
-        # IDs: imdb://tt4236770, tmdb://73586, tvdb://341164
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowstone%20%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=73586&imdb_id=tt4236770&tvdb_id=341164
-        # tmdb: https://www.themoviedb.org/tv/73586
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=341164
-        # imdb: https://www.imdb.com/title/tt4236770
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/295702
@@ -1963,12 +1537,7 @@ metadata:
         title: "You"
         url_poster: https://theposterdb.com/api/assets/283584
         match:
-          mapping_id: 78191
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 336924
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/283585
@@ -1981,40 +1550,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show House (2004)                                #
-#                                                                   #
-#####################################################################
-    "House (2004)":
-        year: 2004
-        title: "House"
-        url_poster: https://theposterdb.com/api/assets/278643
-        match:
-          mapping_id: 1408
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/278645
-            2:
-                url_poster: https://theposterdb.com/api/assets/278646
-            3:
-                url_poster: https://theposterdb.com/api/assets/278647
-            4:
-                url_poster: https://theposterdb.com/api/assets/278648
-            5:
-                url_poster: https://theposterdb.com/api/assets/278649
-            6:
-                url_poster: https://theposterdb.com/api/assets/278650
-            7:
-                url_poster: https://theposterdb.com/api/assets/278651
-            8:
-                url_poster: https://theposterdb.com/api/assets/278652
-
-#####################################################################
-#                                                                   #
 #               TV-Show The Curse of Oak Island (2014)              #
 #                                                                   #
 #####################################################################
@@ -2023,7 +1558,7 @@ metadata:
         title: "The Curse of Oak Island"
         url_poster: https://theposterdb.com/api/assets/430928
         match:
-          mapping_id: 72710
+          mapping_id: 276515
 
 #####################################################################
 #                                                                   #
@@ -2035,12 +1570,7 @@ metadata:
         title: "Bering Sea Gold"
         url_poster: https://theposterdb.com/api/assets/438434
         match:
-          mapping_id: 58704
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 254203
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/438436
@@ -2087,12 +1617,7 @@ metadata:
         title: "The Crown"
         url_poster: https://theposterdb.com/api/assets/242967
         match:
-          mapping_id: 65494
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 305574
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242968
@@ -2109,7 +1634,7 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Lawmen: Bass Reeves (2023)                            #
+#               TV-Show Lawmen: Bass Reeves (2023)                  #
 #                                                                   #
 #####################################################################
     "Lawmen: Bass Revees (2023)":
@@ -2117,12 +1642,796 @@ metadata:
         title: "Lawmen: Bass Reeves"
         url_poster: https://theposterdb.com/api/assets/427904
         match:
-          mapping_id: 157732
-        # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
-        # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
-        # tmdb: https://www.themoviedb.org/tv/90669
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=384429
-        # imdb: https://www.imdb.com/title/tt9319668
+          mapping_id: 416503
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/427905
+
+#####################################################################
+#                                                                   #
+#               TV-Show Percy Jackson and the Olympians (2023)      #
+#                                                                   #
+#####################################################################
+    "Percy Jackson and the Olympians (2023)":
+        year: 2023
+        title: "Percy Jackson and the Olympians"
+        url_poster: https://theposterdb.com/api/assets/445771
+        match:
+          mapping_id: 415151
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/445772
+
+#####################################################################
+#                                                                   #
+#               TV-Show Vigil  (2023)      #
+#                                                                   #
+#####################################################################
+    "Vigil (2021)":
+        year: 2021
+        title: "Vigil"
+        url_poster: https://theposterdb.com/api/assets/441835
+        match:
+          mapping_id: 384968
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/441836
+            2:
+                url_poster: https://theposterdb.com/api/assets/441837
+
+#####################################################################
+#                                                                   #
+#               TV-Show Godfather of Harlem  (2019)                 #
+#                                                                   #
+#####################################################################
+    "Godfather of Harlem (2019)":
+        year: 2019
+        title: "Godfather of Harlem"
+        url_poster: https://theposterdb.com/api/assets/447738
+        match:
+          mapping_id: 365186
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447977
+            2:
+               url_poster: https://theposterdb.com/api/assets/447978
+            3:
+               url_poster: https://theposterdb.com/api/assets/447979
+            4:
+               url_poster: https://theposterdb.com/api/assets/447980
+
+#####################################################################
+#                                                                   #
+#               TV-Show New Girl  (2011)                            #
+#                                                                   #
+#####################################################################
+    "The New Girl (2011)":
+        year: 2011
+        title: "New Girl"
+        url_poster: https://theposterdb.com/api/assets/261676
+        match:
+          mapping_id: 248682
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/261677
+            2:
+                url_poster: https://theposterdb.com/api/assets/261678
+            3:
+                url_poster: https://theposterdb.com/api/assets/261679
+            4:
+                url_poster: https://theposterdb.com/api/assets/261680
+            5:
+                url_poster: https://theposterdb.com/api/assets/261681
+            6:
+                url_poster: https://theposterdb.com/api/assets/261682
+            7:
+                url_poster: https://theposterdb.com/api/assets/261683
+
+#####################################################################
+#                                                                   #
+#               TV-Show SEE  (2019)                                 #
+#                                                                   #
+#####################################################################
+    "SEE (2019)":
+        year: 2019
+        title: "SEE"
+        url_poster: https://theposterdb.com/api/assets/252139
+        match:
+          mapping_id: 361565
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/252140
+            2:
+                url_poster: https://theposterdb.com/api/assets/252141
+            3:
+                url_poster: https://theposterdb.com/api/assets/262481
+
+#####################################################################
+#                                                                   #
+#               TV-Show Southland  (2009)                            #
+#                                                                   #
+#####################################################################
+    "Southland (2009)":
+        year: 2009
+        title: "SouthLAnd"
+        url_poster: https://theposterdb.com/api/assets/360406
+        match:
+          mapping_id: 84645
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/360407
+            2:
+                url_poster: https://theposterdb.com/api/assets/360408
+            3:
+                url_poster: https://theposterdb.com/api/assets/360409
+            4:
+                url_poster: https://theposterdb.com/api/assets/360410
+            5:
+                url_poster: https://theposterdb.com/api/assets/360411
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Walking Dead: Daryl Dixon  (2023)       #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: Daryl Dixon (2023)":
+        year: 2023
+        title: "The Walking Dead: Daryl Dixon"
+        url_poster: https://theposterdb.com/api/assets/406442
+        match:
+          mapping_id: 427464
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/406443
+
+#####################################################################
+#                                                                   #
+#               TV-Show Band of Brothers  (2001)                    #
+#                                                                   #
+#####################################################################
+    "Band of Brothers (2001)":
+        year: 2001
+        title: "Band of Brothers"
+        url_poster: https://theposterdb.com/api/assets/218218
+        match:
+          mapping_id: 74205
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/285126
+
+#####################################################################
+#                                                                   #
+#               TV-Show Young Sheldon (2017)                        #
+#                                                                   #
+#####################################################################
+    "Young Sheldon (2017)":
+        year: 2017
+        title: "Young Sheldon"
+        url_poster: https://theposterdb.com/api/assets/330762
+        match:
+          mapping_id: 328724
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330764
+            2:
+                url_poster: https://theposterdb.com/api/assets/330765
+            3:
+                url_poster: https://theposterdb.com/api/assets/330766
+            4:
+                url_poster: https://theposterdb.com/api/assets/330767
+            5:
+                url_poster: https://theposterdb.com/api/assets/330768
+            6:
+                url_poster: https://theposterdb.com/api/assets/330769
+
+#####################################################################
+#                                                                   #
+#               TV-Show Tacoma FD (2019)                        #
+#                                                                   #
+#####################################################################
+    "Tacoma FD (2019)":
+        year: 2019
+        title: "Tacoma FD"
+        url_poster: https://theposterdb.com/api/assets/400607
+        match:
+          mapping_id: 347719
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/400609
+            2:
+                url_poster: https://theposterdb.com/api/assets/400610
+            3:
+                url_poster: https://theposterdb.com/api/assets/400611
+            4:
+                url_poster: https://theposterdb.com/api/assets/400612
+
+#####################################################################
+#                                                                   #
+#               TV-Show House (2004)                                #
+#                                                                   #
+#####################################################################
+    "House (2004)":
+        year: 2004
+        title: "House"
+        url_poster: https://theposterdb.com/api/assets/278643
+        match:
+          mapping_id: 73255
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/278645
+            2:
+                url_poster: https://theposterdb.com/api/assets/278646
+            3:
+                url_poster: https://theposterdb.com/api/assets/278647
+            4:
+                url_poster: https://theposterdb.com/api/assets/278648
+            5:
+                url_poster: https://theposterdb.com/api/assets/278649
+            6:
+                url_poster: https://theposterdb.com/api/assets/278650
+            7:
+                url_poster: https://theposterdb.com/api/assets/278651
+            8:
+                url_poster: https://theposterdb.com/api/assets/278652
+
+#####################################################################
+#                                                                   #
+#               TV-Show Sanningen  (2023)                           #
+#                                                                   #
+#####################################################################
+    "Fallen (2023)":
+        year: 2023
+        title: "Sanningen"
+        url_poster: https://theposterdb.com/api/assets/447983
+        match:
+          mapping_id: 443351
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447984
+
+#####################################################################
+#                                                                   #
+#               TV-Show Fenris  (2022)                              #
+#                                                                   #
+#####################################################################
+    "Fenris (2022)":
+        year: 2022
+        title: "Fenris"
+        url_poster: https://theposterdb.com/api/assets/447994
+        match:
+          mapping_id: 424513
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447995
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Girl in the Mirror  (2022)                  #
+#                                                                   #
+#####################################################################
+    "The Girl in the Mirror (2022)":
+        year: 2022
+        title: "The Girl in the Mirror"
+        url_poster: https://theposterdb.com/api/assets/447998
+        match:
+          mapping_id: 388567
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/447999
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Walking Dead (2012)                     #
+#                                                                   #
+#####################################################################
+    "The Walking Dead (2010)":
+        year: 2010
+        title: "The Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/218107
+        match:
+          mapping_id: 153021
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218109
+            2:
+                url_poster: https://theposterdb.com/api/assets/218110
+            3:
+                url_poster: https://theposterdb.com/api/assets/218111
+            4:
+                url_poster: https://theposterdb.com/api/assets/218112
+            5:
+                url_poster: https://theposterdb.com/api/assets/218113
+            6:
+                url_poster: https://theposterdb.com/api/assets/218114
+            7:
+                url_poster: https://theposterdb.com/api/assets/218115
+            8:
+                url_poster: https://theposterdb.com/api/assets/218116
+            9:
+                url_poster: https://theposterdb.com/api/assets/218117
+            10:
+                url_poster: https://theposterdb.com/api/assets/218118
+            11:
+                url_poster: https://theposterdb.com/api/assets/218119  
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                     Clarkson's Farm (2021)                        #
+#                                                                   #
+#####################################################################
+    "Clarkson's Farm (2021)":
+        year: 2021
+        title: "Clarkson's Farm"
+        url_poster: https://theposterdb.com/api/assets/363343
+        match:
+          mapping_id: 378165
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/363344
+            2:
+                url_poster: https://theposterdb.com/api/assets/363345
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Catch-22 (2019)                           #   
+#                                                                   #
+#####################################################################
+    "Catch-22 (2019)":
+        year: 2019
+        title: "Catch-22"
+        url_poster: https://theposterdb.com/api/assets/344273
+        match:
+          mapping_id: 357558
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/344274    
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#              Formula 1: Drive to Survive (2019)                   #
+#                                                                   #
+#####################################################################
+    "Formula 1: Drive to Survive (xxxx)":
+        year: 2019
+        title: "Formula 1: Drive to Survive"
+        url_poster: https://theposterdb.com/api/assets/225782
+        match:
+          mapping_id: 359913
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225783
+            2:
+                url_poster: https://theposterdb.com/api/assets/225784
+            3:
+                url_poster: https://theposterdb.com/api/assets/225785
+            4:
+                url_poster: https://theposterdb.com/api/assets/225786
+            5:
+                url_poster: https://theposterdb.com/api/assets/325775 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                    The Good Doctor (2017)                         #
+#                                                                   #
+#####################################################################
+    "The Good Doctor (2017)":
+        year: 2017
+        title: "The Good Doctor"
+        url_poster: https://theposterdb.com/api/assets/353809
+        match:
+          mapping_id: 328634
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/353810
+            2:
+                url_poster: https://theposterdb.com/api/assets/353811
+            3:
+                url_poster: https://theposterdb.com/api/assets/353812
+            4:
+                url_poster: https://theposterdb.com/api/assets/353813
+            5:
+                url_poster: https://theposterdb.com/api/assets/353814
+            6:
+                url_poster: https://theposterdb.com/api/assets/353815 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  Lessons in Chemistry (xxxx)                      #
+#                                                                   #
+#####################################################################
+    "Lessons in Chemistry (2023)":
+        year: 2023
+        title: "Lessons in Chemistry"
+        url_poster: https://theposterdb.com/api/assets/426014
+        match:
+          mapping_id: 395685
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/426015
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         The Pacific (2010)                        #
+#                                                                   #
+#####################################################################
+    "The Pacific (2010)":
+        year: 2010
+        title: "The Pacific"
+        url_poster: https://theposterdb.com/api/assets/218221
+        match:
+          mapping_id: 85539
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/285127
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Raising Hope (2010)                       #
+#                                                                   #
+#####################################################################
+    "Raising Hope (2010)":
+        year: 2010
+        title: "Raising Hope"
+        url_poster: https://theposterdb.com/api/assets/350909
+        match:
+          mapping_id: 164021
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/350911
+            2:
+                url_poster: https://theposterdb.com/api/assets/350912
+            3:
+                url_poster: https://theposterdb.com/api/assets/350913
+            4:
+                url_poster: https://theposterdb.com/api/assets/350914  
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Weeds (2005)                              #
+#                                                                   #
+#####################################################################
+    "Weeds (2005)":
+        year: 2005
+        title: "Weeds"
+        url_poster: https://theposterdb.com/api/assets/401764
+        match:
+          mapping_id: 74845
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/401766
+            2:
+                url_poster: https://theposterdb.com/api/assets/401767
+            3:
+                url_poster: https://theposterdb.com/api/assets/401768
+            4:
+                url_poster: https://theposterdb.com/api/assets/401769
+            5:
+                url_poster: https://theposterdb.com/api/assets/401770
+            6:
+                url_poster: https://theposterdb.com/api/assets/401771
+            7:
+                url_poster: https://theposterdb.com/api/assets/401772
+            8:
+                url_poster: https://theposterdb.com/api/assets/401773
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  The Big Bang Theory (2007)                       #
+#                                                                   #
+#####################################################################
+    "The Big Bang Theory (2007)":
+        year: 2007
+        title: "The Big Bang Theory"
+        url_poster: https://theposterdb.com/api/assets/247173
+        match:
+          mapping_id: 80379
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/247175
+            2:
+                url_poster: https://theposterdb.com/api/assets/247176
+            3:
+                url_poster: https://theposterdb.com/api/assets/247177
+            4:
+                url_poster: https://theposterdb.com/api/assets/247178
+            5:
+                url_poster: https://theposterdb.com/api/assets/247179
+            6:
+                url_poster: https://theposterdb.com/api/assets/247180
+            7:
+                url_poster: https://theposterdb.com/api/assets/247181
+            8:
+                url_poster: https://theposterdb.com/api/assets/247182
+            9:
+                url_poster: https://theposterdb.com/api/assets/247183
+            10:
+                url_poster: https://theposterdb.com/api/assets/247184
+            11:
+                url_poster: https://theposterdb.com/api/assets/247185      
+            12:
+                url_poster: https://theposterdb.com/api/assets/247186    
+            0:
+                url_poster: https://theposterdb.com/api/assets/247174                                
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                       One Tree Hill (2003)                        #
+#                                                                   #
+#####################################################################
+    "One Tree Hill (2003)":
+        year: 2003
+        title: "One Tree Hill"
+        url_poster: https://theposterdb.com/api/assets/362850
+        match:
+          mapping_id: 72158
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/362852
+            2:
+                url_poster: https://theposterdb.com/api/assets/362853
+            3:
+                url_poster: https://theposterdb.com/api/assets/362854
+            4:
+                url_poster: https://theposterdb.com/api/assets/362855
+            5:
+                url_poster: https://theposterdb.com/api/assets/362856
+            6:
+                url_poster: https://theposterdb.com/api/assets/362857
+            7:
+                url_poster: https://theposterdb.com/api/assets/362858
+            8:
+                url_poster: https://theposterdb.com/api/assets/362859
+            9:
+                url_poster: https://theposterdb.com/api/assets/362860 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  Fear the Walking Dead (2015)                     #
+#                                                                   #
+#####################################################################
+    "Fear the Walking Dead (2015)":
+        year: 2015
+        title: "Fear the Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/276061
+        match:
+          mapping_id: 290853
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/276062
+            1:
+                url_poster: https://theposterdb.com/api/assets/276063
+            2:
+                url_poster: https://theposterdb.com/api/assets/276064
+            3:
+                url_poster: https://theposterdb.com/api/assets/276065
+            4:
+                url_poster: https://theposterdb.com/api/assets/276066
+            5:
+                url_poster: https://theposterdb.com/api/assets/276067
+            6:
+                url_poster: https://theposterdb.com/api/assets/276068
+            7:
+                url_poster: https://theposterdb.com/api/assets/276069
+            8:
+                url_poster: https://theposterdb.com/api/assets/368210              
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#             Tales of the Walking Dead (2022)                      #
+#                                                                   #
+#####################################################################
+    "Tales of the Walking Dead (2022)":
+        year: 2022
+        title: "Tales of the Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/276070
+        match:
+          mapping_id: 411314
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/276071
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#               The Walking Dead: World Beyond (2020)               #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: World Beyond (2020)":
+        year: 2020
+        title: "The Walking Dead: World Beyond"
+        url_poster: https://theposterdb.com/api/assets/276073
+        match:
+          mapping_id: 372787
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/276074
+            2:
+                url_poster: https://theposterdb.com/api/assets/276075
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                   The Walking Dead: Dead City (2023)              #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: Dead City (2023)":
+        year: 2023
+        title: "The Walking Dead: Dead City"
+        url_poster: https://theposterdb.com/api/assets/368745
+        match:
+          mapping_id: 417549
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/368746
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Blue Mountain State (2010)                #
+#                                                                   #
+#####################################################################
+    "Blue Mountain State (2010)":
+        year: 2010
+        title: "Blue Mountain State"
+        url_poster: https://theposterdb.com/api/assets/380953
+        match:
+          mapping_id: 134511
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/380954
+            2:
+                url_poster: https://theposterdb.com/api/assets/380955
+            3:
+                url_poster: https://theposterdb.com/api/assets/380956
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Life on Our Planet (2023)                 #
+#                                                                   #
+#####################################################################
+    "Life on Our Planet (2023)":
+        year: 2023
+        title: "Life on Our Planet"
+        url_poster: https://theposterdb.com/api/assets/424722
+        match:
+          mapping_id: 426715
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/424724
+            0:
+                url_poster: https://theposterdb.com/api/assets/424723
+
+ #####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         The Grand Tour (2016)                     #
+#                                                                   #
+#####################################################################
+    "The Grand Tour (2016)":
+        year: 2016
+        title: "The Grand Tour"
+        url_poster: https://theposterdb.com/api/assets/241920
+        match:
+          mapping_id: 314087
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/241921
+            2:
+                url_poster: https://theposterdb.com/api/assets/241922
+            3:
+                url_poster: https://theposterdb.com/api/assets/241923
+            4:
+                url_poster: https://theposterdb.com/api/assets/241924
+            5:
+                url_poster: https://theposterdb.com/api/assets/321300
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         ONE PIECE (2023)                          #
+#                                                                   #
+#####################################################################
+    "ONE PIECE (2023)":
+        year: 2023
+        title: "ONE PIECE"
+        url_poster: https://theposterdb.com/api/assets/403764
+        match:
+          mapping_id: 392276
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/403764
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Rick and Morty (2013)                     #
+#                                                                   #
+#####################################################################
+    "Rick and Morty (2013)":
+        year: 2013
+        title: "Rick and Morty"
+        url_poster: https://theposterdb.com/api/assets/268071
+        match:
+          mapping_id: 275274
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/268072        
+            1:
+                url_poster: https://theposterdb.com/api/assets/268073
+            2:
+                url_poster: https://theposterdb.com/api/assets/268074
+            3:
+                url_poster: https://theposterdb.com/api/assets/268075
+            4:
+                url_poster: https://theposterdb.com/api/assets/268076
+            5:
+                url_poster: https://theposterdb.com/api/assets/268077
+            6:
+                url_poster: https://theposterdb.com/api/assets/268078
+            7:
+                url_poster: https://theposterdb.com/api/assets/425041
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         BERLiN (2023)                          #
+#                                                                   #
+#####################################################################
+    "BERLiN (2023)":
+        year: 2023
+        title: "BERLiN"
+        url_poster: https://theposterdb.com/api/assets/448159
+        match:
+          mapping_id: 413033
+        #seasons:
+            #1:
+                #url_poster: https://theposterdb.com/api/assets/403764
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         xxxxx (xxxx)                              #
+#                                                                   #
+#####################################################################
+    "xxxx (xxxx)":
+        year: xxxx
+        title: "xxxx"
+        url_poster: xxxx
+        match:
+          mapping_id: xxxx
+        seasons:
+            1:
+                url_poster: xxxxx
+            2:
+                url_poster: xxxx
+            3:
+                url_poster: xxxx
+            4:
+                url_poster: xxxx
+            5:
+                url_poster: xxxx
+            6:
+                url_poster: xxxx
+            7:
+                url_poster: xxxx
+            8:
+                url_poster: xxxx
+            9:
+                url_poster: xxxx
+            10:
+                url_poster: xxxx
+            11:
+                url_poster: xxxxx
