@@ -2403,7 +2403,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
-#                         Shrinking (2023)                              #
+#                         Shrinking (2023)                          #
 #                                                                   #
 #####################################################################
     "Shrinking (2023)":
@@ -2415,6 +2415,78 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/323136
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Twisted Metal (2023)                      #
+#                                                                   #
+#####################################################################
+    "Twisted Metal (2023)":
+        year: 2023
+        title: "Twisted Metal"
+        url_poster: https://theposterdb.com/api/assets/431466
+        match:
+          mapping_id: 366532
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/431467
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  White House Plumbers (2023)                      #
+#                                                                   #
+#####################################################################
+    "White House Plumbers (2023)":
+        year: 2023
+        title: "White House Plumbers"
+        url_poster: https://theposterdb.com/api/assets/375557
+        match:
+          mapping_id: 401845
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/375558
+           
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Yellowjackets (2021)                      #
+#                                                                   #
+#####################################################################
+    "Yellowjackets (2021)":
+        year: 2021
+        title: "Yellowjackets"
+        url_poster: https://theposterdb.com/api/assets/323147
+        match:
+          mapping_id: 399731
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323148
+            2:
+                url_poster: https://theposterdb.com/api/assets/344814
+            3:
+                url_poster: xxxx
+   
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         The Young Ones (1982)                     #
+#                                                                   #
+#####################################################################
+    "The Young Ones (1982)":
+        year: 1982
+        title: "The Young Ones"
+        url_poster: https://theposterdb.com/api/assets/365055
+        match:
+          mapping_id: 76318
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/365056
+            1:
+                url_poster: https://theposterdb.com/api/assets/365057
+            2:
+                url_poster: https://theposterdb.com/api/assets/365058
 
 #####################################################################
 #                                                                   #
