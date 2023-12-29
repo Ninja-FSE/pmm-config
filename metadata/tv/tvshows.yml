@@ -2122,3 +2122,74 @@ metadata:
             8:
                 url_poster: https://theposterdb.com/api/assets/401773
 
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                  The Big Bang Theory (2007)                       #
+#                                                                   #
+#####################################################################
+    "The Big Bang Theory (2007)":
+        year: 2007
+        title: "The Big Bang Theory"
+        url_poster: https://theposterdb.com/api/assets/247173
+        match:
+          mapping_id: 80379
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/247175
+            2:
+                url_poster: https://theposterdb.com/api/assets/247176
+            3:
+                url_poster: https://theposterdb.com/api/assets/247177
+            4:
+                url_poster: https://theposterdb.com/api/assets/247178
+            5:
+                url_poster: https://theposterdb.com/api/assets/247179
+            6:
+                url_poster: https://theposterdb.com/api/assets/247180
+            7:
+                url_poster: https://theposterdb.com/api/assets/247181
+            8:
+                url_poster: https://theposterdb.com/api/assets/247182
+            9:
+                url_poster: https://theposterdb.com/api/assets/247183
+            10:
+                url_poster: https://theposterdb.com/api/assets/247184
+            11:
+                url_poster: https://theposterdb.com/api/assets/247185      
+            12:
+                url_poster: https://theposterdb.com/api/assets/247186    
+            0:
+                url_poster: https://theposterdb.com/api/assets/247174                                
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                       One Tree Hill (2003)                        #
+#                                                                   #
+#####################################################################
+    "One Tree Hill (2003)":
+        year: 2003
+        title: "One Tree Hill"
+        url_poster: https://theposterdb.com/api/assets/362850
+        match:
+          mapping_id: 72158
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/362852
+            2:
+                url_poster: https://theposterdb.com/api/assets/362853
+            3:
+                url_poster: https://theposterdb.com/api/assets/362854
+            4:
+                url_poster: https://theposterdb.com/api/assets/362855
+            5:
+                url_poster: https://theposterdb.com/api/assets/362856
+            6:
+                url_poster: https://theposterdb.com/api/assets/362857
+            7:
+                url_poster: https://theposterdb.com/api/assets/362858
+            8:
+                url_poster: https://theposterdb.com/api/assets/362859
+            9:
+                url_poster: https://theposterdb.com/api/assets/362860 
