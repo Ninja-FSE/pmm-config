@@ -2353,4 +2353,69 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/403764
- 
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Rick and Morty (2013)                     #
+#                                                                   #
+#####################################################################
+    "Rick and Morty (2013)":
+        year: 2013
+        title: "Rick and Morty"
+        url_poster: https://theposterdb.com/api/assets/268071
+        match:
+          mapping_id: 275274
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/268072        
+            1:
+                url_poster: https://theposterdb.com/api/assets/268073
+            2:
+                url_poster: https://theposterdb.com/api/assets/268074
+            3:
+                url_poster: https://theposterdb.com/api/assets/268075
+            4:
+                url_poster: https://theposterdb.com/api/assets/268076
+            5:
+                url_poster: https://theposterdb.com/api/assets/268077
+            6:
+                url_poster: https://theposterdb.com/api/assets/268078
+            7:
+                url_poster: https://theposterdb.com/api/assets/425041
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         xxxxx (xxxx)                              #
+#                                                                   #
+#####################################################################
+    "xxxx (xxxx)":
+        year: xxxx
+        title: "xxxx"
+        url_poster: xxxx
+        match:
+          mapping_id: xxxx
+        seasons:
+            1:
+                url_poster: xxxxx
+            2:
+                url_poster: xxxx
+            3:
+                url_poster: xxxx
+            4:
+                url_poster: xxxx
+            5:
+                url_poster: xxxx
+            6:
+                url_poster: xxxx
+            7:
+                url_poster: xxxx
+            8:
+                url_poster: xxxx
+            9:
+                url_poster: xxxx
+            10:
+                url_poster: xxxx
+            11:
+                url_poster: xxxxx         
