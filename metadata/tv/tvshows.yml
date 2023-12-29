@@ -651,7 +651,9 @@ metadata:
           mapping_id: 366924
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/26171
+                url_poster: https://theposterdb.com/api/assets/261710
+            2:
+                url_poster: https://theposterdb.com/api/assets/432627              
 
 #####################################################################
 #                                                                   #
