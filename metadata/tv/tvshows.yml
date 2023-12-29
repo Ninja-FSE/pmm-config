@@ -1918,3 +1918,38 @@ metadata:
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/447999
+
+#####################################################################
+#                                                                   #
+#               TV-Show The Walking Dead (2012)                      #
+#                                                                   #
+#####################################################################
+    "The Walking Dead (2010)":
+        year: 2010
+        title: "The Walking Dead"
+        url_poster: https://theposterdb.com/api/assets/218107
+        match:
+          mapping_id: 153021
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218109
+            2:
+                url_poster: https://theposterdb.com/api/assets/218110
+            3:
+                url_poster: https://theposterdb.com/api/assets/218111
+            4:
+                url_poster: https://theposterdb.com/api/assets/218112
+            5:
+                url_poster: https://theposterdb.com/api/assets/218113
+            6:
+                url_poster: https://theposterdb.com/api/assets/218114
+            7:
+                url_poster: https://theposterdb.com/api/assets/218115
+            8:
+                url_poster: https://theposterdb.com/api/assets/218116
+            9:
+                url_poster: https://theposterdb.com/api/assets/218117
+            10:
+                url_poster: https://theposterdb.com/api/assets/218118
+            11:
+                url_poster: https://theposterdb.com/api/assets/218119             
