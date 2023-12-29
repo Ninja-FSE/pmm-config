@@ -2302,7 +2302,7 @@ metadata:
 #                         Life on Our Planet (2023)                 #
 #                                                                   #
 #####################################################################
-    "Life on Our Planet (xxxx)":
+    "Life on Our Planet (2023)":
         year: 2023
         title: "Life on Our Planet"
         url_poster: https://theposterdb.com/api/assets/424722
@@ -2313,4 +2313,27 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/424724
             0:
                 url_poster: https://theposterdb.com/api/assets/424723
-                                          
+
+ #####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         The Grand Tour (2016)                     #
+#                                                                   #
+#####################################################################
+    "The Grand Tour (2016)":
+        year: 2016
+        title: "The Grand Tour"
+        url_poster: https://theposterdb.com/api/assets/241920
+        match:
+          mapping_id: 314087
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/241921
+            2:
+                url_poster: https://theposterdb.com/api/assets/241922
+            3:
+                url_poster: https://theposterdb.com/api/assets/241923
+            4:
+                url_poster: https://theposterdb.com/api/assets/241924
+            5:
+                url_poster: https://theposterdb.com/api/assets/321300
