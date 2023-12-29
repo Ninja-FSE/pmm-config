@@ -1655,12 +1655,12 @@ metadata:
     "Percy Jackson and the Olympians (2023)":
         year: 2023
         title: "Percy Jackson and the Olympians"
-        url_poster: https://theposterdb.com/api/assets/445773
+        url_poster: https://theposterdb.com/api/assets/445771
         match:
           mapping_id: 415151
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/445774
+                url_poster: https://theposterdb.com/api/assets/445772
 
 #####################################################################
 #                                                                   #
