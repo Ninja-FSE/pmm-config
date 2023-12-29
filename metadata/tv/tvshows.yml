@@ -2337,3 +2337,20 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/241924
             5:
                 url_poster: https://theposterdb.com/api/assets/321300
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         ONE PIECE (2023)                          #
+#                                                                   #
+#####################################################################
+    "ONE PIECE (2023)":
+        year: 2023
+        title: "ONE PIECE"
+        url_poster: https://theposterdb.com/api/assets/403764
+        match:
+          mapping_id: 392276
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/403764
+ 
