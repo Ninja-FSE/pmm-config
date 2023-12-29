@@ -1839,5 +1839,31 @@ metadata:
             1:
                url_poster: https://theposterdb.com/api/assets/285126
 
+#####################################################################
+#                                                                   #
+#               TV-Show Young Sheldon (2017)                        #
+#                                                                   #
+#####################################################################
+    "Young Sheldon (2017)":
+        year: 2017
+        title: "Young Sheldon"
+        url_poster: https://theposterdb.com/api/assets/330762
+        match:
+          mapping_id: 328724
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330764
+            2:
+                url_poster: https://theposterdb.com/api/assets/330765
+            3:
+                url_poster: https://theposterdb.com/api/assets/330766
+            4:
+                url_poster: https://theposterdb.com/api/assets/330767
+            5:
+                url_poster: https://theposterdb.com/api/assets/330768
+            6:
+                url_poster: https://theposterdb.com/api/assets/330769
+
+
               
           
