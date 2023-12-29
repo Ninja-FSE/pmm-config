@@ -1971,7 +1971,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363344
             2:
                 url_poster: https://theposterdb.com/api/assets/363345
-                 
+
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
@@ -2053,7 +2053,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/426015
-                
+
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
@@ -2387,6 +2387,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         BERLiN (2023)                          #
+#                                                                   #
+#####################################################################
+    "BERLiN (2023)":
+        year: 2023
+        title: "BERLiN"
+        url_poster: https://theposterdb.com/api/assets/448159
+        match:
+          mapping_id: 413033
+        #seasons:
+            #1:
+                #url_poster: https://theposterdb.com/api/assets/403764
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -2418,4 +2434,4 @@ metadata:
             10:
                 url_poster: xxxx
             11:
-                url_poster: xxxxx         
+                url_poster: xxxxx
