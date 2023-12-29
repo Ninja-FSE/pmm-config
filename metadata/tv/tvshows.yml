@@ -1548,35 +1548,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show House (2004)                                #
-#                                                                   #
-#####################################################################
-    "House (2004)":
-        year: 2004
-        title: "House"
-        url_poster: https://theposterdb.com/api/assets/278643
-        match:
-          mapping_id: 73255
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/278645
-            2:
-                url_poster: https://theposterdb.com/api/assets/278646
-            3:
-                url_poster: https://theposterdb.com/api/assets/278647
-            4:
-                url_poster: https://theposterdb.com/api/assets/278648
-            5:
-                url_poster: https://theposterdb.com/api/assets/278649
-            6:
-                url_poster: https://theposterdb.com/api/assets/278650
-            7:
-                url_poster: https://theposterdb.com/api/assets/278651
-            8:
-                url_poster: https://theposterdb.com/api/assets/278652
-
-#####################################################################
-#                                                                   #
 #               TV-Show The Curse of Oak Island (2014)              #
 #                                                                   #
 #####################################################################
@@ -1885,6 +1856,34 @@ metadata:
             4:
                 url_poster: https://theposterdb.com/api/assets/400612
 
+#####################################################################
+#                                                                   #
+#               TV-Show House (2004)                                #
+#                                                                   #
+#####################################################################
+    "House (2004)":
+        year: 2004
+        title: "House"
+        url_poster: https://theposterdb.com/api/assets/278643
+        match:
+          mapping_id: 73255
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/278645
+            2:
+                url_poster: https://theposterdb.com/api/assets/278646
+            3:
+                url_poster: https://theposterdb.com/api/assets/278647
+            4:
+                url_poster: https://theposterdb.com/api/assets/278648
+            5:
+                url_poster: https://theposterdb.com/api/assets/278649
+            6:
+                url_poster: https://theposterdb.com/api/assets/278650
+            7:
+                url_poster: https://theposterdb.com/api/assets/278651
+            8:
+                url_poster: https://theposterdb.com/api/assets/278652
 
               
           
