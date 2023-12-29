@@ -4397,6 +4397,13 @@ metadata:
           mapping_id: 417644
         url_poster: https://theposterdb.com/api/assets/201320
 
+    "Just Before I Go (2015)":
+        year: 2015
+        title: "Just Before I Go"
+        match:
+          mapping_id: 258099
+        url_poster: https://theposterdb.com/api/assets/447787
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"

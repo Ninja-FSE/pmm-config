@@ -653,7 +653,9 @@ metadata:
           mapping_id: 366924
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/26171
+                url_poster: https://theposterdb.com/api/assets/261710
+            2:
+                url_poster: https://theposterdb.com/api/assets/432627              
 
 #####################################################################
 #                                                                   #
@@ -1548,35 +1550,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show House (2004)                                #
-#                                                                   #
-#####################################################################
-    "House (2004)":
-        year: 2004
-        title: "House"
-        url_poster: https://theposterdb.com/api/assets/278643
-        match:
-          mapping_id: 73255
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/278645
-            2:
-                url_poster: https://theposterdb.com/api/assets/278646
-            3:
-                url_poster: https://theposterdb.com/api/assets/278647
-            4:
-                url_poster: https://theposterdb.com/api/assets/278648
-            5:
-                url_poster: https://theposterdb.com/api/assets/278649
-            6:
-                url_poster: https://theposterdb.com/api/assets/278650
-            7:
-                url_poster: https://theposterdb.com/api/assets/278651
-            8:
-                url_poster: https://theposterdb.com/api/assets/278652
-
-#####################################################################
-#                                                                   #
 #               TV-Show The Curse of Oak Island (2014)              #
 #                                                                   #
 #####################################################################
@@ -1739,35 +1712,184 @@ metadata:
         match:
           mapping_id: 443351
         seasons:
-            1:
-               url_poster: https://theposterdb.com/api/assets/447984
+            #1:
+               #url_poster: https://theposterdb.com/api/assets/441836
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/441837
 
 #####################################################################
 #                                                                   #
-#               TV-Show Fenris  (2022)                              #
+#               TV-Show New Girl  (2011)                            #
 #                                                                   #
 #####################################################################
-    "Fenris (2022)":
-        year: 2022
-        title: "Fenris"
-        url_poster: https://theposterdb.com/api/assets/447994
+    "The New Girl (2011)":
+        year: 2011
+        title: "New Girl"
+        url_poster: https://theposterdb.com/api/assets/261676
         match:
-          mapping_id: 424513
+          mapping_id: 248682
         seasons:
             1:
-               url_poster: https://theposterdb.com/api/assets/447995
+               url_poster: https://theposterdb.com/api/assets/261677
+            2:
+                url_poster: https://theposterdb.com/api/assets/261678
+            3:
+                url_poster: https://theposterdb.com/api/assets/261679
+            4:
+                url_poster: https://theposterdb.com/api/assets/261680
+            5:
+                url_poster: https://theposterdb.com/api/assets/261681
+            6:
+                url_poster: https://theposterdb.com/api/assets/261682
+            7:
+                url_poster: https://theposterdb.com/api/assets/261683
+                                                                                    
+#####################################################################
+#                                                                   #
+#               TV-Show SEE  (2019)                                 #
+#                                                                   #
+#####################################################################
+    "SEE (2019)":
+        year: 2019
+        title: "SEE"
+        url_poster: https://theposterdb.com/api/assets/252139
+        match:
+          mapping_id: 361565 
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/252140
+            2:
+                url_poster: https://theposterdb.com/api/assets/252141
+            3:
+                url_poster: https://theposterdb.com/api/assets/262481
 
 #####################################################################
 #                                                                   #
-#               TV-Show The Girl in the Mirror  (2022)                  #
+#               TV-Show Southland  (2009)                            #
 #                                                                   #
 #####################################################################
-    "The Girl in the Mirror (2022)":
-        year: 2022
-        title: "The Girl in the Mirror"
-        url_poster: https://theposterdb.com/api/assets/447998
+    "Southland (2009)":
+        year: 2009
+        title: "SouthLAnd"
+        url_poster: https://theposterdb.com/api/assets/360406
         match:
-          mapping_id: 388567
+          mapping_id: 84645 
         seasons:
             1:
-               url_poster: https://theposterdb.com/api/assets/447999
+               url_poster: https://theposterdb.com/api/assets/360407
+            2:
+                url_poster: https://theposterdb.com/api/assets/360408
+            3:
+                url_poster: https://theposterdb.com/api/assets/360409
+            4:
+                url_poster: https://theposterdb.com/api/assets/360410
+            5:
+                url_poster: https://theposterdb.com/api/assets/360411
+              
+#####################################################################
+#                                                                   #
+#               TV-Show The Walking Dead: Daryl Dixon  (2023)       #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: Daryl Dixon (2023)":
+        year: 2023
+        title: "The Walking Dead: Daryl Dixon"
+        url_poster: https://theposterdb.com/api/assets/406442
+        match:
+          mapping_id: 427464 
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/406443
+              
+#####################################################################
+#                                                                   #
+#               TV-Show Band of Brothers  (2001)                    #
+#                                                                   #
+#####################################################################
+    "Band of Brothers (2001)":
+        year: 2001
+        title: "Band of Brothers"
+        url_poster: https://theposterdb.com/api/assets/218218
+        match:
+          mapping_id: 74205 
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/285126
+
+#####################################################################
+#                                                                   #
+#               TV-Show Young Sheldon (2017)                        #
+#                                                                   #
+#####################################################################
+    "Young Sheldon (2017)":
+        year: 2017
+        title: "Young Sheldon"
+        url_poster: https://theposterdb.com/api/assets/330762
+        match:
+          mapping_id: 328724
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330764
+            2:
+                url_poster: https://theposterdb.com/api/assets/330765
+            3:
+                url_poster: https://theposterdb.com/api/assets/330766
+            4:
+                url_poster: https://theposterdb.com/api/assets/330767
+            5:
+                url_poster: https://theposterdb.com/api/assets/330768
+            6:
+                url_poster: https://theposterdb.com/api/assets/330769
+
+#####################################################################
+#                                                                   #
+#               TV-Show Tacoma FD (2019)                        #
+#                                                                   #
+#####################################################################
+    "Tacoma FD (2019)":
+        year: 2019
+        title: "Tacoma FD"
+        url_poster: https://theposterdb.com/api/assets/400607
+        match:
+          mapping_id: 347719 
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/400609
+            2:
+                url_poster: https://theposterdb.com/api/assets/400610
+            3:
+                url_poster: https://theposterdb.com/api/assets/400611
+            4:
+                url_poster: https://theposterdb.com/api/assets/400612
+
+#####################################################################
+#                                                                   #
+#               TV-Show House (2004)                                #
+#                                                                   #
+#####################################################################
+    "House (2004)":
+        year: 2004
+        title: "House"
+        url_poster: https://theposterdb.com/api/assets/278643
+        match:
+          mapping_id: 73255
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/278645
+            2:
+                url_poster: https://theposterdb.com/api/assets/278646
+            3:
+                url_poster: https://theposterdb.com/api/assets/278647
+            4:
+                url_poster: https://theposterdb.com/api/assets/278648
+            5:
+                url_poster: https://theposterdb.com/api/assets/278649
+            6:
+                url_poster: https://theposterdb.com/api/assets/278650
+            7:
+                url_poster: https://theposterdb.com/api/assets/278651
+            8:
+                url_poster: https://theposterdb.com/api/assets/278652
+
+              
+          
