@@ -2275,4 +2275,24 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/368746
-                                       
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Blue Mountain State (2010)                #
+#                                                                   #
+#####################################################################
+    "Blue Mountain State (2010)":
+        year: 2010
+        title: "Blue Mountain State"
+        url_poster: https://theposterdb.com/api/assets/380953
+        match:
+          mapping_id: 134511
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/380954
+            2:
+                url_poster: https://theposterdb.com/api/assets/380955
+            3:
+                url_poster: https://theposterdb.com/api/assets/380956
+                                        
