@@ -1823,6 +1823,21 @@ metadata:
         seasons:
             1:
                url_poster: https://theposterdb.com/api/assets/406443
+              
+#####################################################################
+#                                                                   #
+#               TV-Show Band of Brothers  (2001)                    #
+#                                                                   #
+#####################################################################
+    "Band of Brothers (2001)":
+        year: 2001
+        title: "Band of Brothers"
+        url_poster: https://theposterdb.com/api/assets/218218
+        match:
+          mapping_id: 74205 
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/285126
 
               
           
