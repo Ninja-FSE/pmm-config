@@ -2073,6 +2073,28 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Raising Hope (2010)                       #
+#                                                                   #
+#####################################################################
+    "Raising Hope (2010)":
+        year: 2010
+        title: "Raising Hope"
+        url_poster: https://theposterdb.com/api/assets/350909
+        match:
+          mapping_id: 164021
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/350911
+            2:
+                url_poster: https://theposterdb.com/api/assets/350912
+            3:
+                url_poster: https://theposterdb.com/api/assets/350913
+            4:
+                url_poster: https://theposterdb.com/api/assets/350914  
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
