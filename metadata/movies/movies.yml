@@ -4404,6 +4404,20 @@ metadata:
           mapping_id: 258099
         url_poster: https://theposterdb.com/api/assets/447787
 
+    "Sex Drive (2008)":
+        year: 2008
+        title: "Sex Drive"
+        match:
+          mapping_id: 13523
+        url_poster: https://theposterdb.com/api/assets/215697
+
+    "The Quake (2018)":
+        year: 2018
+        title: "The Quake"
+        match:
+          mapping_id: 416194
+        url_poster: https://theposterdb.com/api/assets/191182
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
