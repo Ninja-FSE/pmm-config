@@ -2095,6 +2095,36 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Weeds (2005)                              #
+#                                                                   #
+#####################################################################
+    "Weeds (2005)":
+        year: 2005
+        title: "Weeds"
+        url_poster: https://theposterdb.com/api/assets/401764
+        match:
+          mapping_id: 74845
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/401766
+            2:
+                url_poster: https://theposterdb.com/api/assets/401767
+            3:
+                url_poster: https://theposterdb.com/api/assets/401768
+            4:
+                url_poster: https://theposterdb.com/api/assets/401769
+            5:
+                url_poster: https://theposterdb.com/api/assets/401770
+            6:
+                url_poster: https://theposterdb.com/api/assets/401771
+            7:
+                url_poster: https://theposterdb.com/api/assets/401772
+            8:
+                url_poster: https://theposterdb.com/api/assets/401773
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
