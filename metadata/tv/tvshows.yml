@@ -2018,10 +2018,10 @@ metadata:
 #                    The Good Doctor (2017)                         #
 #                                                                   #
 #####################################################################
-    "The Good Doctor (xxxx)":
-        year: xxxx
+    "The Good Doctor (2017)":
+        year: 2017
         title: "The Good Doctor"
-        url_poster: xxxx
+        url_poster: https://theposterdb.com/api/assets/353809
         match:
           mapping_id: 328634
         seasons:
