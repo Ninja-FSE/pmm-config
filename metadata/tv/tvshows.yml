@@ -1807,4 +1807,20 @@ metadata:
             5:
                 url_poster: https://theposterdb.com/api/assets/360411
               
+#####################################################################
+#                                                                   #
+#               TV-Show The Walking Dead: Daryl Dixon  (2023)       #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: Daryl Dixon (2023)":
+        year: 2023
+        title: "The Walking Dead: Daryl Dixon"
+        url_poster: https://theposterdb.com/api/assets/406442
+        match:
+          mapping_id: 84645 
+        seasons:
+            1:
+               url_poster: https://theposterdb.com/api/assets/406443
+
+              
           
