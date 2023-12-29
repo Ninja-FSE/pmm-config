@@ -1864,6 +1864,27 @@ metadata:
             6:
                 url_poster: https://theposterdb.com/api/assets/330769
 
+#####################################################################
+#                                                                   #
+#               TV-Show Tacoma FD (2019)                        #
+#                                                                   #
+#####################################################################
+    "Tacoma FD (2019)":
+        year: 2019
+        title: "Tacoma FD"
+        url_poster: https://theposterdb.com/api/assets/400607
+        match:
+          mapping_id: 347719 
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/400609
+            2:
+                url_poster: https://theposterdb.com/api/assets/400610
+            3:
+                url_poster: https://theposterdb.com/api/assets/400611
+            4:
+                url_poster: https://theposterdb.com/api/assets/400612
+
 
               
           
