@@ -4425,6 +4425,20 @@ metadata:
           mapping_id: 365620
         url_poster: https://theposterdb.com/api/assets/447180
 
+    "Vesper (2022)":
+        year: 2022
+        title: "Vesper"
+        match:
+          mapping_id: 976720
+        url_poster: https://theposterdb.com/api/assets/273074
+
+    "Saltburn (2023)":
+        year: 2023
+        title: "Saltburn"
+        match:
+          mapping_id: 930564
+        url_poster: https://theposterdb.com/api/assets/434514
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
