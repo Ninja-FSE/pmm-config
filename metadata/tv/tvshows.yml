@@ -2547,6 +2547,62 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         The Witcher (2019)                        #
+#                                                                   #
+#####################################################################
+    "The Witcher (2019)":
+        year: 2019
+        title: "The Witcher"
+        url_poster: https://theposterdb.com/api/assets/236507
+        match:
+          mapping_id: 362696
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/236509
+            2:
+                url_poster: https://theposterdb.com/api/assets/236510
+            3:
+                url_poster: https://theposterdb.com/api/assets/373574
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Criminal Code (2023)                      #
+#                                                                   #
+#####################################################################
+    "Criminal Code (2023)":
+        year: 2023
+        title: "Criminal Code"
+        url_poster: https://theposterdb.com/api/assets/448600
+        match:
+          mapping_id: 424501
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448601
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/236510
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Jungle (2022)                             #
+#                                                                   #
+#####################################################################
+    "Jungle (2022)":
+        year: 2022
+        title: "Jungle"
+        url_poster: https://theposterdb.com/api/assets/448607
+        match:
+          mapping_id: 423396
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448608
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/236510
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
