@@ -4439,6 +4439,13 @@ metadata:
           mapping_id: 930564
         url_poster: https://theposterdb.com/api/assets/434514
 
+    "Hardcore Never Dies (2023)":
+        year: 2023
+        title: "Hardcore Never Dies"
+        match:
+          mapping_id: 1103789
+        url_poster: https://theposterdb.com/api/assets/448361
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
