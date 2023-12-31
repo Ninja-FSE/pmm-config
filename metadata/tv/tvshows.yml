@@ -2491,6 +2491,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         The Young Ones (1982)                     #
+#                                                                   #
+#####################################################################
+    "The Box (2021)":
+        year: 2021
+        title: "The Box"
+        url_poster: https://theposterdb.com/api/assets/448574
+        match:
+          mapping_id: 409599
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448575
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/365058
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
