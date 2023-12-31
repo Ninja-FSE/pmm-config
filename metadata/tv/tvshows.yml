@@ -2567,6 +2567,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Criminal Code (2023)                      #
+#                                                                   #
+#####################################################################
+    "Criminal Code (2023)":
+        year: 2023
+        title: "Criminal Code"
+        url_poster: https://theposterdb.com/api/assets/448600
+        match:
+          mapping_id: 424501
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448601
+            #2:
+                #url_poster: https://theposterdb.com/api/assets/236510
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
