@@ -2547,6 +2547,26 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         The Witcher (2019)                        #
+#                                                                   #
+#####################################################################
+    "The Witcher (2019)":
+        year: 2019
+        title: "The Witcher"
+        url_poster: https://theposterdb.com/api/assets/236507
+        match:
+          mapping_id: 362696
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/236509
+            2:
+                url_poster: https://theposterdb.com/api/assets/236510
+            3:
+                url_poster: https://theposterdb.com/api/assets/373574
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
