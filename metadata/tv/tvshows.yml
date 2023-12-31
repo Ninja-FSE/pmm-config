@@ -2467,7 +2467,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/344814
             3:
                 url_poster: xxxx
-   
+
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
@@ -2523,6 +2523,26 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/448577
             2:
                 url_poster: https://theposterdb.com/api/assets/448578
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Heder (2019)                              #
+#                                                                   #
+#####################################################################
+    "Honour (2019)":
+        year: 2019
+        title: "Heder"
+        url_poster: https://theposterdb.com/api/assets/448581
+        match:
+          mapping_id: 364565
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448582
+            2:
+                url_poster: https://theposterdb.com/api/assets/448583
+            3:
+                url_poster: https://theposterdb.com/api/assets/448584
 
 #####################################################################
 #                                                                   #
