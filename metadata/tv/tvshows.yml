@@ -2491,7 +2491,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
-#                         The Young Ones (1982)                     #
+#                         The Box (2021)                            #
 #                                                                   #
 #####################################################################
     "The Box (2021)":
@@ -2505,6 +2505,24 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/448575
             #2:
                 #url_poster: https://theposterdb.com/api/assets/365058
+
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Partisan (2020)                           #
+#                                                                   #
+#####################################################################
+    "Partisan (2020)":
+        year: 2020
+        title: "Partisan"
+        url_poster: https://theposterdb.com/api/assets/448576
+        match:
+          mapping_id: 377683
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/448577
+            2:
+                url_poster: https://theposterdb.com/api/assets/448578
 
 #####################################################################
 #                                                                   #
