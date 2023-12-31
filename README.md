@@ -1,5 +1,5 @@
 # Plex Meta Manager - Configs för TV och Filmer.
-## Detta innehåller endast metadata med länkar till TheposterDB och themoviedb.org.
+## Detta innehåller endast metadata med länkar till TheposterDB, themoviedb.org och thetvdb.com.
 
 Denna GitHub är **Work In Progress** All metadata och affischer är från TheposterDB.org. Användaren Musikmann2000 står för nästan alla affischer som vi använder oss av men en del är egengjorda.
 
@@ -8,8 +8,7 @@ Dessa config-filer är anpassade till [Plex Meta Manager :nightly](https://metam
 Glöm inte och följa [Trash-guides](https://trash-guides.info/) för att namnge ditt bibliotek på ett korrekt sätt!
 
 
-Finns inte din TV Serie eller Film så finns det en template https://github.com/Ninja-FSE/pmm-config/tree/main/tv/metadata som du kan använda dig utav och lägga till en Request, använd sedan ```Issues```
-Glöm inte att använda kod-taggning annars blir formateringen fel.
+Öppna en ````Issue```` om din film eller serie inte finns så lägger vi till den
 
 # HOWTO
 ## Användning via GitHub.
