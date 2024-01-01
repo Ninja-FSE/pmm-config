@@ -4446,6 +4446,13 @@ metadata:
           mapping_id: 1103789
         url_poster: https://theposterdb.com/api/assets/448361
 
+    "Inside (2023)":
+        year: 2023
+        title: "Inside"
+        match:
+          mapping_id: 958196
+        url_poster: https://theposterdb.com/api/assets/347697
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
