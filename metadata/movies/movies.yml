@@ -5272,6 +5272,62 @@ metadata:
           mapping_id: 459003
         url_poster: https://theposterdb.com/api/assets/383759
                                                                                                                                                                                                         
+    "Leo (2023)":
+        year: 2023
+        title: "Leo"
+        match:
+          mapping_id: 1075794
+        url_poster: https://theposterdb.com/api/assets/428810
+                                                                                                                                                                                                                
+    "The Grinch (2018)":
+        year: 2018
+        title: "Grinchen"
+        match:
+          mapping_id: 360920
+        url_poster: https://theposterdb.com/api/assets/190421
+                                                                                                                                                                                                                
+    "How the Grinch Stole Christmas (2000)":
+        year: 2000
+        title: "Grinchen - julen är stulen"
+        match:
+          mapping_id: 8871
+        url_poster: https://theposterdb.com/api/assets/190423
+                                                                                                                                                                                                                
+    "The Boss Baby (2017)":
+        year: 2017
+        title: "Baby-bossen"
+        match:
+          mapping_id: 295693
+        url_poster: https://theposterdb.com/api/assets/176014
+                                                                                                                                                                                                                
+    "Shrek (2001)":
+        year: 2001
+        title: "Shrek "
+        match:
+          mapping_id: 808
+        url_poster: https://theposterdb.com/api/assets/190629
+                                                                                                                                                                                                                
+    "Shrek 2 (2004)":
+        year: 2004
+        title: "Shrek 2"
+        match:
+          mapping_id: 809
+        url_poster: https://theposterdb.com/api/assets/190630
+                                                                                                                                                                                                                
+    "Shrek the Third (2007)":
+        year: 2007
+        title: "Shrek 3"
+        match:
+          mapping_id: 810
+        url_poster: https://theposterdb.com/api/assets/190631
+                                                                                                                                                                                                                
+    "Shrek Forever After (2010)":
+        year: 2010
+        title: "Shrek 4"
+        match:
+          mapping_id: 10192
+        url_poster: https://theposterdb.com/api/assets/190632
+                                                                                                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
