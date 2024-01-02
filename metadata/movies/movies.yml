@@ -4544,6 +4544,132 @@ metadata:
           mapping_id: 937287
         url_poster: https://theposterdb.com/api/assets/449391
                                                         
+    "Aladdin (1992)":
+        year: 1992
+        title: "Aladdin"
+        match:
+          mapping_id: 812
+        url_poster: https://theposterdb.com/api/assets/191863
+                                                                
+    "Anastasia (1997)":
+        year: 1997
+        title: "Anastasia"
+        match:
+          mapping_id: 9444
+        url_poster: https://theposterdb.com/api/assets/193088
+                                                                
+    "The Monkey King (2023)":
+        year: 2023
+        title: "Apkungen"
+        match:
+          mapping_id: 832502
+        url_poster: https://theposterdb.com/api/assets/401836
+                                                                
+    "Aristocats (1970)":
+        year: 1970
+        title: "Aristocats"
+        match:
+          mapping_id: 10112
+        url_poster: https://theposterdb.com/api/assets/191981
+                                                                
+    "One Hundred and One Dalmatians (1961)":
+        year: 1971
+        title: "Pongo och de 101 dalmatinerna"
+        match:
+          mapping_id: xxx
+        url_poster: xxxxxx
+                                                                
+    "101 Dalmatians II: Patch's London Adventure (2002)":
+        year: 2002
+        title: "De 101 dalmatinerna II - Tuffs äventyr i London"
+        match:
+          mapping_id: 13654
+        url_poster: https://theposterdb.com/api/assets/191969
+                                                                
+    "Atlantis: The Lost Empire (2001)":
+        year: 2001
+        title: "Atlantis - en försvunnen värld"
+        match:
+          mapping_id: 10865
+        url_poster: https://theposterdb.com/api/assets/191868
+                                                                
+    "Atlantis: Milo's Return (2003)":
+        year: 2003
+        title: "Atlantis - Milos återkomst"
+        match:
+          mapping_id: 8965
+        url_poster: https://theposterdb.com/api/assets/191869
+                                                                
+    "Bambi (1942)":
+        year: 1942
+        title: "Bambi"
+        match:
+          mapping_id: 3170
+        url_poster: https://theposterdb.com/api/assets/191866
+                                                                
+    "Beauty and the Beast (1991)":
+        year: 1991
+        title: "Skönheten och odjuret"
+        match:
+          mapping_id: 10020
+        url_poster: https://theposterdb.com/api/assets/191870
+                                                                        
+    "Belle's Magical World (1998)":
+        year: 1998
+        title: "Skönheten och odjuret: Belles magiska värld"
+        match:
+          mapping_id: 20235
+        url_poster: https://theposterdb.com/api/assets/191871
+                                                                        
+    "Beauty and the Beast: The Enchanted Christmas (1997)":
+        year: 1997
+        title: "Skönheten och odjuret - den förtrollade julen"
+        match:
+          mapping_id: 13313
+        url_poster: https://theposterdb.com/api/assets/190399
+                                                                        
+    "Bolt (2008)":
+        year: 2008
+        title: "Bolt"
+        match:
+          mapping_id: 13053
+        url_poster: https://theposterdb.com/api/assets/191873
+                                                                        
+    "Super Rhino (2009)":
+        year: 2009
+        title: "Super Rhino"
+        match:
+          mapping_id: 16604
+        url_poster: https://theposterdb.com/api/assets/191874
+                                                                        
+    "Brother Bear (2003)":
+        year: 2003
+        title: "Björnbröder"
+        match:
+          mapping_id: 10009
+        url_poster: https://theposterdb.com/api/assets/191875
+                                                                        
+    "Brother Bear 2 (2006)":
+        year: 2006
+        title: "Björnbröder 2"
+        match:
+          mapping_id: 10010
+        url_poster: https://theposterdb.com/api/assets/191877
+                                                                        
+    "Cinderella (1950)":
+        year: 1950
+        title: "Askungen"
+        match:
+          mapping_id: 11224
+        url_poster: https://theposterdb.com/api/assets/191878
+                                                                        
+    "Cinderella II: Dreams Come True (2002)":
+        year: 2002
+        title: "Askungen 2 - Drömmen slår in"
+        match:
+          mapping_id: 14128
+        url_poster: https://theposterdb.com/api/assets/191879
+                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
