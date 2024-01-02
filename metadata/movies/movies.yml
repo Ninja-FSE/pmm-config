@@ -3629,7 +3629,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/228251
 
     "Chicken Run(2000)":
-        year: Chicken Run
+        year: 2000
         title: "Chicken Run"
         match:
           mapping_id: 7443
@@ -5392,6 +5392,27 @@ metadata:
           mapping_id: 9502
         url_poster: https://theposterdb.com/api/assets/190810
 
+    "Casper (1995)":
+        year: 1995
+        title: "Casper"
+        match:
+          mapping_id: 8839
+        url_poster: https://theposterdb.com/api/assets/173723
+        
+    "Elemental (2023)":
+        year: 2023
+        title: "Elementärt"
+        match:
+          mapping_id: 976573
+        url_poster: https://theposterdb.com/api/assets/370382
+        
+    "Carl's Date (2023)":
+        year: 2023
+        title: "Carls dejt"
+        match:
+          mapping_id: 1076364
+        url_poster: https://theposterdb.com/api/assets/424228
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
