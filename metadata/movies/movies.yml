@@ -5237,6 +5237,41 @@ metadata:
           mapping_id: 5255
         url_poster: https://theposterdb.com/api/assets/190458
                                                                                                                                                                                                 
+    "PAW Patrol: The Mighty Movie (2023)":
+        year: 2023
+        title: "Paw Patrol - storfilmen"
+        match:
+          mapping_id: 893723
+        url_poster: https://theposterdb.com/api/assets/414109
+                                                                                                                                                                                                        
+    "The Fox and the Hound (1981)":
+        year: 1981
+        title: "Micke och Molle - vänner när det gäller"
+        match:
+          mapping_id: 10948
+        url_poster: https://theposterdb.com/api/assets/191924
+                                                                                                                                                                                                        
+    "Miraculous - le film (2023)":
+        year: 2023
+        title: "Miraculous: Filmen om Ladybug & Cat Noir"
+        match:
+          mapping_id: 496450
+        url_poster: https://theposterdb.com/api/assets/389690
+                                                                                                                                                                                                        
+    "Monsters, Inc. (2001)":
+        year: 2001
+        title: "Monsters, Inc."
+        match:
+          mapping_id: 585
+        url_poster: https://theposterdb.com/api/assets/189767
+                                                                                                                                                                                                        
+    "Mavka: The Forest Song (2023)":
+        year: 2023
+        title: "Mavka: Skogens väktare"
+        match:
+          mapping_id: 459003
+        url_poster: https://theposterdb.com/api/assets/383759
+                                                                                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
