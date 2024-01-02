@@ -5027,6 +5027,27 @@ metadata:
           mapping_id: 512895
         url_poster: https://theposterdb.com/api/assets/172611
                                                                                                                                                 
+    "The Angry Birds Movie (2016)":
+        year: 2016
+        title: "The Angry Birds Movie"
+        match:
+          mapping_id: 153518
+        url_poster: https://theposterdb.com/api/assets/178919
+                                                                                                                                                        
+    "The Angry Birds Movie 2 (2019)":
+        year: 2019
+        title: "The Angry Birds Movie 2"
+        match:
+          mapping_id: 454640
+        url_poster: https://theposterdb.com/api/assets/178926
+                                                                                                                                                        
+    "For the Birds (2000)":
+        year: 2000
+        title: "For the Birds"
+        match:
+          mapping_id: 13930
+        url_poster: https://theposterdb.com/api/assets/193626
+                                                                                                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
