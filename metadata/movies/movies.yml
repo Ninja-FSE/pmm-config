@@ -4782,6 +4782,90 @@ metadata:
           mapping_id: 18269
         url_poster: https://theposterdb.com/api/assets/191935
                                                                                         
+    "Lilo & Stitch (2002)":
+        year: 2002
+        title: "Lilo & Stitch"
+        match:
+          mapping_id: 11544
+        url_poster: https://theposterdb.com/api/assets/191936
+                                                                                                
+    "Lilo & Stitch 2: Stitch Has a Glitch (2005)":
+        year: 2005
+        title: "Lilo & Stitch 2"
+        match:
+          mapping_id: 20760
+        url_poster: https://theposterdb.com/api/assets/191938
+                                                                                                
+    "Stitch! The Movie (2003)":
+        year: 2003
+        title: "Stitch! The Movie"
+        match:
+          mapping_id: 15567
+        url_poster: https://theposterdb.com/api/assets/191937
+                                                                                                
+    "The Lion King (1994)":
+        year: 1994
+        title: "Lejonkungen"
+        match:
+          mapping_id: 8587
+        url_poster: https://theposterdb.com/api/assets/191940
+                                                                                                
+    "The Lion King II: Simba's Pride (1998)":
+        year: 1998
+        title: "Lejonkungen II - Simbas skatt"
+        match:
+          mapping_id: 9732
+        url_poster: https://theposterdb.com/api/assets/191941
+                                                                                                
+    "The Lion King 1½ (2004)":
+        year: 2004
+        title: "Lejonkungen 1½"
+        match:
+          mapping_id: 11430
+        url_poster: https://theposterdb.com/api/assets/191942
+                                                                                                
+    "The Little Mermaid (1989)":
+        year: 1989
+        title: "Den lilla sjöjungfrun"
+        match:
+          mapping_id: 10144
+        url_poster: https://theposterdb.com/api/assets/191943
+                                                                                                
+    "The Little Mermaid II: Return to the Sea (2000)":
+        year: 2000
+        title: "Den lilla sjöjungfrun II - Havets hemlighet"
+        match:
+          mapping_id: 10898
+        url_poster: https://theposterdb.com/api/assets/191944
+                                                                                                
+    "The Little Mermaid: Ariel's Beginning (2008)":
+        year: 2008
+        title: "Den lilla sjöjungfrun - Sagan om Ariel"
+        match:
+          mapping_id: 13676
+        url_poster: https://theposterdb.com/api/assets/191945
+                                                                                                
+    "Mulan (1998)":
+        year: 1998
+        title: "Mulan"
+        match:
+          mapping_id: 10674
+        url_poster: https://theposterdb.com/api/assets/191946
+                                                                                                
+    "Mulan II (2004)":
+        year: 2004
+        title: "Mulan 2"
+        match:
+          mapping_id: 12242
+        url_poster: https://theposterdb.com/api/assets/191947
+                                                                                                
+    "Peter Pan (1953)":
+        year: 1953
+        title: "Peter Pan"
+        match:
+          mapping_id: 10693
+        url_poster: https://theposterdb.com/api/assets/191428
+                                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
