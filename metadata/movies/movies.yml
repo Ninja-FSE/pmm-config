@@ -5434,6 +5434,13 @@ metadata:
           mapping_id: 901362
         url_poster: https://theposterdb.com/api/assets/417962
                                 
+    "Wendy (2020)":
+        year: 2020
+        title: "Wendy"
+        match:
+          mapping_id: 399363
+        url_poster: https://theposterdb.com/api/assets/449516
+                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
