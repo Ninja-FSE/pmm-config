@@ -4726,6 +4726,62 @@ metadata:
           mapping_id: 741074
         url_poster: https://theposterdb.com/api/assets/190608
                                                                                 
+    "Hercules (1997)":
+        year: 1997
+        title: "Herkules"
+        match:
+          mapping_id: 11970
+        url_poster: https://theposterdb.com/api/assets/191928
+                                                                                        
+    "Hercules: Zero to Hero (1999)":
+        year: 1999
+        title: "Hercules: Zero to Hero"
+        match:
+          mapping_id: 153609
+        url_poster: https://theposterdb.com/api/assets/191929
+                                                                                        
+    "The Hunchback of Notre Dame (1996)":
+        year: 1996
+        title: "Ringaren i Notre Dame"
+        match:
+          mapping_id: 10545
+        url_poster: https://theposterdb.com/api/assets/191930
+                                                                                        
+    "The Hunchback of Notre Dame II (2002)":
+        year: 2002
+        title: "Ringaren i Notre Dame II"
+        match:
+          mapping_id: 12448
+        url_poster: https://theposterdb.com/api/assets/191931
+                                                                                        
+    "The Jungle Book (1967)":
+        year: 1967
+        title: "Djungelboken"
+        match:
+          mapping_id: 9325
+        url_poster: https://theposterdb.com/api/assets/191932
+                                                                                        
+    "The Jungle Book 2 (2003)":
+        year: 2003
+        title: "Djungelboken 2"
+        match:
+          mapping_id: 14873
+        url_poster: https://theposterdb.com/api/assets/191933
+                                                                                        
+    "Lady and the Tramp (1955)":
+        year: 1955
+        title: "Lady och Lufsen"
+        match:
+          mapping_id: 10340
+        url_poster: https://theposterdb.com/api/assets/191934
+                                                                                        
+    "Lady and the Tramp II: Scamp's Adventure (2001)":
+        year: 2001
+        title: "Lady och Lufsen II - Ludde på äventyr"
+        match:
+          mapping_id: 18269
+        url_poster: https://theposterdb.com/api/assets/191935
+                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
