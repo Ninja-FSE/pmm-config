@@ -5083,6 +5083,104 @@ metadata:
           mapping_id: 9487
         url_poster: https://theposterdb.com/api/assets/189765
                                                                                                                                                                         
+    "BURN·E (2008)":
+        year: 2008
+        title: "BURN·E"
+        match:
+          mapping_id: 13413
+        url_poster: https://theposterdb.com/api/assets/199915
+                                                                                                                                                                                
+    "WALL·E (2008)":
+        year: 2008
+        title: "WALL·E"
+        match:
+          mapping_id: 10681
+        url_poster: https://theposterdb.com/api/assets/189770
+                                                                                                                                                                                
+    "Zootopia (2016)":
+        year: 2016
+        title: "Zootropolis"
+        match:
+          mapping_id: 269149
+        url_poster: https://theposterdb.com/api/assets/191991
+                                                                                                                                                                                
+    "Moana (2016)":
+        year: 2016
+        title: "Vaiana"
+        match:
+          mapping_id: 277834
+        url_poster: https://theposterdb.com/api/assets/191992
+                                                                                                                                                                                
+    "The Incredibles (2004)":
+        year: 2004
+        title: "Superhjältarna"
+        match:
+          mapping_id: 9806
+        url_poster: https://theposterdb.com/api/assets/189653
+                                                                                                                                                                                
+    "Toy Story (1995)":
+        year: 1995
+        title: "Toy Story"
+        match:
+          mapping_id: 862
+        url_poster: https://theposterdb.com/api/assets/189764
+                                                                                                                                                                                
+    "Toy Story 2 (1999)":
+        year: 1999
+        title: "Toy Story 2"
+        match:
+          mapping_id: 863
+        url_poster: https://theposterdb.com/api/assets/189766
+                                                                                                                                                                                
+    "Toy Story 3 (2010)":
+        year: 2010
+        title: "Toy Story 3"
+        match:
+          mapping_id: 10193
+        url_poster: https://theposterdb.com/api/assets/189772
+                                                                                                                                                                                
+    "Toy Story 4 (2019)":
+        year: 2019
+        title: "Toy Story 4"
+        match:
+          mapping_id: 301528
+        url_poster: https://theposterdb.com/api/assets/189779
+                                                                                                                                                                                        
+    "The Bad Guys: A Very Bad Holiday (2023)":
+        year: 2023
+        title: "Tuffa gänget: Ingen julefrid"
+        match:
+          mapping_id: 1046032
+        url_poster: https://theposterdb.com/api/assets/437598
+                                                                                                                                                                                        
+    "Kung Fu Panda (2008)":
+        year: 2008
+        title: "Kung Fu Panda"
+        match:
+          mapping_id: 39898
+        url_poster: https://theposterdb.com/api/assets/190810
+                                                                                                                                                                                        
+    "Kung Fu Panda 2 (2011)":
+        year: 2011
+        title: "Kung Fu Panda 2"
+        match:
+          mapping_id: 49444
+        url_poster: https://theposterdb.com/api/assets/190813
+                                                                                                                                                                                        
+    "Kung Fu Panda 3 (2016)":
+        year: 2016
+        title: "Kung Fu Panda 3"
+        match:
+          mapping_id: 140300
+        url_poster: https://theposterdb.com/api/assets/190816
+                                                                                                                                                                                        
+    "The Bad Guys (2022)":
+        year: 2022
+        title: "Tuffa gänget"
+        match:
+          mapping_id: 629542
+        url_poster: https://theposterdb.com/api/assets/233232
+                                                                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
