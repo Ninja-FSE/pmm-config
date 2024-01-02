@@ -4502,6 +4502,13 @@ metadata:
           mapping_id: 53182
         url_poster: https://theposterdb.com/api/assets/170601
                 
+    "Metallica: Some Kind of Monster (2004)":
+        year: 2004
+        title: "Metallica: Some Kind of Monster"
+        match:
+          mapping_id: 11401
+        url_poster: https://theposterdb.com/api/assets/242597
+                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
