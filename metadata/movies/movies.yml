@@ -4530,6 +4530,20 @@ metadata:
           mapping_id: 618588
         url_poster: https://theposterdb.com/api/assets/449393
                                                 
+    "Lift (2024)":
+        year: 2024
+        title: "Lift"
+        match:
+          mapping_id: 955916
+        url_poster: https://theposterdb.com/api/assets/449392
+                                                        
+    "Challengers (2024)":
+        year: 2024
+        title: "Challengers"
+        match:
+          mapping_id: 937287
+        url_poster: https://theposterdb.com/api/assets/449391
+                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
