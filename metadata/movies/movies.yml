@@ -5413,6 +5413,20 @@ metadata:
           mapping_id: 1076364
         url_poster: https://theposterdb.com/api/assets/424228
         
+    "Merry Little Batman (2023)":
+        year: 2023
+        title: "Merry Little Batman"
+        match:
+          mapping_id: 870358
+        url_poster: https://theposterdb.com/api/assets/441391
+                
+    "Chicken Run: Dawn of the Nugget (2023)":
+        year: 2023
+        title: "Flykten från kycklingfabriken"
+        match:
+          mapping_id: 520758
+        url_poster: https://theposterdb.com/api/assets/437398
+                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
