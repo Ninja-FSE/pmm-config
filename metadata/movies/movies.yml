@@ -4866,6 +4866,34 @@ metadata:
           mapping_id: 10693
         url_poster: https://theposterdb.com/api/assets/191428
                                                                                                 
+    "Pocahontas (1995)":
+        year: 1995
+        title: "Pocahontas"
+        match:
+          mapping_id: 10530
+        url_poster: https://theposterdb.com/api/assets/191949
+                                                                                                        
+    "Pocahontas II: Journey to a New World (1998)":
+        year: 1998
+        title: "Pocahontas II: Resan till en annan värld"
+        match:
+          mapping_id: 13761
+        url_poster: https://theposterdb.com/api/assets/191950
+                                                                                                        
+    "The Rescuers (1977)":
+        year: 1977
+        title: "Bernard och Bianca"
+        match:
+          mapping_id: 11319
+        url_poster: https://theposterdb.com/api/assets/191955
+                                                                                                        
+    "The Rescuers Down Under (1990)":
+        year: 1990
+        title: "Bernard och Bianca i Australien"
+        match:
+          mapping_id: 11135
+        url_poster: https://theposterdb.com/api/assets/191956
+                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
