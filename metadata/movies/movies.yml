@@ -5328,6 +5328,70 @@ metadata:
           mapping_id: 10192
         url_poster: https://theposterdb.com/api/assets/190632
                                                                                                                                                                                                                         
+    "Toy Story That Time Forgot (2014)":
+        year: 2014
+        title: "Toy Story - Fast i forntiden"
+        match:
+          mapping_id: 256835
+        url_poster: https://theposterdb.com/api/assets/199928
+                                                                                                                                                                                                                                
+    "Ice Age (2002)":
+        year: 2002
+        title: "Ice Age"
+        match:
+          mapping_id: 425
+        url_poster: https://theposterdb.com/api/assets/183135
+                                                                                                                                                                                                                                
+    "Ice Age: The Meltdown (2006)":
+        year: 2006
+        title: "Ice Age 2"
+        match:
+          mapping_id: 950
+        url_poster: https://theposterdb.com/api/assets/183137
+                                                                                                                                                                                                                                
+    "Ice Age: Dawn of the Dinosaurs (2009)":
+        year: 2009
+        title: "Ice Age 3: Det våras för dinosaurierna"
+        match:
+          mapping_id: 8355
+        url_poster: https://theposterdb.com/api/assets/183139
+                                                                                                                                                                                                                                
+    "Ice Age: Continental Drift (2012)":
+        year: 2012
+        title: "Ice Age 4: Jorden skakar loss"
+        match:
+          mapping_id: 57800
+        url_poster: https://theposterdb.com/api/assets/183141
+                                                                                                                                                                                                                                
+    "Ice Age: Collision Course (2016)":
+        year: 2016
+        title: "Ice Age 5: Scratattack"
+        match:
+          mapping_id: 278154
+        url_poster: https://theposterdb.com/api/assets/183144
+                                                                                                                                                                                                                                
+                                                                                                                                                                                                                  
+    "The Ice Age Adventures of Buck Wild (2022)":
+        year: 2022
+        title: "Ice Age: Buck Wilds äventyr"
+        match:
+          mapping_id: 774825
+        url_poster: https://theposterdb.com/api/assets/210480
+                                                                                                                                                                                                                                
+    "Rio (2011)":
+        year: 2011
+        title: "Rio"
+        match:
+          mapping_id: 46195
+        url_poster: https://theposterdb.com/api/assets/183140
+                                                                                                                                                                                                                                
+    "Rio 2 (2014)":
+        year: 2014
+        title: "Rio 2"
+        match:
+          mapping_id: 172385
+        url_poster: https://theposterdb.com/api/assets/183143
+                                                                                                                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
