@@ -4460,6 +4460,13 @@ metadata:
           mapping_id: 958196
         url_poster: https://theposterdb.com/api/assets/347697
 
+    "Eagles - Farewell I Tour - Live from Melbourne (2005)":
+        year: 2005
+        title: "Eagles - Farewell I Tour"
+        match:
+          mapping_id: 56680
+        url_poster: https://theposterdb.com/api/assets/237166
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
