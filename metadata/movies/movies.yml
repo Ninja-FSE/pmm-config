@@ -4488,6 +4488,20 @@ metadata:
           mapping_id: 83200
         url_poster: https://theposterdb.com/api/assets/283083
         
+    "300 (2007)":
+        year: 2007
+        title: "300"
+        match:
+          mapping_id: 1271
+        url_poster: https://theposterdb.com/api/assets/170600
+                
+    "300: Rise of an Empire (2014)":
+        year: 2014
+        title: "300: Rise of an Empire"
+        match:
+          mapping_id: 53182
+        url_poster: https://theposterdb.com/api/assets/170601
+                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
