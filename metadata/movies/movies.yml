@@ -5181,6 +5181,62 @@ metadata:
           mapping_id: 629542
         url_poster: https://theposterdb.com/api/assets/233232
                                                                                                                                                                                         
+    "The Sword in the Stone (1963)":
+        year: 1963
+        title: "Svärdet i stenen"
+        match:
+          mapping_id: 9078
+        url_poster: https://theposterdb.com/api/assets/191980
+                                                                                                                                                                                                
+    "Robin Hood (1973)":
+        year: 1973
+        title: "Robin Hood"
+        match:
+          mapping_id: 11886
+        url_poster: https://theposterdb.com/api/assets/170292
+                                                                                                                                                                                                
+    "Storks (2016)":
+        year: 2016
+        title: "Storkarna"
+        match:
+          mapping_id: 332210
+        url_poster: https://theposterdb.com/api/assets/193029
+                                                                                                                                                                                                
+    "Ruby Gillman, Teenage Kraken (2023)":
+        year: 2023
+        title: "Ruby - havsmonstret"
+        match:
+          mapping_id: 1040148
+        url_poster: https://theposterdb.com/api/assets/373463
+                                                                                                                                                                                                
+    "Turning Red (2022)":
+        year: 2022
+        title: "RÖD"
+        match:
+          mapping_id: 508947
+        url_poster: https://theposterdb.com/api/assets/219164
+                                                                                                                                                                                                
+    "Snow White and the Seven Dwarfs (1937)":
+        year: 1937
+        title: "Snövit och de sju dvärgarna"
+        match:
+          mapping_id: 408
+        url_poster: https://theposterdb.com/api/assets/191972
+                                                                                                                                                                                                
+    "Ratatouille (2007)":
+        year: 2007
+        title: "Råttatouille"
+        match:
+          mapping_id: 2062
+        url_poster: https://theposterdb.com/api/assets/189769
+                                                                                                                                                                                                
+    "The Polar Express (2004)":
+        year: 2004
+        title: "Polarexpressen"
+        match:
+          mapping_id: 5255
+        url_poster: https://theposterdb.com/api/assets/190458
+                                                                                                                                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
