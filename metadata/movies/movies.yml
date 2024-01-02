@@ -5427,6 +5427,13 @@ metadata:
           mapping_id: 520758
         url_poster: https://theposterdb.com/api/assets/437398
                         
+    "Trolls Band Together (2023)":
+        year: 2023
+        title: "Trolls 3"
+        match:
+          mapping_id: 901362
+        url_poster: https://theposterdb.com/api/assets/417962
+                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
