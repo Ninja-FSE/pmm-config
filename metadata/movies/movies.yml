@@ -5020,6 +5020,13 @@ metadata:
           mapping_id: 404368
         url_poster: https://theposterdb.com/api/assets/191436
                                                                                                                                         
+    "Lady and the Tramp (2019)":
+        year: 2019
+        title: "Lady och Lufsen"
+        match:
+          mapping_id: 512895
+        url_poster: https://theposterdb.com/api/assets/172611
+                                                                                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
