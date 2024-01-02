@@ -3327,7 +3327,7 @@ metadata:
           mapping_id: 1008042
         url_poster: https://theposterdb.com/api/assets/389598
 
-    "The 5th Wave":
+    "The 5th Wave (2016)":
         year: 2016
         title: "The 5th Wave"
         match:
@@ -3339,7 +3339,7 @@ metadata:
         title: "The Beekeeper"
         match:
           mapping_id: 866398
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/439695
 
     "The Black Book":
         year: 2023
@@ -3516,14 +3516,14 @@ metadata:
           mapping_id: 1858
         url_poster: https://theposterdb.com/api/assets/184010
 
-    "Transformers: Revenge of the Fallen":
+    "Transformers: Revenge of the Fallen (2009)":
         year: 2009
         title: "Transformers: Revenge of the Fallen"
         match:
           mapping_id: 8373
         url_poster: https://theposterdb.com/api/assets/184011
 
-    "Transformers: Dark of the Moon":
+    "Transformers: Dark of the Moon (2011)":
         year: 2011
         title: "Transformers: Dark of the Moon"
         match:
@@ -3628,21 +3628,21 @@ metadata:
           mapping_id: 11878
         url_poster: https://theposterdb.com/api/assets/228251
 
-    "Chicken Run(2000)":
+    "Chicken Run (2000)":
         year: 2000
         title: "Chicken Run"
         match:
           mapping_id: 7443
         url_poster: https://theposterdb.com/api/assets/329020
 
-    "Let's Be Cops(2014)":
+    "Let's Be Cops (2014)":
         year: 2014
         title: "Let's Be Cops"
         match:
           mapping_id: 193893
         url_poster: https://theposterdb.com/api/assets/205642
 
-    "Venom(2018)":
+    "Venom (2018)":
         year: 2018
         title: "Venom"
         match:
