@@ -4894,6 +4894,132 @@ metadata:
           mapping_id: 11135
         url_poster: https://theposterdb.com/api/assets/191956
                                                                                                         
+    "Tangled (2010)":
+        year: 2010
+        title: "Trassel"
+        match:
+          mapping_id: 38757
+        url_poster: https://theposterdb.com/api/assets/191952
+                                                                                                                
+    "Tangled Ever After (2012)":
+        year: 2012
+        title: "Trassel för evigt"
+        match:
+          mapping_id: 82881
+        url_poster: https://theposterdb.com/api/assets/191953
+                                                                                                                
+    "Tangled: Before Ever After (2017)":
+        year: 2017
+        title: "Trassel: Innan för evigt"
+        match:
+          mapping_id: 438747
+        url_poster: https://theposterdb.com/api/assets/191954
+                                                                                                                
+    "Tarzan (1999)":
+        year: 1999
+        title: "Tarzan"
+        match:
+          mapping_id: 37135
+        url_poster: https://theposterdb.com/api/assets/191245
+                                                                                                                
+    "Tarzan II (2005)":
+        year: 2005
+        title: "Tarzan 2"
+        match:
+          mapping_id: 15657
+        url_poster: https://theposterdb.com/api/assets/191247
+                                                                                                                
+    "Tarzan & Jane (2002)":
+        year: 2002
+        title: "Tarzan & Jane"
+        match:
+          mapping_id: Tarzan & Jane
+        url_poster: https://theposterdb.com/api/assets/191246
+                                                                                                                
+    "The Wild (2006)":
+        year: 2006
+        title: "Vilddjuren"
+        match:
+          mapping_id: 9904
+        url_poster: https://theposterdb.com/api/assets/232743
+                                                                                                                
+    "Winnie the Pooh: A Very Merry Pooh Year (2002)":
+        year: 2002
+        title: "Nalle Puh - Jullovet"
+        match:
+          mapping_id: 13706
+        url_poster: https://theposterdb.com/api/assets/190467
+                                                                                                                
+    "Winnie the Pooh: Seasons of Giving (1999)":
+        year: 1999
+        title: "Nalle Puh: Vännernas fest"
+        match:
+          mapping_id: 261339
+        url_poster: https://theposterdb.com/api/assets/192350
+                                                                                                                
+    "Wild West Winnie (1983)":
+        year: 1983
+        title: "Wild West Winnie"
+        match:
+          mapping_id: 644332
+        url_poster: https://theposterdb.com/api/assets/192349
+                                                                                                                
+    "Piglet's Big Movie (2003)":
+        year: 2003
+        title: "Nasses stora film"
+        match:
+          mapping_id: 13691
+        url_poster: https://theposterdb.com/api/assets/192352
+                                                                                                                
+    "The Tigger Movie (2000)":
+        year: 2000
+        title: "Tigers film"
+        match:
+          mapping_id: 15655
+        url_poster: https://theposterdb.com/api/assets/192351
+                                                                                                                        
+    "Pooh's Heffalump Movie (2005)":
+        year: 2005
+        title: "Puhs film om Heffaklumpen"
+        match:
+          mapping_id: 13682
+        url_poster: https://theposterdb.com/api/assets/192354
+                                                                                                                        
+    "Winnie the Pooh: Springtime with Roo (2004)":
+        year: 2004
+        title: "Nalle Puh - Vårkul med Ru"
+        match:
+          mapping_id: 16394
+        url_poster: https://theposterdb.com/api/assets/192353
+                                                                                                                        
+    "Winnie the Pooh (2011)":
+        year: 2011
+        title: "Nalle Puhs film - Nya äventyr i Sjumilaskogen "
+        match:
+          mapping_id: 51162
+        url_poster: https://theposterdb.com/api/assets/191527
+                                                                                                                        
+    "Pooh's Grand Adventure: The Search for Christopher Robin (1997)":
+        year: 1997
+        title: "Nalle Puh och jakten på Christoffer Robin"
+        match:
+          mapping_id: 14903
+        url_poster: https://theposterdb.com/api/assets/232742
+                                                                                                                                
+    "Wreck-It Ralph (2012)":
+        year: 2012
+        title: "Röjar-Ralf"
+        match:
+          mapping_id: 82690
+        url_poster: https://theposterdb.com/api/assets/191435
+                                                                                                                                        
+    "Ralph Breaks the Internet (2018)":
+        year: 2018
+        title: "Röjar-Ralf kraschar internet"
+        match:
+          mapping_id: 404368
+        url_poster: https://theposterdb.com/api/assets/191436
+                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
