@@ -5048,6 +5048,41 @@ metadata:
           mapping_id: 13930
         url_poster: https://theposterdb.com/api/assets/193626
                                                                                                                                                                 
+    "Cars (2006)":
+        year: 2006
+        title: "Bilar"
+        match:
+          mapping_id: 920
+        url_poster: https://theposterdb.com/api/assets/188637
+                                                                                                                                                                        
+    "Cars 2 (2011)":
+        year: 2011
+        title: "Bilar 2"
+        match:
+          mapping_id: 49013
+        url_poster: https://theposterdb.com/api/assets/188638
+                                                                                                                                                                        
+    "Cars 3 (2017)":
+        year: 2017
+        title: "Bilar 3"
+        match:
+          mapping_id: 260514
+        url_poster: https://theposterdb.com/api/assets/188639
+                                                                                                                                                                        
+    "Klaus (2019)":
+        year: 2019
+        title: "Klaus"
+        match:
+          mapping_id: 508965
+        url_poster: https://theposterdb.com/api/assets/190438
+                                                                                                                                                                        
+    "A Bug's Life (1998)":
+        year: 1998
+        title: "Ett småkryps liv"
+        match:
+          mapping_id: 9487
+        url_poster: https://theposterdb.com/api/assets/189765
+                                                                                                                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
