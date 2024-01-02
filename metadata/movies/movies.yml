@@ -4516,6 +4516,13 @@ metadata:
           mapping_id: 1125575
         url_poster: https://theposterdb.com/api/assets/366798
                                 
+    "Time Bomb Y2K (2023)":
+        year: 2023
+        title: "Time Bomb Y2K"
+        match:
+          mapping_id: 1088233
+        url_poster: https://theposterdb.com/api/assets/449386
+                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
