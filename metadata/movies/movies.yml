@@ -5152,14 +5152,7 @@ metadata:
         match:
           mapping_id: 1046032
         url_poster: https://theposterdb.com/api/assets/437598
-                                                                                                                                                                                        
-    "Kung Fu Panda (2008)":
-        year: 2008
-        title: "Kung Fu Panda"
-        match:
-          mapping_id: 9502
-        url_poster: https://theposterdb.com/api/assets/190810
-                                                                                                                                                                                        
+                                                                                                                                                                                   
     "Kung Fu Panda 2 (2011)":
         year: 2011
         title: "Kung Fu Panda 2"
@@ -5391,7 +5384,14 @@ metadata:
         match:
           mapping_id: 172385
         url_poster: https://theposterdb.com/api/assets/183143
-                                                                                                                                                                                                                                        
+                                                                                                                                                                                 
+    "Kung Fu Panda (2008)":
+        year: 2008
+        title: "Kung Fu Panda"
+        match:
+          mapping_id: 9502
+        url_poster: https://theposterdb.com/api/assets/190810
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
