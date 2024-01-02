@@ -4509,6 +4509,13 @@ metadata:
           mapping_id: 11401
         url_poster: https://theposterdb.com/api/assets/242597
                         
+    "Apple Music Live: Ed Sheeran (2023)":
+        year: 2023
+        title: "Apple Music Live: Ed Sheeran"
+        match:
+          mapping_id: 1125575
+        url_poster: https://theposterdb.com/api/assets/366798
+                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
