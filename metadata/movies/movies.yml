@@ -4670,6 +4670,62 @@ metadata:
           mapping_id: 14128
         url_poster: https://theposterdb.com/api/assets/191879
                                                                         
+    "The Emperor's New Groove (2000)":
+        year: 2000
+        title: "Kejsarens nya stil"
+        match:
+          mapping_id: 11688
+        url_poster: https://theposterdb.com/api/assets/361617
+                                                                                
+    "Kronk's New Groove (2005)":
+        year: 2005
+        title: "Kejsarens nya stil 2: Kronks nya stil"
+        match:
+          mapping_id: 13417
+        url_poster: https://theposterdb.com/api/assets/361618
+                                                                                
+    "Cinderella III: A Twist in Time (2007)":
+        year: 2007
+        title: "Askungen 3 - Det magiska trollspöet"
+        match:
+          mapping_id: 16119
+        url_poster: https://theposterdb.com/api/assets/191880
+                                                                                
+    "Frozen (2013)":
+        year: 2013
+        title: "Frost"
+        match:
+          mapping_id: 109445
+        url_poster: https://theposterdb.com/api/assets/190604
+                                                                                
+    "Olaf's Frozen Adventure (2017)":
+        year: 2017
+        title: "Olofs frostiga äventyr"
+        match:
+          mapping_id: 460793
+        url_poster: https://theposterdb.com/api/assets/190456
+                                                                                
+    "Frozen Fever (2015)":
+        year: 2015
+        title: "Frostfeber"
+        match:
+          mapping_id: 326359
+        url_poster: https://theposterdb.com/api/assets/190605
+                                                                                
+    "Frozen II (2019)":
+        year: 2019
+        title: "Frost 2"
+        match:
+          mapping_id: 330457
+        url_poster: https://theposterdb.com/api/assets/190607
+                                                                                
+    "Once Upon a Snowman (2020)":
+        year: 2020
+        title: "Det var en gång en snögubbe"
+        match:
+          mapping_id: 741074
+        url_poster: https://theposterdb.com/api/assets/190608
+                                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
