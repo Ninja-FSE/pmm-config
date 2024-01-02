@@ -4523,6 +4523,13 @@ metadata:
           mapping_id: 1088233
         url_poster: https://theposterdb.com/api/assets/449386
                                         
+    "Arthur the King (2024)":
+        year: 2024
+        title: "Arthur the King"
+        match:
+          mapping_id: 618588
+        url_poster: https://theposterdb.com/api/assets/449393
+                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
