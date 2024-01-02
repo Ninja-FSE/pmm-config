@@ -4467,9 +4467,31 @@ metadata:
           mapping_id: 56680
         url_poster: https://theposterdb.com/api/assets/237166
 
+    "The Three Stooges (2012)":
+        year: 2012
+        title: "The Three Stooges"
+        match:
+          mapping_id: 76489
+        url_poster: https://theposterdb.com/api/assets/209475
+        
+    "Snow White and the Three Stooges (1961)":
+        year: 1961
+        title: "Snow White and the Three Stooges"
+        match:
+          mapping_id: 30126
+        url_poster: https://theposterdb.com/api/assets/249097
+        
+    "Tummy Trouble (1989)":
+        year: 1989
+        title: "Tummy Trouble"
+        match:
+          mapping_id: 83200
+        url_poster: https://theposterdb.com/api/assets/283083
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
+        
