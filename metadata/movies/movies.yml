@@ -5567,6 +5567,27 @@ metadata:
           mapping_id: 643215
         url_poster: https://theposterdb.com/api/assets/362236
                                                                         
+    "Family Guy Presents: It's a Trap! (2010)":
+        year: 2010
+        title: "It's a Trap!"
+        match:
+          mapping_id: 278427
+        url_poster: https://theposterdb.com/api/assets/192397
+                                                                        
+    "Family Guy Presents: Something, Something, Something, Dark Side (2009)":
+        year: 2009
+        title: "Something, Something, Something, Dark Side"
+        match:
+          mapping_id: 625651
+        url_poster: https://theposterdb.com/api/assets/192396
+                                                                        
+    "Family Guy Presents: Blue Harvest (2008)":
+        year: 2008
+        title: "Blue Harvest"
+        match:
+          mapping_id: 653528
+        url_poster: https://theposterdb.com/api/assets/192395
+                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
