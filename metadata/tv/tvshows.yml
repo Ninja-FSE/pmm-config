@@ -2639,6 +2639,23 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Tales of the Jedi (2022)                  #
+#                                                                   #
+#####################################################################
+    "Tales of the Jedi (2022)":
+        year: xxxx
+        title: "Star Wars: Tales of the Jedi"
+        url_poster: https://theposterdb.com/api/assets/282026
+        match:
+          mapping_id: 420659
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/282027
+
+                                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
