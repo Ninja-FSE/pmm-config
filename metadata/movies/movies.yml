@@ -5441,6 +5441,104 @@ metadata:
           mapping_id: 399363
         url_poster: https://theposterdb.com/api/assets/449516
                                         
+    "Finding Nemo (2003)":
+        year: 2003
+        title: "Hitta Nemo"
+        match:
+          mapping_id: 12
+        url_poster: https://theposterdb.com/api/assets/189768
+                                                
+    "Finding Dory (2016)":
+        year: 2016
+        title: "Hitta Doris"
+        match:
+          mapping_id: 127380
+        url_poster: https://theposterdb.com/api/assets/189777
+                                                
+    "Bambi II (2006)":
+        year: 2006
+        title: "Bambi 2"
+        match:
+          mapping_id: 13205
+        url_poster: https://theposterdb.com/api/assets/191867
+                                                
+    "Asterix the Gaul (1967)":
+        year: 1967
+        title: "Asterix och hans tappra galler"
+        match:
+          mapping_id: 11047
+        url_poster: https://theposterdb.com/api/assets/226166
+                                                
+    "Astérix et Cléopâtre (1968)":
+        year: 1968
+        title: "Asterix och Kleopatra"
+        match:
+          mapping_id: 9929
+        url_poster: https://theposterdb.com/api/assets/226167
+                                                
+    "The Twelve Tasks of Asterix (1976)":
+        year: 1976
+        title: "Asterix 12 stordåd"
+        match:
+          mapping_id: 9385
+        url_poster: https://theposterdb.com/api/assets/226168
+                                                
+    "Asterix vs. Caesar (1985)":
+        year: 1985
+        title: "Asterix: Gallernas hjälte"
+        match:
+          mapping_id: 8868
+        url_poster: https://theposterdb.com/api/assets/226169
+                                                        
+    "Asterix in Britain (1986)":
+        year: 1986
+        title: "Asterix och britterna"
+        match:
+          mapping_id: 9318
+        url_poster: https://theposterdb.com/api/assets/226170
+                                                        
+    "Asterix and the Big Fight (1989)":
+        year: 1989
+        title: "Asterix: Bautastenssmällen"
+        match:
+          mapping_id: 11625
+        url_poster: https://theposterdb.com/api/assets/226171
+                                                        
+    "Asterix Conquers America (1994)":
+        year: 1994
+        title: "Asterix i Amerika"
+        match:
+          mapping_id: 9369
+        url_poster: https://theposterdb.com/api/assets/226172
+                                                        
+    "Asterix and the Vikings (2006)":
+        year: 2006
+        title: "Asterix och vikingarna"
+        match:
+          mapping_id: 9642
+        url_poster: https://theposterdb.com/api/assets/226173
+                                                                
+    "Asterix: The Mansions of the Gods (2014)":
+        year: 2014
+        title: "Asterix - Gudarnas hemvist"
+        match:
+          mapping_id: 170522
+        url_poster: https://theposterdb.com/api/assets/226174
+                                                                
+    "Asterix: The Secret of the Magic Potion (2018)":
+        year: 2018
+        title: "Astérix: Den magiska drycken"
+        match:
+          mapping_id: 527729
+        url_poster: https://theposterdb.com/api/assets/226175
+                                                                
+    "Astérix at the Olympic Games (2008)":
+        year: 2008
+        title: "Asterix på olympiaden"
+        match:
+          mapping_id: 2395
+        url_poster: https://theposterdb.com/api/assets/239269
+                                                                
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
