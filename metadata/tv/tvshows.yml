@@ -2643,7 +2643,7 @@ metadata:
 #                                                                   #
 #####################################################################
     "Tales of the Jedi (2022)":
-        year: xxxx
+        year: 2022
         title: "Star Wars: Tales of the Jedi"
         url_poster: https://theposterdb.com/api/assets/282026
         match:
@@ -2653,6 +2653,24 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/282027
 
                                                                 
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Star Wars: The Bad Batch (2021)           #
+#                                                                   #
+#####################################################################
+    "Star Wars: The Bad Batch (2021)":
+        year: 2021
+        title: "Star Wars: The Bad Batch"
+        url_poster: https://theposterdb.com/api/assets/174478
+        match:
+          mapping_id: 385376
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225823
+            2:
+                url_poster: https://theposterdb.com/api/assets/306015
+                                                                                
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
@@ -2688,4 +2706,26 @@ metadata:
                 url_poster: xxxx
             11:
                 url_poster: xxxxx
+                                                                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Star Wars: Forces of Destiny (2017)       #
+#                                                                   #
+#####################################################################
+    "Star Wars: Forces of Destiny (2017)":
+        year: 2017
+        title: "Star Wars: Forces of Destiny"
+        url_poster: https://theposterdb.com/api/assets/174488
+        match:
+          mapping_id: 330710
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/319815
+            1:
+                url_poster: https://theposterdb.com/api/assets/319816
+            2:
+                url_poster: https://theposterdb.com/api/assets/319817
+            4:
+
                 
