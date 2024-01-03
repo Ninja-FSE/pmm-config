@@ -2622,6 +2622,42 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Star Wars: The Clone Wars (2008)          #
+#                                                                   #
+#####################################################################
+    "Star Wars: The Clone Wars (2008)":
+        year: 2008
+        title: "Star Wars: The Clone Wars"
+        url_poster: https://theposterdb.com/api/assets/174473
+        match:
+          mapping_id: 83268
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225836
+            2:
+                url_poster: https://theposterdb.com/api/assets/225837
+            3:
+                url_poster: https://theposterdb.com/api/assets/225838
+            4:
+                url_poster: https://theposterdb.com/api/assets/225839
+            5:
+                url_poster: https://theposterdb.com/api/assets/225840
+            6:
+                url_poster: https://theposterdb.com/api/assets/225841
+            7:
+                url_poster: https://theposterdb.com/api/assets/225842
+            8:
+                url_poster: xxxx
+            9:
+                url_poster: xxxx
+            10:
+                url_poster: xxxx
+            11:
+                url_poster: xxxxx
+                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
