@@ -5539,10 +5539,39 @@ metadata:
           mapping_id: 2395
         url_poster: https://theposterdb.com/api/assets/239269
                                                                 
+    "Asterix & Obelix Take on Caesar (1999)":
+        year: 1999
+        title: "Astérix & Obelix möter Caesar"
+        match:
+          mapping_id: 9564
+        url_poster: https://theposterdb.com/api/assets/239267
+                                                                        
+    "Asterix & Obelix: Mission Cleopatra (2002)":
+        year: 2002
+        title: "Astérix & Obélix - uppdrag Kleopatra"
+        match:
+          mapping_id: 2899
+        url_poster: https://theposterdb.com/api/assets/239268
+                                                                        
+    "Asterix & Obelix: God Save Britannia (2012)":
+        year: 2012
+        title: "Asterix & Obelix och britterna"
+        match:
+          mapping_id: 99770
+        url_poster: https://theposterdb.com/api/assets/239270
+                                                                        
+    "Asterix & Obelix: The Middle Kingdom (2023)":
+        year: 2023
+        title: "Asterix & Obelix: I Drakens rike"
+        match:
+          mapping_id: 643215
+        url_poster: https://theposterdb.com/api/assets/362236
+                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
+
         
