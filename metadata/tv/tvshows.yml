@@ -2603,6 +2603,25 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Star Wars: Ewoks (1985)                   #
+#                                                                   #
+#####################################################################
+    "Star Wars: Ewoks (1985)":
+        year: 1985
+        title: "Star Wars: Ewoks"
+        url_poster: https://theposterdb.com/api/assets/174490
+        match:
+          mapping_id: 73697
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/319813
+            2:
+                url_poster: https://theposterdb.com/api/assets/319814
+
+                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -2635,3 +2654,4 @@ metadata:
                 url_poster: xxxx
             11:
                 url_poster: xxxxx
+                
