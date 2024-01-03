@@ -860,7 +860,7 @@ metadata:
     "Star Wars: The Clone Wars (2008)":
         year: 2008
         title: "Star Wars: The Clone Wars"
-        url_poster: https://theposterdb.com/api/assets/328779
+        url_poster: https://theposterdb.com/api/assets/225828
         match:
           mapping_id: 83268
         seasons:
