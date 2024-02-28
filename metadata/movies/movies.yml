@@ -4311,7 +4311,7 @@ metadata:
         title: "One Life"
         match:
           mapping_id: 760774
-        url_poster: https://theposterdb.com/api/assets/447477
+        url_poster: https://theposterdb.com/api/assets/450593
 
     "The Final Race (2023)":
         year: 2023
@@ -5602,6 +5602,104 @@ metadata:
           mapping_id: 969492
         url_poster: https://theposterdb.com/api/assets/445749
                                                                   
+    "A Beautiful Day in the Neighborhood (2019)":
+        year: 2019
+        title: "A Beautiful Day in the Neighborhood"
+        match:
+          mapping_id: 501907
+        url_poster: https://theposterdb.com/api/assets/195345
+                                                                               
+    "Beverly Hills Cop (1984)":
+        year: 1984
+        title: "Beverly Hills Cop"
+        match:
+          mapping_id: 90
+        url_poster: https://theposterdb.com/api/assets/190693
+                                                                               
+    "Beverly Hills Cop II (1987)":
+        year: 1987
+        title: "Beverly Hills Cop II"
+        match:
+          mapping_id: 96
+        url_poster: https://theposterdb.com/api/assets/190694
+                                                                               
+    "Beverly Hills Cop III (1994)":
+        year: 1994
+        title: "Beverly Hills Cop III"
+        match:
+          mapping_id: 306
+        url_poster: https://theposterdb.com/api/assets/190695
+                                                                               
+    "Legends of the Fall (1994)":
+        year: 1994
+        title: "Legends of the Fall"
+        match:
+          mapping_id: 4476
+        url_poster: https://theposterdb.com/api/assets/219244
+                                                                               
+    "Unthinkable (2010)":
+        year: 2010
+        title: "Unthinkable"
+        match:
+          mapping_id: 38199
+        url_poster: https://theposterdb.com/api/assets/213115
+                                                                               
+    "No Way Up (2024)":
+        year: 2024
+        title: "No Way Up"
+        match:
+          mapping_id: 1096197
+        url_poster: https://theposterdb.com/api/assets/450589
+                                                                               
+    "War of the Worlds: The Attack (2023)":
+        year: 2023
+        title: "War of the Worlds: The Attack"
+        match:
+          mapping_id: 1103825
+        url_poster: https://theposterdb.com/api/assets/366799
+                                                                               
+    "The Tomorrow War (2021)":
+        year: 2021
+        title: "The Tomorrow War"
+        match:
+          mapping_id: 588228
+        url_poster: https://theposterdb.com/api/assets/183796
+                                                                               
+    "Strange Way of Life (2023)":
+        year: 2023
+        title: "Strange Way of Life"
+        match:
+          mapping_id: 963765
+        url_poster: https://theposterdb.com/api/assets/417944
+                                                                               
+    "A Million Ways to Die in the West (2014)":
+        year: 2014
+        title: "A Million Ways to Die in the West"
+        match:
+          mapping_id: 188161
+        url_poster: https://theposterdb.com/api/assets/205659
+                                                                               
+    "Forever Young (1992)":
+        year: 1992
+        title: "Forever Young"
+        match:
+          mapping_id: 10326
+        url_poster: https://theposterdb.com/api/assets/211918
+                                                                               
+    "Ransom (1996)":
+        year: 1996
+        title: "Ransom"
+        match:
+          mapping_id: 3595
+        url_poster: https://theposterdb.com/api/assets/220199
+                                                                               
+    "What Women Want (2000)":
+        year: 2000
+        title: "What Women Want"
+        match:
+          mapping_id: 3981
+        url_poster: https://theposterdb.com/api/assets/218002
+                                                                               
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
