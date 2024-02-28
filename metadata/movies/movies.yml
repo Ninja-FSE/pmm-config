@@ -6120,12 +6120,30 @@ metadata:
           mapping_id: 481848
         url_poster: https://theposterdb.com/api/assets/173727
 
+    "Allegiant (2016)":
+        year: 2016
+        title: "Allegiant"
+        match:
+          mapping_id: 262504
+        url_poster: https://theposterdb.com/api/assets/184371
+
+    "Moonfall (2022)":
+        year: 2022
+        title: "Moonfall"
+        match:
+          mapping_id: 406759
+        url_poster: https://theposterdb.com/api/assets/226044
+
+    "Bitconned (2024)":
+        year: 2024
+        title: "Bitconned"
+        match:
+          mapping_id: 1213997
+        url_poster: https://theposterdb.com/api/assets/449843
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
-
-
-        
