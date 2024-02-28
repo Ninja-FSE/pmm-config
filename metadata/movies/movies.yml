@@ -6155,6 +6155,13 @@ metadata:
           mapping_id: 522931
         url_poster: https://theposterdb.com/api/assets/173430
         
+    "Pet Sematary (2019)":
+        year: 2019
+        title: "Pet Sematary"
+        match:
+          mapping_id: 157433
+        url_poster: https://theposterdb.com/api/assets/328508    
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
