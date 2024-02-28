@@ -5593,14 +5593,21 @@ metadata:
         title: "Dances with Wolves"
         match:
           mapping_id: 581
-        url_poster: https://theposterdb.com/api/assets/184392
+        url_poster: https://theposterdb.com/api/assets/184392                                                             
                                                                         
+    "Land of Bad (2024)":
+        year: 2024
+        title: "Land of Bad"
+        match:
+          mapping_id: 969492
+        url_poster: https://theposterdb.com/api/assets/445749
+                                                                  
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
-                                                                        
+                                                                                   
 
         
