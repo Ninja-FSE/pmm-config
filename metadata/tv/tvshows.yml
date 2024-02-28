@@ -2770,6 +2770,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Constellation                           #
+#                         Constellation (2024)                      #
+#                                                                   #
+#####################################################################
+    "Constellation (2024)":
+        year: 2024
+        title: "Constellation"
+        url_poster: https://theposterdb.com/api/assets/451192
+        match:
+          mapping_id: 418727
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/451193
+
+#####################################################################
+#                                                                   #
 #                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
