@@ -6071,6 +6071,55 @@ metadata:
           mapping_id: 262500
         url_poster: https://theposterdb.com/api/assets/184370
 
+    "Divergent (2014)":
+        year: 2014
+        title: "Divergent"
+        match:
+          mapping_id: 157350
+        url_poster: https://theposterdb.com/api/assets/184369
+
+    "Napoleon (2023)":
+        year: 2023
+        title: "Napoleon"
+        match:
+          mapping_id: 753342
+        url_poster: https://theposterdb.com/api/assets/421197
+
+    "Ride On (2023)":
+        year: 2023
+        title: "Ride On"
+        match:
+          mapping_id: 931102
+        url_poster: https://theposterdb.com/api/assets/383753
+
+    "Lebanon (2009)":
+        year: 2009
+        title: "Lebanon"
+        match:
+          mapping_id: 32084
+        url_poster: https://theposterdb.com/api/assets/415141
+
+    "Saving Private Ryan (1998)":
+        year: 1998
+        title: "Saving Private Ryan"
+        match:
+          mapping_id: 857
+        url_poster: https://theposterdb.com/api/assets/179233
+
+    "T-34 (2018)":
+        year: 2018
+        title: "T-34"
+        match:
+          mapping_id: 505954
+        url_poster: https://theposterdb.com/api/assets/432022
+
+    "The Call of the Wild (2020)":
+        year: 2020
+        title: "The Call of the Wild"
+        match:
+          mapping_id: 481848
+        url_poster: https://theposterdb.com/api/assets/173727
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
