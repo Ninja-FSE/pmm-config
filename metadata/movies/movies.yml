@@ -6141,6 +6141,20 @@ metadata:
           mapping_id: 1213997
         url_poster: https://theposterdb.com/api/assets/449843
 
+    "The Hitman's Bodyguard (2017)":
+        year: 2017
+        title: "The Hitman's Bodyguard"
+        match:
+          mapping_id: 390043
+        url_poster: https://theposterdb.com/api/assets/173429
+
+    "Hitman's Wife's Bodyguard (2021)":
+        year: 2021
+        title: "Hitman's Wife's Bodyguard"
+        match:
+          mapping_id: 522931
+        url_poster: https://theposterdb.com/api/assets/173430
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
