@@ -5700,6 +5700,132 @@ metadata:
           mapping_id: 3981
         url_poster: https://theposterdb.com/api/assets/218002
                                                                                
+    "Poor Things (2023)":
+        year: 2023
+        title: "Poor Things"
+        match:
+          mapping_id: 792307
+        url_poster: https://theposterdb.com/api/assets/442732
+                                                                                           
+    "The Postcard Killings (2020)":
+        year: 2020
+        title: "The Postcard Killings"
+        match:
+          mapping_id: 449756
+        url_poster: https://theposterdb.com/api/assets/198464
+                                                                                           
+    "American Fiction (2023)":
+        year: 2023
+        title: "American Fiction"
+        match:
+          mapping_id: 1056360
+        url_poster: https://theposterdb.com/api/assets/442734
+                                                                                           
+    "Fritz the Cat (1972)":
+        year: 1972
+        title: "Fritz the Cat"
+        match:
+          mapping_id: 12593
+        url_poster: https://theposterdb.com/api/assets/201210
+                                                                                           
+    "The Nine Lives of Fritz the Cat (1974)":
+        year: 1974
+        title: "The Nine Lives of Fritz the Cat"
+        match:
+          mapping_id: 14683
+        url_poster: https://theposterdb.com/api/assets/310827
+                                                                                           
+    "Dogtooth (2009)":
+        year: 2009
+        title: "Dogtooth"
+        match:
+          mapping_id: 38810
+        url_poster: https://theposterdb.com/api/assets/213446
+                                                                                           
+    "Tropic Thunder (2008)":
+        year: 2008
+        title: "Tropic Thunder"
+        match:
+          mapping_id: 7446
+        url_poster: https://theposterdb.com/api/assets/213888
+                                                                                           
+    "Old Dads (2023)":
+        year: 2023
+        title: "Old Dads"
+        match:
+          mapping_id: 987917
+        url_poster: https://theposterdb.com/api/assets/423426
+                                                                                           
+    "The Conference (2023)":
+        year: 2023
+        title: "Konferensen"
+        match:
+          mapping_id: 1161048
+        url_poster: https://theposterdb.com/api/assets/424956
+                                                                                           
+    "Saturday Night Fever (1977)":
+        year: 1977
+        title: "Saturday Night Fever"
+        match:
+          mapping_id: 11009
+        url_poster: https://theposterdb.com/api/assets/189576
+                                                                                           
+    "Suicide Squad (2016)":
+        year: 2016
+        title: "Suicide Squad"
+        match:
+          mapping_id: 297761
+        url_poster: https://theposterdb.com/api/assets/371777
+                                                                                           
+    "Playing with Fire (2019)":
+        year: 2019
+        title: "Playing with Fire"
+        match:
+          mapping_id: 554241
+        url_poster: https://theposterdb.com/api/assets/230770
+                                                                                           
+    "The Marine (2006)":
+        year: 2006
+        title: "The Marine"
+        match:
+          mapping_id: 8975
+        url_poster: https://theposterdb.com/api/assets/418318
+                                                                                           
+    "The Marine 2 (2009)":
+        year: 2009
+        title: "The Marine 2"
+        match:
+          mapping_id: 27310
+        url_poster: https://theposterdb.com/api/assets/418319
+                                                                                           
+    "The Marine 3: Homefront (2013)":
+        year: 2013
+        title: "The Marine 3: Homefront"
+        match:
+          mapping_id: 171581
+        url_poster: https://theposterdb.com/api/assets/418320
+                                                                                           
+    "The Marine 4: Moving Target (2015)":
+        year: 2015
+        title: "The Marine 4: Moving Target"
+        match:
+          mapping_id: 329540
+        url_poster: https://theposterdb.com/api/assets/418321
+                                                                                           
+    "The Marine 5: Battleground (2017)":
+        year: 2017
+        title: "The Marine 5: Battleground"
+        match:
+          mapping_id: 445993
+        url_poster: https://theposterdb.com/api/assets/418322
+                                                                                           
+    "The Marine 6: Close Quarters (2018)":
+        year: 2018
+        title: "The Marine 6: Close Quarters"
+        match:
+          mapping_id: 548928
+        url_poster: https://theposterdb.com/api/assets/418323
+                                                                                           
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
