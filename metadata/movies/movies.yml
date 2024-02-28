@@ -5826,6 +5826,90 @@ metadata:
           mapping_id: 548928
         url_poster: https://theposterdb.com/api/assets/418323
                                                                                            
+    "12 Rounds (2009)":
+        year: 2009
+        title: "12 Rounds"
+        match:
+          mapping_id: 17134
+        url_poster: https://theposterdb.com/api/assets/321324
+                                                                                                   
+    "12 Rounds 2: Reloaded (2013)":
+        year: 2013
+        title: "12 Rounds 2: Reloaded"
+        match:
+          mapping_id: 195269
+        url_poster: https://theposterdb.com/api/assets/321325
+                                                                                                   
+    "12 Rounds 3: Lockdown (2015)":
+        year: 2015
+        title: "12 Rounds 3: Lockdown"
+        match:
+          mapping_id: 351901
+        url_poster: https://theposterdb.com/api/assets/321326
+                                                                                                   
+    "Wild Wild West (1999)":
+        year: 1999
+        title: "Wild Wild West"
+        match:
+          mapping_id: 8487
+        url_poster: https://theposterdb.com/api/assets/212369
+                                                                                                   
+    "The Suicide Squad (2021)":
+        year: 2021
+        title: "The Suicide Squad"
+        match:
+          mapping_id: 436969
+        url_poster: https://theposterdb.com/api/assets/371785
+                                                                                                   
+    "Dolittle (2020)":
+        year: 2020
+        title: "Dolittle"
+        match:
+          mapping_id: 448119
+        url_poster: https://theposterdb.com/api/assets/174120
+                                                                                                   
+    "Daddy's Home (2015)":
+        year: 2015
+        title: "Daddy's Home"
+        match:
+          mapping_id: 274167
+        url_poster: https://theposterdb.com/api/assets/189958
+                                                                                                                    
+    "Daddy's Home 2 (2017)":
+        year: 2017
+        title: "Daddy's Home 2"
+        match:
+          mapping_id: 419680
+        url_poster: https://theposterdb.com/api/assets/189959
+                                                                                                                    
+    "Trainwreck (2015)":
+        year: 2015
+        title: "Trainwreck"
+        match:
+          mapping_id: 271718
+        url_poster: https://theposterdb.com/api/assets/204874
+                                                                                                                    
+    "Sisters (2015)":
+        year: 2015
+        title: "Sisters"
+        match:
+          mapping_id: 266294
+        url_poster: https://theposterdb.com/api/assets/204847
+                                                                                                                    
+    "Fighting with My Family (2019)":
+        year: 2019
+        title: "Fighting with My Family"
+        match:
+          mapping_id: 445629
+        url_poster: https://theposterdb.com/api/assets/230748
+                                                                                                                    
+    "The Independent (2022)":
+        year: 2022
+        title: "The Independent"
+        match:
+          mapping_id: 878183
+        url_poster: https://theposterdb.com/api/assets/433510
+                                                                                                                    
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
