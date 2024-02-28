@@ -2754,6 +2754,22 @@ metadata:
                                            
 #####################################################################
 #                                                                   #
+#                 Avatar: The Last Airbender                        #
+#           Avatar: The Last Airbender (2024)                       #
+#                                                                   #
+#####################################################################
+    "Avatar: The Last Airbender (2024)":
+        year: 2024
+        title: "Avatar: The Last Airbender"
+        url_poster: https://theposterdb.com/api/assets/450978
+        match:
+          mapping_id: 385925
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/450979
+
+#####################################################################
+#                                                                   #
 #                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
