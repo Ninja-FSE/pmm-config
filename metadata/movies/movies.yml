@@ -5588,11 +5588,19 @@ metadata:
           mapping_id: 653528
         url_poster: https://theposterdb.com/api/assets/192395
                                                                         
+    "Dances with Wolves (1990)":
+        year: 1990
+        title: "Dances with Wolves"
+        match:
+          mapping_id: 581
+        url_poster: https://theposterdb.com/api/assets/184392
+                                                                        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
+                                                                        
 
         
