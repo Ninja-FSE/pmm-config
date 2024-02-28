@@ -5555,7 +5555,7 @@ metadata:
                                                                         
     "Asterix & Obelix: God Save Britannia (2012)":
         year: 2012
-        title: "Asterix & Obelix och britterna"
+        1990title: "Asterix & Obelix och britterna"
         match:
           mapping_id: 99770
         url_poster: https://theposterdb.com/api/assets/239270
