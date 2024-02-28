@@ -5959,12 +5959,61 @@ metadata:
           mapping_id: 121147
         url_poster: https://theposterdb.com/api/assets/234924
 
+    "The Wonderful Story of Henry Sugar (2023)":
+        year: 2023
+        title: "The Wonderful Story of Henry Sugar"
+        match:
+          mapping_id: 923939
+        url_poster: https://theposterdb.com/api/assets/414931
+
+    "Club Dread (2004)":
+        year: 2004
+        title: "Club Dread"
+        match:
+          mapping_id: 11217
+        url_poster: https://theposterdb.com/api/assets/402316
+
+    "The Marvels (2023)":
+        year: 2023
+        title: "The Marvels"
+        match:
+          mapping_id: 609681
+        url_poster: https://theposterdb.com/api/assets/417961
+
+    "Tinker Tailor Soldier Spy (2011)":
+        year: 2011
+        title: "Tinker Tailor Soldier Spy"
+        match:
+          mapping_id: 49517
+        url_poster: https://theposterdb.com/api/assets/195608
+
+    "Locke (2014)":
+        year: 2014
+        title: "Locke"
+        match:
+          mapping_id: 210479
+        url_poster: https://theposterdb.com/api/assets/205647
+
+    "Legend (2015)":
+        year: 2015
+        title: "Legend"
+        match:
+          mapping_id: 276907
+        url_poster: https://theposterdb.com/api/assets/202223
+
+    "Valerian and the City of a Thousand Planets (20017)":
+        year: 2017
+        title: "Valerian and the City of a Thousand Planets"
+        match:
+          mapping_id: 339964
+        url_poster: https://theposterdb.com/api/assets/184325
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
-        
+
 
         
