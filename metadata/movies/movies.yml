@@ -4297,7 +4297,7 @@ metadata:
         title: "The Bricklayer"
         match:
           mapping_id: 927107
-        url_poster: https://theposterdb.com/api/assets/447471
+        url_poster: https://theposterdb.com/api/assets/450425
 
     "Society of the Snow (2023)":
         year: 2023
@@ -6007,6 +6007,69 @@ metadata:
         match:
           mapping_id: 339964
         url_poster: https://theposterdb.com/api/assets/184325
+
+    "Resident Evil: Damnation (2012)":
+        year: 2012
+        title: "Resident Evil: Damnation"
+        match:
+          mapping_id: 133121
+        url_poster: https://theposterdb.com/api/assets/317191
+
+    "Resident Evil: Degeneration (2008)":
+        year: 2008
+        title: "Resident Evil: Degeneration"
+        match:
+          mapping_id: 13648
+        url_poster: https://theposterdb.com/api/assets/317190
+
+    "Biohazard 4: Incubate (2006)":
+        year: 2006
+        title: "xxx"
+        match:
+          mapping_id: 497467
+        url_poster: https://theposterdb.com/api/assets/448164
+
+    "Life of Pi (2012)":
+        year: 2012
+        title: "Life of Pi"
+        match:
+          mapping_id: 87827
+        url_poster: https://theposterdb.com/api/assets/187545
+
+    "Joker (2019)":
+        year: 2019
+        title: "Joker"
+        match:
+          mapping_id: 475557
+        url_poster: https://theposterdb.com/api/assets/371827
+
+    "The Last Emperor (1987)":
+        year: 1987
+        title: "The Last Emperor"
+        match:
+          mapping_id: 746
+        url_poster: https://theposterdb.com/api/assets/184622
+
+    "Crouching Tiger Hidden Dragon (2000)":
+        year: 2000
+        title: "Crouching Tiger Hidden Dragon"
+        match:
+          mapping_id: 146
+        url_poster: https://theposterdb.com/api/assets/202131
+
+    "Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)":
+        year: 2016
+        title: "Crouching Tiger, Hidden Dragon: Sword of Destiny"
+        match:
+          mapping_id: 263341
+        url_poster: https://theposterdb.com/api/assets/202132
+
+    "The Divergent Series: Insurgent (2015)":
+        year: 2015
+        title: "Insurgent"
+        match:
+          mapping_id: 262500
+        url_poster: https://theposterdb.com/api/assets/184370
 
     "xxxxx (xxxx)":
         year: xxxx
