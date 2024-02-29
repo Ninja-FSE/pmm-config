@@ -6154,17 +6154,80 @@ metadata:
         match:
           mapping_id: 522931
         url_poster: https://theposterdb.com/api/assets/173430
-        
+
     "Pet Sematary (2019)":
         year: 2019
         title: "Pet Sematary"
         match:
           mapping_id: 157433
-        url_poster: https://theposterdb.com/api/assets/328508    
+        url_poster: https://theposterdb.com/api/assets/328508
 
-    "xxxxx (xxxx)":
-        year: xxxx
-        title: "xxx"
+    "One More Shot (2023)":
+        year: 2023
+        title: "One More Shot"
         match:
-          mapping_id: xxx
-        url_poster: xxxxxx
+          mapping_id: 1214314
+        #url_poster: xxxxxx
+
+    "Role Play (2024)":
+        year: 2024
+        title: "Role Play"
+        match:
+          mapping_id: 848187
+        url_poster: https://theposterdb.com/api/assets/450622
+
+    "Trolls 3 (2023)":
+        year: 2023
+        title: "Trolls 3"
+        match:
+          mapping_id: 901362
+        url_poster: https://theposterdb.com/api/assets/417962
+
+    "Monster High: Tystnad, tagning, vampyraction! (2014)":
+        year: 2014
+        title: "Monster High: Tystnad, tagning, vampyraction!"
+        match:
+          mapping_id: 260234
+        url_poster: https://theposterdb.com/api/assets/232727
+
+    "Paper Towns (2015)":
+        year: 2015
+        title: "Paper Towns"
+        match:
+          mapping_id: 286565
+        url_poster: https://theposterdb.com/api/assets/357815
+
+    "Colombiana (2011)":
+        year: 2011
+        title: "Colombiana"
+        match:
+          mapping_id: 62835
+        url_poster: https://theposterdb.com/api/assets/210149
+
+    "Önskan (2023)":
+        year: 2023
+        title: "Önskan"
+        match:
+          mapping_id: 1022796
+        url_poster: https://theposterdb.com/api/assets/434510
+
+    "The Upside (2019)":
+        year: 2019
+        title: "The Upside"
+        match:
+          mapping_id: 440472
+        url_poster: https://theposterdb.com/api/assets/198907
+
+    "From the Ashes (2024)":
+        year: 2024
+        title: "From the Ashes"
+        match:
+          mapping_id: 1191876
+        #url_poster: https://theposterdb.com/api/assets/198907
+
+    "Code 8: Part II (2024)":
+        year: 2024
+        title: "Code 8: Part II"
+        match:
+          mapping_id: 932420
+        #url_poster: https://theposterdb.com/api/assets/198907
