@@ -2888,6 +2888,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Shōgun                                  #
+#                         Shōgun (2024                              #
+#                                                                   #
+#####################################################################
+    "Shōgun (2024)":
+        year: 2024
+        title: "Shōgun"
+        url_poster: https://theposterdb.com/api/assets/456266
+        match:
+          mapping_id: 392573
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/456267
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
