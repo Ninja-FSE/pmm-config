@@ -6162,9 +6162,18 @@ metadata:
           mapping_id: 157433
         url_poster: https://theposterdb.com/api/assets/328508
 
+<<<<<<< HEAD
+    "Lucy (2014)":
+        year: 2014
+        title: "Lucy"
+        match:
+          mapping_id: 240832
+        url_poster: https://theposterdb.com/api/assets/205654
+=======
     "One More Shot (2023)":
         year: 2023
         title: "One More Shot"
+>>>>>>> 9d2d335d0fd38f85eef183389721e1c469e50ac0
         match:
           mapping_id: 1214314
         #url_poster: xxxxxx
