@@ -2850,6 +2850,24 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Mr. & Mrs. Smith                        #
+#                         Mr. & Mrs. Smith (2024)                   #
+#                                                                   #
+#####################################################################
+    "Mr. & Mrs. Smith (2024)":
+        year: 2024
+        title: "Mr. & Mrs. Smith"
+        url_poster: https://theposterdb.com/api/assets/452876
+        match:
+          mapping_id: 396773
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/452877
+            1:
+                url_poster: https://theposterdb.com/api/assets/452878 
+                
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
