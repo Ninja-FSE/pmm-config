@@ -2920,6 +2920,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#              The Walking Dead: The Ones Who Live                  #
+#               The Walking Dead: The Ones Who Live (xxxx)          #
+#                                                                   #
+#####################################################################
+    "The Walking Dead: The Ones Who Live (2024)":
+        year: 2024
+        title: "The Walking Dead: The Ones Who Live"
+        url_poster: https://theposterdb.com/api/assets/456280
+        match:
+          mapping_id: 427202
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/456281
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
