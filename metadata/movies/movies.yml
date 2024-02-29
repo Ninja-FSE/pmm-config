@@ -1751,7 +1751,7 @@ metadata:
         title: "A Quiet Place"
         match:
           mapping_id: 758323
-        url_poster: https://theposterdb.com/api/assets/160981
+        url_poster: https://theposterdb.com/api/assets/173413
 
     "A Quiet Place Part II (2021)":
         year: 2021
@@ -3327,7 +3327,7 @@ metadata:
           mapping_id: 1008042
         url_poster: https://theposterdb.com/api/assets/389598
 
-    "The 5th Wave":
+    "The 5th Wave (2016)":
         year: 2016
         title: "The 5th Wave"
         match:
@@ -3339,7 +3339,7 @@ metadata:
         title: "The Beekeeper"
         match:
           mapping_id: 866398
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/439695
 
     "The Black Book":
         year: 2023
@@ -3516,14 +3516,14 @@ metadata:
           mapping_id: 1858
         url_poster: https://theposterdb.com/api/assets/184010
 
-    "Transformers: Revenge of the Fallen":
+    "Transformers: Revenge of the Fallen (2009)":
         year: 2009
         title: "Transformers: Revenge of the Fallen"
         match:
           mapping_id: 8373
         url_poster: https://theposterdb.com/api/assets/184011
 
-    "Transformers: Dark of the Moon":
+    "Transformers: Dark of the Moon (2011)":
         year: 2011
         title: "Transformers: Dark of the Moon"
         match:
@@ -3628,21 +3628,21 @@ metadata:
           mapping_id: 11878
         url_poster: https://theposterdb.com/api/assets/228251
 
-    "Chicken Run(2000)":
-        year: Chicken Run
+    "Chicken Run (2000)":
+        year: 2000
         title: "Chicken Run"
         match:
           mapping_id: 7443
         url_poster: https://theposterdb.com/api/assets/329020
 
-    "Let's Be Cops(2014)":
+    "Let's Be Cops (2014)":
         year: 2014
         title: "Let's Be Cops"
         match:
           mapping_id: 193893
         url_poster: https://theposterdb.com/api/assets/205642
 
-    "Venom(2018)":
+    "Venom (2018)":
         year: 2018
         title: "Venom"
         match:
@@ -4297,21 +4297,21 @@ metadata:
         title: "The Bricklayer"
         match:
           mapping_id: 927107
-        url_poster: https://theposterdb.com/api/assets/447471
+        url_poster: https://theposterdb.com/api/assets/450425
 
     "Society of the Snow (2023)":
         year: 2023
         title: "Society of the Snow"
         match:
           mapping_id: 906126
-        url_poster: https://theposterdb.com/api/assets/447476
+        url_poster: https://theposterdb.com/api/assets/450640
 
     "One Life (2023)":
         year: 2023
         title: "One Life"
         match:
           mapping_id: 760774
-        url_poster: https://theposterdb.com/api/assets/447477
+        url_poster: https://theposterdb.com/api/assets/450593
 
     "The Final Race (2023)":
         year: 2023
@@ -4437,7 +4437,7 @@ metadata:
         title: "Saltburn"
         match:
           mapping_id: 930564
-        url_poster: https://theposterdb.com/api/assets/434514
+        url_poster: https://theposterdb.com/api/assets/449539
 
     "Hardcore Never Dies (2023)":
         year: 2023
@@ -4446,6 +4446,13 @@ metadata:
           mapping_id: 1103789
         url_poster: https://theposterdb.com/api/assets/448361
 
+    "Eileen (2023)":
+        year: 2023
+        title: "Eileen"
+        match:
+          mapping_id: 664341
+        url_poster: https://theposterdb.com/api/assets/442755
+
     "Inside (2023)":
         year: 2023
         title: "Inside"
@@ -4453,11 +4460,1774 @@ metadata:
           mapping_id: 958196
         url_poster: https://theposterdb.com/api/assets/347697
 
-    "xxxxx (xxxx)":
-        year: xxxx
-        title: "xxx"
+    "Eagles - Farewell I Tour - Live from Melbourne (2005)":
+        year: 2005
+        title: "Eagles - Farewell I Tour"
+        match:
+          mapping_id: 56680
+        url_poster: https://theposterdb.com/api/assets/237166
+
+    "The Three Stooges (2012)":
+        year: 2012
+        title: "The Three Stooges"
+        match:
+          mapping_id: 76489
+        url_poster: https://theposterdb.com/api/assets/209475
+        
+    "Snow White and the Three Stooges (1961)":
+        year: 1961
+        title: "Snow White and the Three Stooges"
+        match:
+          mapping_id: 30126
+        url_poster: https://theposterdb.com/api/assets/249097
+        
+    "Tummy Trouble (1989)":
+        year: 1989
+        title: "Tummy Trouble"
+        match:
+          mapping_id: 83200
+        url_poster: https://theposterdb.com/api/assets/283083
+        
+    "300 (2007)":
+        year: 2007
+        title: "300"
+        match:
+          mapping_id: 1271
+        url_poster: https://theposterdb.com/api/assets/170600
+                
+    "300: Rise of an Empire (2014)":
+        year: 2014
+        title: "300: Rise of an Empire"
+        match:
+          mapping_id: 53182
+        url_poster: https://theposterdb.com/api/assets/170601
+                
+    "Metallica: Some Kind of Monster (2004)":
+        year: 2004
+        title: "Metallica: Some Kind of Monster"
+        match:
+          mapping_id: 11401
+        url_poster: https://theposterdb.com/api/assets/242597
+                        
+    "Apple Music Live: Ed Sheeran (2023)":
+        year: 2023
+        title: "Apple Music Live: Ed Sheeran"
+        match:
+          mapping_id: 1125575
+        url_poster: https://theposterdb.com/api/assets/366798
+                                
+    "Time Bomb Y2K (2023)":
+        year: 2023
+        title: "Time Bomb Y2K"
+        match:
+          mapping_id: 1088233
+        url_poster: https://theposterdb.com/api/assets/449386
+                                        
+    "Arthur the King (2024)":
+        year: 2024
+        title: "Arthur the King"
+        match:
+          mapping_id: 618588
+        url_poster: https://theposterdb.com/api/assets/449393
+                                                
+    "Lift (2024)":
+        year: 2024
+        title: "Lift"
+        match:
+          mapping_id: 955916
+        url_poster: https://theposterdb.com/api/assets/449392
+                                                        
+    "Challengers (2024)":
+        year: 2024
+        title: "Challengers"
+        match:
+          mapping_id: 937287
+        url_poster: https://theposterdb.com/api/assets/449391
+                                                        
+    "Aladdin (1992)":
+        year: 1992
+        title: "Aladdin"
+        match:
+          mapping_id: 812
+        url_poster: https://theposterdb.com/api/assets/191863
+                                                                
+    "Anastasia (1997)":
+        year: 1997
+        title: "Anastasia"
+        match:
+          mapping_id: 9444
+        url_poster: https://theposterdb.com/api/assets/193088
+                                                                
+    "The Monkey King (2023)":
+        year: 2023
+        title: "Apkungen"
+        match:
+          mapping_id: 832502
+        url_poster: https://theposterdb.com/api/assets/401836
+                                                                
+    "Aristocats (1970)":
+        year: 1970
+        title: "Aristocats"
+        match:
+          mapping_id: 10112
+        url_poster: https://theposterdb.com/api/assets/191981
+                                                                
+    "One Hundred and One Dalmatians (1961)":
+        year: 1971
+        title: "Pongo och de 101 dalmatinerna"
         match:
           mapping_id: xxx
         url_poster: xxxxxx
+                                                                
+    "101 Dalmatians II: Patch's London Adventure (2002)":
+        year: 2002
+        title: "De 101 dalmatinerna II - Tuffs äventyr i London"
+        match:
+          mapping_id: 13654
+        url_poster: https://theposterdb.com/api/assets/191969
+                                                                
+    "Atlantis: The Lost Empire (2001)":
+        year: 2001
+        title: "Atlantis - en försvunnen värld"
+        match:
+          mapping_id: 10865
+        url_poster: https://theposterdb.com/api/assets/191868
+                                                                
+    "Atlantis: Milo's Return (2003)":
+        year: 2003
+        title: "Atlantis - Milos återkomst"
+        match:
+          mapping_id: 8965
+        url_poster: https://theposterdb.com/api/assets/191869
+                                                                
+    "Bambi (1942)":
+        year: 1942
+        title: "Bambi"
+        match:
+          mapping_id: 3170
+        url_poster: https://theposterdb.com/api/assets/191866
+                                                                
+    "Beauty and the Beast (1991)":
+        year: 1991
+        title: "Skönheten och odjuret"
+        match:
+          mapping_id: 10020
+        url_poster: https://theposterdb.com/api/assets/191870
+                                                                        
+    "Belle's Magical World (1998)":
+        year: 1998
+        title: "Skönheten och odjuret: Belles magiska värld"
+        match:
+          mapping_id: 20235
+        url_poster: https://theposterdb.com/api/assets/191871
+                                                                        
+    "Beauty and the Beast: The Enchanted Christmas (1997)":
+        year: 1997
+        title: "Skönheten och odjuret - den förtrollade julen"
+        match:
+          mapping_id: 13313
+        url_poster: https://theposterdb.com/api/assets/190399
+                                                                        
+    "Bolt (2008)":
+        year: 2008
+        title: "Bolt"
+        match:
+          mapping_id: 13053
+        url_poster: https://theposterdb.com/api/assets/191873
+                                                                        
+    "Super Rhino (2009)":
+        year: 2009
+        title: "Super Rhino"
+        match:
+          mapping_id: 16604
+        url_poster: https://theposterdb.com/api/assets/191874
+                                                                        
+    "Brother Bear (2003)":
+        year: 2003
+        title: "Björnbröder"
+        match:
+          mapping_id: 10009
+        url_poster: https://theposterdb.com/api/assets/191875
+                                                                        
+    "Brother Bear 2 (2006)":
+        year: 2006
+        title: "Björnbröder 2"
+        match:
+          mapping_id: 10010
+        url_poster: https://theposterdb.com/api/assets/191877
+                                                                        
+    "Cinderella (1950)":
+        year: 1950
+        title: "Askungen"
+        match:
+          mapping_id: 11224
+        url_poster: https://theposterdb.com/api/assets/191878
+                                                                        
+    "Cinderella II: Dreams Come True (2002)":
+        year: 2002
+        title: "Askungen 2 - Drömmen slår in"
+        match:
+          mapping_id: 14128
+        url_poster: https://theposterdb.com/api/assets/191879
+                                                                        
+    "The Emperor's New Groove (2000)":
+        year: 2000
+        title: "Kejsarens nya stil"
+        match:
+          mapping_id: 11688
+        url_poster: https://theposterdb.com/api/assets/361617
+                                                                                
+    "Kronk's New Groove (2005)":
+        year: 2005
+        title: "Kejsarens nya stil 2: Kronks nya stil"
+        match:
+          mapping_id: 13417
+        url_poster: https://theposterdb.com/api/assets/361618
+                                                                                
+    "Cinderella III: A Twist in Time (2007)":
+        year: 2007
+        title: "Askungen 3 - Det magiska trollspöet"
+        match:
+          mapping_id: 16119
+        url_poster: https://theposterdb.com/api/assets/191880
+                                                                                
+    "Frozen (2013)":
+        year: 2013
+        title: "Frost"
+        match:
+          mapping_id: 109445
+        url_poster: https://theposterdb.com/api/assets/190604
+                                                                                
+    "Olaf's Frozen Adventure (2017)":
+        year: 2017
+        title: "Olofs frostiga äventyr"
+        match:
+          mapping_id: 460793
+        url_poster: https://theposterdb.com/api/assets/190456
+                                                                                
+    "Frozen Fever (2015)":
+        year: 2015
+        title: "Frostfeber"
+        match:
+          mapping_id: 326359
+        url_poster: https://theposterdb.com/api/assets/190605
+                                                                                
+    "Frozen II (2019)":
+        year: 2019
+        title: "Frost 2"
+        match:
+          mapping_id: 330457
+        url_poster: https://theposterdb.com/api/assets/190607
+                                                                                
+    "Once Upon a Snowman (2020)":
+        year: 2020
+        title: "Det var en gång en snögubbe"
+        match:
+          mapping_id: 741074
+        url_poster: https://theposterdb.com/api/assets/190608
+                                                                                
+    "Hercules (1997)":
+        year: 1997
+        title: "Herkules"
+        match:
+          mapping_id: 11970
+        url_poster: https://theposterdb.com/api/assets/191928
+                                                                                        
+    "Hercules: Zero to Hero (1999)":
+        year: 1999
+        title: "Hercules: Zero to Hero"
+        match:
+          mapping_id: 153609
+        url_poster: https://theposterdb.com/api/assets/191929
+                                                                                        
+    "The Hunchback of Notre Dame (1996)":
+        year: 1996
+        title: "Ringaren i Notre Dame"
+        match:
+          mapping_id: 10545
+        url_poster: https://theposterdb.com/api/assets/191930
+                                                                                        
+    "The Hunchback of Notre Dame II (2002)":
+        year: 2002
+        title: "Ringaren i Notre Dame II"
+        match:
+          mapping_id: 12448
+        url_poster: https://theposterdb.com/api/assets/191931
+                                                                                        
+    "The Jungle Book (1967)":
+        year: 1967
+        title: "Djungelboken"
+        match:
+          mapping_id: 9325
+        url_poster: https://theposterdb.com/api/assets/191932
+                                                                                        
+    "The Jungle Book 2 (2003)":
+        year: 2003
+        title: "Djungelboken 2"
+        match:
+          mapping_id: 14873
+        url_poster: https://theposterdb.com/api/assets/191933
+                                                                                        
+    "Lady and the Tramp (1955)":
+        year: 1955
+        title: "Lady och Lufsen"
+        match:
+          mapping_id: 10340
+        url_poster: https://theposterdb.com/api/assets/191934
+                                                                                        
+    "Lady and the Tramp II: Scamp's Adventure (2001)":
+        year: 2001
+        title: "Lady och Lufsen II - Ludde på äventyr"
+        match:
+          mapping_id: 18269
+        url_poster: https://theposterdb.com/api/assets/191935
+                                                                                        
+    "Lilo & Stitch (2002)":
+        year: 2002
+        title: "Lilo & Stitch"
+        match:
+          mapping_id: 11544
+        url_poster: https://theposterdb.com/api/assets/191936
+                                                                                                
+    "Lilo & Stitch 2: Stitch Has a Glitch (2005)":
+        year: 2005
+        title: "Lilo & Stitch 2"
+        match:
+          mapping_id: 20760
+        url_poster: https://theposterdb.com/api/assets/191938
+                                                                                                
+    "Stitch! The Movie (2003)":
+        year: 2003
+        title: "Stitch! The Movie"
+        match:
+          mapping_id: 15567
+        url_poster: https://theposterdb.com/api/assets/191937
+                                                                                                
+    "The Lion King (1994)":
+        year: 1994
+        title: "Lejonkungen"
+        match:
+          mapping_id: 8587
+        url_poster: https://theposterdb.com/api/assets/191940
+                                                                                                
+    "The Lion King II: Simba's Pride (1998)":
+        year: 1998
+        title: "Lejonkungen II - Simbas skatt"
+        match:
+          mapping_id: 9732
+        url_poster: https://theposterdb.com/api/assets/191941
+                                                                                                
+    "The Lion King 1½ (2004)":
+        year: 2004
+        title: "Lejonkungen 1½"
+        match:
+          mapping_id: 11430
+        url_poster: https://theposterdb.com/api/assets/191942
+                                                                                                
+    "The Little Mermaid (1989)":
+        year: 1989
+        title: "Den lilla sjöjungfrun"
+        match:
+          mapping_id: 10144
+        url_poster: https://theposterdb.com/api/assets/191943
+                                                                                                
+    "The Little Mermaid II: Return to the Sea (2000)":
+        year: 2000
+        title: "Den lilla sjöjungfrun II - Havets hemlighet"
+        match:
+          mapping_id: 10898
+        url_poster: https://theposterdb.com/api/assets/191944
+                                                                                                
+    "The Little Mermaid: Ariel's Beginning (2008)":
+        year: 2008
+        title: "Den lilla sjöjungfrun - Sagan om Ariel"
+        match:
+          mapping_id: 13676
+        url_poster: https://theposterdb.com/api/assets/191945
+                                                                                                
+    "Mulan (1998)":
+        year: 1998
+        title: "Mulan"
+        match:
+          mapping_id: 10674
+        url_poster: https://theposterdb.com/api/assets/191946
+                                                                                                
+    "Mulan II (2004)":
+        year: 2004
+        title: "Mulan 2"
+        match:
+          mapping_id: 12242
+        url_poster: https://theposterdb.com/api/assets/191947
+                                                                                                
+    "Peter Pan (1953)":
+        year: 1953
+        title: "Peter Pan"
+        match:
+          mapping_id: 10693
+        url_poster: https://theposterdb.com/api/assets/191428
+                                                                                                
+    "Pocahontas (1995)":
+        year: 1995
+        title: "Pocahontas"
+        match:
+          mapping_id: 10530
+        url_poster: https://theposterdb.com/api/assets/191949
+                                                                                                        
+    "Pocahontas II: Journey to a New World (1998)":
+        year: 1998
+        title: "Pocahontas II: Resan till en annan värld"
+        match:
+          mapping_id: 13761
+        url_poster: https://theposterdb.com/api/assets/191950
+                                                                                                        
+    "The Rescuers (1977)":
+        year: 1977
+        title: "Bernard och Bianca"
+        match:
+          mapping_id: 11319
+        url_poster: https://theposterdb.com/api/assets/191955
+                                                                                                        
+    "The Rescuers Down Under (1990)":
+        year: 1990
+        title: "Bernard och Bianca i Australien"
+        match:
+          mapping_id: 11135
+        url_poster: https://theposterdb.com/api/assets/191956
+                                                                                                        
+    "Tangled (2010)":
+        year: 2010
+        title: "Trassel"
+        match:
+          mapping_id: 38757
+        url_poster: https://theposterdb.com/api/assets/191952
+                                                                                                                
+    "Tangled Ever After (2012)":
+        year: 2012
+        title: "Trassel för evigt"
+        match:
+          mapping_id: 82881
+        url_poster: https://theposterdb.com/api/assets/191953
+                                                                                                                
+    "Tangled: Before Ever After (2017)":
+        year: 2017
+        title: "Trassel: Innan för evigt"
+        match:
+          mapping_id: 438747
+        url_poster: https://theposterdb.com/api/assets/191954
+                                                                                                                
+    "Tarzan (1999)":
+        year: 1999
+        title: "Tarzan"
+        match:
+          mapping_id: 37135
+        url_poster: https://theposterdb.com/api/assets/191245
+                                                                                                                
+    "Tarzan II (2005)":
+        year: 2005
+        title: "Tarzan 2"
+        match:
+          mapping_id: 15657
+        url_poster: https://theposterdb.com/api/assets/191247
+                                                                                                                
+    "Tarzan & Jane (2002)":
+        year: 2002
+        title: "Tarzan & Jane"
+        match:
+          mapping_id: Tarzan & Jane
+        url_poster: https://theposterdb.com/api/assets/191246
+                                                                                                                
+    "The Wild (2006)":
+        year: 2006
+        title: "Vilddjuren"
+        match:
+          mapping_id: 9904
+        url_poster: https://theposterdb.com/api/assets/232743
+                                                                                                                
+    "Winnie the Pooh: A Very Merry Pooh Year (2002)":
+        year: 2002
+        title: "Nalle Puh - Jullovet"
+        match:
+          mapping_id: 13706
+        url_poster: https://theposterdb.com/api/assets/190467
+                                                                                                                
+    "Winnie the Pooh: Seasons of Giving (1999)":
+        year: 1999
+        title: "Nalle Puh: Vännernas fest"
+        match:
+          mapping_id: 261339
+        url_poster: https://theposterdb.com/api/assets/192350
+                                                                                                                
+    "Wild West Winnie (1983)":
+        year: 1983
+        title: "Wild West Winnie"
+        match:
+          mapping_id: 644332
+        url_poster: https://theposterdb.com/api/assets/192349
+                                                                                                                
+    "Piglet's Big Movie (2003)":
+        year: 2003
+        title: "Nasses stora film"
+        match:
+          mapping_id: 13691
+        url_poster: https://theposterdb.com/api/assets/192352
+                                                                                                                
+    "The Tigger Movie (2000)":
+        year: 2000
+        title: "Tigers film"
+        match:
+          mapping_id: 15655
+        url_poster: https://theposterdb.com/api/assets/192351
+                                                                                                                        
+    "Pooh's Heffalump Movie (2005)":
+        year: 2005
+        title: "Puhs film om Heffaklumpen"
+        match:
+          mapping_id: 13682
+        url_poster: https://theposterdb.com/api/assets/192354
+                                                                                                                        
+    "Winnie the Pooh: Springtime with Roo (2004)":
+        year: 2004
+        title: "Nalle Puh - Vårkul med Ru"
+        match:
+          mapping_id: 16394
+        url_poster: https://theposterdb.com/api/assets/192353
+                                                                                                                        
+    "Winnie the Pooh (2011)":
+        year: 2011
+        title: "Nalle Puhs film - Nya äventyr i Sjumilaskogen "
+        match:
+          mapping_id: 51162
+        url_poster: https://theposterdb.com/api/assets/191527
+                                                                                                                        
+    "Pooh's Grand Adventure: The Search for Christopher Robin (1997)":
+        year: 1997
+        title: "Nalle Puh och jakten på Christoffer Robin"
+        match:
+          mapping_id: 14903
+        url_poster: https://theposterdb.com/api/assets/232742
+                                                                                                                                
+    "Wreck-It Ralph (2012)":
+        year: 2012
+        title: "Röjar-Ralf"
+        match:
+          mapping_id: 82690
+        url_poster: https://theposterdb.com/api/assets/191435
+                                                                                                                                        
+    "Ralph Breaks the Internet (2018)":
+        year: 2018
+        title: "Röjar-Ralf kraschar internet"
+        match:
+          mapping_id: 404368
+        url_poster: https://theposterdb.com/api/assets/191436
+                                                                                                                                        
+    "Lady and the Tramp (2019)":
+        year: 2019
+        title: "Lady och Lufsen"
+        match:
+          mapping_id: 512895
+        url_poster: https://theposterdb.com/api/assets/172611
+                                                                                                                                                
+    "The Angry Birds Movie (2016)":
+        year: 2016
+        title: "The Angry Birds Movie"
+        match:
+          mapping_id: 153518
+        url_poster: https://theposterdb.com/api/assets/178919
+                                                                                                                                                        
+    "The Angry Birds Movie 2 (2019)":
+        year: 2019
+        title: "The Angry Birds Movie 2"
+        match:
+          mapping_id: 454640
+        url_poster: https://theposterdb.com/api/assets/178926
+                                                                                                                                                        
+    "For the Birds (2000)":
+        year: 2000
+        title: "For the Birds"
+        match:
+          mapping_id: 13930
+        url_poster: https://theposterdb.com/api/assets/193626
+                                                                                                                                                                
+    "Cars (2006)":
+        year: 2006
+        title: "Bilar"
+        match:
+          mapping_id: 920
+        url_poster: https://theposterdb.com/api/assets/188637
+                                                                                                                                                                        
+    "Cars 2 (2011)":
+        year: 2011
+        title: "Bilar 2"
+        match:
+          mapping_id: 49013
+        url_poster: https://theposterdb.com/api/assets/188638
+                                                                                                                                                                        
+    "Cars 3 (2017)":
+        year: 2017
+        title: "Bilar 3"
+        match:
+          mapping_id: 260514
+        url_poster: https://theposterdb.com/api/assets/188639
+                                                                                                                                                                        
+    "Klaus (2019)":
+        year: 2019
+        title: "Klaus"
+        match:
+          mapping_id: 508965
+        url_poster: https://theposterdb.com/api/assets/190438
+                                                                                                                                                                        
+    "A Bug's Life (1998)":
+        year: 1998
+        title: "Ett småkryps liv"
+        match:
+          mapping_id: 9487
+        url_poster: https://theposterdb.com/api/assets/189765
+                                                                                                                                                                        
+    "BURN·E (2008)":
+        year: 2008
+        title: "BURN·E"
+        match:
+          mapping_id: 13413
+        url_poster: https://theposterdb.com/api/assets/199915
+                                                                                                                                                                                
+    "WALL·E (2008)":
+        year: 2008
+        title: "WALL·E"
+        match:
+          mapping_id: 10681
+        url_poster: https://theposterdb.com/api/assets/189770
+                                                                                                                                                                                
+    "Zootopia (2016)":
+        year: 2016
+        title: "Zootropolis"
+        match:
+          mapping_id: 269149
+        url_poster: https://theposterdb.com/api/assets/191991
+                                                                                                                                                                                
+    "Moana (2016)":
+        year: 2016
+        title: "Vaiana"
+        match:
+          mapping_id: 277834
+        url_poster: https://theposterdb.com/api/assets/191992
+                                                                                                                                                                                
+    "The Incredibles (2004)":
+        year: 2004
+        title: "Superhjältarna"
+        match:
+          mapping_id: 9806
+        url_poster: https://theposterdb.com/api/assets/189653
+                                                                                                                                                                                
+    "Toy Story (1995)":
+        year: 1995
+        title: "Toy Story"
+        match:
+          mapping_id: 862
+        url_poster: https://theposterdb.com/api/assets/189764
+                                                                                                                                                                                
+    "Toy Story 2 (1999)":
+        year: 1999
+        title: "Toy Story 2"
+        match:
+          mapping_id: 863
+        url_poster: https://theposterdb.com/api/assets/189766
+                                                                                                                                                                                
+    "Toy Story 3 (2010)":
+        year: 2010
+        title: "Toy Story 3"
+        match:
+          mapping_id: 10193
+        url_poster: https://theposterdb.com/api/assets/189772
+                                                                                                                                                                                
+    "Toy Story 4 (2019)":
+        year: 2019
+        title: "Toy Story 4"
+        match:
+          mapping_id: 301528
+        url_poster: https://theposterdb.com/api/assets/189779
+                                                                                                                                                                                        
+    "The Bad Guys: A Very Bad Holiday (2023)":
+        year: 2023
+        title: "Tuffa gänget: Ingen julefrid"
+        match:
+          mapping_id: 1046032
+        url_poster: https://theposterdb.com/api/assets/437598
+                                                                                                                                                                                   
+    "Kung Fu Panda 2 (2011)":
+        year: 2011
+        title: "Kung Fu Panda 2"
+        match:
+          mapping_id: 49444
+        url_poster: https://theposterdb.com/api/assets/190813
+                                                                                                                                                                                        
+    "Kung Fu Panda 3 (2016)":
+        year: 2016
+        title: "Kung Fu Panda 3"
+        match:
+          mapping_id: 140300
+        url_poster: https://theposterdb.com/api/assets/190816
+                                                                                                                                                                                        
+    "The Bad Guys (2022)":
+        year: 2022
+        title: "Tuffa gänget"
+        match:
+          mapping_id: 629542
+        url_poster: https://theposterdb.com/api/assets/233232
+                                                                                                                                                                                        
+    "The Sword in the Stone (1963)":
+        year: 1963
+        title: "Svärdet i stenen"
+        match:
+          mapping_id: 9078
+        url_poster: https://theposterdb.com/api/assets/191980
+                                                                                                                                                                                                
+    "Robin Hood (1973)":
+        year: 1973
+        title: "Robin Hood"
+        match:
+          mapping_id: 11886
+        url_poster: https://theposterdb.com/api/assets/170292
+                                                                                                                                                                                                
+    "Storks (2016)":
+        year: 2016
+        title: "Storkarna"
+        match:
+          mapping_id: 332210
+        url_poster: https://theposterdb.com/api/assets/193029
+                                                                                                                                                                                                
+    "Ruby Gillman, Teenage Kraken (2023)":
+        year: 2023
+        title: "Ruby - havsmonstret"
+        match:
+          mapping_id: 1040148
+        url_poster: https://theposterdb.com/api/assets/373463
+                                                                                                                                                                                                
+    "Turning Red (2022)":
+        year: 2022
+        title: "RÖD"
+        match:
+          mapping_id: 508947
+        url_poster: https://theposterdb.com/api/assets/219164
+                                                                                                                                                                                                
+    "Snow White and the Seven Dwarfs (1937)":
+        year: 1937
+        title: "Snövit och de sju dvärgarna"
+        match:
+          mapping_id: 408
+        url_poster: https://theposterdb.com/api/assets/191972
+                                                                                                                                                                                                
+    "Ratatouille (2007)":
+        year: 2007
+        title: "Råttatouille"
+        match:
+          mapping_id: 2062
+        url_poster: https://theposterdb.com/api/assets/189769
+                                                                                                                                                                                                
+    "The Polar Express (2004)":
+        year: 2004
+        title: "Polarexpressen"
+        match:
+          mapping_id: 5255
+        url_poster: https://theposterdb.com/api/assets/190458
+                                                                                                                                                                                                
+    "PAW Patrol: The Mighty Movie (2023)":
+        year: 2023
+        title: "Paw Patrol - storfilmen"
+        match:
+          mapping_id: 893723
+        url_poster: https://theposterdb.com/api/assets/414109
+                                                                                                                                                                                                        
+    "The Fox and the Hound (1981)":
+        year: 1981
+        title: "Micke och Molle - vänner när det gäller"
+        match:
+          mapping_id: 10948
+        url_poster: https://theposterdb.com/api/assets/191924
+                                                                                                                                                                                                        
+    "Miraculous - le film (2023)":
+        year: 2023
+        title: "Miraculous: Filmen om Ladybug & Cat Noir"
+        match:
+          mapping_id: 496450
+        url_poster: https://theposterdb.com/api/assets/389690
+                                                                                                                                                                                                        
+    "Monsters, Inc. (2001)":
+        year: 2001
+        title: "Monsters, Inc."
+        match:
+          mapping_id: 585
+        url_poster: https://theposterdb.com/api/assets/189767
+                                                                                                                                                                                                        
+    "Mavka: The Forest Song (2023)":
+        year: 2023
+        title: "Mavka: Skogens väktare"
+        match:
+          mapping_id: 459003
+        url_poster: https://theposterdb.com/api/assets/383759
+                                                                                                                                                                                                        
+    "Leo (2023)":
+        year: 2023
+        title: "Leo"
+        match:
+          mapping_id: 1075794
+        url_poster: https://theposterdb.com/api/assets/428810
+                                                                                                                                                                                                                
+    "The Grinch (2018)":
+        year: 2018
+        title: "Grinchen"
+        match:
+          mapping_id: 360920
+        url_poster: https://theposterdb.com/api/assets/190421
+                                                                                                                                                                                                                
+    "How the Grinch Stole Christmas (2000)":
+        year: 2000
+        title: "Grinchen - julen är stulen"
+        match:
+          mapping_id: 8871
+        url_poster: https://theposterdb.com/api/assets/190423
+                                                                                                                                                                                                                
+    "The Boss Baby (2017)":
+        year: 2017
+        title: "Baby-bossen"
+        match:
+          mapping_id: 295693
+        url_poster: https://theposterdb.com/api/assets/176014
+                                                                                                                                                                                                                
+    "Shrek (2001)":
+        year: 2001
+        title: "Shrek "
+        match:
+          mapping_id: 808
+        url_poster: https://theposterdb.com/api/assets/190629
+                                                                                                                                                                                                                
+    "Shrek 2 (2004)":
+        year: 2004
+        title: "Shrek 2"
+        match:
+          mapping_id: 809
+        url_poster: https://theposterdb.com/api/assets/190630
+                                                                                                                                                                                                                
+    "Shrek the Third (2007)":
+        year: 2007
+        title: "Shrek 3"
+        match:
+          mapping_id: 810
+        url_poster: https://theposterdb.com/api/assets/190631
+                                                                                                                                                                                                                
+    "Shrek Forever After (2010)":
+        year: 2010
+        title: "Shrek 4"
+        match:
+          mapping_id: 10192
+        url_poster: https://theposterdb.com/api/assets/190632
+                                                                                                                                                                                                                        
+    "Toy Story That Time Forgot (2014)":
+        year: 2014
+        title: "Toy Story - Fast i forntiden"
+        match:
+          mapping_id: 256835
+        url_poster: https://theposterdb.com/api/assets/199928
+                                                                                                                                                                                                                                
+    "Ice Age (2002)":
+        year: 2002
+        title: "Ice Age"
+        match:
+          mapping_id: 425
+        url_poster: https://theposterdb.com/api/assets/183135
+                                                                                                                                                                                                                                
+    "Ice Age: The Meltdown (2006)":
+        year: 2006
+        title: "Ice Age 2"
+        match:
+          mapping_id: 950
+        url_poster: https://theposterdb.com/api/assets/183137
+                                                                                                                                                                                                                                
+    "Ice Age: Dawn of the Dinosaurs (2009)":
+        year: 2009
+        title: "Ice Age 3: Det våras för dinosaurierna"
+        match:
+          mapping_id: 8355
+        url_poster: https://theposterdb.com/api/assets/183139
+                                                                                                                                                                                                                                
+    "Ice Age: Continental Drift (2012)":
+        year: 2012
+        title: "Ice Age 4: Jorden skakar loss"
+        match:
+          mapping_id: 57800
+        url_poster: https://theposterdb.com/api/assets/183141
+                                                                                                                                                                                                                                
+    "Ice Age: Collision Course (2016)":
+        year: 2016
+        title: "Ice Age 5: Scratattack"
+        match:
+          mapping_id: 278154
+        url_poster: https://theposterdb.com/api/assets/183144
+                                                                                                                                                                                                                                
+                                                                                                                                                                                                                  
+    "The Ice Age Adventures of Buck Wild (2022)":
+        year: 2022
+        title: "Ice Age: Buck Wilds äventyr"
+        match:
+          mapping_id: 774825
+        url_poster: https://theposterdb.com/api/assets/210480
+                                                                                                                                                                                                                                
+    "Rio (2011)":
+        year: 2011
+        title: "Rio"
+        match:
+          mapping_id: 46195
+        url_poster: https://theposterdb.com/api/assets/183140
+                                                                                                                                                                                                                                
+    "Rio 2 (2014)":
+        year: 2014
+        title: "Rio 2"
+        match:
+          mapping_id: 172385
+        url_poster: https://theposterdb.com/api/assets/183143
+                                                                                                                                                                                 
+    "Kung Fu Panda (2008)":
+        year: 2008
+        title: "Kung Fu Panda"
+        match:
+          mapping_id: 9502
+        url_poster: https://theposterdb.com/api/assets/190810
 
+    "Casper (1995)":
+        year: 1995
+        title: "Casper"
+        match:
+          mapping_id: 8839
+        url_poster: https://theposterdb.com/api/assets/173723
+        
+    "Elemental (2023)":
+        year: 2023
+        title: "Elementärt"
+        match:
+          mapping_id: 976573
+        url_poster: https://theposterdb.com/api/assets/370382
+        
+    "Carl's Date (2023)":
+        year: 2023
+        title: "Carls dejt"
+        match:
+          mapping_id: 1076364
+        url_poster: https://theposterdb.com/api/assets/424228
+        
+    "Merry Little Batman (2023)":
+        year: 2023
+        title: "Merry Little Batman"
+        match:
+          mapping_id: 870358
+        url_poster: https://theposterdb.com/api/assets/441391
+                
+    "Chicken Run: Dawn of the Nugget (2023)":
+        year: 2023
+        title: "Flykten från kycklingfabriken"
+        match:
+          mapping_id: 520758
+        url_poster: https://theposterdb.com/api/assets/437398
+                        
+    "Trolls Band Together (2023)":
+        year: 2023
+        title: "Trolls 3"
+        match:
+          mapping_id: 901362
+        url_poster: https://theposterdb.com/api/assets/417962
+                                
+    "Wendy (2020)":
+        year: 2020
+        title: "Wendy"
+        match:
+          mapping_id: 399363
+        url_poster: https://theposterdb.com/api/assets/449516
+                                        
+    "Finding Nemo (2003)":
+        year: 2003
+        title: "Hitta Nemo"
+        match:
+          mapping_id: 12
+        url_poster: https://theposterdb.com/api/assets/189768
+                                                
+    "Finding Dory (2016)":
+        year: 2016
+        title: "Hitta Doris"
+        match:
+          mapping_id: 127380
+        url_poster: https://theposterdb.com/api/assets/189777
+                                                
+    "Bambi II (2006)":
+        year: 2006
+        title: "Bambi 2"
+        match:
+          mapping_id: 13205
+        url_poster: https://theposterdb.com/api/assets/191867
+                                                
+    "Asterix the Gaul (1967)":
+        year: 1967
+        title: "Asterix och hans tappra galler"
+        match:
+          mapping_id: 11047
+        url_poster: https://theposterdb.com/api/assets/226166
+                                                
+    "Astérix et Cléopâtre (1968)":
+        year: 1968
+        title: "Asterix och Kleopatra"
+        match:
+          mapping_id: 9929
+        url_poster: https://theposterdb.com/api/assets/226167
+                                                
+    "The Twelve Tasks of Asterix (1976)":
+        year: 1976
+        title: "Asterix 12 stordåd"
+        match:
+          mapping_id: 9385
+        url_poster: https://theposterdb.com/api/assets/226168
+                                                
+    "Asterix vs. Caesar (1985)":
+        year: 1985
+        title: "Asterix: Gallernas hjälte"
+        match:
+          mapping_id: 8868
+        url_poster: https://theposterdb.com/api/assets/226169
+                                                        
+    "Asterix in Britain (1986)":
+        year: 1986
+        title: "Asterix och britterna"
+        match:
+          mapping_id: 9318
+        url_poster: https://theposterdb.com/api/assets/226170
+                                                        
+    "Asterix and the Big Fight (1989)":
+        year: 1989
+        title: "Asterix: Bautastenssmällen"
+        match:
+          mapping_id: 11625
+        url_poster: https://theposterdb.com/api/assets/226171
+                                                        
+    "Asterix Conquers America (1994)":
+        year: 1994
+        title: "Asterix i Amerika"
+        match:
+          mapping_id: 9369
+        url_poster: https://theposterdb.com/api/assets/226172
+                                                        
+    "Asterix and the Vikings (2006)":
+        year: 2006
+        title: "Asterix och vikingarna"
+        match:
+          mapping_id: 9642
+        url_poster: https://theposterdb.com/api/assets/226173
+                                                                
+    "Asterix: The Mansions of the Gods (2014)":
+        year: 2014
+        title: "Asterix - Gudarnas hemvist"
+        match:
+          mapping_id: 170522
+        url_poster: https://theposterdb.com/api/assets/226174
+                                                                
+    "Asterix: The Secret of the Magic Potion (2018)":
+        year: 2018
+        title: "Astérix: Den magiska drycken"
+        match:
+          mapping_id: 527729
+        url_poster: https://theposterdb.com/api/assets/226175
+                                                                
+    "Astérix at the Olympic Games (2008)":
+        year: 2008
+        title: "Asterix på olympiaden"
+        match:
+          mapping_id: 2395
+        url_poster: https://theposterdb.com/api/assets/239269
+                                                                
+    "Asterix & Obelix Take on Caesar (1999)":
+        year: 1999
+        title: "Astérix & Obelix möter Caesar"
+        match:
+          mapping_id: 9564
+        url_poster: https://theposterdb.com/api/assets/239267
+                                                                        
+    "Asterix & Obelix: Mission Cleopatra (2002)":
+        year: 2002
+        title: "Astérix & Obélix - uppdrag Kleopatra"
+        match:
+          mapping_id: 2899
+        url_poster: https://theposterdb.com/api/assets/239268
+                                                                        
+    "Asterix & Obelix: God Save Britannia (2012)":
+        year: 2012
+        1990title: "Asterix & Obelix och britterna"
+        match:
+          mapping_id: 99770
+        url_poster: https://theposterdb.com/api/assets/239270
+                                                                        
+    "Asterix & Obelix: The Middle Kingdom (2023)":
+        year: 2023
+        title: "Asterix & Obelix: I Drakens rike"
+        match:
+          mapping_id: 643215
+        url_poster: https://theposterdb.com/api/assets/362236
+                                                                        
+    "Family Guy Presents: It's a Trap! (2010)":
+        year: 2010
+        title: "It's a Trap!"
+        match:
+          mapping_id: 278427
+        url_poster: https://theposterdb.com/api/assets/192397
+                                                                        
+    "Family Guy Presents: Something, Something, Something, Dark Side (2009)":
+        year: 2009
+        title: "Something, Something, Something, Dark Side"
+        match:
+          mapping_id: 625651
+        url_poster: https://theposterdb.com/api/assets/192396
+                                                                        
+    "Family Guy Presents: Blue Harvest (2008)":
+        year: 2008
+        title: "Blue Harvest"
+        match:
+          mapping_id: 653528
+        url_poster: https://theposterdb.com/api/assets/192395
+                                                                        
+    "Dances with Wolves (1990)":
+        year: 1990
+        title: "Dances with Wolves"
+        match:
+          mapping_id: 581
+        url_poster: https://theposterdb.com/api/assets/184392                                                             
+                                                                        
+    "Land of Bad (2024)":
+        year: 2024
+        title: "Land of Bad"
+        match:
+          mapping_id: 969492
+        url_poster: https://theposterdb.com/api/assets/445749
+                                                                  
+    "A Beautiful Day in the Neighborhood (2019)":
+        year: 2019
+        title: "A Beautiful Day in the Neighborhood"
+        match:
+          mapping_id: 501907
+        url_poster: https://theposterdb.com/api/assets/195345
+                                                                               
+    "Beverly Hills Cop (1984)":
+        year: 1984
+        title: "Beverly Hills Cop"
+        match:
+          mapping_id: 90
+        url_poster: https://theposterdb.com/api/assets/190693
+                                                                               
+    "Beverly Hills Cop II (1987)":
+        year: 1987
+        title: "Beverly Hills Cop II"
+        match:
+          mapping_id: 96
+        url_poster: https://theposterdb.com/api/assets/190694
+                                                                               
+    "Beverly Hills Cop III (1994)":
+        year: 1994
+        title: "Beverly Hills Cop III"
+        match:
+          mapping_id: 306
+        url_poster: https://theposterdb.com/api/assets/190695
+                                                                               
+    "Legends of the Fall (1994)":
+        year: 1994
+        title: "Legends of the Fall"
+        match:
+          mapping_id: 4476
+        url_poster: https://theposterdb.com/api/assets/219244
+                                                                               
+    "Unthinkable (2010)":
+        year: 2010
+        title: "Unthinkable"
+        match:
+          mapping_id: 38199
+        url_poster: https://theposterdb.com/api/assets/213115
+                                                                               
+    "No Way Up (2024)":
+        year: 2024
+        title: "No Way Up"
+        match:
+          mapping_id: 1096197
+        url_poster: https://theposterdb.com/api/assets/450589
+                                                                               
+    "War of the Worlds: The Attack (2023)":
+        year: 2023
+        title: "War of the Worlds: The Attack"
+        match:
+          mapping_id: 1103825
+        url_poster: https://theposterdb.com/api/assets/366799
+                                                                               
+    "The Tomorrow War (2021)":
+        year: 2021
+        title: "The Tomorrow War"
+        match:
+          mapping_id: 588228
+        url_poster: https://theposterdb.com/api/assets/183796
+                                                                               
+    "Strange Way of Life (2023)":
+        year: 2023
+        title: "Strange Way of Life"
+        match:
+          mapping_id: 963765
+        url_poster: https://theposterdb.com/api/assets/417944
+                                                                               
+    "A Million Ways to Die in the West (2014)":
+        year: 2014
+        title: "A Million Ways to Die in the West"
+        match:
+          mapping_id: 188161
+        url_poster: https://theposterdb.com/api/assets/205659
+                                                                               
+    "Forever Young (1992)":
+        year: 1992
+        title: "Forever Young"
+        match:
+          mapping_id: 10326
+        url_poster: https://theposterdb.com/api/assets/211918
+                                                                               
+    "Ransom (1996)":
+        year: 1996
+        title: "Ransom"
+        match:
+          mapping_id: 3595
+        url_poster: https://theposterdb.com/api/assets/220199
+                                                                               
+    "What Women Want (2000)":
+        year: 2000
+        title: "What Women Want"
+        match:
+          mapping_id: 3981
+        url_poster: https://theposterdb.com/api/assets/218002
+                                                                               
+    "Poor Things (2023)":
+        year: 2023
+        title: "Poor Things"
+        match:
+          mapping_id: 792307
+        url_poster: https://theposterdb.com/api/assets/442732
+                                                                                           
+    "The Postcard Killings (2020)":
+        year: 2020
+        title: "The Postcard Killings"
+        match:
+          mapping_id: 449756
+        url_poster: https://theposterdb.com/api/assets/198464
+                                                                                           
+    "American Fiction (2023)":
+        year: 2023
+        title: "American Fiction"
+        match:
+          mapping_id: 1056360
+        url_poster: https://theposterdb.com/api/assets/442734
+                                                                                           
+    "Fritz the Cat (1972)":
+        year: 1972
+        title: "Fritz the Cat"
+        match:
+          mapping_id: 12593
+        url_poster: https://theposterdb.com/api/assets/201210
+                                                                                           
+    "The Nine Lives of Fritz the Cat (1974)":
+        year: 1974
+        title: "The Nine Lives of Fritz the Cat"
+        match:
+          mapping_id: 14683
+        url_poster: https://theposterdb.com/api/assets/310827
+                                                                                           
+    "Dogtooth (2009)":
+        year: 2009
+        title: "Dogtooth"
+        match:
+          mapping_id: 38810
+        url_poster: https://theposterdb.com/api/assets/213446
+                                                                                           
+    "Tropic Thunder (2008)":
+        year: 2008
+        title: "Tropic Thunder"
+        match:
+          mapping_id: 7446
+        url_poster: https://theposterdb.com/api/assets/213888
+                                                                                           
+    "Old Dads (2023)":
+        year: 2023
+        title: "Old Dads"
+        match:
+          mapping_id: 987917
+        url_poster: https://theposterdb.com/api/assets/423426
+                                                                                           
+    "The Conference (2023)":
+        year: 2023
+        title: "Konferensen"
+        match:
+          mapping_id: 1161048
+        url_poster: https://theposterdb.com/api/assets/424956
+                                                                                           
+    "Saturday Night Fever (1977)":
+        year: 1977
+        title: "Saturday Night Fever"
+        match:
+          mapping_id: 11009
+        url_poster: https://theposterdb.com/api/assets/189576
+                                                                                           
+    "Suicide Squad (2016)":
+        year: 2016
+        title: "Suicide Squad"
+        match:
+          mapping_id: 297761
+        url_poster: https://theposterdb.com/api/assets/371777
+                                                                                           
+    "Playing with Fire (2019)":
+        year: 2019
+        title: "Playing with Fire"
+        match:
+          mapping_id: 554241
+        url_poster: https://theposterdb.com/api/assets/230770
+                                                                                           
+    "The Marine (2006)":
+        year: 2006
+        title: "The Marine"
+        match:
+          mapping_id: 8975
+        url_poster: https://theposterdb.com/api/assets/418318
+                                                                                           
+    "The Marine 2 (2009)":
+        year: 2009
+        title: "The Marine 2"
+        match:
+          mapping_id: 27310
+        url_poster: https://theposterdb.com/api/assets/418319
+                                                                                           
+    "The Marine 3: Homefront (2013)":
+        year: 2013
+        title: "The Marine 3: Homefront"
+        match:
+          mapping_id: 171581
+        url_poster: https://theposterdb.com/api/assets/418320
+                                                                                           
+    "The Marine 4: Moving Target (2015)":
+        year: 2015
+        title: "The Marine 4: Moving Target"
+        match:
+          mapping_id: 329540
+        url_poster: https://theposterdb.com/api/assets/418321
+                                                                                           
+    "The Marine 5: Battleground (2017)":
+        year: 2017
+        title: "The Marine 5: Battleground"
+        match:
+          mapping_id: 445993
+        url_poster: https://theposterdb.com/api/assets/418322
+                                                                                           
+    "The Marine 6: Close Quarters (2018)":
+        year: 2018
+        title: "The Marine 6: Close Quarters"
+        match:
+          mapping_id: 548928
+        url_poster: https://theposterdb.com/api/assets/418323
+                                                                                           
+    "12 Rounds (2009)":
+        year: 2009
+        title: "12 Rounds"
+        match:
+          mapping_id: 17134
+        url_poster: https://theposterdb.com/api/assets/321324
+                                                                                                   
+    "12 Rounds 2: Reloaded (2013)":
+        year: 2013
+        title: "12 Rounds 2: Reloaded"
+        match:
+          mapping_id: 195269
+        url_poster: https://theposterdb.com/api/assets/321325
+                                                                                                   
+    "12 Rounds 3: Lockdown (2015)":
+        year: 2015
+        title: "12 Rounds 3: Lockdown"
+        match:
+          mapping_id: 351901
+        url_poster: https://theposterdb.com/api/assets/321326
+                                                                                                   
+    "Wild Wild West (1999)":
+        year: 1999
+        title: "Wild Wild West"
+        match:
+          mapping_id: 8487
+        url_poster: https://theposterdb.com/api/assets/212369
+                                                                                                   
+    "The Suicide Squad (2021)":
+        year: 2021
+        title: "The Suicide Squad"
+        match:
+          mapping_id: 436969
+        url_poster: https://theposterdb.com/api/assets/371785
+                                                                                                   
+    "Dolittle (2020)":
+        year: 2020
+        title: "Dolittle"
+        match:
+          mapping_id: 448119
+        url_poster: https://theposterdb.com/api/assets/174120
+                                                                                                   
+    "Daddy's Home (2015)":
+        year: 2015
+        title: "Daddy's Home"
+        match:
+          mapping_id: 274167
+        url_poster: https://theposterdb.com/api/assets/189958
+                                                                                                                    
+    "Daddy's Home 2 (2017)":
+        year: 2017
+        title: "Daddy's Home 2"
+        match:
+          mapping_id: 419680
+        url_poster: https://theposterdb.com/api/assets/189959
+                                                                                                                    
+    "Trainwreck (2015)":
+        year: 2015
+        title: "Trainwreck"
+        match:
+          mapping_id: 271718
+        url_poster: https://theposterdb.com/api/assets/204874
+                                                                                                                    
+    "Sisters (2015)":
+        year: 2015
+        title: "Sisters"
+        match:
+          mapping_id: 266294
+        url_poster: https://theposterdb.com/api/assets/204847
+                                                                                                                    
+    "Fighting with My Family (2019)":
+        year: 2019
+        title: "Fighting with My Family"
+        match:
+          mapping_id: 445629
+        url_poster: https://theposterdb.com/api/assets/230748
+                                                                                                                    
+    "The Independent (2022)":
+        year: 2022
+        title: "The Independent"
+        match:
+          mapping_id: 878183
+        url_poster: https://theposterdb.com/api/assets/433510
+                                                                                                                    
+    "Blockers (2018)":
+        year: 2018
+        title: "Blockers"
+        match:
+          mapping_id: 437557
+        url_poster: https://theposterdb.com/api/assets/200524
+                                                                                                                                
+    "Code 8 (2019)":
+        year: 2019
+        title: "Code 8"
+        match:
+          mapping_id: 461130
+        url_poster: https://theposterdb.com/api/assets/273284
+  
+    "Contact (1997)":
+        year: 1997
+        title: "Contact"
+        match:
+          mapping_id: 686
+        url_poster: https://theposterdb.com/api/assets/186800
+    
+    "Billy Elliot (2000)":
+        year: 2000
+        title: "Billy Elliot"
+        match:
+          mapping_id: 71
+        url_poster: https://theposterdb.com/api/assets/189557
+                                                                                                                                
+    "Wonka (2023)":
+        year: 2023
+        title: "Wonka"
+        match:
+          mapping_id: 787699
+        url_poster: https://theposterdb.com/api/assets/421312
+                                                                                                                                
+    "Beerfest (2006)":
+        year: 2006
+        title: "Beerfest"
+        match:
+          mapping_id: 9988
+        url_poster: https://theposterdb.com/api/assets/402317
+                                                                                                                                
+    "Freeloaders (2012)":
+        year: 2012
+        title: "Freeloaders"
+        match:
+          mapping_id: 121147
+        url_poster: https://theposterdb.com/api/assets/234924
 
+    "The Wonderful Story of Henry Sugar (2023)":
+        year: 2023
+        title: "The Wonderful Story of Henry Sugar"
+        match:
+          mapping_id: 923939
+        url_poster: https://theposterdb.com/api/assets/414931
+
+    "Club Dread (2004)":
+        year: 2004
+        title: "Club Dread"
+        match:
+          mapping_id: 11217
+        url_poster: https://theposterdb.com/api/assets/402316
+
+    "The Marvels (2023)":
+        year: 2023
+        title: "The Marvels"
+        match:
+          mapping_id: 609681
+        url_poster: https://theposterdb.com/api/assets/417961
+
+    "Tinker Tailor Soldier Spy (2011)":
+        year: 2011
+        title: "Tinker Tailor Soldier Spy"
+        match:
+          mapping_id: 49517
+        url_poster: https://theposterdb.com/api/assets/195608
+
+    "Locke (2014)":
+        year: 2014
+        title: "Locke"
+        match:
+          mapping_id: 210479
+        url_poster: https://theposterdb.com/api/assets/205647
+
+    "Legend (2015)":
+        year: 2015
+        title: "Legend"
+        match:
+          mapping_id: 276907
+        url_poster: https://theposterdb.com/api/assets/202223
+
+    "Valerian and the City of a Thousand Planets (20017)":
+        year: 2017
+        title: "Valerian and the City of a Thousand Planets"
+        match:
+          mapping_id: 339964
+        url_poster: https://theposterdb.com/api/assets/184325
+
+    "Resident Evil: Damnation (2012)":
+        year: 2012
+        title: "Resident Evil: Damnation"
+        match:
+          mapping_id: 133121
+        url_poster: https://theposterdb.com/api/assets/317191
+
+    "Resident Evil: Degeneration (2008)":
+        year: 2008
+        title: "Resident Evil: Degeneration"
+        match:
+          mapping_id: 13648
+        url_poster: https://theposterdb.com/api/assets/317190
+
+    "Biohazard 4: Incubate (2006)":
+        year: 2006
+        title: "xxx"
+        match:
+          mapping_id: 497467
+        url_poster: https://theposterdb.com/api/assets/448164
+
+    "Life of Pi (2012)":
+        year: 2012
+        title: "Life of Pi"
+        match:
+          mapping_id: 87827
+        url_poster: https://theposterdb.com/api/assets/187545
+
+    "Joker (2019)":
+        year: 2019
+        title: "Joker"
+        match:
+          mapping_id: 475557
+        url_poster: https://theposterdb.com/api/assets/371827
+
+    "The Last Emperor (1987)":
+        year: 1987
+        title: "The Last Emperor"
+        match:
+          mapping_id: 746
+        url_poster: https://theposterdb.com/api/assets/184622
+
+    "Crouching Tiger Hidden Dragon (2000)":
+        year: 2000
+        title: "Crouching Tiger Hidden Dragon"
+        match:
+          mapping_id: 146
+        url_poster: https://theposterdb.com/api/assets/202131
+
+    "Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)":
+        year: 2016
+        title: "Crouching Tiger, Hidden Dragon: Sword of Destiny"
+        match:
+          mapping_id: 263341
+        url_poster: https://theposterdb.com/api/assets/202132
+
+    "The Divergent Series: Insurgent (2015)":
+        year: 2015
+        title: "Insurgent"
+        match:
+          mapping_id: 262500
+        url_poster: https://theposterdb.com/api/assets/184370
+
+    "Divergent (2014)":
+        year: 2014
+        title: "Divergent"
+        match:
+          mapping_id: 157350
+        url_poster: https://theposterdb.com/api/assets/184369
+
+    "Napoleon (2023)":
+        year: 2023
+        title: "Napoleon"
+        match:
+          mapping_id: 753342
+        url_poster: https://theposterdb.com/api/assets/421197
+
+    "Ride On (2023)":
+        year: 2023
+        title: "Ride On"
+        match:
+          mapping_id: 931102
+        url_poster: https://theposterdb.com/api/assets/383753
+
+    "Lebanon (2009)":
+        year: 2009
+        title: "Lebanon"
+        match:
+          mapping_id: 32084
+        url_poster: https://theposterdb.com/api/assets/415141
+
+    "Saving Private Ryan (1998)":
+        year: 1998
+        title: "Saving Private Ryan"
+        match:
+          mapping_id: 857
+        url_poster: https://theposterdb.com/api/assets/179233
+
+    "T-34 (2018)":
+        year: 2018
+        title: "T-34"
+        match:
+          mapping_id: 505954
+        url_poster: https://theposterdb.com/api/assets/432022
+
+    "The Call of the Wild (2020)":
+        year: 2020
+        title: "The Call of the Wild"
+        match:
+          mapping_id: 481848
+        url_poster: https://theposterdb.com/api/assets/173727
+
+    "Allegiant (2016)":
+        year: 2016
+        title: "Allegiant"
+        match:
+          mapping_id: 262504
+        url_poster: https://theposterdb.com/api/assets/184371
+
+    "Moonfall (2022)":
+        year: 2022
+        title: "Moonfall"
+        match:
+          mapping_id: 406759
+        url_poster: https://theposterdb.com/api/assets/226044
+
+    "Bitconned (2024)":
+        year: 2024
+        title: "Bitconned"
+        match:
+          mapping_id: 1213997
+        url_poster: https://theposterdb.com/api/assets/449843
+
+    "The Hitman's Bodyguard (2017)":
+        year: 2017
+        title: "The Hitman's Bodyguard"
+        match:
+          mapping_id: 390043
+        url_poster: https://theposterdb.com/api/assets/173429
+
+    "Hitman's Wife's Bodyguard (2021)":
+        year: 2021
+        title: "Hitman's Wife's Bodyguard"
+        match:
+          mapping_id: 522931
+        url_poster: https://theposterdb.com/api/assets/173430
+
+    "Pet Sematary (2019)":
+        year: 2019
+        title: "Pet Sematary"
+        match:
+          mapping_id: 157433
+        url_poster: https://theposterdb.com/api/assets/328508
+
+    "One More Shot (2023)":
+        year: 2023
+        title: "One More Shot"
+        match:
+          mapping_id: 1214314
+        #url_poster: xxxxxx
+
+    "Role Play (2024)":
+        year: 2024
+        title: "Role Play"
+        match:
+          mapping_id: 848187
+        url_poster: https://theposterdb.com/api/assets/450622
+
+    "Trolls 3 (2023)":
+        year: 2023
+        title: "Trolls 3"
+        match:
+          mapping_id: 901362
+        url_poster: https://theposterdb.com/api/assets/417962
+
+    "Monster High: Tystnad, tagning, vampyraction! (2014)":
+        year: 2014
+        title: "Monster High: Tystnad, tagning, vampyraction!"
+        match:
+          mapping_id: 260234
+        url_poster: https://theposterdb.com/api/assets/232727
+
+    "Paper Towns (2015)":
+        year: 2015
+        title: "Paper Towns"
+        match:
+          mapping_id: 286565
+        url_poster: https://theposterdb.com/api/assets/357815
+
+    "Colombiana (2011)":
+        year: 2011
+        title: "Colombiana"
+        match:
+          mapping_id: 62835
+        url_poster: https://theposterdb.com/api/assets/210149
+
+    "Önskan (2023)":
+        year: 2023
+        title: "Önskan"
+        match:
+          mapping_id: 1022796
+        url_poster: https://theposterdb.com/api/assets/434510
+
+    "The Upside (2019)":
+        year: 2019
+        title: "The Upside"
+        match:
+          mapping_id: 440472
+        url_poster: https://theposterdb.com/api/assets/198907
+
+    "From the Ashes (2024)":
+        year: 2024
+        title: "From the Ashes"
+        match:
+          mapping_id: 1191876
+        #url_poster: https://theposterdb.com/api/assets/198907
+
+    "Code 8: Part II (2024)":
+        year: 2024
+        title: "Code 8: Part II"
+        match:
+          mapping_id: 932420
+        #url_poster: https://theposterdb.com/api/assets/198907

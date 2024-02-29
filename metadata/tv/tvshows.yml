@@ -860,26 +860,26 @@ metadata:
     "Star Wars: The Clone Wars (2008)":
         year: 2008
         title: "Star Wars: The Clone Wars"
-        url_poster: https://theposterdb.com/api/assets/328779
+        url_poster: https://theposterdb.com/api/assets/225828
         match:
           mapping_id: 83268
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/244766
             1:
-                url_poster: https://theposterdb.com/api/assets/244783
+                url_poster: https://theposterdb.com/api/assets/225836
             2:
-                url_poster: https://theposterdb.com/api/assets/244768
+                url_poster: https://theposterdb.com/api/assets/225837
             3:
-                url_poster: https://theposterdb.com/api/assets/244769
+                url_poster: https://theposterdb.com/api/assets/225838
             4:
-                url_poster: https://theposterdb.com/api/assets/244786
+                url_poster: https://theposterdb.com/api/assets/225839
             5:
-                url_poster: https://theposterdb.com/api/assets/244787
+                url_poster: https://theposterdb.com/api/assets/225840
             6:
-                url_poster: https://theposterdb.com/api/assets/244788
+                url_poster: https://theposterdb.com/api/assets/225841
             7:
-                url_poster: https://theposterdb.com/api/assets/244789
+                url_poster: https://theposterdb.com/api/assets/225842
 
 #####################################################################
 #                                                                   #
@@ -2603,6 +2603,238 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
+#                         Star Wars: Ewoks (1985)                   #
+#                                                                   #
+#####################################################################
+    "Star Wars: Ewoks (1985)":
+        year: 1985
+        title: "Star Wars: Ewoks"
+        url_poster: https://theposterdb.com/api/assets/174490
+        match:
+          mapping_id: 73697
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/319813
+            2:
+                url_poster: https://theposterdb.com/api/assets/319814
+                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Star Wars: Droids (1985)                  #
+#                                                                   #
+#####################################################################
+    "Star Wars: Droids (1985)":
+        year: 1985
+        title: "Star Wars: Droids"
+        url_poster: https://theposterdb.com/api/assets/174477
+        match:
+          mapping_id: 70399
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/225847
+            1:
+                url_poster: https://theposterdb.com/api/assets/225848
+                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Tales of the Jedi (2022)                  #
+#                                                                   #
+#####################################################################
+    "Tales of the Jedi (2022)":
+        year: 2022
+        title: "Star Wars: Tales of the Jedi"
+        url_poster: https://theposterdb.com/api/assets/282026
+        match:
+          mapping_id: 420659
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/282027
+
+                                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Star Wars: The Bad Batch (2021)           #
+#                                                                   #
+#####################################################################
+    "Star Wars: The Bad Batch (2021)":
+        year: 2021
+        title: "Star Wars: The Bad Batch"
+        url_poster: https://theposterdb.com/api/assets/174478
+        match:
+          mapping_id: 385376
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/225823
+            2:
+                url_poster: https://theposterdb.com/api/assets/306015
+                                                                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Star Wars: Forces of Destiny (2017)       #
+#                                                                   #
+#####################################################################
+    "Star Wars: Forces of Destiny (2017)":
+        year: 2017
+        title: "Star Wars: Forces of Destiny"
+        url_poster: https://theposterdb.com/api/assets/174488
+        match:
+          mapping_id: 330710
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/319815
+            1:
+                url_poster: https://theposterdb.com/api/assets/319816
+            2:
+                url_poster: https://theposterdb.com/api/assets/319817
+        
+                                                                                
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
+#                         Family Guy (1999)                         #
+#                                                                   #
+#####################################################################
+    "Family Guy (1999)":
+        year: 1999
+        title: "Family Guy"
+        url_poster: https://theposterdb.com/api/assets/242058
+        match:
+          mapping_id: 75978
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/242036
+            1:
+                url_poster: https://theposterdb.com/api/assets/242037
+            2:
+                url_poster: https://theposterdb.com/api/assets/242038
+            3:
+                url_poster: https://theposterdb.com/api/assets/242039
+            4:
+                url_poster: https://theposterdb.com/api/assets/242040
+            5:
+                url_poster: https://theposterdb.com/api/assets/242041
+            6:
+                url_poster: https://theposterdb.com/api/assets/242042
+            7:
+                url_poster: https://theposterdb.com/api/assets/242043
+            8:
+                url_poster: https://theposterdb.com/api/assets/242044
+            9:
+                url_poster: https://theposterdb.com/api/assets/242045
+            10:
+                url_poster: https://theposterdb.com/api/assets/242046
+            11:
+                url_poster: https://theposterdb.com/api/assets/242047        
+            12:
+                url_poster: https://theposterdb.com/api/assets/242048
+            13:
+                url_poster: https://theposterdb.com/api/assets/242049
+            14:
+                url_poster: https://theposterdb.com/api/assets/242050
+            15:
+                url_poster: https://theposterdb.com/api/assets/242051
+            16:
+                url_poster: https://theposterdb.com/api/assets/242052
+            17:
+                url_poster: https://theposterdb.com/api/assets/242053
+            18:
+                url_poster: https://theposterdb.com/api/assets/242054
+            19:
+                url_poster: https://theposterdb.com/api/assets/242055
+            20:
+                url_poster: https://theposterdb.com/api/assets/242056
+            21:
+                url_poster: https://theposterdb.com/api/assets/242057      
+            22:
+                url_poster: https://theposterdb.com/api/assets/425040
+                                           
+#####################################################################
+#                                                                   #
+#                 Avatar: The Last Airbender                        #
+#           Avatar: The Last Airbender (2024)                       #
+#                                                                   #
+#####################################################################
+    "Avatar: The Last Airbender (2024)":
+        year: 2024
+        title: "Avatar: The Last Airbender"
+        url_poster: https://theposterdb.com/api/assets/450978
+        match:
+          mapping_id: 385925
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/450979
+
+#####################################################################
+#                                                                   #
+#                           Constellation                           #
+#                         Constellation (2024)                      #
+#                                                                   #
+#####################################################################
+    "Constellation (2024)":
+        year: 2024
+        title: "Constellation"
+        url_poster: https://theposterdb.com/api/assets/451192
+        match:
+          mapping_id: 418727
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/451193
+
+#####################################################################
+#                                                                   #
+#                           Dexter                                  #
+#                         Dexter (2006)                             #
+#                                                                   #
+#####################################################################
+    "Dexter (Dexter)":
+        year: 2006
+        title: "Dexter"
+        url_poster: https://theposterdb.com/api/assets/243523
+        match:
+          mapping_id: 79349
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/243524    
+            1:
+                url_poster: https://theposterdb.com/api/assets/243525
+            2:
+                url_poster: https://theposterdb.com/api/assets/243526
+            3:
+                url_poster: https://theposterdb.com/api/assets/243527
+            4:
+                url_poster: https://theposterdb.com/api/assets/243528
+            5:
+                url_poster: https://theposterdb.com/api/assets/243529
+            6:
+                url_poster: https://theposterdb.com/api/assets/243530
+            7:
+                url_poster: https://theposterdb.com/api/assets/243531
+            8:
+                url_poster: https://theposterdb.com/api/assets/243532
+     
+#####################################################################
+#                                                                   #
+#                           Dexter: New Blood                       #
+#                         Dexter: New Blood (2021)                  #
+#                                                                   #
+#####################################################################
+    "Dexter: New Blood (2021)":
+        year: 2021
+        title: "Dexter: New Blood"
+        url_poster: https://theposterdb.com/api/assets/243533
+        match:
+          mapping_id: 412366
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/243534   
+     
+#####################################################################
+#                                                                   #
+#                           TV-Show                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -2634,4 +2866,6 @@ metadata:
             10:
                 url_poster: xxxx
             11:
-                url_poster: xxxxx
+                url_poster: xxxxx        
+
+                
