@@ -2830,11 +2830,27 @@ metadata:
           mapping_id: 412366
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/243534   
-     
+                url_poster: https://theposterdb.com/api/assets/243534 
+
 #####################################################################
 #                                                                   #
-#                           TV-Show                                 #
+#                        Masters of the Air                         #
+#                   Masters of the Air (2024)                       #
+#                                                                   #
+#####################################################################
+    "Masters of the Air (2024)":
+        year: 2024
+        title: "Masters of the Air"
+        url_poster: https://theposterdb.com/api/assets/456151
+        match:
+          mapping_id: 370853
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/456152
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
