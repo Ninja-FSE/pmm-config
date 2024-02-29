@@ -2868,6 +2868,24 @@ metadata:
                 
 #####################################################################
 #                                                                   #
+#                           Resident Alien                          #
+#                         Resident Alien (2021)                     #
+#                                                                   #
+#####################################################################
+    "Resident Alien (2021)":
+        year: 2021
+        title: "Resident Alien"
+        url_poster: https://theposterdb.com/api/assets/348288
+        match:
+          mapping_id: 368166
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/348289
+            2:
+                url_poster: https://theposterdb.com/api/assets/348290
+                              
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
