@@ -6239,9 +6239,16 @@ metadata:
           mapping_id: 932420
         #url_poster: https://theposterdb.com/api/assets/198907
   
+    "Captain Marvel (2019)":
+        year: 2019
+        title: "Captain Marvel"
+        match:
+          mapping_id: 299537
+        url_poster: https://theposterdb.com/api/assets/383320  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
         match:
           mapping_id: xxx
-        url_poster: xxxxxx
+        url_poster: xxxxxx  
