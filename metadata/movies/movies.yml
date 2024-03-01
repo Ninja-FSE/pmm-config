@@ -6260,6 +6260,13 @@ metadata:
           mapping_id: 20526
         url_poster: https://theposterdb.com/api/assets/400987  
 
+    "Vanguard (2020)":
+        year: 2020
+        title: "Vanguard"
+        match:
+          mapping_id: 604822
+        url_poster: https://theposterdb.com/api/assets/198493  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
