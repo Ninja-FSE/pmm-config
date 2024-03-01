@@ -6246,6 +6246,20 @@ metadata:
           mapping_id: 299537
         url_poster: https://theposterdb.com/api/assets/383320  
 
+    "Tron (1982)":
+        year: 1982
+        title: "Tron"
+        match:
+          mapping_id: 97
+        url_poster: https://theposterdb.com/api/assets/400986  
+
+    "TRON: Legacy (2010)":
+        year: 2010
+        title: "TRON: Legacy"
+        match:
+          mapping_id: 20526
+        url_poster: https://theposterdb.com/api/assets/400987  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
