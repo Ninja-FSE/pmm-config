@@ -2940,6 +2940,30 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           12 monkeys                              #
+#                         12 monkeys (2015)                         #
+#                                                                   #
+#####################################################################
+    "12 monkeys (2015)":
+        year: 2015
+        title: "12 monkeys"
+        url_poster: https://theposterdb.com/api/assets/458303
+        match:
+          mapping_id: 272644
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/458304
+            1:
+                url_poster: https://theposterdb.com/api/assets/458305
+            2:
+                url_poster: https://theposterdb.com/api/assets/458306
+            3:
+                url_poster: https://theposterdb.com/api/assets/458307
+            4:
+                url_poster: https://theposterdb.com/api/assets/458308     
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
