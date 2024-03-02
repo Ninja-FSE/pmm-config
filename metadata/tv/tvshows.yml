@@ -2966,6 +2966,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Echo                                    #
+#                         Echo (2024)                               #
+#                                                                   #
+#####################################################################
+    "Echo (2024)":
+        year: 2024
+        title: "Echo"
+        url_poster: https://theposterdb.com/api/assets/452496
+        match:
+          mapping_id: 412431
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/452497
+   
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
