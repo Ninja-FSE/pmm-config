@@ -5165,7 +5165,14 @@ metadata:
         title: "Kung Fu Panda 3"
         match:
           mapping_id: 140300
-        url_poster: https://theposterdb.com/api/assets/190816
+        url_poster: https://theposterdb.com/api/assets/190816  
+
+    "Kung Fu Panda 4 (2024)":
+        year: 2024
+        title: "Kung Fu Panda 4"
+        match:
+          mapping_id: 1011985
+        url_poster: https://theposterdb.com/api/assets/459238
                                                                                                                                                                                         
     "The Bad Guys (2022)":
         year: 2022
