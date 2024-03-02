@@ -6267,6 +6267,13 @@ metadata:
           mapping_id: 604822
         url_poster: https://theposterdb.com/api/assets/198493  
 
+    "Twelve Monkeys (1995)":
+        year: 1995
+        title: "Twelve Monkeys"
+        match:
+          mapping_id: 63
+        url_poster: https://theposterdb.com/api/assets/186792  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
