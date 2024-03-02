@@ -6333,6 +6333,13 @@ metadata:
           mapping_id: 34751
         url_poster: https://theposterdb.com/api/assets/174524  
 
+    "The Tiger's Apprentice (2024)":
+        year: 2024
+        title: "The Tiger's Apprentice"
+        match:
+          mapping_id: 598387
+        url_poster: https://theposterdb.com/api/assets/461086  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
