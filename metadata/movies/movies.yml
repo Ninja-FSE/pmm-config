@@ -6281,6 +6281,13 @@ metadata:
           mapping_id: 63
         url_poster: https://theposterdb.com/api/assets/186792  
 
+    "Pets United (2019)":
+        year: 2019
+        title: "Pets United"
+        match:
+          mapping_id: 638134
+        url_poster: https://theposterdb.com/api/assets/249354  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
