@@ -6311,28 +6311,24 @@ metadata:
 
     "Free Willy (1993)":
         year: 1993
-        title: "Free Willy"
         match:
           mapping_id: 1634
         url_poster: https://theposterdb.com/api/assets/174521  
 
     "Free Willy 2: The Adventure Home (1995)":
         year: 1995
-        title: "Free Willy 2: The Adventure Home"
         match:
           mapping_id: 9073
         url_poster: https://theposterdb.com/api/assets/174522  
 
     "Free Willy 3: The Rescue (1997)":
         year: 1997
-        title: "Free Willy 3: The Rescue"
         match:
           mapping_id: 18519
         url_poster: https://theposterdb.com/api/assets/174523
 
     "Free Willy: Escape from Pirate's Cove (2010)":
         year: 2010
-        title: "Free Willy: Escape from Pirate's Cove"
         match:
           mapping_id: 34751
         url_poster: https://theposterdb.com/api/assets/174524  
