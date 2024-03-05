@@ -6347,6 +6347,13 @@ metadata:
           mapping_id: 895959
         url_poster: https://theposterdb.com/api/assets/462667  
 
+    "Argylle (2024)":
+        year: 2024
+        title: "Argylle"
+        match:
+          mapping_id: 848538
+        url_poster: https://theposterdb.com/api/assets/442727  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
