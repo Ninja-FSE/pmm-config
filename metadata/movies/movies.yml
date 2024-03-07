@@ -6361,6 +6361,13 @@ metadata:
           mapping_id: 1022690
         url_poster: https://theposterdb.com/api/assets/464139  
 
+    "Patch Adams (1998)":
+        year: 1998
+        title: "Patch Adams"
+        match:
+          mapping_id: 10312
+        url_poster: https://theposterdb.com/api/assets/220043  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
