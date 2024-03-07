@@ -6354,6 +6354,13 @@ metadata:
           mapping_id: 848538
         url_poster: https://theposterdb.com/api/assets/442727  
 
+    "Ricky Stanicky (2024)":
+        year: 2024
+        title: "Ricky Stanicky"
+        match:
+          mapping_id: 1022690
+        url_poster: https://theposterdb.com/api/assets/464139  
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxx"
