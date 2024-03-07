@@ -3006,6 +3006,22 @@ metadata:
      
 #####################################################################
 #                                                                   #
+#                           Fallout                                 #
+#                         Fallout (2024)                            #
+#                                                                   #
+#####################################################################
+    "Fallout (2024)":
+        year: 2024
+        title: "Fallout"
+        url_poster: https://theposterdb.com/api/assets/439687
+        match:
+          mapping_id: 416744
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/439688
+                      
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
