@@ -397,6 +397,8 @@ metadata:
         match:
           mapping_id: 366524
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/225844        
             1:
                 url_poster: https://theposterdb.com/api/assets/225845
             2:
