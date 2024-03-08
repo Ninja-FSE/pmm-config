@@ -6368,9 +6368,38 @@ metadata:
           mapping_id: 10312
         url_poster: https://theposterdb.com/api/assets/220043  
 
-    "xxxxx (xxxx)":
-        year: xxxx
-        title: "xxx"
+    "Teen Wolf: The Movie (2023)":
+        year: 2023
+        title: "Teen Wolf: The Movie"
         match:
-          mapping_id: xxx
-        url_poster: xxxxxx  
+          mapping_id: 877703
+        url_poster: https://theposterdb.com/api/assets/313391
+
+    "Johan Falk: Blodsdiamanter (2015)":
+        year: 2015
+        title: "Johan Falk: Blodsdiamanter"
+        match:
+          mapping_id: 341190
+        #url_poster: https://theposterdb.com/api/assets/313391
+
+    "Lights Out (2024)":
+        year: 2024
+        title: "Lights Out"
+        match:
+          mapping_id: 931642
+        url_poster: https://theposterdb.com/api/assets/464071
+
+    "The Sperpent (2021)":
+        year: 2021
+        title: "The Serpent"
+        match:
+          mapping_id: 504148
+        url_poster: https://theposterdb.com/api/assets/449610
+
+    "One More Shot (2024)":
+        year: 2024
+        title: "One More Shot"
+        match:
+          mapping_id: 1214314
+        url_poster: https://theposterdb.com/api/assets/464064
+
