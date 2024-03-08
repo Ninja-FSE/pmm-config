@@ -6403,6 +6403,13 @@ metadata:
           mapping_id: 1214314
         url_poster: https://theposterdb.com/api/assets/464064
 
+    "Ogifta par ...en film som skiljer sig (1997)":
+        year: 1997
+        title: "Ogifta par ...en film som skiljer sig"
+        match:
+          mapping_id: 53106
+        url_poster: https://theposterdb.com/api/assets/464533
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
