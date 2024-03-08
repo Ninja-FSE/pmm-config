@@ -6410,6 +6410,13 @@ metadata:
           mapping_id: 53106
         url_poster: https://theposterdb.com/api/assets/464533
 
+    "Täydellinen joulu (2019)":
+        year: 2019
+        title: "Täydellinen joulu"
+        match:
+          mapping_id: 632131
+        url_poster: https://theposterdb.com/api/assets/464537
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
