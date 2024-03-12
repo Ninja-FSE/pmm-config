@@ -6417,6 +6417,20 @@ metadata:
           mapping_id: 632131
         url_poster: https://theposterdb.com/api/assets/464537
 
+    "Shaft (2000)":
+        year: 2000
+        title: "Shaft"
+        match:
+          mapping_id: 479
+        url_poster: https://theposterdb.com/api/assets/198856
+
+    "Shaft (2019)":
+        year: 2019
+        title: "Shaft"
+        match:
+          mapping_id: 486131
+        url_poster: https://theposterdb.com/api/assets/198857
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
