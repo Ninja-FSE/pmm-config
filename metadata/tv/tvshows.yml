@@ -3022,6 +3022,22 @@ metadata:
                       
 #####################################################################
 #                                                                   #
+#                           Based on a True Story                   #
+#                         Based on a True Story (2023)              #
+#                                                                   #
+#####################################################################
+    "Based on a True Story (2023)":
+        year: 2023
+        title: "Based on a True Story"
+        url_poster: https://theposterdb.com/api/assets/373564
+        match:
+          mapping_id: 418934
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/373565
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
