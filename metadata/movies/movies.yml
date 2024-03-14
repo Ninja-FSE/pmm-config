@@ -6431,6 +6431,13 @@ metadata:
           mapping_id: 486131
         url_poster: https://theposterdb.com/api/assets/198857
 
+    "Léon: The Professional (1994)":
+        year: 1994
+        title: "Léon: The Professional"
+        match:
+          mapping_id: 101
+        url_poster: https://theposterdb.com/api/assets/219245
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
