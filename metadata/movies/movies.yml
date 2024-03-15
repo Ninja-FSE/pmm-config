@@ -6438,6 +6438,34 @@ metadata:
           mapping_id: 101
         url_poster: https://theposterdb.com/api/assets/219245
 
+    "The A-Team (2010)":
+        year: 2010
+        title: "The A-Team"
+        match:
+          mapping_id: 34544
+        url_poster: https://theposterdb.com/api/assets/203189
+
+    "Green Zone (2010)":
+        year: 2010
+        title: "Green Zone"
+        match:
+          mapping_id: 22972
+        url_poster: https://theposterdb.com/api/assets/195591
+
+    "Renegades (2017)":
+        year: 2017
+        title: "Renegades"
+        match:
+          mapping_id: 335788
+        url_poster: https://theposterdb.com/api/assets/195332
+
+    "Upgrade (2018)":
+        year: 2018
+        title: "Upgrade"
+        match:
+          mapping_id: 500664
+        url_poster: https://theposterdb.com/api/assets/184008
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
