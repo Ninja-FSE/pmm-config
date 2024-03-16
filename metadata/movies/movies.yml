@@ -1750,14 +1750,14 @@ metadata:
         year: 2018
         title: "A Quiet Place"
         match:
-          mapping_id: 758323
+          mapping_id: 447332
         url_poster: https://theposterdb.com/api/assets/173413
 
     "A Quiet Place Part II (2021)":
         year: 2021
         title: "A Quiet Place Part II"
         match:
-          mapping_id: 758323
+          mapping_id: 520763
         url_poster: https://theposterdb.com/api/assets/173414
 
     "Abigail (2019)":
@@ -1853,7 +1853,7 @@ metadata:
         title: "Aquaman and the Lost Kingdom"
         match:
           mapping_id: 572802
-        url_poster: https://theposterdb.com/api/assets/171548
+        url_poster: https://theposterdb.com/api/assets/446482
 
     "Austin Powers in Goldmember (2002)":
         year: 2002
@@ -3423,7 +3423,7 @@ metadata:
         title: "The Little Mermaid"
         match:
           mapping_id: 447277
-        url_poster: https://theposterdb.com/api/assets/416197
+        url_poster: https://theposterdb.com/api/assets/362521
 
     "The Machine (2023)":
         year: 2023
@@ -4318,7 +4318,7 @@ metadata:
         title: "Ett sista race"
         match:
           mapping_id: 1135894
-        url_poster: https://theposterdb.com/api/assets/447478 
+        url_poster: https://theposterdb.com/api/assets/447478
 
     "Race for Glory: Audi vs. Lancia (2024)":
         year: 2024
@@ -5165,7 +5165,14 @@ metadata:
         title: "Kung Fu Panda 3"
         match:
           mapping_id: 140300
-        url_poster: https://theposterdb.com/api/assets/190816
+        url_poster: https://theposterdb.com/api/assets/190816  
+
+    "Kung Fu Panda 4 (2024)":
+        year: 2024
+        title: "Kung Fu Panda 4"
+        match:
+          mapping_id: 1011985
+        url_poster: https://theposterdb.com/api/assets/459238
                                                                                                                                                                                         
     "The Bad Guys (2022)":
         year: 2022
@@ -6162,6 +6169,13 @@ metadata:
           mapping_id: 157433
         url_poster: https://theposterdb.com/api/assets/328508
 
+    "Lucy (2014)":
+        year: 2014
+        title: "Lucy"
+        match:
+          mapping_id: 240832
+        url_poster: https://theposterdb.com/api/assets/205654
+        
     "One More Shot (2023)":
         year: 2023
         title: "One More Shot"
@@ -6230,4 +6244,232 @@ metadata:
         title: "Code 8: Part II"
         match:
           mapping_id: 932420
-        #url_poster: https://theposterdb.com/api/assets/198907
+        url_poster: https://theposterdb.com/api/assets/462671
+  
+    "Captain Marvel (2019)":
+        year: 2019
+        title: "Captain Marvel"
+        match:
+          mapping_id: 299537
+        url_poster: https://theposterdb.com/api/assets/383320  
+
+    "Tron (1982)":
+        year: 1982
+        title: "Tron"
+        match:
+          mapping_id: 97
+        url_poster: https://theposterdb.com/api/assets/400986  
+
+    "TRON: Legacy (2010)":
+        year: 2010
+        title: "TRON: Legacy"
+        match:
+          mapping_id: 20526
+        url_poster: https://theposterdb.com/api/assets/400987  
+
+    "Vanguard (2020)":
+        year: 2020
+        title: "Vanguard"
+        match:
+          mapping_id: 604822
+        url_poster: https://theposterdb.com/api/assets/198493  
+
+    "Twelve Monkeys (1995)":
+        year: 1995
+        title: "12 Monkeys"
+        match:
+          mapping_id: 63
+        url_poster: https://theposterdb.com/api/assets/186792  
+
+    "Pets United (2019)":
+        year: 2019
+        title: "Pets United"
+        match:
+          mapping_id: 638134
+        url_poster: https://theposterdb.com/api/assets/249354  
+
+    "Migration (2023)":
+        year: 2023
+        title: "Migration"
+        match:
+          mapping_id: 940551
+        url_poster: https://theposterdb.com/api/assets/451066  
+
+    "Damsel (2024)":
+        year: 2024
+        title: "Damsel"
+        match:
+          mapping_id: 763215
+        url_poster: https://theposterdb.com/api/assets/442728  
+
+    "Under the Boardwalk (2023)":
+        year: 2023
+        title: "Under the Boardwalk"
+        match:
+          mapping_id: 609271
+        url_poster: https://theposterdb.com/api/assets/428804  
+
+    "Free Willy (1993)":
+        year: 1993
+        match:
+          mapping_id: 1634
+        url_poster: https://theposterdb.com/api/assets/174521  
+
+    "Free Willy 2: The Adventure Home (1995)":
+        year: 1995
+        match:
+          mapping_id: 9073
+        url_poster: https://theposterdb.com/api/assets/174522  
+
+    "Free Willy 3: The Rescue (1997)":
+        year: 1997
+        match:
+          mapping_id: 18519
+        url_poster: https://theposterdb.com/api/assets/174523
+
+    "Free Willy: Escape from Pirate's Cove (2010)":
+        year: 2010
+        match:
+          mapping_id: 34751
+        url_poster: https://theposterdb.com/api/assets/174524  
+
+    "The Tiger's Apprentice (2024)":
+        year: 2024
+        title: "The Tiger's Apprentice"
+        match:
+          mapping_id: 598387
+        url_poster: https://theposterdb.com/api/assets/461086  
+
+    "Float (2024)":
+        year: Float
+        title: "Float"
+        match:
+          mapping_id: 895959
+        url_poster: https://theposterdb.com/api/assets/462667  
+
+    "Argylle (2024)":
+        year: 2024
+        title: "Argylle"
+        match:
+          mapping_id: 848538
+        url_poster: https://theposterdb.com/api/assets/442727  
+
+    "Ricky Stanicky (2024)":
+        year: 2024
+        title: "Ricky Stanicky"
+        match:
+          mapping_id: 1022690
+        url_poster: https://theposterdb.com/api/assets/464139  
+
+    "Patch Adams (1998)":
+        year: 1998
+        title: "Patch Adams"
+        match:
+          mapping_id: 10312
+        url_poster: https://theposterdb.com/api/assets/220043  
+
+    "Teen Wolf: The Movie (2023)":
+        year: 2023
+        title: "Teen Wolf: The Movie"
+        match:
+          mapping_id: 877703
+        url_poster: https://theposterdb.com/api/assets/313391
+
+    "Johan Falk: Blodsdiamanter (2015)":
+        year: 2015
+        title: "Johan Falk: Blodsdiamanter"
+        match:
+          mapping_id: 341190
+        #url_poster: https://theposterdb.com/api/assets/313391
+
+    "Lights Out (2024)":
+        year: 2024
+        title: "Lights Out"
+        match:
+          mapping_id: 931642
+        url_poster: https://theposterdb.com/api/assets/464071
+
+    "The Serpent (2021)":
+        year: 2021
+        title: "The Serpent"
+        match:
+          mapping_id: 504148
+        url_poster: https://theposterdb.com/api/assets/449610
+
+    "One More Shot (2024)":
+        year: 2024
+        title: "One More Shot"
+        match:
+          mapping_id: 1214314
+        url_poster: https://theposterdb.com/api/assets/464064
+
+    "Ogifta par ...en film som skiljer sig (1997)":
+        year: 1997
+        title: "Ogifta par ...en film som skiljer sig"
+        match:
+          mapping_id: 53106
+        url_poster: https://theposterdb.com/api/assets/464533
+
+    "Täydellinen joulu (2019)":
+        year: 2019
+        title: "Täydellinen joulu"
+        match:
+          mapping_id: 632131
+        url_poster: https://theposterdb.com/api/assets/464537
+
+    "Shaft (2000)":
+        year: 2000
+        title: "Shaft"
+        match:
+          mapping_id: 479
+        url_poster: https://theposterdb.com/api/assets/198856
+
+    "Shaft (2019)":
+        year: 2019
+        title: "Shaft"
+        match:
+          mapping_id: 486131
+        url_poster: https://theposterdb.com/api/assets/198857
+
+    "Léon: The Professional (1994)":
+        year: 1994
+        title: "Léon: The Professional"
+        match:
+          mapping_id: 101
+        url_poster: https://theposterdb.com/api/assets/219245
+
+    "The A-Team (2010)":
+        year: 2010
+        title: "The A-Team"
+        match:
+          mapping_id: 34544
+        url_poster: https://theposterdb.com/api/assets/203189
+
+    "Green Zone (2010)":
+        year: 2010
+        title: "Green Zone"
+        match:
+          mapping_id: 22972
+        url_poster: https://theposterdb.com/api/assets/195591
+
+    "Renegades (2017)":
+        year: 2017
+        title: "Renegades"
+        match:
+          mapping_id: 335788
+        url_poster: https://theposterdb.com/api/assets/195332
+
+    "Upgrade (2018)":
+        year: 2018
+        title: "Upgrade"
+        match:
+          mapping_id: 500664
+        url_poster: https://theposterdb.com/api/assets/184008
+
+    "xxxxx (xxxx)":
+        year: xxxx
+        title: "xxxxx"
+        match:
+          mapping_id: xxxxx
+        url_poster: xxxxx
+
