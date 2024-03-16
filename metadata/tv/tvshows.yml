@@ -3038,6 +3038,24 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Manhunt                                 #
+#                         Manhunt (2024)                              #
+#                                                                   #
+#####################################################################
+    "Manhunt (2024)":
+        year: 2024
+        title: "Manhunt"
+        url_poster: https://theposterdb.com/api/assets/467677
+        match:
+          mapping_id: 414337
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/467678        
+            1:
+                url_poster: https://theposterdb.com/api/assets/467679
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
