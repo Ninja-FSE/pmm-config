@@ -6480,6 +6480,13 @@ metadata:
           mapping_id: 27732
         url_poster: https://theposterdb.com/api/assets/204199
 
+    "The Zone of Interest (2023)":
+        year: 2023
+        title: "The Zone of Interest"
+        match:
+          mapping_id: 467244
+        url_poster: https://theposterdb.com/api/assets/442736
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
