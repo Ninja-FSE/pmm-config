@@ -6487,6 +6487,13 @@ metadata:
           mapping_id: 467244
         url_poster: https://theposterdb.com/api/assets/442736
 
+    "Godzilla x Kong: The New Empire (2024)":
+        year: 2024
+        title: "Godzilla x Kong: The New Empire"
+        match:
+          mapping_id: 823464
+        url_poster: https://theposterdb.com/api/assets/468836
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
