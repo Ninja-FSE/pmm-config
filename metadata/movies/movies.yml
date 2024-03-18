@@ -6466,6 +6466,20 @@ metadata:
           mapping_id: 500664
         url_poster: https://theposterdb.com/api/assets/184008
 
+    "Road House (1989)":
+        year: 1989
+        title: "Road House"
+        match:
+          mapping_id: 10135
+        url_poster: https://theposterdb.com/api/assets/204193
+
+    "Road House 2: Last Call (2006)":
+        year: 2006
+        title: "Road House 2: Last Call"
+        match:
+          mapping_id: 27732
+        url_poster: https://theposterdb.com/api/assets/204199
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
