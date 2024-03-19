@@ -6494,6 +6494,13 @@ metadata:
           mapping_id: 823464
         url_poster: https://theposterdb.com/api/assets/468836
 
+    "Bob Marley: One Love (2024)":
+        year: 2024
+        title: "Bob Marley: One Love"
+        match:
+          mapping_id: 802219
+        url_poster: https://theposterdb.com/api/assets/450411
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
