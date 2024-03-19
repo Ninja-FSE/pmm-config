@@ -3056,6 +3056,24 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Alaska Daily                            #
+#                         Alaska Daily (2022)                       #
+#                                                                   #
+#####################################################################
+    "Alaska Daily (2022)":
+        year: 2022
+        title: "Alaska Daily"
+        url_poster: https://theposterdb.com/api/assets/469083
+        match:
+          mapping_id: 420107
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/469084
+            1:
+                url_poster: https://theposterdb.com/api/assets/469085
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
