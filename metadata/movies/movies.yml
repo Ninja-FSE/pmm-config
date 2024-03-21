@@ -6501,6 +6501,13 @@ metadata:
           mapping_id: 802219
         url_poster: https://theposterdb.com/api/assets/450411
 
+    "Road House (2024)":
+        year: 2024
+        title: "Road House"
+        match:
+          mapping_id: 359410
+        url_poster: https://theposterdb.com/api/assets/470676
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
