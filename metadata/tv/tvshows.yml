@@ -3074,6 +3074,24 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           3 Body Problem                                 #
+#                         3 Body Problem (2024)                              #
+#                                                                   #
+#####################################################################
+    "xxxx (2024)":
+        year: 20024
+        title: "3 Body Problem"
+        url_poster: https://theposterdb.com/api/assets/468334
+        match:
+          mapping_id: 411959
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/468335
+            1:
+                url_poster: https://theposterdb.com/api/assets/468336  
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
