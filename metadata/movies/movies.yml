@@ -6515,6 +6515,13 @@ metadata:
           mapping_id: 1230888
         url_poster: https://theposterdb.com/api/assets/470807
 
+    "The Bloody Hundredth (2024)":
+        year: 2024
+        title: "The Bloody Hundredth"
+        match:
+          mapping_id: 1251636
+        url_poster: https://theposterdb.com/api/assets/471283
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
