@@ -3092,6 +3092,30 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           heroes                                 #
+#                         heroes (2006)                              #
+#                                                                   #
+#####################################################################
+    "heroes (2006)":
+        year: 2006
+        title: "heroes"
+        url_poster: https://theposterdb.com/api/assets/362897
+        match:
+          mapping_id: 79501
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/362898
+            1:
+                url_poster: https://theposterdb.com/api/assets/362899
+            2:
+                url_poster: https://theposterdb.com/api/assets/362900
+            3:
+                url_poster: https://theposterdb.com/api/assets/362901
+            4:
+                url_poster: https://theposterdb.com/api/assets/362902
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
