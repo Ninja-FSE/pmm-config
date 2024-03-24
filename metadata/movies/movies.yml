@@ -6522,6 +6522,13 @@ metadata:
           mapping_id: 1251636
         url_poster: https://theposterdb.com/api/assets/471283
 
+    "Adam Sandler: 100% Fresh (2018)":
+        year: 2018
+        title: "Adam Sandler: 100% Fresh"
+        match:
+          mapping_id: 517596
+        url_poster: https://theposterdb.com/api/assets/472337
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
