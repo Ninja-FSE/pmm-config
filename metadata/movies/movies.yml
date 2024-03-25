@@ -6529,6 +6529,13 @@ metadata:
           mapping_id: 517596
         url_poster: https://theposterdb.com/api/assets/472337
 
+    "Barb Wire (1996)":
+        year: 1996
+        title: "Barb Wire"
+        match:
+          mapping_id: 11867
+        url_poster: https://theposterdb.com/api/assets/171819
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
