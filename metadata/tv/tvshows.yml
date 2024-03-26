@@ -3116,6 +3116,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Ghosts of Beirut                                 #
+#                         Ghosts of Beirut (2023)                              #
+#                                                                   #
+#####################################################################
+    "Ghosts of Beirut (2023)":
+        year: 2023
+        title: "Ghosts of Beirut"
+        url_poster: https://theposterdb.com/api/assets/472751
+        match:
+          mapping_id: 433353
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/472752   
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
