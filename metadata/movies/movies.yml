@@ -6536,6 +6536,20 @@ metadata:
           mapping_id: 11867
         url_poster: https://theposterdb.com/api/assets/171819
 
+    "Ordinary Angels (2024)":
+        year: 2024
+        title: "Ordinary Angels"
+        match:
+          mapping_id: 974036
+        url_poster: https://theposterdb.com/api/assets/450595
+
+    "Imaginary (2024)":
+        year: 2024
+        title: "Imaginary"
+        match:
+          mapping_id: 1125311
+        url_poster: https://theposterdb.com/api/assets/473454
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
