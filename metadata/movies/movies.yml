@@ -6550,6 +6550,13 @@ metadata:
           mapping_id: 1125311
         url_poster: https://theposterdb.com/api/assets/473454
 
+    "Madame Web (2024)":
+        year: 2024
+        title: "Madame Web"
+        match:
+          mapping_id: 634492
+        url_poster: https://theposterdb.com/api/assets/442731
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
