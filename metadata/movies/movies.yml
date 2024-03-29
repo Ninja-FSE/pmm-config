@@ -6557,6 +6557,13 @@ metadata:
           mapping_id: 634492
         url_poster: https://theposterdb.com/api/assets/442731
 
+    "Alien: Romulus (2024)":
+        year: 2024
+        title: "Alien: Romulus"
+        match:
+          mapping_id: 945961
+        url_poster: https://theposterdb.com/api/assets/475047
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
