@@ -6564,6 +6564,48 @@ metadata:
           mapping_id: 945961
         url_poster: https://theposterdb.com/api/assets/475047
 
+    "The Eagle (2011)":
+        year: 2011
+        title: "The Eagle"
+        match:
+          mapping_id: 49494
+        url_poster: https://theposterdb.com/api/assets/195587
+
+    "22 Jump Street (2014)":
+        year: 2014
+        title: "xxx22 Jump Streetxx"
+        match:
+          mapping_id: 187017
+        url_poster: https://theposterdb.com/api/assets/200158
+
+    "21 Jump Street (2012)":
+        year: 2012
+        title: "21 Jump Street"
+        match:
+          mapping_id: 64688
+        url_poster: https://theposterdb.com/api/assets/200157
+
+    "coach carter (2005)":
+        year: 2005
+        title: "coach carter"
+        match:
+          mapping_id: 7214
+        url_poster: https://theposterdb.com/api/assets/230739
+
+    "Dear John (2010)":
+        year: 2010
+        title: "Dear John"
+        match:
+          mapping_id: 22971
+        url_poster: https://theposterdb.com/api/assets/213033
+
+    "The Dilemma (2011)":
+        year: 2011
+        title: "The Dilemma"
+        match:
+          mapping_id: 44564
+        url_poster: https://theposterdb.com/api/assets/235728
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
