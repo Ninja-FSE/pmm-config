@@ -6606,6 +6606,13 @@ metadata:
           mapping_id: 44564
         url_poster: https://theposterdb.com/api/assets/235728
 
+    "From Paris With Love (2010)":
+        year: 2010
+        title: "From Paris With Love"
+        match:
+          mapping_id: 26389
+        url_poster: https://theposterdb.com/api/assets/212181
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
