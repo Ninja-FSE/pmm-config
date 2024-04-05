@@ -6613,6 +6613,13 @@ metadata:
           mapping_id: 26389
         url_poster: https://theposterdb.com/api/assets/212181
 
+    "Joker: Folie à Deux (2024)":
+        year: 2024
+        title: "Joker: Folie à Deux"
+        match:
+          mapping_id: 889737
+        url_poster: https://theposterdb.com/api/assets/477507
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
