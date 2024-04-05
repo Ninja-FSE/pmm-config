@@ -3132,6 +3132,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Knuckles                                 #
+#                         Knuckles (2024)                              #
+#                                                                   #
+#####################################################################
+    "Knuckles (2024)":
+        year: 2024
+        title: "Knuckles"
+        url_poster: https://theposterdb.com/api/assets/477748
+        match:
+          mapping_id: 417393
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/477749
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
