@@ -6634,6 +6634,13 @@ metadata:
           mapping_id: 253412
         url_poster: https://theposterdb.com/api/assets/188741
 
+    "The Girl on the Train (2016)":
+        year: 2016
+        title: "The Girl on the Train"
+        match:
+          mapping_id: 346685
+        url_poster: https://theposterdb.com/api/assets/217104
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
