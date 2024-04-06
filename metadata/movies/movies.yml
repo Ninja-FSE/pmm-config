@@ -6620,6 +6620,13 @@ metadata:
           mapping_id: 889737
         url_poster: https://theposterdb.com/api/assets/477507
 
+    "Life (2017)":
+        year: 2017
+        title: "Life"
+        match:
+          mapping_id: 395992
+        url_poster: https://theposterdb.com/api/assets/178851
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
