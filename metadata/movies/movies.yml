@@ -6662,6 +6662,34 @@ metadata:
           mapping_id: 940721
         url_poster: https://theposterdb.com/api/assets/439716
 
+    "G.I. Joe: Retaliation (2013)":
+        year: 2013
+        title: "G.I. Joe: Retaliation"
+        match:
+          mapping_id: 72559
+        url_poster: https://theposterdb.com/api/assets/172041
+
+    "Bullet Train (2022)":
+        year: 2022
+        title: "Bullet Train"
+        match:
+          mapping_id: 718930
+        url_poster: https://theposterdb.com/api/assets/269722
+
+    "G.I. Joe: The Rise of Cobra (2009)":
+        year: 2009
+        title: "G.I. Joe: The Rise of Cobra"
+        match:
+          mapping_id: 14869
+        url_poster: https://theposterdb.com/api/assets/172040
+
+    "Snake Eyes: G.I. Joe Origins (2021)":
+        year: 2021
+        title: "Snake Eyes: G.I. Joe Origins"
+        match:
+          mapping_id: 568620
+        url_poster: https://theposterdb.com/api/assets/172042
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
