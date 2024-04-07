@@ -6655,6 +6655,13 @@ metadata:
           mapping_id: 845111
         url_poster: https://theposterdb.com/api/assets/467551
 
+    "Godzilla Minus One (2023)":
+        year: 2023
+        title: "Godzilla Minus One"
+        match:
+          mapping_id: 940721
+        url_poster: https://theposterdb.com/api/assets/439716
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
