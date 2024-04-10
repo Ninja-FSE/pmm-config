@@ -6697,6 +6697,13 @@ metadata:
           mapping_id: 978592
         url_poster: https://theposterdb.com/api/assets/479960
 
+    "Rebel Moon - Part Two: The Scargiver (2024)":
+        year: 2024
+        title: "Rebel Moon - Part Two: The Scargiver"
+        match:
+          mapping_id: 934632
+        url_poster: https://theposterdb.com/api/assets/480393
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
