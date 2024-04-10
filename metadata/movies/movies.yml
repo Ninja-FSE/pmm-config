@@ -6704,6 +6704,13 @@ metadata:
           mapping_id: 934632
         url_poster: https://theposterdb.com/api/assets/480393
 
+    "Breathe (2024)":
+        year: 2024
+        title: "Breathe"
+        match:
+          mapping_id: 720321
+        url_poster: https://theposterdb.com/api/assets/480372
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
