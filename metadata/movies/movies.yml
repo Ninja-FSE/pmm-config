@@ -6711,6 +6711,13 @@ metadata:
           mapping_id: 720321
         url_poster: https://theposterdb.com/api/assets/480372
 
+    "Damaged (2024)":
+        year: 2024
+        title: "Damaged"
+        match:
+          mapping_id: 1105407
+        url_poster: https://theposterdb.com/api/assets/481554
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
