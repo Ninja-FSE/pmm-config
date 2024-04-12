@@ -6725,6 +6725,13 @@ metadata:
           mapping_id: 1239146
         url_poster: https://theposterdb.com/api/assets/481545
 
+    "Hachiko (2023)":
+        year: 2023
+        title: "Hachiko"
+        match:
+          mapping_id: 1107387
+        url_poster: https://theposterdb.com/api/assets/481506
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
