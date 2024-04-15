@@ -3154,6 +3154,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           The Sympathizer                                 #
+#                         The Sympathizer (2024)                              #
+#                                                                   #
+#####################################################################
+    "The Sympathizer (2024)":
+        year: 2024
+        title: "The Sympathizer"
+        url_poster: https://theposterdb.com/api/assets/482122
+        match:
+          mapping_id: 406620
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/482123
+     
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
