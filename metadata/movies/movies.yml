@@ -6746,6 +6746,34 @@ metadata:
           mapping_id: 3638
         url_poster: https://theposterdb.com/api/assets/216234
 
+    "Sweet Dreams (2024)":
+        year: 2024
+        title: "Sweet Dreams"
+        match:
+          mapping_id: 1062421
+        url_poster: https://theposterdb.com/api/assets/483288
+
+    "The Girl Who Escaped: The Kara Robinson Story (2023)":
+        year: 2023
+        title: "The Girl Who Escaped: The Kara Robinson Story"
+        match:
+          mapping_id: 1075334
+        url_poster: https://theposterdb.com/api/assets/323928
+
+    "Baghead (2023)":
+        year: 2023
+        title: "Baghead"
+        match:
+          mapping_id: 845783
+        url_poster: https://theposterdb.com/api/assets/482032
+
+    "Immaculate (2024)":
+        year: 2024
+        title: "Immaculate"
+        match:
+          mapping_id: xxx1041613xx
+        url_poster: https://theposterdb.com/api/assets/477164
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxx"
