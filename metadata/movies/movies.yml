@@ -6774,6 +6774,13 @@ metadata:
           mapping_id: 1041613
         url_poster: https://theposterdb.com/api/assets/477164
 
+    "Jerry & Marge Go Large (2022)":
+        year: 2022
+        title: "Jerry & Marge Go Large"
+        match:
+          mapping_id: 843847
+        url_poster: https://theposterdb.com/api/assets/245862
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
