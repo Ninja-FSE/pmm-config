@@ -6781,6 +6781,20 @@ metadata:
           mapping_id: 843847
         url_poster: https://theposterdb.com/api/assets/245862
 
+    "12 Strong (2018)":
+        year: 2018
+        title: "12 Strong"
+        match:
+          mapping_id: 429351
+        url_poster: https://theposterdb.com/api/assets/195272
+        
+    "The Hummingbird Project (2019)":
+        year: 2019
+        title: "The Hummingbird Project"
+        match:
+          mapping_id: 489243
+        url_poster: https://theposterdb.com/api/assets/376187
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
