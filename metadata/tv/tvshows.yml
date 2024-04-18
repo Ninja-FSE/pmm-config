@@ -3208,6 +3208,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Bonde söker fru - Jorden runt                                 #
+#                         Bonde söker fru - Jorden runt (2021)                              #
+#                                                                   #
+#####################################################################
+    "Bonde söker fru - Jorden runt (2021)":
+        year: 2021
+        title: "Bonde söker fru - Jorden runt"
+        url_poster: https://artworks.thetvdb.com/banners/v4/series/448655/posters/6613aa4321f81.jpg
+        match:
+          mapping_id: 448655
+        seasons:
+            1:
+                url_poster: https://artworks.thetvdb.com/banners/v4/series/448655/posters/66138064b3a0e.jpg
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
