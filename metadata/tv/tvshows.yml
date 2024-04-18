@@ -3192,6 +3192,22 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Conan O'Brien Must Go                                 #
+#                         Conan O'Brien Must Go (2024)                              #
+#                                                                   #
+#####################################################################
+    "Conan O'Brien Must Go (2024)":
+        year: 2024
+        title: "Conan O'Brien Must Go"
+        url_poster: https://theposterdb.com/api/assets/479837
+        match:
+          mapping_id: 435035
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/479838
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
