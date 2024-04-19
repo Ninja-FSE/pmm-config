@@ -6795,6 +6795,27 @@ metadata:
           mapping_id: 489243
         url_poster: https://theposterdb.com/api/assets/376187
         
+    "Crocodile Dundee (1986)":
+        year: 1986
+        title: "Crocodile Dundee"
+        match:
+          mapping_id: 9671
+        url_poster: https://theposterdb.com/api/assets/194015
+        
+    "Crocodile Dundee II (1988)":
+        year: 1988
+        title: "Crocodile Dundee II"
+        match:
+          mapping_id: 9396
+        url_poster: https://theposterdb.com/api/assets/194016
+        
+    "Crocodile Dundee in Los Angeles (2001)":
+        year: 2001
+        title: "Crocodile Dundee in Los Angeles"
+        match:
+          mapping_id: 9290
+        url_poster: https://theposterdb.com/api/assets/194017
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
