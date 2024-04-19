@@ -6816,6 +6816,13 @@ metadata:
           mapping_id: 9290
         url_poster: https://theposterdb.com/api/assets/194017
         
+    "Asphalt City (2024)":
+        year: 2024
+        title: "Asphalt City"
+        match:
+          mapping_id: 628922
+        url_poster: https://theposterdb.com/api/assets/484099
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
