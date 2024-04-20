@@ -6837,6 +6837,13 @@ metadata:
           mapping_id: 88005
         url_poster: https://theposterdb.com/api/assets/209459   
 
+    "Minority Report (2002)":
+        year: 2002
+        title: "Minority Report"
+        match:
+          mapping_id: 180
+        url_poster: https://theposterdb.com/api/assets/179235
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
