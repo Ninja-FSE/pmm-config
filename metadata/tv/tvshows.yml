@@ -3224,6 +3224,25 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Franklin                                 #
+#                         Franklin (2024)                              #
+#                                                                   #
+#####################################################################
+    "Franklin (2024)":
+        year: 2024
+        title: "Franklin"
+        url_poster: https://theposterdb.com/api/assets/481308
+        match:
+          mapping_id: 417280
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/481309
+            1:
+                url_poster: https://theposterdb.com/api/assets/481310
+   
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
