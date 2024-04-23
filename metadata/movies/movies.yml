@@ -6844,6 +6844,13 @@ metadata:
           mapping_id: 180
         url_poster: https://theposterdb.com/api/assets/179235
 
+    "Transformers One (2024)":
+        year: 2024
+        title: "Transformers One"
+        match:
+          mapping_id: 698687
+        url_poster: https://theposterdb.com/api/assets/485081
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
