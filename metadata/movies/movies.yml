@@ -6851,6 +6851,13 @@ metadata:
           mapping_id: 698687
         url_poster: https://theposterdb.com/api/assets/485081
 
+    "Arcadian (2024)":
+        year: 2024
+        title: "Arcadian"
+        match:
+          mapping_id: 1051896
+        url_poster: https://theposterdb.com/api/assets/481872
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
