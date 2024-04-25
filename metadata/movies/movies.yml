@@ -6865,6 +6865,13 @@ metadata:
           mapping_id: 10316
         url_poster: https://theposterdb.com/api/assets/210182
 
+    "Haywire (2011)":
+        year: 2011
+        title: "Haywire"
+        match:
+          mapping_id: 70435
+        url_poster: https://theposterdb.com/api/assets/209416
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
