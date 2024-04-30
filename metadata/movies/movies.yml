@@ -6872,6 +6872,14 @@ metadata:
           mapping_id: 70435
         url_poster: https://theposterdb.com/api/assets/209416
 
+    "The Long Game (2024)":
+        year: 2024
+        title: "The Long Game"
+        match:
+          mapping_id: 1079810
+        url_poster: https://theposterdb.com/api/assets/487315
+
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
