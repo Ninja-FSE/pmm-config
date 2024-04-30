@@ -3243,6 +3243,36 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Silicon Valley                                 #
+#                         Silicon Valley (2014)                              #
+#                                                                   #
+#####################################################################
+    "Silicon Valley (2014)":
+        year: 2014
+        title: "Silicon Valley"
+        url_poster: https://theposterdb.com/api/assets/333029
+        match:
+          mapping_id: 277165
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/333030
+            1:
+                url_poster: https://theposterdb.com/api/assets/333031
+            2:
+                url_poster: https://theposterdb.com/api/assets/333032
+            3:
+                url_poster: https://theposterdb.com/api/assets/333033
+            4:
+                url_poster: https://theposterdb.com/api/assets/333034
+            5:
+                url_poster: https://theposterdb.com/api/assets/333035
+            6:
+                url_poster: https://theposterdb.com/api/assets/333036
+
+   
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
