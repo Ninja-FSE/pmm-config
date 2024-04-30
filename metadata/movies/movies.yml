@@ -6879,6 +6879,12 @@ metadata:
           mapping_id: 1079810
         url_poster: https://theposterdb.com/api/assets/487315
 
+    "Demolition (2016)":
+        year: 2016
+        title: "Demolition"
+        match:
+          mapping_id: 303991
+        url_poster: https://theposterdb.com/api/assets/202134
 
     "xxxxx (xxxx)":
         year: xxxx
