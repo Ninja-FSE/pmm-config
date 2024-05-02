@@ -6886,6 +6886,13 @@ metadata:
           mapping_id: 303991
         url_poster: https://theposterdb.com/api/assets/202134
 
+    "The Idea of You (2024)":
+        year: 2024
+        title: "The Idea of You"
+        match:
+          mapping_id: 843527
+        url_poster: https://theposterdb.com/api/assets/488230
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
