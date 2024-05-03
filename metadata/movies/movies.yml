@@ -6900,6 +6900,20 @@ metadata:
           mapping_id: 74
         url_poster: https://theposterdb.com/api/assets/245649
 
+    "Twister (1996)":
+        year: 1996
+        title: "Twister"
+        match:
+          mapping_id: 664
+        url_poster: https://theposterdb.com/api/assets/175453
+
+    "Twisters (2024)":
+        year: 2024
+        title: "Twisters"
+        match:
+          mapping_id: 718821
+        url_poster: https://theposterdb.com/api/assets/481876
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
