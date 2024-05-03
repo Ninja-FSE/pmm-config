@@ -6893,6 +6893,13 @@ metadata:
           mapping_id: 843527
         url_poster: https://theposterdb.com/api/assets/488230
 
+    "War of the Worlds (2005)":
+        year: 2005
+        title: "War of the Worlds"
+        match:
+          mapping_id: 74
+        url_poster: https://theposterdb.com/api/assets/245649
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
