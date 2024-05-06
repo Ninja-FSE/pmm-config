@@ -6921,6 +6921,13 @@ metadata:
           mapping_id: 844185
         url_poster: https://theposterdb.com/api/assets/488773
 
+    "White Bird (2024)":
+        year: 2024
+        title: "White Bird"
+        match:
+          mapping_id: 779816
+        url_poster: https://theposterdb.com/api/assets/483905
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
