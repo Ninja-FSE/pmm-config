@@ -3271,8 +3271,24 @@ metadata:
             6:
                 url_poster: https://theposterdb.com/api/assets/333036
 
-   
-
+#####################################################################
+#                                                                   #
+#                           The Tattooist of Auschwitz              #
+#                         The Tattooist of Auschwitz (2024)         #
+#                                                                   #
+#####################################################################
+    "The Tattooist of Auschwitz  (2024)":
+        year: 2024
+        title: "The Tattooist of Auschwitz "
+        url_poster: https://theposterdb.com/api/assets/489410
+        match:
+          mapping_id: 433788
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/489411
+            1:
+                url_poster: https://theposterdb.com/api/assets/489412
+  
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
