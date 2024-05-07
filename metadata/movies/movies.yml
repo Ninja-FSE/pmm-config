@@ -6935,6 +6935,13 @@ metadata:
           mapping_id: 967847
         url_poster: https://theposterdb.com/api/assets/471351
 
+    "Abigail (2024)":
+        year: 2024
+        title: "Abigail"
+        match:
+          mapping_id: 1111873
+        url_poster: https://theposterdb.com/api/assets/450384
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
