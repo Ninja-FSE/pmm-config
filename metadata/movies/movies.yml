@@ -6928,6 +6928,13 @@ metadata:
           mapping_id: 779816
         url_poster: https://theposterdb.com/api/assets/483905
 
+    "Ghostbusters: Frozen Empire (2024)":
+        year: 2024
+        title: "Ghostbusters: Frozen Empire"
+        match:
+          mapping_id: 967847
+        url_poster: https://theposterdb.com/api/assets/471351
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
