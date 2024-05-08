@@ -3306,6 +3306,34 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/487509
             1:
                 url_poster: https://theposterdb.com/api/assets/487510
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Better Call Saul (2015)                              #
+#                                                                   #
+#####################################################################
+    "Better Call Saul (2015)":
+        year: 2015
+        title: "Better Call Saul"
+        url_poster: https://theposterdb.com/api/assets/229403
+        match:
+          mapping_id: 273181
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/229404
+            1:
+                url_poster: https://theposterdb.com/api/assets/229405
+            2:
+                url_poster: https://theposterdb.com/api/assets/229406
+            3:
+                url_poster: https://theposterdb.com/api/assets/229407
+            4:
+                url_poster: https://theposterdb.com/api/assets/229408
+            5:
+                url_poster: https://theposterdb.com/api/assets/229409
+            6:
+                url_poster: https://theposterdb.com/api/assets/229410                
     
 #####################################################################
 #                                                                   #
@@ -3341,6 +3369,8 @@ metadata:
             10:
                 url_poster: xxxx
             11:
-                url_poster: xxxxx        
+                url_poster: xxxxx     
+
+
 
                 
