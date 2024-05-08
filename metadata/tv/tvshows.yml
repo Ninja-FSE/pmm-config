@@ -3291,6 +3291,24 @@ metadata:
   
 #####################################################################
 #                                                                   #
+#                           Dark Matter                                 #
+#                         Dark Matter (2024)                              #
+#                                                                   #
+#####################################################################
+    "Dark Matter (2024)":
+        year: 2024
+        title: "Dark Matter"
+        url_poster: https://theposterdb.com/api/assets/487508
+        match:
+          mapping_id: 393159
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/487509
+            1:
+                url_poster: https://theposterdb.com/api/assets/487510
+    
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
