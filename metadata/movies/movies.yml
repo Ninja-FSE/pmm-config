@@ -6949,6 +6949,34 @@ metadata:
           mapping_id: 9495
         url_poster: https://theposterdb.com/api/assets/171690
 
+    "Shutter Island (2010)":
+        year: 2010
+        title: "Shutter Island"
+        match:
+          mapping_id: 11324
+        url_poster: https://theposterdb.com/api/assets/213094
+
+    "Magic Mike's Last Dance (2023)":
+        year: 2023
+        title: "Magic Mike's Last Dance"
+        match:
+          mapping_id: 906221
+        url_poster: https://theposterdb.com/api/assets/327067
+
+    "Magic Mike XXL (2015)":
+        year: 2015
+        title: "Magic Mike XXL"
+        match:
+          mapping_id: 264999
+        url_poster: https://theposterdb.com/api/assets/171945
+
+    "Magic Mike (2012)":
+        year: 2012
+        title: "Magic Mike"
+        match:
+          mapping_id: 77930
+        url_poster: https://theposterdb.com/api/assets/171944
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
