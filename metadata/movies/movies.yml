@@ -6942,6 +6942,13 @@ metadata:
           mapping_id: 1111873
         url_poster: https://theposterdb.com/api/assets/450384
 
+    "The Crow (1994)":
+        year: 1994
+        title: "The Crow"
+        match:
+          mapping_id: 9495
+        url_poster: https://theposterdb.com/api/assets/171690
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
