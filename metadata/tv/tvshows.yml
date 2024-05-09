@@ -3340,6 +3340,38 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Brooklyn Nine-Nine (2013)                              #
+#                                                                   #
+#####################################################################
+    "Brooklyn Nine-Nine (2013)":
+        year: 2013
+        title: "Brooklyn Nine-Nine"
+        url_poster: https://theposterdb.com/api/assets/241381
+        match:
+          mapping_id: 269586
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/241382        
+            1:
+                url_poster: https://theposterdb.com/api/assets/241383
+            2:
+                url_poster: https://theposterdb.com/api/assets/241384
+            3:
+                url_poster: https://theposterdb.com/api/assets/241385
+            4:
+                url_poster: https://theposterdb.com/api/assets/241386
+            5:
+                url_poster: https://theposterdb.com/api/assets/241387
+            6:
+                url_poster: https://theposterdb.com/api/assets/241388
+            7:
+                url_poster: https://theposterdb.com/api/assets/241389
+            8:
+                url_poster: https://theposterdb.com/api/assets/241390
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -3350,6 +3382,8 @@ metadata:
         match:
           mapping_id: xxxx
         seasons:
+            0:
+                url_poster: xxxxx        
             1:
                 url_poster: xxxxx
             2:
