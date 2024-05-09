@@ -6977,6 +6977,13 @@ metadata:
           mapping_id: 77930
         url_poster: https://theposterdb.com/api/assets/171944
 
+    "Brokeback Mountain (2005)":
+        year: 2005
+        title: "Brokeback Mountain"
+        match:
+          mapping_id: 142
+        url_poster: https://theposterdb.com/api/assets/207193
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
