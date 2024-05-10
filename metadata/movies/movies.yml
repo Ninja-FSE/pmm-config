@@ -6998,6 +6998,13 @@ metadata:
           mapping_id: 762975
         url_poster: https://theposterdb.com/api/assets/309838
         
+    "Mr and Mrs Smith (2005)":
+        year: 2005
+        title: "Mr and Mrs Smith"
+        match:
+          mapping_id: 787
+        url_poster: https://theposterdb.com/api/assets/216868
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
