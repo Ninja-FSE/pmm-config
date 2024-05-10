@@ -6991,6 +6991,13 @@ metadata:
           mapping_id: 799583
         url_poster: https://theposterdb.com/api/assets/481910
         
+    "Purple Hearts (2022)":
+        year: 2022
+        title: "Purple Hearts"
+        match:
+          mapping_id: 762975
+        url_poster: https://theposterdb.com/api/assets/309838
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
