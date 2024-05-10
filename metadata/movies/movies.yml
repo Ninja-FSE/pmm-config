@@ -7005,6 +7005,13 @@ metadata:
           mapping_id: 787
         url_poster: https://theposterdb.com/api/assets/216868
         
+    "Big Hero 6 (2014)":
+        year: 2014
+        title: "Big Hero 6"
+        match:
+          mapping_id: 177572
+        url_poster: https://theposterdb.com/api/assets/191990
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
