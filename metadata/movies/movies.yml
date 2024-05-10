@@ -6984,12 +6984,20 @@ metadata:
           mapping_id: 142
         url_poster: https://theposterdb.com/api/assets/207193
 
+    "The Ministry of Ungentlemanly Warfare (2024)":
+        year: 2024
+        title: "The Ministry of Ungentlemanly Warfare"
+        match:
+          mapping_id: 799583
+        url_poster: https://theposterdb.com/api/assets/481910
+        
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
         match:
           mapping_id: xxxxx
         url_poster: xxxxx
+
 
 
 
