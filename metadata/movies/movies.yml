@@ -7012,6 +7012,13 @@ metadata:
           mapping_id: 177572
         url_poster: https://theposterdb.com/api/assets/191990
         
+    "Pirates of the Caribbean: Tales of the Code: Wedlocked (2011)":
+        year: 2011
+        title: "Pirates of the Caribbean: Tales of the Code: Wedlocked"
+        match:
+          mapping_id: 230652
+        url_poster: https://theposterdb.com/api/assets/169553      
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
