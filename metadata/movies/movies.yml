@@ -7019,6 +7019,13 @@ metadata:
           mapping_id: 230652
         url_poster: https://theposterdb.com/api/assets/169553      
 
+    "Queen: Rock Montreal & Live Aid (2004)":
+        year: 2007
+        title: "Queen: Rock Montreal & Live Aid"
+        match:
+          mapping_id: 468591
+        url_poster: https://theposterdb.com/api/assets/398373
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
