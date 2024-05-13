@@ -7026,6 +7026,13 @@ metadata:
           mapping_id: 468591
         url_poster: https://theposterdb.com/api/assets/398373
 
+    "Mulan (2020)":
+        year: 2020
+        title: "Mulan"
+        match:
+          mapping_id: 337401
+        url_poster: https://theposterdb.com/api/assets/172612
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
