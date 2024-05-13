@@ -3372,6 +3372,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Avenue 5 (2020)                              #
+#                                                                   #
+#####################################################################
+    "Avenue 5 (2020)":
+        year: 2020
+        title: "Avenue 5"
+        url_poster: https://theposterdb.com/api/assets/332718
+        match:
+          mapping_id: 364106
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/332719
+            2:
+                url_poster: https://theposterdb.com/api/assets/332720
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
