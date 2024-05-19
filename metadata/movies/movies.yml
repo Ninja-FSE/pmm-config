@@ -7033,6 +7033,27 @@ metadata:
           mapping_id: 337401
         url_poster: https://theposterdb.com/api/assets/172612
 
+    "RED (2010)":
+        year: 2010
+        title: "RED"
+        match:
+          mapping_id: 39514
+        url_poster: https://theposterdb.com/api/assets/371822
+
+    "RED 2 (2013)":
+        year: 2013
+        title: "RED 2"
+        match:
+          mapping_id: 146216
+        url_poster: https://theposterdb.com/api/assets/371825
+
+    "Armageddon (1998)":
+        year: 1998
+        title: "Armageddon"
+        match:
+          mapping_id: 95
+        url_poster: https://theposterdb.com/api/assets/186794
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
