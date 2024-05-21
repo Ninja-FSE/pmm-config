@@ -7054,6 +7054,34 @@ metadata:
           mapping_id: 95
         url_poster: https://theposterdb.com/api/assets/186794
 
+    "The Wrath of Becky (2023)":
+        year: 2023
+        title: "The Wrath of Becky"
+        match:
+          mapping_id: 986070
+        url_poster: https://theposterdb.com/api/assets/379943
+
+    "Becky (2020)":
+        year: 2020
+        title: "Becky"
+        match:
+          mapping_id: 601844
+        url_poster: https://theposterdb.com/api/assets/379942
+
+    "The Fall Guy (2024)":
+        year: 2024
+        title: "The Fall Guy"
+        match:
+          mapping_id: 746036
+        url_poster: https://theposterdb.com/api/assets/481884
+
+    "Boy Kills World (2024)":
+        year: 2024
+        title: "Boy Kills World"
+        match:
+          mapping_id: 882059
+        url_poster: https://theposterdb.com/api/assets/481893
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
