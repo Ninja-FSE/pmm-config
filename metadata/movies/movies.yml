@@ -7082,6 +7082,13 @@ metadata:
           mapping_id: 882059
         url_poster: https://theposterdb.com/api/assets/481893
 
+    "Den of Thieves (2018)":
+        year: 2018
+        title: "Den of Thieves"
+        match:
+          mapping_id: 449443
+        url_poster: https://theposterdb.com/api/assets/230740
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
