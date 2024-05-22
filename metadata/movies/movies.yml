@@ -7103,6 +7103,13 @@ metadata:
           mapping_id: 614933
         url_poster: https://theposterdb.com/api/assets/494014
 
+    "V FOR VENDETTA (20006)":
+        year: 2006
+        title: "V FOR VENDETTA"
+        match:
+          mapping_id: 752
+        url_poster: https://theposterdb.com/api/assets/171585
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
