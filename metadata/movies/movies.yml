@@ -7110,6 +7110,13 @@ metadata:
           mapping_id: 752
         url_poster: https://theposterdb.com/api/assets/171585
 
+    "The Blue Angels (2024)":
+        year: 2024
+        title: "The Blue Angels"
+        match:
+          mapping_id: 1120821
+        url_poster: https://theposterdb.com/api/assets/494391
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
