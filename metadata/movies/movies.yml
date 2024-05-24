@@ -7124,6 +7124,13 @@ metadata:
           mapping_id: 639720
         url_poster: https://theposterdb.com/api/assets/494499
 
+    "South Park: The End Of Obesity (2024)":
+        year: 2024
+        title: "South Park: The End Of Obesity"
+        match:
+          mapping_id: 1290938
+        url_poster: https://theposterdb.com/api/assets/494684
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
