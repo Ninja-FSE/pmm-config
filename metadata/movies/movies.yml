@@ -7131,6 +7131,13 @@ metadata:
           mapping_id: 1290938
         url_poster: https://theposterdb.com/api/assets/494684
 
+    "The Beach Boys (2024)":
+        year: 2024
+        title: "The Beach Boys"
+        match:
+          mapping_id: 1265066
+        url_poster: https://theposterdb.com/api/assets/494601
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
