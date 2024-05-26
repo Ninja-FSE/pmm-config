@@ -7138,6 +7138,13 @@ metadata:
           mapping_id: 1265066
         url_poster: https://theposterdb.com/api/assets/494601
 
+    "Thelma the Unicorn (2024)":
+        year: 2024
+        title: "Thelma the Unicorn"
+        match:
+          mapping_id: 739547
+        url_poster: https://theposterdb.com/api/assets/494845
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
