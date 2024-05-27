@@ -7160,12 +7160,20 @@ metadata:
           mapping_id: 719221
         url_poster: https://theposterdb.com/api/assets/481885
 
+    "The First Omen (2024)":
+        year: 2024
+        title: "The First Omen"
+        match:
+          mapping_id: 437342
+        url_poster: https://theposterdb.com/api/assets/481871        
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
         match:
           mapping_id: xxxxx
         url_poster: xxxxx
+
 
 
 
