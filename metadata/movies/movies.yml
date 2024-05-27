@@ -7167,6 +7167,41 @@ metadata:
           mapping_id: 437342
         url_poster: https://theposterdb.com/api/assets/481871        
 
+    "The Omen (1967)":
+        year: 1967
+        title: "The Omen"
+        match:
+          mapping_id: 794
+        url_poster: https://theposterdb.com/api/assets/178455
+
+    "Damien: Omen II (1978)":
+        year: 1978
+        title: "Damien: Omen II"
+        match:
+          mapping_id: 10766
+        url_poster: https://theposterdb.com/api/assets/178456
+
+    "The Final Conflict (1981)":
+        year: 1981
+        title: "The Final Conflict"
+        match:
+          mapping_id: 10768
+        url_poster: https://theposterdb.com/api/assets/178457
+
+    "Omen IV: The Awakening (1991)":
+        year: 1991
+        title: "Omen IV: The Awakening"
+        match:
+          mapping_id: 17792
+        url_poster: https://theposterdb.com/api/assets/178458
+
+    "The Omen (2006)":
+        year: 2006
+        title: "The Omen"
+        match:
+          mapping_id: 806
+        url_poster: https://theposterdb.com/api/assets/178459
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
