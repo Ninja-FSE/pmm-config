@@ -867,7 +867,8 @@ metadata:
 #####################################################################
     "Star Wars: The Clone Wars (2008)":
         year: 2008
-        title: "Star Wars: The Clone Wars"
+        title: "The Clone Wars"
+        sort_title: "Star Wars: The Clone Wars"
         url_poster: https://theposterdb.com/api/assets/225828
         match:
           mapping_id: 83268
@@ -897,7 +898,7 @@ metadata:
     "The Mandalorian (2019)":
         year: 2019
         title: "The Mandalorian"
-        sort_title: "Mandalorian"
+        sort_title: "Star Wars: Mandalorian"
         url_poster: https://theposterdb.com/api/assets/174476
         match:
           mapping_id: 361753
@@ -917,7 +918,7 @@ metadata:
     "The Book of Boba Fett (2021)":
         year: 2021
         title: "The Book of Boba Fett"
-        sort_title: "Book of Boba Fett"
+        sort_title: "Star Wars: The Book of Boba Fett"  
         url_poster: https://theposterdb.com/api/assets/200213
         match:
           mapping_id: 393589
@@ -933,6 +934,7 @@ metadata:
     "Obi-Wan Kenobi (2022)":
         year: 2022
         title: "Obi-Wan Kenobi"
+        sort_title: "Star Wars: Obi-Wan Kenobi"        
         url_poster: https://theposterdb.com/api/assets/238547
         match:
           mapping_id: 393199
@@ -948,6 +950,7 @@ metadata:
     "Andor (2022)":
         year: 2022
         title: "Andor"
+        sort_title: "Star Wars: Andor"          
         url_poster: https://theposterdb.com/api/assets/328800
         match:
           mapping_id: 393189
@@ -962,7 +965,8 @@ metadata:
 #####################################################################
     "Star Wars: Tales of the Jedi (2022)":
         year: 2022
-        title: "Star Wars: Tales of the Jedi"
+        title: "Tales of the Jedi"
+        sort_title: "Star Wars: Tales of the Jedi"          
         url_poster: https://theposterdb.com/api/assets/328803
         match:
           mapping_id: 420659
@@ -978,6 +982,7 @@ metadata:
     "Ahsoka (2023)":
         year: 2023
         title: "Ahsoka"
+        sort_title: "Star Wars: Tales of the Jedi"         
         url_poster: https://theposterdb.com/api/assets/392135
         match:
           mapping_id: 393187
@@ -2622,7 +2627,8 @@ metadata:
 #####################################################################
     "Star Wars: Ewoks (1985)":
         year: 1985
-        title: "Star Wars: Ewoks"
+        title: "Ewoks"
+        sort_title: "Star Wars: Ewoks"           
         url_poster: https://theposterdb.com/api/assets/174490
         match:
           mapping_id: 73697
@@ -2640,7 +2646,8 @@ metadata:
 #####################################################################
     "Star Wars: Droids (1985)":
         year: 1985
-        title: "Star Wars: Droids"
+        title: "Droids"
+        sort_title: "Star Wars: Droids"           
         url_poster: https://theposterdb.com/api/assets/174477
         match:
           mapping_id: 70399
@@ -2658,7 +2665,8 @@ metadata:
 #####################################################################
     "Tales of the Jedi (2022)":
         year: 2022
-        title: "Star Wars: Tales of the Jedi"
+        title: "Tales of the Jedi"
+        sort_title: "Star Wars: Tales of the Jedi"           
         url_poster: https://theposterdb.com/api/assets/282026
         match:
           mapping_id: 420659
@@ -2675,7 +2683,8 @@ metadata:
 #####################################################################
     "Star Wars: The Bad Batch (2021)":
         year: 2021
-        title: "Star Wars: The Bad Batch"
+        title: "The Bad Batch"
+        sort_title: "Star Wars: The bad Batch"           
         url_poster: https://theposterdb.com/api/assets/174478
         match:
           mapping_id: 385376
@@ -2695,7 +2704,8 @@ metadata:
 #####################################################################
     "Star Wars: Forces of Destiny (2017)":
         year: 2017
-        title: "Star Wars: Forces of Destiny"
+        title: "Forces of Destiny"
+        sort_title: "Star Wars: Forces of Destiny"           
         url_poster: https://theposterdb.com/api/assets/174488
         match:
           mapping_id: 330710
@@ -3088,7 +3098,7 @@ metadata:
 #                         3 Body Problem (2024)                              #
 #                                                                   #
 #####################################################################
-    "xxxx (2024)":
+    "3 Body Problem (2024)":
         year: 20024
         title: "3 Body Problem"
         url_poster: https://theposterdb.com/api/assets/468334
@@ -3402,6 +3412,25 @@ metadata:
         seasons:   
             1:
                 url_poster: https://theposterdb.com/api/assets/359491
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Acolyte (2024)                              #
+#                                                                   #
+#####################################################################
+    "The Acolyte (2024)":
+        year: 2024
+        title: "The Acolyte"
+        sort_title: "Star Wars: The Acolyte"           
+        url_poster: https://theposterdb.com/api/assets/494857
+        match:
+          mapping_id: 393197
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/494858        
+            1:
+                url_poster: https://theposterdb.com/api/assets/494859
 
 #####################################################################
 #                                                                   #
