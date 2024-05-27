@@ -3915,8 +3915,8 @@ metadata:
           mapping_id: 378385
         url_poster: https://theposterdb.com/api/assets/398128
 
-    "Jarhead: Law of Return (xxxx)":
-        year: xxxx
+    "Jarhead: Law of Return (2019)":
+        year: 2019
         title: "Jarhead: Law of Return"
         match:
           mapping_id: 635744
@@ -4576,8 +4576,8 @@ metadata:
         year: 1971
         title: "Pongo och de 101 dalmatinerna"
         match:
-          mapping_id: xxx
-        url_poster: xxxxxx
+          mapping_id: 12230
+        url_poster: https://theposterdb.com/api/assets/191968
                                                                 
     "101 Dalmatians II: Patch's London Adventure (2002)":
         year: 2002
@@ -6031,7 +6031,7 @@ metadata:
 
     "Biohazard 4: Incubate (2006)":
         year: 2006
-        title: "xxx"
+        title: "Biohazard 4: Incubate"
         match:
           mapping_id: 497467
         url_poster: https://theposterdb.com/api/assets/448164
@@ -6181,7 +6181,7 @@ metadata:
         title: "One More Shot"
         match:
           mapping_id: 1214314
-        #url_poster: xxxxxx
+        url_poster: https://theposterdb.com/api/assets/464064
 
     "Role Play (2024)":
         year: 2024
