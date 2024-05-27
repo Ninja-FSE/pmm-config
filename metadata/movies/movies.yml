@@ -3223,6 +3223,14 @@ metadata:
           mapping_id: 74849
         url_poster: https://theposterdb.com/api/assets/174458
 
+    "Obi-Wan Kenobi: A Jedi's Return (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi: A Jedi's Return"
+        sort_title: "Star Wars - 21"
+        match:
+          mapping_id: 1015606
+        url_poster: https://theposterdb.com/api/assets/264893
+
     "Star Wars: Episode V - The Empire Strikes Back (1980)":
         year: 1980
         title: "Star Wars: Episode V - The Empire Strikes Back"
