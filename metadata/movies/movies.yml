@@ -3228,14 +3228,14 @@ metadata:
         title: "Star Wars: Episode V - The Empire Strikes Back"
         match:
           mapping_id: 1891
-        url_poster: https://theposterdb.com/api/assets/174481
+        url_poster: https://theposterdb.com/api/assets/174459
 
     "Star Wars: Episode VI - Return of the Jedi (1983)":
         year: 1983
         title: "Star Wars: Episode VI - Return of the Jedi"
         match:
           mapping_id: 1892
-        url_poster: https://theposterdb.com/api/assets/174482
+        url_poster: https://theposterdb.com/api/assets/174460
 
     "Star Wars: Episode I - The Phantom Menace (1999)":
         year: 1999
