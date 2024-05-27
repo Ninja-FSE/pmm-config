@@ -7202,6 +7202,13 @@ metadata:
           mapping_id: 806
         url_poster: https://theposterdb.com/api/assets/178459
 
+    "I Am Number Four (2011)":
+        year: 2011
+        title: "I Am Number Four"
+        match:
+          mapping_id: 46529
+        url_poster: https://theposterdb.com/api/assets/185137
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
