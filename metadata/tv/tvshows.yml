@@ -3451,7 +3451,7 @@ metadata:
         sort_title: "Star Wars: Young Jedi Adventures"           
         url_poster: https://theposterdb.com/api/assets/494876
         match:
-          mapping_id: 393197
+          mapping_id: 420658
         seasons:     
             1:
                 url_poster: https://theposterdb.com/api/assets/494878
