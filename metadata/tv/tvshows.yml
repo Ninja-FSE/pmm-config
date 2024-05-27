@@ -3459,6 +3459,44 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         9-1-1 (2018)                              #
+#                                                                   #
+#####################################################################
+    "9-1-1 (2018)":
+        year: 2018
+        title: "9-1-1"
+        url_poster: https://theposterdb.com/api/assets/349096
+        match:
+          mapping_id: 337907
+        seasons:
+            0:
+                url_poster: xxxxx        
+            1:
+                url_poster: https://theposterdb.com/api/assets/349097
+            2:
+                url_poster: https://theposterdb.com/api/assets/349098
+            3:
+                url_poster: https://theposterdb.com/api/assets/349099
+            4:
+                url_poster: https://theposterdb.com/api/assets/349100
+            5:
+                url_poster: https://theposterdb.com/api/assets/349101
+            6:
+                url_poster: https://theposterdb.com/api/assets/349102
+            7:
+                url_poster: https://theposterdb.com/api/assets/458301
+            8:
+                url_poster: xxxx
+            9:
+                url_poster: xxxx
+            10:
+                url_poster: xxxx
+            11:
+                url_poster: xxxxx     
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
