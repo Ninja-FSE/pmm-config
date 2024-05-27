@@ -951,7 +951,7 @@ metadata:
         year: 2022
         title: "Andor"
         sort_title: "Star Wars: Andor"          
-        url_poster: https://theposterdb.com/api/assets/328800
+        url_poster: https://theposterdb.com/api/assets/267562
         match:
           mapping_id: 393189
         seasons:
@@ -1789,7 +1789,8 @@ metadata:
 #####################################################################
     "The Walking Dead: Daryl Dixon (2023)":
         year: 2023
-        title: "The Walking Dead: Daryl Dixon"
+        title: "Daryl Dixon"
+        sort_title: "The Walking Dead: Daryl Dixon"         
         url_poster: https://theposterdb.com/api/assets/406442
         match:
           mapping_id: 427464
@@ -1942,6 +1943,7 @@ metadata:
     "The Walking Dead (2010)":
         year: 2010
         title: "The Walking Dead"
+        sort_title: "The Walking Dead"         
         url_poster: https://theposterdb.com/api/assets/218107
         match:
           mapping_id: 153021
@@ -2222,6 +2224,7 @@ metadata:
     "Fear the Walking Dead (2015)":
         year: 2015
         title: "Fear the Walking Dead"
+        sort_title: "The Walking Dead: Fear the walking dead"         
         url_poster: https://theposterdb.com/api/assets/276061
         match:
           mapping_id: 290853
@@ -2254,6 +2257,7 @@ metadata:
     "Tales of the Walking Dead (2022)":
         year: 2022
         title: "Tales of the Walking Dead"
+        sort_title: "The Walking Dead: Tales of the walking dead"         
         url_poster: https://theposterdb.com/api/assets/276070
         match:
           mapping_id: 411314
@@ -2269,7 +2273,8 @@ metadata:
 #####################################################################
     "The Walking Dead: World Beyond (2020)":
         year: 2020
-        title: "The Walking Dead: World Beyond"
+        title: "World Beyond"
+        sort_title: "The Walking Dead: World Beyond"         
         url_poster: https://theposterdb.com/api/assets/276073
         match:
           mapping_id: 372787
@@ -2287,7 +2292,8 @@ metadata:
 #####################################################################
     "The Walking Dead: Dead City (2023)":
         year: 2023
-        title: "The Walking Dead: Dead City"
+        title: "Dead City"
+        sort_title: "The Walking Dead: Dead city"         
         url_poster: https://theposterdb.com/api/assets/368745
         match:
           mapping_id: 417549
@@ -2952,7 +2958,8 @@ metadata:
 #####################################################################
     "The Walking Dead: The Ones Who Live (2024)":
         year: 2024
-        title: "The Walking Dead: The Ones Who Live"
+        title: "The Ones Who Live"
+        sort_title: "The Walking Dead: The Ones Who Live"            
         url_poster: https://theposterdb.com/api/assets/456280
         match:
           mapping_id: 427202
