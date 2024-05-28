@@ -3645,6 +3645,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Shardlake (2024)                              #
+#                                                                   #
+#####################################################################
+    "Shardlake (2024)":
+        year: 2024
+        title: "Shardlake"
+        url_poster: https://theposterdb.com/api/assets/491634
+        match:
+          mapping_id: 438789
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/491635
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -3678,9 +3694,7 @@ metadata:
             10:
                 url_poster: xxxx
             11:
-                url_poster: xxxxx     
-                
-
+                url_poster: xxxxx    
 
 
                 
