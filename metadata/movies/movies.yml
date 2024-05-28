@@ -7230,6 +7230,27 @@ metadata:
           mapping_id: 45612
         url_poster: https://theposterdb.com/api/assets/185150
 
+    "The Da Vinci Code (2006)":
+        year: 2006
+        title: "The Da Vinci Code"
+        match:
+          mapping_id: 591
+        url_poster: https://theposterdb.com/api/assets/202308
+
+    "Inferno (2016)":
+        year: 2016
+        title: "Inferno"
+        match:
+          mapping_id: 207932
+        url_poster: https://theposterdb.com/api/assets/202310
+
+    "Angels & Demons (2009)":
+        year: 2009
+        title: "Angels & Demons"
+        match:
+          mapping_id: 13448
+        url_poster: https://theposterdb.com/api/assets/202309
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
