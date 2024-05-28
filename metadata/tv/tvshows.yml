@@ -3461,6 +3461,26 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Slow Horses (2022)                              #
+#                                                                   #
+#####################################################################
+    "Slow Horses (2022)":
+        year: 2022
+        title: "Slow Horses"
+        url_poster: https://theposterdb.com/api/assets/345379
+        match:
+          mapping_id: 372264
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/345380
+            2:
+                url_poster: https://theposterdb.com/api/assets/345381
+            3:
+                url_poster: https://theposterdb.com/api/assets/447198
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
