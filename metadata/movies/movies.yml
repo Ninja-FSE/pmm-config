@@ -7251,6 +7251,20 @@ metadata:
           mapping_id: 13448
         url_poster: https://theposterdb.com/api/assets/202309
 
+    "Logan Lucky (2017)":
+        year: 2017
+        title: "Logan Lucky"
+        match:
+          mapping_id: 399170
+        url_poster: https://theposterdb.com/api/assets/201468
+
+    "The Lost City (2022)":
+        year: 2022
+        title: "The Lost City"
+        match:
+          mapping_id: 752623
+        url_poster: https://theposterdb.com/api/assets/235356
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
