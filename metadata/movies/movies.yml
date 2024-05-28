@@ -7216,6 +7216,13 @@ metadata:
           mapping_id: 998846
         url_poster: https://theposterdb.com/api/assets/495561
 
+    "Tillsammans (2000)":
+        year: 2000
+        title: "Tillsammans"
+        match:
+          mapping_id: 742
+        url_poster: https://theposterdb.com/api/assets/475303
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
