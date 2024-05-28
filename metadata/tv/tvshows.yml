@@ -3525,10 +3525,27 @@ metadata:
         title: "  Sveriges Mästerkock"
         url_poster: https://theposterdb.com/api/assets/488247
         match:
-          mapping_id: xxxx
+          mapping_id: 221121
         seasons:
 
-
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         xxxxx (xxxx)                              #
+#                                                                   #
+#####################################################################
+    "Veronika (2024)":
+        year: 2024
+        title: "Veronika"
+        url_poster: https://theposterdb.com/api/assets/482946
+        match:
+          mapping_id: 446127
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/482947        
+            1:
+                url_poster: https://theposterdb.com/api/assets/482948
+             
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
