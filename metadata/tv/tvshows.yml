@@ -3597,6 +3597,54 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Sanningen (2023)                              #
+#                                                                   #
+#####################################################################
+    "Sanningen (2023)":
+        year: 2023
+        title: "Sanningen"
+        url_poster: https://theposterdb.com/api/assets/469528
+        match:
+          mapping_id: 443351
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/469529
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Solsidan (2010)                              #
+#                                                                   #
+#####################################################################
+    "Solsidan (2010)":
+        year: 2010
+        title: "Solsidan"
+        url_poster: https://theposterdb.com/api/assets/469360
+        match:
+          mapping_id: 138531
+        seasons:
+            0:
+                url_poster: xxxxx        
+            1:
+                url_poster: https://theposterdb.com/api/assets/469361
+            2:
+                url_poster: https://theposterdb.com/api/assets/469362
+            3:
+                url_poster: https://theposterdb.com/api/assets/469363
+            4:
+                url_poster: https://theposterdb.com/api/assets/469364
+            5:
+                url_poster: https://theposterdb.com/api/assets/469365
+            6:
+                url_poster: https://theposterdb.com/api/assets/469366
+            7:
+                url_poster: https://theposterdb.com/api/assets/469367
+            8:
+                url_poster: https://theposterdb.com/api/assets/469368
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
