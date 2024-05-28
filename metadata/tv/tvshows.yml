@@ -3498,6 +3498,25 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Tiger King (2020)                              #
+#                                                                   #
+#####################################################################
+    "Tiger King (2020)":
+        year: 2020
+        title: "Tiger King"
+        url_poster: https://theposterdb.com/api/assets/339277
+        match:
+          mapping_id: 377269
+        seasons:
+     
+            1:
+                url_poster: https://theposterdb.com/api/assets/339278
+            2:
+                url_poster: https://theposterdb.com/api/assets/339279
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
@@ -3532,6 +3551,7 @@ metadata:
                 url_poster: xxxx
             11:
                 url_poster: xxxxx     
+                
 
 
 
