@@ -3566,6 +3566,37 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Wahlgrens Värld (2016)                              #
+#                                                                   #
+#####################################################################
+    "Wahlgrens Värld (2016)":
+        year: 2016
+        title: "Wahlgrens Värld"
+        url_poster: https://theposterdb.com/api/assets/469887
+        match:
+          mapping_id: 317365
+        seasons:
+                                         
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Börje - The Journey of a Legend (2023)                              #
+#                                                                   #
+#####################################################################
+    "Börje - The Journey of a Legend (2023)":
+        year: 2023
+        title: "Börje - The Journey of a Legend"
+        url_poster: https://theposterdb.com/api/assets/469902
+        match:
+          mapping_id: 435297
+        seasons:
+    
+            1:
+                url_poster: https://theposterdb.com/api/assets/469903
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
