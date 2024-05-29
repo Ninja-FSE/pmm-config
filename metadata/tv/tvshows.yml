@@ -321,48 +321,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Gold Rush (2010)                            #
-#                                                                   #
-#####################################################################
-    "Gold Rush (2010)":
-        year: 2010
-        title: "Gold Rush"
-        sort_title: "Gold Rush"
-        url_poster: https://theposterdb.com/api/assets/415829
-        match:
-          mapping_id: 208111
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/415831
-            2:
-                url_poster: https://theposterdb.com/api/assets/415832
-            3:
-                url_poster: https://theposterdb.com/api/assets/415833
-            4:
-                url_poster: https://theposterdb.com/api/assets/415834
-            5:
-                url_poster: https://theposterdb.com/api/assets/415835
-            6:
-                url_poster: https://theposterdb.com/api/assets/415836
-            7:
-                url_poster: https://theposterdb.com/api/assets/415837
-            8:
-                url_poster: https://theposterdb.com/api/assets/415838
-            9:
-                url_poster: https://theposterdb.com/api/assets/415839
-            10:
-                url_poster: https://theposterdb.com/api/assets/415840
-            11:
-                url_poster: https://theposterdb.com/api/assets/415841
-            12:
-                url_poster: https://theposterdb.com/api/assets/415842
-            13:
-                url_poster: https://theposterdb.com/api/assets/415843
-            14:
-                url_poster: https://theposterdb.com/api/assets/415844
-
-#####################################################################
-#                                                                   #
 #               TV-Show Goosebumps (2023)                           #
 #                                                                   #
 #####################################################################
