@@ -7370,6 +7370,13 @@ metadata:
           mapping_id: 594
         url_poster: https://theposterdb.com/api/assets/179237
 
+    "Bridge of Spies (2015)":
+        year: 2015
+        title: "Bridge of Spies"
+        match:
+          mapping_id: 296098
+        url_poster: https://theposterdb.com/api/assets/179242
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
