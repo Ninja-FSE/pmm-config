@@ -3745,6 +3745,49 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Gold Rush (2010)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush (2010)":
+        year: 2010
+        title: "Gold Rush"
+        url_poster: https://theposterdb.com/api/assets/482455
+        match:
+          mapping_id: 208111
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/482456        
+            1:
+                url_poster: https://theposterdb.com/api/assets/482457
+            2:
+                url_poster: https://theposterdb.com/api/assets/482458
+            3:
+                url_poster: https://theposterdb.com/api/assets/482459
+            4:
+                url_poster: https://theposterdb.com/api/assets/482460
+            5:
+                url_poster: https://theposterdb.com/api/assets/482461
+            6:
+                url_poster: https://theposterdb.com/api/assets/482462
+            7:
+                url_poster: https://theposterdb.com/api/assets/482463
+            8:
+                url_poster: https://theposterdb.com/api/assets/482464
+            9:
+                url_poster: https://theposterdb.com/api/assets/482465
+            10:
+                url_poster: https://theposterdb.com/api/assets/482466
+            11:
+                url_poster: https://theposterdb.com/api/assets/482467                
+            12:
+                url_poster: https://theposterdb.com/api/assets/482468    
+            13:
+                url_poster: https://theposterdb.com/api/assets/482469        
+            14:
+                url_poster: https://theposterdb.com/api/assets/482470    
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
