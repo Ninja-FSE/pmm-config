@@ -7307,13 +7307,68 @@ metadata:
           mapping_id: 1037113
         url_poster: https://theposterdb.com/api/assets/477215
 
+    "Winnie-the-Pooh: Blood and Honey (2023)":
+        year: 2023
+        title: "Winnie-the-Pooh: Blood and Honey"
+        match:
+          mapping_id: 980078
+        url_poster: https://theposterdb.com/api/assets/338358
+
+    "Winnie-the-Pooh: Blood and Honey 2 (2024)":
+        year: 2024
+        title: "Winnie-the-Pooh: Blood and Honey 2"
+        match:
+          mapping_id: 1079485
+        url_poster: https://theposterdb.com/api/assets/486177
+
+    "Irish Wish (2024)":
+        year: 2024
+        title: "Irish Wish"
+        match:
+          mapping_id: 1019420
+        url_poster: https://theposterdb.com/api/assets/468923
+
+    "Mask (1985)":
+        year: 1985
+        title: "Mask"
+        match:
+          mapping_id: 11177
+        url_poster: https://theposterdb.com/api/assets/223851
+
+    "I Spit on Your Grave (2010)":
+        year: 2010
+        title: "I Spit on Your Grave"
+        match:
+          mapping_id: 43947
+        url_poster: https://theposterdb.com/api/assets/177583
+
+    "I Spit on Your Grave 2 (2013)":
+        year: 2013
+        title: "I Spit on Your Grave 2"
+        match:
+          mapping_id: 207768
+        url_poster: https://theposterdb.com/api/assets/177584
+
+    "I Spit on Your Grave III: Vengeance Is Mine (2015)":
+        year: 2015
+        title: "I Spit on Your Grave III: Vengeance Is Mine"
+        match:
+          mapping_id: 357096
+        url_poster: https://theposterdb.com/api/assets/177585
+
+    "I Spit on Your Grave: Déjà Vu (2019)":
+        year: 2019
+        title: "I Spit on Your Grave: Déjà Vu"
+        match:
+          mapping_id: 369196
+        url_poster: https://theposterdb.com/api/assets/177586
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
         match:
           mapping_id: xxxxx
         url_poster: xxxxx
-
 
 
 
