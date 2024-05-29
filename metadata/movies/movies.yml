@@ -7377,6 +7377,20 @@ metadata:
           mapping_id: 296098
         url_poster: https://theposterdb.com/api/assets/179242
 
+    "Letters from Iwo Jima (2006)":
+        year: 2006
+        title: "Letters from Iwo Jima"
+        match:
+          mapping_id: 1251
+        url_poster: https://theposterdb.com/api/assets/170440
+
+    "Flags of Our Fathers (2006)":
+        year: 2006
+        title: "Flags of Our Fathers"
+        match:
+          mapping_id: 3683
+        url_poster: https://theposterdb.com/api/assets/170439
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
