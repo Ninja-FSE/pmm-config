@@ -7272,6 +7272,41 @@ metadata:
           mapping_id: 280180
         url_poster: https://theposterdb.com/api/assets/495968
 
+    "Uncharted (20022)":
+        year: 20022
+        title: "Uncharted"
+        match:
+          mapping_id: 335787
+        url_poster: https://theposterdb.com/api/assets/214312
+
+    "Little Children (2006)":
+        year: 2006
+        title: "Little Children"
+        match:
+          mapping_id: 1440
+        url_poster: https://theposterdb.com/api/assets/216487
+
+    "Blind Date Book Club (2024)":
+        year: 2024
+        title: "Blind Date Book Club"
+        match:
+          mapping_id: 1249342
+        url_poster: https://theposterdb.com/api/assets/479879
+
+    "Stöld (2024)":
+        year: 2024
+        title: "Stöld"
+        match:
+          mapping_id: 1019317
+        url_poster: https://theposterdb.com/api/assets/485243
+
+    "Snack Shack (2024)":
+        year: 2024
+        title: "Snack Shack"
+        match:
+          mapping_id: 1037113
+        url_poster: https://theposterdb.com/api/assets/477215
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
