@@ -1973,7 +1973,7 @@ metadata:
 #              Formula 1: Drive to Survive (2019)                   #
 #                                                                   #
 #####################################################################
-    "Formula 1: Drive to Survive (xxxx)":
+    "Formula 1: Drive to Survive (2019)":
         year: 2019
         title: "Formula 1: Drive to Survive"
         url_poster: https://theposterdb.com/api/assets/225782
@@ -2022,7 +2022,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
-#                  Lessons in Chemistry (xxxx)                      #
+#                  Lessons in Chemistry (2023)                      #
 #                                                                   #
 #####################################################################
     "Lessons in Chemistry (2023)":
@@ -2450,8 +2450,6 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/323148
             2:
                 url_poster: https://theposterdb.com/api/assets/344814
-            3:
-                url_poster: xxxx
 
 #####################################################################
 #                                                                   #
@@ -2913,7 +2911,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #              The Walking Dead: The Ones Who Live                  #
-#               The Walking Dead: The Ones Who Live (xxxx)          #
+#               The Walking Dead: The Ones Who Live (2024)          #
 #                                                                   #
 #####################################################################
     "The Walking Dead: The Ones Who Live (2024)":
@@ -3574,9 +3572,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/469360
         match:
           mapping_id: 138531
-        seasons:
-            0:
-                url_poster: xxxxx        
+        seasons:    
             1:
                 url_poster: https://theposterdb.com/api/assets/469361
             2:
