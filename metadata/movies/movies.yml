@@ -7391,6 +7391,13 @@ metadata:
           mapping_id: 3683
         url_poster: https://theposterdb.com/api/assets/170439
 
+    "Die Hart (2023)":
+        year: 2023
+        title: "Die Hart"
+        match:
+          mapping_id: 1077280
+        url_poster: https://theposterdb.com/api/assets/326918
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
