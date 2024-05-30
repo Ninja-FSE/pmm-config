@@ -7398,6 +7398,13 @@ metadata:
           mapping_id: 1077280
         url_poster: https://theposterdb.com/api/assets/326918
 
+    "Die Hart 2: Die Harter (2024)":
+        year: 2024
+        title: "Die Hart 2: Die Harter"
+        match:
+          mapping_id: 1296838
+        url_poster: https://theposterdb.com/api/assets/496314
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
