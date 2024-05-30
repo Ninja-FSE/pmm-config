@@ -7405,6 +7405,20 @@ metadata:
           mapping_id: 1296838
         url_poster: https://theposterdb.com/api/assets/496314
 
+    "Joe Dirt (2001)":
+        year: 2001
+        title: "Joe Dirt"
+        match:
+          mapping_id: 10956
+        url_poster: https://theposterdb.com/api/assets/204427
+
+    "Joe Dirt 2: Beautiful Loser (2015)":
+        year: 2015
+        title: "Joe Dirt 2: Beautiful Loser"
+        match:
+          mapping_id: 335970
+        url_poster: https://theposterdb.com/api/assets/204428
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
