@@ -3777,6 +3777,42 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Bäckström (2020)                              #
+#                                                                   #
+#####################################################################
+    "Bäckström (2020)":
+        year: 2020
+        title: "Bäckström"
+        url_poster: https://theposterdb.com/api/assets/472970
+        match:
+          mapping_id: 377395
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/472971        
+            1:
+                url_poster: https://theposterdb.com/api/assets/472972
+            2:
+                url_poster: https://theposterdb.com/api/assets/472973
+  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Artful Dodger (2023)                              #
+#                                                                   #
+#####################################################################
+    "The Artful Dodger (2023)":
+        year: 2023
+        title: "The Artful Dodger"
+        url_poster: https://theposterdb.com/api/assets/437670
+        match:
+          mapping_id: 429915
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/437671
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
