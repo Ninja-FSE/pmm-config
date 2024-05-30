@@ -3747,6 +3747,32 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         The Rookie (2018)                              #
+#                                                                   #
+#####################################################################
+    "The Rookie (2018)":
+        year: 2018
+        title: "The Rookie"
+        url_poster: https://theposterdb.com/api/assets/354902
+        match:
+          mapping_id: 350665
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/354903
+            2:
+                url_poster: https://theposterdb.com/api/assets/354904
+            3:
+                url_poster: https://theposterdb.com/api/assets/354905
+            4:
+                url_poster: https://theposterdb.com/api/assets/354906
+            5:
+                url_poster: https://theposterdb.com/api/assets/354907
+            6:
+                url_poster: https://theposterdb.com/api/assets/450764
+        
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
