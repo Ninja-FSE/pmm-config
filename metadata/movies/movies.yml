@@ -7447,6 +7447,20 @@ metadata:
           mapping_id: 1051486
         url_poster: https://theposterdb.com/api/assets/497745
 
+    "Jack Ryan: Shadow Recruit (2014)":
+        year: 2014
+        title: "Jack Ryan: Shadow Recruit"
+        match:
+          mapping_id: 137094
+        url_poster: https://theposterdb.com/api/assets/170508
+
+    "The Sum of All Fears (2002)":
+        year: 2002
+        title: "The Sum of All Fears"
+        match:
+          mapping_id: 4614
+        url_poster: https://theposterdb.com/api/assets/170507
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"

@@ -4046,6 +4046,30 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Tom Clancy's Jack Ryan (2018)                              #
+#                                                                   #
+#####################################################################
+    "Tom Clancy's Jack Ryan (2018)":
+        year: 2018
+        title: "Tom Clancy's Jack Ryan"
+        url_poster: https://theposterdb.com/api/assets/300708
+        match:
+          mapping_id: 336261
+        seasons:
+            0:
+                url_poster: xxxxx        
+            1:
+                url_poster: https://theposterdb.com/api/assets/300709
+            2:
+                url_poster: https://theposterdb.com/api/assets/300710
+            3:
+                url_poster: https://theposterdb.com/api/assets/300711
+            4:
+                url_poster: https://theposterdb.com/api/assets/373572
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
