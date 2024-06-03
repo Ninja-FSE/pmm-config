@@ -7433,6 +7433,13 @@ metadata:
           mapping_id: 518502
         url_poster: https://theposterdb.com/api/assets/497677
 
+    "Hammarskjöld (2023)":
+        year: 2023
+        title: "Hammarskjöld"
+        match:
+          mapping_id: 1084145
+        url_poster: https://theposterdb.com/api/assets/497687
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
