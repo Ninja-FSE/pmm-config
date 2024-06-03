@@ -7468,6 +7468,13 @@ metadata:
           mapping_id: 533535
         url_poster: https://theposterdb.com/api/assets/497843
 
+    "LOGAN (2017)":
+        year: 2017
+        title: "LOGAN"
+        match:
+          mapping_id: 263115
+        url_poster: https://theposterdb.com/api/assets/497907
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
