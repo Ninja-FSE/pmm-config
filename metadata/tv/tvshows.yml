@@ -1852,21 +1852,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Sanningen  (2023)                           #
-#                                                                   #
-#####################################################################
-    "Fallen (2023)":
-        year: 2023
-        title: "Sanningen"
-        url_poster: https://theposterdb.com/api/assets/447983
-        match:
-          mapping_id: 443351
-        seasons:
-            1:
-               url_poster: https://theposterdb.com/api/assets/447984
-
-#####################################################################
-#                                                                   #
 #               TV-Show Fenris  (2022)                              #
 #                                                                   #
 #####################################################################
@@ -3558,7 +3543,7 @@ metadata:
           mapping_id: 443351
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/469529
+                url_poster: https://theposterdb.com/api/assets/447984
 
 #####################################################################
 #                                                                   #
