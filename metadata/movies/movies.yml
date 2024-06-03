@@ -7426,6 +7426,13 @@ metadata:
           mapping_id: 39486
         url_poster: https://theposterdb.com/api/assets/401249
 
+    "Den blomstertid nu kommer (2018)":
+        year: 2018
+        title: "Den blomstertid nu kommer"
+        match:
+          mapping_id: 518502
+        url_poster: https://theposterdb.com/api/assets/497677
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
