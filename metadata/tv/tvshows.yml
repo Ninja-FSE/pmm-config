@@ -3836,7 +3836,9 @@ metadata:
         url_poster: 421652
         match:
           mapping_id: https://theposterdb.com/api/assets/496686
-        seasons:     
+        seasons:    
+            0:
+                url_poster: https://theposterdb.com/api/assets/497543           
             1:
                 url_poster: https://theposterdb.com/api/assets/496687
 
