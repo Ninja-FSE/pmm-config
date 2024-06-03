@@ -3859,6 +3859,32 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Hell on Wheels (2011)                              #
+#                                                                   #
+#####################################################################
+    "Hell on Wheels (2011)":
+        year: 2011
+        title: "Hell on Wheels"
+        url_poster: https://theposterdb.com/api/assets/497654
+        match:
+          mapping_id: 212961
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/497655        
+            1:
+                url_poster: https://theposterdb.com/api/assets/497656
+            2:
+                url_poster: https://theposterdb.com/api/assets/497657
+            3:
+                url_poster: https://theposterdb.com/api/assets/497658
+            4:
+                url_poster: https://theposterdb.com/api/assets/497659
+            5:
+                url_poster: https://theposterdb.com/api/assets/497658
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
