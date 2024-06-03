@@ -3915,6 +3915,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#              Elitstyrkans hemligheter - Sverige (2021)                              #
+#                                                                   #
+#####################################################################
+    "Elitstyrkans hemligheter - Sverige (2021)":
+        year: 2021
+        title: "Elitstyrkans hemligheter - Sverige"
+        url_poster: https://theposterdb.com/api/assets/497710
+        match:
+          mapping_id: 395024
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
