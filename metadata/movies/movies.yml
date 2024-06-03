@@ -7440,6 +7440,13 @@ metadata:
           mapping_id: 1084145
         url_poster: https://theposterdb.com/api/assets/497687
 
+    "Stockholm Bloodbath (2024)":
+        year: 2024
+        title: "Stockholm Bloodbath"
+        match:
+          mapping_id: 1051486
+        url_poster: https://theposterdb.com/api/assets/497745
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
