@@ -3830,6 +3830,21 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Gold Rush: Parker's Trail (2017)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush: Parker's Trail (2017)":
+        year: 2017
+        title: "Parker`s Trail"
+        sort_title: " Gold Rush: Parker's Trail"
+        url_poster: https://theposterdb.com/api/assets/497637
+        match:
+          mapping_id: 379221
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
