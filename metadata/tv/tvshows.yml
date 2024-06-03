@@ -3971,6 +3971,25 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         I Am Groot (2022)                              #
+#                                                                   #
+#####################################################################
+    "I Am Groot (2022)":
+        year: 2022
+        title: "I Am Groot"
+        url_poster: https://theposterdb.com/api/assets/241856
+        match:
+          mapping_id: 393201
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/258763
+            2:
+                url_poster: https://theposterdb.com/api/assets/451048
+
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
