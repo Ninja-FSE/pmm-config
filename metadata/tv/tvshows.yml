@@ -3836,10 +3836,24 @@ metadata:
     "Gold Rush: Parker's Trail (2017)":
         year: 2017
         title: "Parker`s Trail"
-        sort_title: " Gold Rush: Parker's Trail"
+        sort_title: "Gold Rush: Parker's Trail"
         url_poster: https://theposterdb.com/api/assets/497637
         match:
           mapping_id: 379221
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Gold Rush: Mine Rescue with Freddy & Juan (2021)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush: Mine Rescue with Freddy & Juan (2021)":
+        year: 2021
+        title: "Mine Rescue with Freddy & Juan"
+        sort_title: "Gold Rush: Mine Rescue with Freddy & Juan"
+        match: 
+          mapping_id: 393057
         seasons:
 
 #####################################################################
