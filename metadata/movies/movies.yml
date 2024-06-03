@@ -1408,7 +1408,7 @@ metadata:
         title: "Deadpool"
         match:
           mapping_id: 293660
-        url_poster: https://theposterdb.com/api/assets/171134
+        url_poster: https://theposterdb.com/api/assets/497881
 
     "Once Upon a Deadpool (2018)":
         year: 2018
@@ -1422,7 +1422,7 @@ metadata:
         title: "Deadpool 2"
         match:
           mapping_id: 383498
-        url_poster: https://theposterdb.com/api/assets/171135
+        url_poster: https://theposterdb.com/api/assets/497869
 
     "Dumb and Dumberer: When Harry Met Lloyd (2003)":
         year: 2003
