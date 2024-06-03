@@ -3179,7 +3179,7 @@ metadata:
     "Bonde söker fru - Jorden runt (2021)":
         year: 2021
         title: "Bonde söker fru - Jorden runt"
-        url_poster: https://artworks.thetvdb.com/banners/v4/series/448655/posters/6613aa4321f81.jpg
+        url_poster: https://theposterdb.com/api/assets/497694
         match:
           mapping_id: 448655
         seasons:
