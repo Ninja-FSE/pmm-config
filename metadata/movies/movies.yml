@@ -7419,6 +7419,13 @@ metadata:
           mapping_id: 335970
         url_poster: https://theposterdb.com/api/assets/204428
 
+    "Secretariat (2010)":
+        year: 2010
+        title: "Secretariat"
+        match:
+          mapping_id: 39486
+        url_poster: https://theposterdb.com/api/assets/401249
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
