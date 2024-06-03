@@ -3886,6 +3886,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         En stark resa med Morgan & Ola-Conny (2012)                              #
+#                                                                   #
+#####################################################################
+    "En stark resa med Morgan & Ola-Conny (2012)":
+        year: 2012
+        title: "En stark resa med Morgan & Ola-Conny"
+        url_poster: https://theposterdb.com/api/assets/497675
+        match:
+          mapping_id: 257793
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
