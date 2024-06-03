@@ -7461,6 +7461,13 @@ metadata:
           mapping_id: 4614
         url_poster: https://theposterdb.com/api/assets/170507
 
+    "Deadpool & Wolverine (2024)":
+        year: 2024
+        title: "Deadpool & Wolverine"
+        match:
+          mapping_id: 533535
+        url_poster: https://theposterdb.com/api/assets/497843
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
