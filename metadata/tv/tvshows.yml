@@ -3818,9 +3818,9 @@ metadata:
     "Eric (2024)":
         year: 2024
         title: "Eric"
-        url_poster: 421652
+        url_poster: https://theposterdb.com/api/assets/496686
         match:
-          mapping_id: https://theposterdb.com/api/assets/496686
+          mapping_id: 421652
         seasons:    
             0:
                 url_poster: https://theposterdb.com/api/assets/497543           
