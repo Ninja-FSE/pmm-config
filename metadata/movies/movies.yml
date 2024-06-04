@@ -7482,6 +7482,34 @@ metadata:
           mapping_id: 563
         url_poster: https://theposterdb.com/api/assets/185158
 
+    "Starship Troopers 3: Marauder (2008)":
+        year: 2008
+        title: "Starship Troopers 3: Marauder"
+        match:
+          mapping_id: 11127
+        url_poster: https://theposterdb.com/api/assets/185160
+
+    "Starship Troopers: Traitor of Mars (2017)":
+        year: 2017
+        title: "Starship Troopers: Traitor of Mars"
+        match:
+          mapping_id: 460790
+        url_poster: https://theposterdb.com/api/assets/185162
+
+    "Starship Troopers 2: Hero of the Federation (2004)":
+        year: 2004
+        title: "Starship Troopers 2: Hero of the Federation"
+        match:
+          mapping_id: 10304
+        url_poster: https://theposterdb.com/api/assets/185159
+
+    "Starship Troopers: Invasion (2012)":
+        year: 2012
+        title: "Starship Troopers: Invasion"
+        match:
+          mapping_id: 114478
+        url_poster: https://theposterdb.com/api/assets/185161
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
