@@ -7510,6 +7510,13 @@ metadata:
           mapping_id: 114478
         url_poster: https://theposterdb.com/api/assets/185161
 
+    "Fear and Loathing in Las Vegas (1998)":
+        year: 1998
+        title: "Fear and Loathing in Las Vegas"
+        match:
+          mapping_id: 1878
+        url_poster: https://theposterdb.com/api/assets/194019
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
