@@ -7475,6 +7475,13 @@ metadata:
           mapping_id: 263115
         url_poster: https://theposterdb.com/api/assets/497907
 
+    " Starship Troopers (1997)":
+        year: 1997
+        title: " Starship Troopers"
+        match:
+          mapping_id: 563
+        url_poster: https://theposterdb.com/api/assets/185158
+
     "xxxxx (xxxx)":
         year: xxxx
         title: "xxxxxx"
