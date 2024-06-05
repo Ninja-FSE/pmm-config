@@ -7540,10 +7540,10 @@ metadata:
 
     "Alien Resurrection (1997)":
         year: 1997
-        title: "Alien Resurrection"
+        title: "A L I E N Resurrection"
         match:
           mapping_id: 8078
-        url_poster: https://theposterdb.com/api/assets/490218
+        url_poster: https://theposterdb.com/api/assets/498318
 
     "xxxxx (xxxx)":
         year: xxxx
