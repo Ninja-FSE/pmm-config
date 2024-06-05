@@ -6565,13 +6565,6 @@ metadata:
           mapping_id: 634492
         url_poster: https://theposterdb.com/api/assets/442731
 
-    "Alien: Romulus (2024)":
-        year: 2024
-        title: "Alien: Romulus"
-        match:
-          mapping_id: 945961
-        url_poster: https://theposterdb.com/api/assets/475047
-
     "The Eagle (2011)":
         year: 2011
         title: "The Eagle"
@@ -7523,6 +7516,34 @@ metadata:
         match:
           mapping_id: 945961
         url_poster: https://theposterdb.com/api/assets/498314
+
+    "ALIEN (1979)":
+        year: 1979
+        title: "A L I E N"
+        match:
+          mapping_id: 348
+        url_poster: https://theposterdb.com/api/assets/498315
+
+    "ALIENS (1986)":
+        year: 1986
+        title: "A L I E N S"
+        match:
+          mapping_id: 679
+        url_poster: https://theposterdb.com/api/assets/498316
+
+    "Alien³ (1992)":
+        year: 1992
+        title: "A L I E N ³"
+        match:
+          mapping_id: 8077
+        url_poster: https://theposterdb.com/api/assets/498317
+
+    "Alien Resurrection (1997)":
+        year: 1997
+        title: "Alien Resurrection"
+        match:
+          mapping_id: 8078
+        url_poster: https://theposterdb.com/api/assets/490218
 
     "xxxxx (xxxx)":
         year: xxxx
