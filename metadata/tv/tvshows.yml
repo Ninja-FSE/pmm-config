@@ -4055,9 +4055,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/300708
         match:
           mapping_id: 336261
-        seasons:
-            0:
-                url_poster: xxxxx        
+        seasons:      
             1:
                 url_poster: https://theposterdb.com/api/assets/300709
             2:
@@ -4066,6 +4064,30 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/300711
             4:
                 url_poster: https://theposterdb.com/api/assets/373572
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         9-1-1: Lone Star (2020)                              #
+#                                                                   #
+#####################################################################
+    "9-1-1: Lone Star (2020)":
+        year: 2020
+        title: "9-1-1: Lone Star"
+        url_poster: https://theposterdb.com/api/assets/349110
+        match:
+          mapping_id: xxxx
+        seasons:
+            0:
+                url_poster: xxxxx        
+            1:
+                url_poster: https://theposterdb.com/api/assets/349111
+            2:
+                url_poster: https://theposterdb.com/api/assets/349112
+            3:
+                url_poster: https://theposterdb.com/api/assets/349113
+            4:
+                url_poster: https://theposterdb.com/api/assets/349114
 
 #####################################################################
 #                                                                   #
