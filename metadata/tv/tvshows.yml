@@ -4076,10 +4076,8 @@ metadata:
         title: "9-1-1: Lone Star"
         url_poster: https://theposterdb.com/api/assets/349110
         match:
-          mapping_id: xxxx
-        seasons:
-            0:
-                url_poster: xxxxx        
+          mapping_id: 364080
+        seasons:     
             1:
                 url_poster: https://theposterdb.com/api/assets/349111
             2:
