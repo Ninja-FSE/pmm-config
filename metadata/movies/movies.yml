@@ -7552,6 +7552,13 @@ metadata:
           mapping_id: 718789
         url_poster: https://theposterdb.com/api/assets/186643
 
+    "Venom: The Last Dance (20024)":
+        year: 2024
+        title: "Venom: The Last Dance"
+        match:
+          mapping_id: 912649
+        url_poster: https://theposterdb.com/api/assets/498486
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
