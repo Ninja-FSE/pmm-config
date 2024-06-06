@@ -7559,6 +7559,13 @@ metadata:
           mapping_id: 912649
         url_poster: https://theposterdb.com/api/assets/498486
 
+    "Hit Man (2024)":
+        year: 2024
+        title: "Hit Man"
+        match:
+          mapping_id: 974635
+        url_poster: https://theposterdb.com/api/assets/498642
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
