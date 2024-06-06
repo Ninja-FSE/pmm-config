@@ -7566,6 +7566,13 @@ metadata:
           mapping_id: 974635
         url_poster: https://theposterdb.com/api/assets/498642
 
+    "The Bikeriders (2024)":
+        year: 2024
+        title: "The Bikeriders"
+        match:
+          mapping_id: 1008409
+        url_poster: https://theposterdb.com/api/assets/498643
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
