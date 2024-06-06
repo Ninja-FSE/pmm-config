@@ -7545,6 +7545,13 @@ metadata:
           mapping_id: 8078
         url_poster: https://theposterdb.com/api/assets/498318
 
+    "Lightyear (2022)":
+        year: 2022
+        title: "Lightyear"
+        match:
+          mapping_id: 718789
+        url_poster: https://theposterdb.com/api/assets/186643
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
