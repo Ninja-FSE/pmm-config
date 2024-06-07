@@ -1937,23 +1937,26 @@ metadata:
           mapping_id: 961268
         url_poster: https://theposterdb.com/api/assets/423050
 
-    "Beck 50 (2023)":
+    "Dödläge (2023)":
         year: 2023
-        title: "Beck 50 - Deadlock"
+        title: "Dödläge"
+        sort_title: "Beck 50"         
         match:
           mapping_id: 1037367
         url_poster: https://theposterdb.com/api/assets/498763
 
-    "Beck 49 (2023)":
+    "Inferno (2023)":
         year: 2023
-        title: "Beck 50 - Inferno"
+        title: "Inferno"
+        sort_title: "Beck 49"        
         match:
           mapping_id: 1037365
         url_poster: https://theposterdb.com/api/assets/498752
 
-    "Beck 48 (2023)":
+    "Quid Pro Quo (2023)":
         year: 2023
-        title: "Beck 50 - Quid Pro Quo"
+        title: "Quid Pro Quo"
+        sort_title: "Beck 48"        
         match:
           mapping_id: 1037360
         url_poster: https://theposterdb.com/api/assets/498753
@@ -7678,12 +7681,21 @@ metadata:
           mapping_id: 84060
         url_poster: https://theposterdb.com/api/assets/498733
 
-    "Beck 47 - Dödsfällan (2022)":
+    "Dödsfällan (2022)":
         year: 2022
-        title: "Beck 47 - Dödsfällan"
+        title: "Dödsfällan"
+        sort_title: "Beck 47"         
         match:
           mapping_id: 1037341
         url_poster: https://theposterdb.com/api/assets/498759
+
+    "Den gråtande polisen (2022)":
+        year: 2022
+        title: "Den gråtande polisen"
+        sort_title: "Beck 46" 
+        match:
+          mapping_id: öööö
+        url_poster: öööööö
 
     "öööö (öööö)":
         year: ööööö
