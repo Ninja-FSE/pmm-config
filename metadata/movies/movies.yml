@@ -7697,9 +7697,42 @@ metadata:
           mapping_id: 921250
         url_poster: https://theposterdb.com/api/assets/498770
 
+    "58 Minuter (2022)":
+        year: 2022
+        title: "58 Minuter"
+        sort_title: "Beck 45" 
+        match:
+          mapping_id: 921232
+        url_poster: https://theposterdb.com/api/assets/498773
+
+    "Rage Room (2022)":
+        year: 2022
+        title: "Rage Room"
+        sort_title: "Beck 44" 
+        match:
+          mapping_id: 918913
+        #url_poster: öööööö
+
+    "Ett nytt liv (2021)":
+        year: 2021
+        title: "Ett nytt liv"
+        sort_title: "Beck 43" 
+        match:
+          mapping_id: 917524
+        #url_poster: öööööö
+
+    "Den förlorade sonen (2021)":
+        year: 2021
+        title: "Den förlorade sonen"
+        sort_title: "Beck 42" 
+        match:
+          mapping_id: 782724
+        #url_poster: öööööö
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
+        sort_title: "Beck 44" 
         match:
           mapping_id: öööö
         url_poster: öööööö
