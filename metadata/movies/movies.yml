@@ -7678,6 +7678,13 @@ metadata:
           mapping_id: 84060
         url_poster: https://theposterdb.com/api/assets/498733
 
+    "Beck 47 - Dödsfällan (2022)":
+        year: 2022
+        title: "Beck 47 - Dödsfällan"
+        match:
+          mapping_id: 1037341
+        url_poster: https://theposterdb.com/api/assets/498759
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
