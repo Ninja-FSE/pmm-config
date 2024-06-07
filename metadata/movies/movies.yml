@@ -1942,21 +1942,21 @@ metadata:
         title: "Beck 50 - Deadlock"
         match:
           mapping_id: 1037367
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498754
 
     "Beck 49 (2023)":
         year: 2023
         title: "Beck 50 - Inferno"
         match:
           mapping_id: 1037365
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498752
 
     "Beck 48 (2023)":
         year: 2023
         title: "Beck 50 - Quid Pro Quo"
         match:
           mapping_id: 1037360
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498753
 
     "Bird Box: Barcelona (2023)":
         year: 2023
