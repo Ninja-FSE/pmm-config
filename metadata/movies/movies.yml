@@ -7601,6 +7601,48 @@ metadata:
           mapping_id: 949423
         url_poster: https://theposterdb.com/api/assets/281426
 
+    "Rocky (1976)":
+        year: 1976
+        title: "Rocky"
+        match:
+          mapping_id: 1366
+        url_poster: https://theposterdb.com/api/assets/172014
+
+    "Rocky II (1979)":
+        year: 1979
+        title: "Rocky II"
+        match:
+          mapping_id: 1367
+        url_poster: https://theposterdb.com/api/assets/172015
+
+    "Rocky III (1982)":
+        year: 1982
+        title: "Rocky III"
+        match:
+          mapping_id: 1371
+        url_poster: https://theposterdb.com/api/assets/172016
+
+    "Rocky IV (1985)":
+        year: 1985
+        title: "Rocky IV"
+        match:
+          mapping_id: 1374
+        url_poster: https://theposterdb.com/api/assets/172017
+
+    "Rocky V (1990)":
+        year: 1990
+        title: "Rocky V"
+        match:
+          mapping_id: 1375
+        url_poster: https://theposterdb.com/api/assets/172018
+
+    "Rocky Balboa (2006)":
+        year: 2006
+        title: "Rocky Balboa"
+        match:
+          mapping_id: 1246
+        url_poster: https://theposterdb.com/api/assets/172019
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
