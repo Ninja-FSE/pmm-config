@@ -7785,6 +7785,14 @@ metadata:
           mapping_id: 493594
         #url_poster: öööööö
 
+    "Sista dagen (2016)":
+        year: 2016
+        title: "Sista dagen"
+        sort_title: "Beck 34" 
+        match:
+          mapping_id: 387656
+        #url_poster: öööööö
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
