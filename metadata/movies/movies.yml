@@ -7587,6 +7587,20 @@ metadata:
           mapping_id: 1023922
         url_poster: https://theposterdb.com/api/assets/498492
 
+    "X (2022)":
+        year: 2022
+        title: "X"
+        match:
+          mapping_id: 760104
+        url_poster: https://theposterdb.com/api/assets/228273
+
+    "Pearl (2022)":
+        year: 2022
+        title: "Pearl"
+        match:
+          mapping_id: 949423
+        url_poster: https://theposterdb.com/api/assets/281426
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
