@@ -7643,6 +7643,41 @@ metadata:
           mapping_id: 1246
         url_poster: https://theposterdb.com/api/assets/172019
 
+    "Jaws (1975)":
+        year: 1975
+        title: "Jaws"
+        match:
+          mapping_id: 578
+        url_poster: https://theposterdb.com/api/assets/177611
+
+    "Jaws 2 (1978)":
+        year: 1978
+        title: "Jaws 2"
+        match:
+          mapping_id: 579
+        url_poster: https://theposterdb.com/api/assets/498727
+
+    "Jaws 3 (1983)":
+        year: 1983
+        title: "Jaws 3"
+        match:
+          mapping_id: 17692
+        url_poster: https://theposterdb.com/api/assets/498728
+
+    "Jaws: The Revenge (1987)":
+        year: 1987
+        title: "Jaws: The Revenge"
+        match:
+          mapping_id: 580
+        url_poster: https://theposterdb.com/api/assets/498732
+
+    "Cruel Jaws (1995)":
+        year: 1995
+        title: "Cruel Jaws"
+        match:
+          mapping_id: 84060
+        url_poster: https://theposterdb.com/api/assets/498733
+
     "xxxxx (xxxx)":
         year: xxxxx
         title: "xxxxxx"
