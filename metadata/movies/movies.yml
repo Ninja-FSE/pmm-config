@@ -1328,7 +1328,7 @@ metadata:
 
     "Clerks II (2006)":
         year: 2006
-        title: "xxClerks IIx"
+        title: "Clerks II"
         match:
           mapping_id: 2295
         url_poster: https://theposterdb.com/api/assets/187841
@@ -7552,7 +7552,7 @@ metadata:
           mapping_id: 718789
         url_poster: https://theposterdb.com/api/assets/186643
 
-    "Venom: The Last Dance (20024)":
+    "Venom: The Last Dance (2024)":
         year: 2024
         title: "Venom: The Last Dance"
         match:
