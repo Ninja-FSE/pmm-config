@@ -7729,6 +7729,62 @@ metadata:
           mapping_id: 782724
         #url_poster: öööööö
 
+    "Döden i Samarra (2021)":
+        year: 2021
+        title: "Döden i Samarra"
+        sort_title: "Beck 41" 
+        match:
+          mapping_id: 781766
+        #url_poster: öööööö
+
+    "Utom rimligt tvivel (2020)":
+        year: 2020
+        title: "Utom rimligt tvivel"
+        sort_title: "Beck 40" 
+        match:
+          mapping_id: 771622
+        #url_poster: öööööö
+
+    "Undercover (2020)":
+        year: 2020
+        title: "Undercover"
+        sort_title: "Beck 39" 
+        match:
+          mapping_id: 761156
+        #url_poster: öööööö
+
+    "Djävulens advokat (2018)":
+        year: 2018
+        title: "Djävulens advokat"
+        sort_title: "Beck 38" 
+        match:
+          mapping_id: 514961
+        #url_poster: öööööö
+
+    "Utan uppsåt (2018)":
+        year: 2018
+        title: "Utan uppsåt"
+        sort_title: "Beck 37" 
+        match:
+          mapping_id: 507050
+        #url_poster: öööööö
+
+    "Den tunna isen (2018)":
+        year: 2018
+        title: "Den tunna isen"
+        sort_title: "Beck 36" 
+        match:
+          mapping_id: 500205
+        #url_poster: öööööö
+
+    "Ditt eget blod (2018)":
+        year: 2018
+        title: "Ditt eget blod"
+        sort_title: "Beck 35" 
+        match:
+          mapping_id: 493594
+        #url_poster: öööööö
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
