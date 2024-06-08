@@ -4090,6 +4090,30 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Black Sails (2014)                              #
+#                                                                   #
+#####################################################################
+    "Black Sails (2014)":
+        year: 2014
+        title: "Black Sails"
+        url_poster: https://theposterdb.com/api/assets/345921
+        match:
+          mapping_id: 262407
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/345922        
+            1:
+                url_poster: https://theposterdb.com/api/assets/345923
+            2:
+                url_poster: https://theposterdb.com/api/assets/345924
+            3:
+                url_poster: https://theposterdb.com/api/assets/345925
+            4:
+                url_poster: https://theposterdb.com/api/assets/345926
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################

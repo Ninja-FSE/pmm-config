@@ -7800,6 +7800,13 @@ metadata:
           mapping_id: 399055
         url_poster: https://theposterdb.com/api/assets/184101
 
+    "Captain Phillips (2013)":
+        year: 2013
+        title: "Captain Phillips"
+        match:
+          mapping_id: 109424
+        url_poster: https://theposterdb.com/api/assets/197017
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
