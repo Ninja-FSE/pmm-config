@@ -7807,10 +7807,17 @@ metadata:
           mapping_id: 109424
         url_poster: https://theposterdb.com/api/assets/197017
 
+    "Dark Shadows (2012)":
+        year: 2012
+        title: "Dark Shadows"
+        match:
+          mapping_id: 62213
+        url_poster: https://theposterdb.com/api/assets/180061
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
-        sort_title: "Beck 44" 
+        #sort_title: "Beck 44" 
         match:
           mapping_id: öööö
         url_poster: öööööö
