@@ -7814,6 +7814,270 @@ metadata:
           mapping_id: 62213
         url_poster: https://theposterdb.com/api/assets/180061
 
+    "Gunvald (2016)":
+        year: 2016
+        title: "Gunvald"
+        sort_title: "Beck 31" 
+        match:
+          mapping_id: 375486
+        #url_poster: öööööö
+
+    "Steinar (2016)":
+        year: 2016
+        title: "Steninar"
+        sort_title: "Beck 32" 
+        match:
+          mapping_id: 375880
+        #url_poster: öööööö
+
+    "Vägs ände (2016)":
+        year: 2016
+        title: "Vägs ände"
+        sort_title: "Beck 33" 
+        match:
+          mapping_id: 380590
+        #url_poster: öööööö
+
+    "Sjukhusmorden (2015)":
+        year: 2015
+        title: "Sjukhusmorden"
+        sort_title: "Beck 30" 
+        match:
+          mapping_id: 315367
+        #url_poster: öööööö
+
+    "Invasionen (2015)":
+        year: 2015
+        title: "Invasionen"
+        sort_title: "Beck 29" 
+        match:
+          mapping_id: 315364
+        #url_poster: öööööö
+
+    "Familjen (2015)":
+        year: 2015
+        title: "Familjen"
+        sort_title: "Beck 28" 
+        match:
+          mapping_id: 315362
+        #url_poster: öööööö
+
+    "Rum 302 (2015)":
+        year: 2015
+        title: "Rum 302"
+        sort_title: "Beck 27" 
+        match:
+          mapping_id: 315360
+        #url_poster: öööööö
+
+    "Levande begravd (2010)":
+        year: 2010
+        title: "Levande begravd"
+        sort_title: "Beck 26" 
+        match:
+          mapping_id: 119671
+        #url_poster: öööööö
+
+    "I stormens öga (2009)":
+        year: 2009
+        title: "I stormens öga"
+        sort_title: "Beck 25" 
+        match:
+          mapping_id: 164435
+        #url_poster: öööööö
+
+    "I Guds namn (2007)":
+        year: 2007
+        title: "I Guds namn"
+        sort_title: "Beck 24" 
+        match:
+          mapping_id: 265980
+        #url_poster: öööööö
+
+    "Det tysta skriket (2007)":
+        year: 2007
+        title: "Det tysta skriket"
+        sort_title: "Beck 23" 
+        match:
+          mapping_id: 270113
+        #url_poster: öööööö
+
+    "Den svaga länken (2007)":
+        year: 2007
+        title: "Den svaga länken"
+        sort_title: "Beck 22" 
+        match:
+          mapping_id: 128692
+        #url_poster: öööööö
+
+    "Den japanska shungamålningen (2007)":
+        year: 2007
+        title: "Den japanska shungamålningen"
+        sort_title: "Beck 21" 
+        match:
+          mapping_id: 265981
+        #url_poster: öööööö
+
+    "Advokaten (2007)":
+        year: 2007
+        title: "Advokaten"
+        sort_title: "Beck 20" 
+        match:
+          mapping_id: 270114
+        #url_poster: öööööö
+
+    "Gamen (2007)":
+        year: 2007
+        title: "Gamen"
+        sort_title: "Beck 19" 
+        match:
+          mapping_id: 270116
+        #url_poster: öööööö
+
+    "Flickan i jordkällaren (2006)":
+        year: 2006
+        title: "Flickan i jordkällaren"
+        sort_title: "Beck 18" 
+        match:
+          mapping_id: 270117
+        #url_poster: öööööö
+
+    "Skarpt läge (2006)":
+        year: 2006
+        title: "Skarpt läge"
+        sort_title: "Beck 17" 
+        match:
+          mapping_id: 164431
+        #url_poster: öööööö
+
+    "Sista vittnet (2002)":
+        year: 2002
+        title: "Sista vittnet"
+        sort_title: "Beck 16" 
+        match:
+          mapping_id: 137190
+        #url_poster: öööööö
+
+    "Pojken i glaskulan (2002)":
+        year: 2002
+        title: "Pojken i glaskulan"
+        sort_title: "Beck 15" 
+        match:
+          mapping_id: 270199
+        #url_poster: öööööö
+
+    "Annonsmannen (2002)":
+        year: 2002
+        title: "Annonsmannen"
+        sort_title: "Beck 14" 
+        match:
+          mapping_id: 263116
+        #url_poster: öööööö
+
+    "Okänd avsändare (2002)":
+        year: 20002
+        title: "Okänd avsändare"
+        sort_title: "Beck 13" 
+        match:
+          mapping_id: 270112
+        #url_poster: öööööö
+
+    "Enslingen (2002)":
+        year: 2002
+        title: "Enslingen"
+        sort_title: "Beck 12" 
+        match:
+          mapping_id: 263120
+        #url_poster: öööööö
+
+    "Kartellen (2001)":
+        year: 2001
+        title: "Kartellen"
+        sort_title: "Beck 11" 
+        match:
+          mapping_id: 270111
+        #url_poster: öööööö
+
+    "Mannen utan ansikte (2001)":
+        year: 2001
+        title: "Mannen utan ansikte"
+        sort_title: "Beck 10" 
+        match:
+          mapping_id: 270106
+        #url_poster: öööööö
+
+    "Hämndens pris (2001)":
+        year: 2001
+        title: "Hämndens pris"
+        sort_title: "Beck 09" 
+        match:
+          mapping_id: 119644
+        #url_poster: öööööö
+
+    "Spår i mörker (1998)":
+        year: 1998
+        title: "Spår i mörker"
+        sort_title: "Beck 08" 
+        match:
+          mapping_id: 24771
+        #url_poster: öööööö
+
+    "The Money Man (1998)":
+        year: 1998
+        title: "The Money Man"
+        sort_title: "Beck 07" 
+        match:
+          mapping_id: 270105
+        #url_poster: öööööö
+
+    "Monstret (1998)":
+        year: 1998
+        title: "Monstret"
+        sort_title: "Beck 06" 
+        match:
+          mapping_id: 270047
+        #url_poster: öööööö
+
+    "Pensionat Pärlan (1998)":
+        year: 1998
+        title: "Pensionat Pärlan"
+        sort_title: "Beck 05" 
+        match:
+          mapping_id: 270046
+        #url_poster: öööööö
+
+    "Öga för öga (1998)":
+        year: 1998
+        title: "Öga för öga"
+        sort_title: "Beck 04" 
+        match:
+          mapping_id: 270045
+        #url_poster: öööööö
+
+    "Vita nätter (1998)":
+        year: 1998
+        title: "Vita nätter"
+        sort_title: "Beck 03" 
+        match:
+          mapping_id: 270044
+        #url_poster: öööööö
+
+    "Mannen med ikonerna (1997)":
+        year: 1997
+        title: "Mannen med ikonerna"
+        sort_title: "Beck 02" 
+        match:
+          mapping_id: 270043
+        #url_poster: öööööö
+
+    "Lockpojken (1997)":
+        year: 1997
+        title: "Lockpojken"
+        sort_title: "Beck 01" 
+        match:
+          mapping_id: 383623
+        #url_poster: öööööö
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
@@ -7821,7 +8085,6 @@ metadata:
         match:
           mapping_id: öööö
         url_poster: öööööö
-
 
 
 
