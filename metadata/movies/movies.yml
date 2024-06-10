@@ -7956,7 +7956,7 @@ metadata:
         sort_title: "Beck 16" 
         match:
           mapping_id: 137190
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499348
 
     "Pojken i glaskulan (2002)":
         year: 2002
@@ -7964,7 +7964,7 @@ metadata:
         sort_title: "Beck 15" 
         match:
           mapping_id: 270199
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499347
 
     "Annonsmannen (2002)":
         year: 2002
@@ -7972,7 +7972,7 @@ metadata:
         sort_title: "Beck 14" 
         match:
           mapping_id: 263116
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499346
 
     "Okänd avsändare (2002)":
         year: 20002
@@ -7980,7 +7980,7 @@ metadata:
         sort_title: "Beck 13" 
         match:
           mapping_id: 270112
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499345
 
     "Enslingen (2002)":
         year: 2002
@@ -7988,7 +7988,7 @@ metadata:
         sort_title: "Beck 12" 
         match:
           mapping_id: 263120
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499344
 
     "Kartellen (2001)":
         year: 2001
@@ -7996,7 +7996,7 @@ metadata:
         sort_title: "Beck 11" 
         match:
           mapping_id: 270111
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499342
 
     "Mannen utan ansikte (2001)":
         year: 2001
@@ -8004,7 +8004,7 @@ metadata:
         sort_title: "Beck 10" 
         match:
           mapping_id: 270106
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499341
 
     "Hämndens pris (2001)":
         year: 2001
@@ -8012,7 +8012,7 @@ metadata:
         sort_title: "Beck 09" 
         match:
           mapping_id: 119644
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499340
 
     "Spår i mörker (1998)":
         year: 1998
@@ -8020,7 +8020,7 @@ metadata:
         sort_title: "Beck 08" 
         match:
           mapping_id: 24771
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499339
 
     "The Money Man (1998)":
         year: 1998
@@ -8028,7 +8028,7 @@ metadata:
         sort_title: "Beck 07" 
         match:
           mapping_id: 270105
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499337
 
     "Monstret (1998)":
         year: 1998
@@ -8036,7 +8036,7 @@ metadata:
         sort_title: "Beck 06" 
         match:
           mapping_id: 270047
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499336
 
     "Pensionat Pärlan (1998)":
         year: 1998
@@ -8044,7 +8044,7 @@ metadata:
         sort_title: "Beck 05" 
         match:
           mapping_id: 270046
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499335
 
     "Öga för öga (1998)":
         year: 1998
@@ -8052,7 +8052,7 @@ metadata:
         sort_title: "Beck 04" 
         match:
           mapping_id: 270045
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499334
 
     "Vita nätter (1998)":
         year: 1998
@@ -8060,7 +8060,7 @@ metadata:
         sort_title: "Beck 03" 
         match:
           mapping_id: 270044
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499333
 
     "Mannen med ikonerna (1997)":
         year: 1997
@@ -8068,7 +8068,7 @@ metadata:
         sort_title: "Beck 02" 
         match:
           mapping_id: 270043
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499332
 
     "Lockpojken (1997)":
         year: 1997
@@ -8076,7 +8076,7 @@ metadata:
         sort_title: "Beck 01" 
         match:
           mapping_id: 383623
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499331
 
     "öööö (öööö)":
         year: ööööö
