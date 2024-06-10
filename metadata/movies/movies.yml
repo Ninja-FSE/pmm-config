@@ -8078,13 +8078,116 @@ metadata:
           mapping_id: 383623
         url_poster: https://theposterdb.com/api/assets/499331
 
+    "Gruppen för särskilda insatser (2009)":
+        year: 2009
+        title: "Gruppen för särskilda insatser"
+        sort_title: "Johan Falk 01" 
+        match:
+          mapping_id: 24023
+        url_poster: https://theposterdb.com/api/assets/499424
+
+    "Vapenbröder (2009)":
+        year: 2009
+        title: "Vapenbröder"
+        sort_title: "Johan Falk 02" 
+        match:
+          mapping_id: 24026
+        url_poster: https://theposterdb.com/api/assets/499426
+
+    "Leo Gaut (2009)":
+        year: 2009
+        title: "Leo Gaut"
+        sort_title: "Johan Falk 04" 
+        match:
+          mapping_id: 24024
+        url_poster: https://theposterdb.com/api/assets/499512
+
+    "National Target (2009)":
+        year: 2009
+        title: "National Target"
+        sort_title: "Johan Falk 03" 
+        match:
+          mapping_id: 24025
+        url_poster: https://theposterdb.com/api/assets/499510
+
+    "Slutet (2015)":
+        year: 2015
+        title: "Slutet"
+        sort_title: "Johan Falk 17" 
+        match:
+          mapping_id: 343689
+        url_poster: https://theposterdb.com/api/assets/499439
+
+    "Lockdown (2015)":
+        year: 2015
+        title: "Lockdown"
+        sort_title: "Johan Falk 16" 
+        match:
+          mapping_id: 343688
+        url_poster: https://theposterdb.com/api/assets/499440
+
+    "Blodsdiamanter (2015)":
+        year: 2015
+        title: "Blodsdiamanter"
+        sort_title: "Johan Falk 15" 
+        match:
+          mapping_id: 341190
+        url_poster: https://theposterdb.com/api/assets/499442
+
+    "Tyst diplomati (2015)":
+        year: 2015
+        title: "Tyst diplomati"
+        sort_title: "Johan Falk 14" 
+        match:
+          mapping_id: 325619
+        url_poster: https://theposterdb.com/api/assets/499445
+
+    "Ur askan i elden (2015)":
+        year: 2015
+        title: "Ur askan i elden"
+        sort_title: "Johan Falk 13" 
+        match:
+          mapping_id: 322771
+        url_poster: https://theposterdb.com/api/assets/499448
+
+    "Kodnamn Lisa (2013)":
+        year: 2013
+        title: "Kodnamn Lisa"
+        sort_title: "Johan Falk 12" 
+        match:
+          mapping_id: 141267
+        url_poster: https://theposterdb.com/api/assets/499451
+
+    "Barninfiltratören (2012)":
+        year: 2012
+        title: "Barninfiltratören"
+        sort_title: "Johan Falk 11" 
+        match:
+          mapping_id: 138118
+        url_poster: https://theposterdb.com/api/assets/499455
+
+    "Organizatsija Karayan (2012)":
+        year: 2012
+        title: "Organizatsija Karayan"
+        sort_title: "Johan Falk 100" 
+        match:
+          mapping_id: 138115
+        url_poster: https://theposterdb.com/api/assets/499459
+
+    "Alla råns moder (2012)":
+        year: 2012
+        title: "Alla råns moder"
+        sort_title: "Johan Falk 09" 
+        match:
+          mapping_id: 136071
+        url_poster: https://theposterdb.com/api/assets/499467
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
-        #sort_title: "Beck 44" 
+        sort_title: "Johan Falk xx" 
         match:
           mapping_id: öööö
         url_poster: öööööö
-
 
 
