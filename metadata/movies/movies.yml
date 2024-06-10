@@ -7844,7 +7844,7 @@ metadata:
         sort_title: "Beck 30" 
         match:
           mapping_id: 315367
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499367
 
     "Invasionen (2015)":
         year: 2015
@@ -7852,7 +7852,7 @@ metadata:
         sort_title: "Beck 29" 
         match:
           mapping_id: 315364
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499366
 
     "Familjen (2015)":
         year: 2015
@@ -7860,7 +7860,7 @@ metadata:
         sort_title: "Beck 28" 
         match:
           mapping_id: 315362
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499365
 
     "Rum 302 (2015)":
         year: 2015
@@ -7868,7 +7868,7 @@ metadata:
         sort_title: "Beck 27" 
         match:
           mapping_id: 315360
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499364
 
     "Levande begravd (2010)":
         year: 2010
@@ -7876,7 +7876,7 @@ metadata:
         sort_title: "Beck 26" 
         match:
           mapping_id: 119671
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499363
 
     "I stormens öga (2009)":
         year: 2009
@@ -7884,7 +7884,7 @@ metadata:
         sort_title: "Beck 25" 
         match:
           mapping_id: 164435
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499361
 
     "I Guds namn (2007)":
         year: 2007
@@ -7892,7 +7892,7 @@ metadata:
         sort_title: "Beck 24" 
         match:
           mapping_id: 265980
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499359
 
     "Det tysta skriket (2007)":
         year: 2007
@@ -7900,7 +7900,7 @@ metadata:
         sort_title: "Beck 23" 
         match:
           mapping_id: 270113
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499356
 
     "Den svaga länken (2007)":
         year: 2007
@@ -7908,7 +7908,7 @@ metadata:
         sort_title: "Beck 22" 
         match:
           mapping_id: 128692
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499354
 
     "Den japanska shungamålningen (2007)":
         year: 2007
@@ -7916,7 +7916,7 @@ metadata:
         sort_title: "Beck 21" 
         match:
           mapping_id: 265981
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499353
 
     "Advokaten (2007)":
         year: 2007
@@ -7924,7 +7924,7 @@ metadata:
         sort_title: "Beck 20" 
         match:
           mapping_id: 270114
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499352
 
     "Gamen (2007)":
         year: 2007
@@ -7932,7 +7932,7 @@ metadata:
         sort_title: "Beck 19" 
         match:
           mapping_id: 270116
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499351
 
     "Flickan i jordkällaren (2006)":
         year: 2006
@@ -7940,7 +7940,7 @@ metadata:
         sort_title: "Beck 18" 
         match:
           mapping_id: 270117
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499350
 
     "Skarpt läge (2006)":
         year: 2006
@@ -7948,7 +7948,7 @@ metadata:
         sort_title: "Beck 17" 
         match:
           mapping_id: 164431
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499349
 
     "Sista vittnet (2002)":
         year: 2002
