@@ -7711,7 +7711,7 @@ metadata:
         sort_title: "Beck 44" 
         match:
           mapping_id: 918913
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499383
 
     "Ett nytt liv (2021)":
         year: 2021
@@ -7719,7 +7719,7 @@ metadata:
         sort_title: "Beck 43" 
         match:
           mapping_id: 917524
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499382
 
     "Den förlorade sonen (2021)":
         year: 2021
@@ -7727,7 +7727,7 @@ metadata:
         sort_title: "Beck 42" 
         match:
           mapping_id: 782724
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499381
 
     "Döden i Samarra (2021)":
         year: 2021
@@ -7735,7 +7735,7 @@ metadata:
         sort_title: "Beck 41" 
         match:
           mapping_id: 781766
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499380
 
     "Utom rimligt tvivel (2020)":
         year: 2020
@@ -7743,7 +7743,7 @@ metadata:
         sort_title: "Beck 40" 
         match:
           mapping_id: 771622
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499379
 
     "Undercover (2020)":
         year: 2020
@@ -7751,7 +7751,7 @@ metadata:
         sort_title: "Beck 39" 
         match:
           mapping_id: 761156
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499378
 
     "Djävulens advokat (2018)":
         year: 2018
@@ -7759,7 +7759,7 @@ metadata:
         sort_title: "Beck 38" 
         match:
           mapping_id: 514961
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499377
 
     "Utan uppsåt (2018)":
         year: 2018
@@ -7767,7 +7767,7 @@ metadata:
         sort_title: "Beck 37" 
         match:
           mapping_id: 507050
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499376
 
     "Den tunna isen (2018)":
         year: 2018
@@ -7775,7 +7775,7 @@ metadata:
         sort_title: "Beck 36" 
         match:
           mapping_id: 500205
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499375
 
     "Ditt eget blod (2018)":
         year: 2018
@@ -7783,7 +7783,7 @@ metadata:
         sort_title: "Beck 35" 
         match:
           mapping_id: 493594
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499374
 
     "Sista dagen (2016)":
         year: 2016
@@ -7791,7 +7791,7 @@ metadata:
         sort_title: "Beck 34" 
         match:
           mapping_id: 387656
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499371
 
     "The Shape of Water (2017)":
         year: 2017
@@ -7820,7 +7820,7 @@ metadata:
         sort_title: "Beck 31" 
         match:
           mapping_id: 375486
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499368
 
     "Steinar (2016)":
         year: 2016
@@ -7828,7 +7828,7 @@ metadata:
         sort_title: "Beck 32" 
         match:
           mapping_id: 375880
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499369
 
     "Vägs ände (2016)":
         year: 2016
@@ -7836,7 +7836,7 @@ metadata:
         sort_title: "Beck 33" 
         match:
           mapping_id: 380590
-        #url_poster: öööööö
+        url_poster: https://theposterdb.com/api/assets/499370
 
     "Sjukhusmorden (2015)":
         year: 2015
