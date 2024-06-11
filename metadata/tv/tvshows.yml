@@ -4220,6 +4220,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         En helt vanlig familj (2023)                              #
+#                                                                   #
+#####################################################################
+    "En helt vanlig familj (2023)":
+        year: 2023
+        title: "En helt vanlig familj"
+        url_poster: https://theposterdb.com/api/assets/499658
+        match:
+          mapping_id: 426123
+        seasons:       
+            1:
+                url_poster: https://theposterdb.com/api/assets/499659
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
