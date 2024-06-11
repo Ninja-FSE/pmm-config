@@ -8238,6 +8238,14 @@ metadata:
           mapping_id: 964258
         url_poster: https://theposterdb.com/api/assets/499692
 
+    "Karusell (2023)":
+        year: 2023
+        title: "Karusell"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1058078
+        url_poster: https://theposterdb.com/api/assets/499693
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
