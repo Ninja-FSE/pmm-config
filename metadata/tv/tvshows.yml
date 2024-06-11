@@ -4114,6 +4114,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Becoming Karl Lagerfeld (2024)                              #
+#                                                                   #
+#####################################################################
+    "Becoming Karl Lagerfeld (2024)":
+        year: 2024
+        title: "Becoming Karl Lagerfeld"
+        url_poster: https://theposterdb.com/api/assets/499590
+        match:
+          mapping_id: Becoming Karl Lagerfeld 
+        seasons:
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
