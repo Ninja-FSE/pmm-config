@@ -8214,6 +8214,14 @@ metadata:
           mapping_id: 135659
         url_poster: https://theposterdb.com/api/assets/499618
 
+    "Konvojen (2023)":
+        year: 2023
+        title: "Konvojen"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 983044
+        url_poster: https://theposterdb.com/api/assets/499687
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
