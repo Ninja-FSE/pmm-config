@@ -4128,6 +4128,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         This is Benjamin Ingrosso (2024)                              #
+#                                                                   #
+#####################################################################
+    "This is Benjamin Ingrosso (2024)":
+        year: 2024
+        title: "This is Benjamin Ingrosso"
+        url_poster: https://theposterdb.com/api/assets/499633
+        match:
+          mapping_id: 449297
+        seasons:
+  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
