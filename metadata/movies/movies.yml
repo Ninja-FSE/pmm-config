@@ -8246,6 +8246,14 @@ metadata:
           mapping_id: 1058078
         url_poster: https://theposterdb.com/api/assets/499693
 
+    "The Beast of War (1988)":
+        year: 1988
+        title: "The Beast of War"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 15267
+        url_poster: https://theposterdb.com/api/assets/499694
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
