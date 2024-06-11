@@ -8222,6 +8222,14 @@ metadata:
           mapping_id: 983044
         url_poster: https://theposterdb.com/api/assets/499687
 
+    "Sorority Boys (2002)":
+        year: 2002
+        title: "Sorority Boys"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 6020
+        url_poster: https://theposterdb.com/api/assets/499688
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
