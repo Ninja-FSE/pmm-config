@@ -8230,6 +8230,14 @@ metadata:
           mapping_id: 6020
         url_poster: https://theposterdb.com/api/assets/499688
 
+    "Upproret (2003)":
+        year: 2003
+        title: "Upproret"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 964258
+        url_poster: https://theposterdb.com/api/assets/499692
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
