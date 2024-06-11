@@ -8081,7 +8081,7 @@ metadata:
     "Gruppen för särskilda insatser (2009)":
         year: 2009
         title: "Gruppen för särskilda insatser"
-        sort_title: "Johan Falk 01" 
+        sort_title: "Johan Falk 1" 
         match:
           mapping_id: 24023
         url_poster: https://theposterdb.com/api/assets/499424
@@ -8089,7 +8089,7 @@ metadata:
     "Vapenbröder (2009)":
         year: 2009
         title: "Vapenbröder"
-        sort_title: "Johan Falk 02" 
+        sort_title: "Johan Falk 2" 
         match:
           mapping_id: 24026
         url_poster: https://theposterdb.com/api/assets/499426
@@ -8097,7 +8097,7 @@ metadata:
     "Leo Gaut (2009)":
         year: 2009
         title: "Leo Gaut"
-        sort_title: "Johan Falk 04" 
+        sort_title: "Johan Falk 4" 
         match:
           mapping_id: 24024
         url_poster: https://theposterdb.com/api/assets/499512
@@ -8105,7 +8105,7 @@ metadata:
     "National Target (2009)":
         year: 2009
         title: "National Target"
-        sort_title: "Johan Falk 03" 
+        sort_title: "Johan Falk 3" 
         match:
           mapping_id: 24025
         url_poster: https://theposterdb.com/api/assets/499510
@@ -8169,7 +8169,7 @@ metadata:
     "Organizatsija Karayan (2012)":
         year: 2012
         title: "Organizatsija Karayan"
-        sort_title: "Johan Falk 100" 
+        sort_title: "Johan Falk 10" 
         match:
           mapping_id: 138115
         url_poster: https://theposterdb.com/api/assets/499459
@@ -8177,7 +8177,7 @@ metadata:
     "Alla råns moder (2012)":
         year: 2012
         title: "Alla råns moder"
-        sort_title: "Johan Falk 09" 
+        sort_title: "Johan Falk 9" 
         match:
           mapping_id: 136071
         url_poster: https://theposterdb.com/api/assets/499467
@@ -8185,7 +8185,7 @@ metadata:
     "Operation Näktergal (2009)":
         year: 2009
         title: "Operation Näktergal"
-        sort_title: "Johan Falk 05" 
+        sort_title: "Johan Falk 5" 
         match:
           mapping_id: 24713
         url_poster: https://theposterdb.com/api/assets/499611
@@ -8193,7 +8193,7 @@ metadata:
     "De fredlösa (2009)":
         year: 2009
         title: "De fredlösa"
-        sort_title: "Johan Falk 06" 
+        sort_title: "Johan Falk 6" 
         match:
           mapping_id: 24712
         url_poster: https://theposterdb.com/api/assets/499613
@@ -8201,7 +8201,7 @@ metadata:
     "Spelets regler (2012)":
         year: 2012
         title: "Spelets regler"
-        sort_title: "Johan Falk 07" 
+        sort_title: "Johan Falk 7" 
         match:
           mapping_id: 133879
         url_poster: https://theposterdb.com/api/assets/499615
@@ -8209,7 +8209,7 @@ metadata:
     "De 107 patrioterna (2012)":
         year: 2012
         title: "De 107 patrioterna"
-        sort_title: "Johan Falk 08" 
+        sort_title: "Johan Falk 8" 
         match:
           mapping_id: 135659
         url_poster: https://theposterdb.com/api/assets/499618
@@ -8217,7 +8217,7 @@ metadata:
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
-        sort_title: "Johan Falk xx" 
+        #sort_title: "Johan Falk xx" 
         match:
           mapping_id: öööö
         url_poster: öööööö
