@@ -8182,6 +8182,38 @@ metadata:
           mapping_id: 136071
         url_poster: https://theposterdb.com/api/assets/499467
 
+    "Operation Näktergal (2009)":
+        year: 2009
+        title: "Operation Näktergal"
+        sort_title: "Johan Falk 05" 
+        match:
+          mapping_id: 24713
+        url_poster: https://theposterdb.com/api/assets/499611
+
+    "De fredlösa (2009)":
+        year: 2009
+        title: "De fredlösa"
+        sort_title: "Johan Falk 06" 
+        match:
+          mapping_id: 24712
+        url_poster: https://theposterdb.com/api/assets/499613
+
+    "Spelets regler (2012)":
+        year: 2012
+        title: "Spelets regler"
+        sort_title: "Johan Falk 07" 
+        match:
+          mapping_id: 133879
+        url_poster: https://theposterdb.com/api/assets/499615
+
+    "De 107 patrioterna (2012)":
+        year: 2012
+        title: "De 107 patrioterna"
+        sort_title: "Johan Falk 08" 
+        match:
+          mapping_id: 135659
+        url_poster: https://theposterdb.com/api/assets/499618
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
