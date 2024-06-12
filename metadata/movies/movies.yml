@@ -8254,6 +8254,14 @@ metadata:
           mapping_id: 15267
         url_poster: https://theposterdb.com/api/assets/499694
 
+    "Cottage Country (2013)":
+        year: 2013
+        title: "Cottage Country"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 141733
+        url_poster: https://theposterdb.com/api/assets/499807
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
@@ -8261,5 +8269,6 @@ metadata:
         match:
           mapping_id: öööö
         url_poster: öööööö
+
 
 
