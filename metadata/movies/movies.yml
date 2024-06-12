@@ -8270,6 +8270,14 @@ metadata:
           mapping_id: 309050
         url_poster: https://theposterdb.com/api/assets/499847
 
+    "Starve Acre (2024)":
+        year: 2024
+        title: "Starve Acre"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 933090
+        url_poster: https://theposterdb.com/api/assets/499873
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"

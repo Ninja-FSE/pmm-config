@@ -3554,26 +3554,28 @@ metadata:
     "Solsidan (2010)":
         year: 2010
         title: "Solsidan"
-        url_poster: https://theposterdb.com/api/assets/469360
+        url_poster: https://theposterdb.com/api/assets/499882
         match:
           mapping_id: 138531
-        seasons:    
+        seasons:  
+            0:
+                url_poster: https://theposterdb.com/api/assets/499883 
             1:
-                url_poster: https://theposterdb.com/api/assets/469361
+                url_poster: https://theposterdb.com/api/assets/499884
             2:
-                url_poster: https://theposterdb.com/api/assets/469362
+                url_poster: https://theposterdb.com/api/assets/499885
             3:
-                url_poster: https://theposterdb.com/api/assets/469363
+                url_poster: https://theposterdb.com/api/assets/499886
             4:
-                url_poster: https://theposterdb.com/api/assets/469364
+                url_poster: https://theposterdb.com/api/assets/499887
             5:
-                url_poster: https://theposterdb.com/api/assets/469365
+                url_poster: https://theposterdb.com/api/assets/499888
             6:
-                url_poster: https://theposterdb.com/api/assets/469366
+                url_poster: https://theposterdb.com/api/assets/499889
             7:
-                url_poster: https://theposterdb.com/api/assets/469367
+                url_poster: https://theposterdb.com/api/assets/499890
             8:
-                url_poster: https://theposterdb.com/api/assets/469368
+                url_poster: https://theposterdb.com/api/assets/499891
 
 #####################################################################
 #                                                                   #
