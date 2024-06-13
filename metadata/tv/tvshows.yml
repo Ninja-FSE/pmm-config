@@ -4420,6 +4420,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Kodnamn: Annika (2023)                              #
+#                                                                   #
+#####################################################################
+    "Kodnamn: Annika (2023)":
+        year: 2023
+        title: "Kodnamn: Annika"
+        url_poster: https://theposterdb.com/api/assets/500205
+        match:
+          mapping_id: 438389
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/500206
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
