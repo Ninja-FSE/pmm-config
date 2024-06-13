@@ -8310,6 +8310,14 @@ metadata:
           mapping_id: 1059064
         url_poster: https://theposterdb.com/api/assets/500176
 
+    "A Quiet Place: Day One (2024)":
+        year: 2024
+        title: "A Quiet Place: Day One"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 762441
+        url_poster: https://theposterdb.com/api/assets/500178
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
