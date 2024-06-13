@@ -4294,6 +4294,38 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Nora Sand - Flickorna på englandsbåten (2023)                              #
+#                                                                   #
+#####################################################################
+    "Nora Sand - Flickorna på englandsbåten (2023)":
+        year: 2023
+        title: "Nora Sand - Flickorna på englandsbåten"
+        url_poster: https://theposterdb.com/api/assets/500186
+        match:
+          mapping_id: 439473
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Jordskott (2015)                              #
+#                                                                   #
+#####################################################################
+    "Jordskott (2015)":
+        year: 2015
+        title: "Jordskott"
+        url_poster: https://theposterdb.com/api/assets/500188
+        match:
+          mapping_id: 291965
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/500189
+            2:
+                url_poster: https://theposterdb.com/api/assets/500190        
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
