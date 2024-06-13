@@ -4326,6 +4326,26 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Uti bôgda (2016)                              #
+#                                                                   #
+#####################################################################
+    "Uti bôgda (2016)":
+        year: 2016
+        title: "Uti bôgda"
+        url_poster: https://theposterdb.com/api/assets/500192
+        match:
+          mapping_id: 318593
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/500193
+            2:
+                url_poster: https://theposterdb.com/api/assets/500194
+            3:
+                url_poster: https://theposterdb.com/api/assets/500195
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
