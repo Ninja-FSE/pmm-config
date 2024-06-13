@@ -8302,6 +8302,14 @@ metadata:
           mapping_id: 516729
         url_poster: https://theposterdb.com/api/assets/500155
 
+    "The Instigators (2024)":
+        year: 2024
+        title: "The Instigators"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1059064
+        url_poster: https://theposterdb.com/api/assets/500176
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
