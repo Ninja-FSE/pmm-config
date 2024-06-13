@@ -4436,6 +4436,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Ronja Rövardotter (2024)                              #
+#                                                                   #
+#####################################################################
+    "Ronja Rövardotter (2024)":
+        year: 2024
+        title: "Ronja Rövardotter"
+        url_poster: https://theposterdb.com/api/assets/500214
+        match:
+          mapping_id: 424514
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/500215
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
