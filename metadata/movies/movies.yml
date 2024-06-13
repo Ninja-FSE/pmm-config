@@ -8278,6 +8278,30 @@ metadata:
           mapping_id: 933090
         url_poster: https://theposterdb.com/api/assets/499873
 
+    "Paddington (2014)":
+        year: 2014
+        title: "Paddington"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 116149
+        #url_poster: öööööö
+
+    "Paddington 2 (2017)":
+        year: 2017
+        title: "Paddington 2"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 346648
+        #url_poster: öööööö
+
+    "Paddington in Peru (2024)":
+        year: 2024
+        title: "Paddington in Peru"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 516729
+        url_poster: https://theposterdb.com/api/assets/500155
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
