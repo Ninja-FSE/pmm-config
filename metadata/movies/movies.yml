@@ -8318,6 +8318,30 @@ metadata:
           mapping_id: 762441
         url_poster: https://theposterdb.com/api/assets/500178
 
+    "Noll tolerans (1999)":
+        year: 1999
+        title: "Noll tolerans"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21072
+        url_poster: https://theposterdb.com/api/assets/500184
+
+    "Livvakterna (2001)":
+        year: 2001
+        title: "Livvakterna"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21040
+        url_poster: https://theposterdb.com/api/assets/500183
+
+    "Den tredje vågen (2003)":
+        year: 2003
+        title: "Den tredje vågen"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21041
+        url_poster: https://theposterdb.com/api/assets/500182
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
