@@ -8342,6 +8342,14 @@ metadata:
           mapping_id: 21041
         url_poster: https://theposterdb.com/api/assets/500182
 
+    "How to Rob a Bank (2024)":
+        year: 2024
+        title: "How to Rob a Bank"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1291143
+        url_poster: https://theposterdb.com/api/assets/500196
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
