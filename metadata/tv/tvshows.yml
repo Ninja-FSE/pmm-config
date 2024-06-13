@@ -4392,6 +4392,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Richard Hammond's Workshop (2021)                              #
+#                                                                   #
+#####################################################################
+    "Richard Hammond's Workshop (2021)":
+        year: 2021
+        title: "Richard Hammond's Workshop"
+        url_poster: xhttps://theposterdb.com/api/assets/253889xxx
+        match:
+          mapping_id: 411496
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
