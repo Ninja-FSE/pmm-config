@@ -8284,7 +8284,7 @@ metadata:
         #sort_title: "Johan Falk xx" 
         match:
           mapping_id: 116149
-        #url_poster: öööööö
+        url_poster: https://image.tmdb.org/t/p/original/5oPgiQd3HxSosW2F30xLDfMm3mW.jpg
 
     "Paddington 2 (2017)":
         year: 2017
@@ -8292,7 +8292,7 @@ metadata:
         #sort_title: "Johan Falk xx" 
         match:
           mapping_id: 346648
-        #url_poster: öööööö
+        url_poster: https://image.tmdb.org/t/p/original/8Y26W6ObyphvV3uzovZSnSriX8V.jpg
 
     "Paddington in Peru (2024)":
         year: 2024
