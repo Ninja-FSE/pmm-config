@@ -3931,7 +3931,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
-#                         xxNileCity 105.6xxx (1995)                              #
+#                         NileCity 105.6 (1995)                              #
 #                                                                   #
 #####################################################################
     "NileCity 105.6 (1995)":
@@ -4398,7 +4398,7 @@ metadata:
     "Richard Hammond's Workshop (2021)":
         year: 2021
         title: "Richard Hammond's Workshop"
-        url_poster: xhttps://theposterdb.com/api/assets/253889xxx
+        url_poster: https://theposterdb.com/api/assets/253889
         match:
           mapping_id: 411496
         seasons:
