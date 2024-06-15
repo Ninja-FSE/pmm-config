@@ -4494,6 +4494,20 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Morran och Tobias - Pengarna eller livet (2024)                              #
+#                                                                   #
+#####################################################################
+    "Morran och Tobias - Pengarna eller livet (2024)":
+        year: 2024
+        title: "Morran och Tobias - Pengarna eller livet"
+        url_poster: https://theposterdb.com/api/assets/500581
+        match:
+          mapping_id: 447968
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
