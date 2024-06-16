@@ -8358,10 +8358,17 @@ metadata:
           mapping_id: 829402
         url_poster: https://theposterdb.com/api/assets/500586
 
+    "Burlesque (2010)":
+        year: 2010
+        title: "Burlesque"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 42297
+        url_poster: https://theposterdb.com/api/assets/494676
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
-        #sort_title: "Johan Falk xx" 
         match:
           mapping_id: öööö
         url_poster: öööööö
