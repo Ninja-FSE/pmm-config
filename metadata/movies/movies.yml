@@ -8366,12 +8366,54 @@ metadata:
           mapping_id: 42297
         url_poster: https://theposterdb.com/api/assets/494676
 
+    "Planet of the Apes (2001)":
+        year: 2001
+        title: "Planet of the Apes"
+        match:
+          mapping_id: 869
+        url_poster: https://theposterdb.com/api/assets/185521
+
+    "Planet of the Apes (1968)":
+        year: 1968
+        title: "Planet of the Apes"
+        match:
+          mapping_id: 871
+        url_poster: https://theposterdb.com/api/assets/187337
+
+    "Escape from the Planet of the Apes (1971)":
+        year: 1971
+        title: "Escape from the Planet of the Apes"
+        match:
+          mapping_id: 1687
+        url_poster: https://theposterdb.com/api/assets/187339
+        
+    "Conquest of the Planet of the Apes (1972)":
+        year: 1972
+        title: "Conquest of the Planet of the Apes"
+        match:
+          mapping_id: 1688
+        url_poster: https://theposterdb.com/api/assets/187340
+        
+    "Beneath the Planet of the Apes (1970)":
+        year: 1970
+        title: "Beneath the Planet of the Apes"
+        match:
+          mapping_id: 1685
+        url_poster: https://theposterdb.com/api/assets/187338
+        
+    "Battle for the Planet of the Apes (1973)":
+        year: 1973
+        title: "Battle for the Planet of the Apes"
+        match:
+          mapping_id: 1705
+        url_poster: https://theposterdb.com/api/assets/187341
+        
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
         match:
           mapping_id: öööö
         url_poster: öööööö
-
+        
 
 
