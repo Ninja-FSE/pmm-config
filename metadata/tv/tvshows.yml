@@ -420,8 +420,8 @@ metadata:
 #####################################################################
     "House of the Dragon (2022)":
         year: 2022
-        title: "game of thrones 2"
-        sort_title: "Foundation (2021)"
+        title: "House of the Dragon"
+        sort_title: "game of thrones 2"
         url_poster: https://theposterdb.com/api/assets/259940
         match:
           mapping_id: 371572
