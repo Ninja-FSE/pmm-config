@@ -8408,6 +8408,13 @@ metadata:
           mapping_id: 1705
         url_poster: https://theposterdb.com/api/assets/187341
         
+    "Den sista resan (2024)":
+        year: 2024
+        title: "Den sista resan"
+        match:
+          mapping_id: 1218213
+        url_poster: https://theposterdb.com/api/assets/501184    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
