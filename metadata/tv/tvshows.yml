@@ -427,7 +427,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/259942
-
+            2:
+                url_poster: https://theposterdb.com/api/assets/501186
+                
 #####################################################################
 #                                                                   #
 #               TV-Show Invasion (2021)                             #
