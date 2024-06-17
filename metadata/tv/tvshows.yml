@@ -420,7 +420,8 @@ metadata:
 #####################################################################
     "House of the Dragon (2022)":
         year: 2022
-        title: "House of the Dragon"
+        title: "game of thrones 2"
+        sort_title: "Foundation (2021)"
         url_poster: https://theposterdb.com/api/assets/259940
         match:
           mapping_id: 371572
@@ -429,7 +430,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/259942
             2:
                 url_poster: https://theposterdb.com/api/assets/501186
-                
+
 #####################################################################
 #                                                                   #
 #               TV-Show Invasion (2021)                             #
