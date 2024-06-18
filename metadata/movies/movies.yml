@@ -8415,6 +8415,13 @@ metadata:
           mapping_id: 1218213
         url_poster: https://theposterdb.com/api/assets/501184    
 
+    "Public Enemies (2009)":
+        year: 2009
+        title: "Public Enemies"
+        match:
+          mapping_id: 11322
+        url_poster: https://theposterdb.com/api/assets/213490
+        
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
