@@ -8422,6 +8422,27 @@ metadata:
           mapping_id: 11322
         url_poster: https://theposterdb.com/api/assets/213490
         
+    "Mechanic: Resurrection (2016)":
+        year: 2016
+        title: "Mechanic: Resurrection"
+        match:
+          mapping_id: 278924
+        url_poster: https://theposterdb.com/api/assets/202356     
+
+    "The Mechanic (2011)":
+        year: 2011
+        title: "The Mechanic"
+        match:
+          mapping_id: 27582
+        url_poster: https://theposterdb.com/api/assets/202355
+        
+    "The Mechanic (1972)":
+        year: 1972
+        title: "The Mechanic"
+        match:
+          mapping_id: 19403
+        url_poster: https://theposterdb.com/api/assets/202354
+        
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
