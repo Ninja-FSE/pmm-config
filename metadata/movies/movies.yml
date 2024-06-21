@@ -8457,6 +8457,13 @@ metadata:
           mapping_id: 704673
         url_poster: https://theposterdb.com/api/assets/501926
                 
+    "Anyone But You (2023)":
+        year: 2023
+        title: "Anyone But You"
+        match:
+          mapping_id: 1072790
+        url_poster: https://theposterdb.com/api/assets/439702
+                        
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
