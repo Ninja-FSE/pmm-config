@@ -8443,6 +8443,20 @@ metadata:
           mapping_id: 19403
         url_poster: https://theposterdb.com/api/assets/202354
         
+    "Fighting (2009)":
+        year: 2009
+        title: "Fighting"
+        match:
+          mapping_id: 17336
+        url_poster: https://theposterdb.com/api/assets/234921
+                
+    "Trigger Warning (2024)":
+        year: 2024
+        title: "Trigger Warning"
+        match:
+          mapping_id: 704673
+        url_poster: https://theposterdb.com/api/assets/501926
+                
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
