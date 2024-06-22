@@ -4511,6 +4511,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Hoffman Family Gold (2022)                              #
+#                                                                   #
+#####################################################################
+    "Hoffman Family Gold (2022)":
+        year: 2022
+        title: "Hoffman Family Gold"
+        url_poster: https://theposterdb.com/api/assets/502370
+        match:
+          mapping_id: 410486
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/502371
+            2:
+                url_poster: https://theposterdb.com/api/assets/502372
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
