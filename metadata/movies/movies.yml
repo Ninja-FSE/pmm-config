@@ -507,13 +507,6 @@ metadata:
           mapping_id: 821890
         url_poster: https://theposterdb.com/api/assets/342336
 
-    "Paranormal Activity: Next of Kin (2021)":
-        year: 2021
-        title: "Paranormal Activity: Next of Kin"
-        match:
-          mapping_id: 609972
-        url_poster: https://theposterdb.com/api/assets/186258
-
     "Paul (2011)":
         year: 2011
         title: "Paul"
@@ -8464,6 +8457,62 @@ metadata:
           mapping_id: 1072790
         url_poster: https://theposterdb.com/api/assets/439702
                         
+    "Paranormal Activity (2007)":
+        year: 2007
+        title: "Paranormal Activity"
+        match:
+          mapping_id: 23827
+        url_poster: https://theposterdb.com/api/assets/178560
+                                
+    "Paranormal Activity 2 (2010)":
+        year: 2010
+        title: "Paranormal Activity 2"
+        match:
+          mapping_id: 41436
+        url_poster: https://theposterdb.com/api/assets/178563
+                                
+    "Paranormal Activity: Tokyo Night (2010)":
+        year: 2010
+        title: "Paranormal Activity: Tokyo Night"
+        match:
+          mapping_id: 59429
+        url_poster: https://theposterdb.com/api/assets/178562
+                                
+    "Paranormal Activity 3 (2011)":
+        year: 2011
+        title: "Paranormal Activity 3"
+        match:
+          mapping_id: 72571
+        url_poster: https://theposterdb.com/api/assets/178563
+                                
+    "Paranormal Activity 4 (2012)":
+        year: 2012
+        title: "Paranormal Activity 4"
+        match:
+          mapping_id: 82990
+        url_poster: https://theposterdb.com/api/assets/178564
+                                
+    "Paranormal Activity: The Marked Ones (2014)":
+        year: 2014
+        title: "Paranormal Activity: The Marked Ones"
+        match:
+          mapping_id: 227348
+        url_poster: https://theposterdb.com/api/assets/178565
+                                
+    "Paranormal Activity: The Ghost Dimension (2015)":
+        year: 2015
+        title: "Paranormal Activity: The Ghost Dimension"
+        match:
+          mapping_id: 146301
+        url_poster: https://theposterdb.com/api/assets/178566
+                                
+    "Paranormal Activity: Next of Kin (2021)":
+        year: 2021
+        title: "Paranormal Activity: Next of Kin"
+        match:
+          mapping_id: 609972
+        url_poster: https://theposterdb.com/api/assets/186258 
+                                
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
