@@ -414,7 +414,7 @@ metadata:
         title: "Furiosa: A Mad Max Saga"
         match:
           mapping_id: 786892
-        url_poster: https://theposterdb.com/api/assets/439032
+        url_poster: https://theposterdb.com/api/assets/502367
 
     "Marley & Me (2008)":
         year: 2008
@@ -8518,7 +8518,8 @@ metadata:
         title: "öööööö"
         match:
           mapping_id: öööö
-        url_poster: öööööö
+        url_poster: öööööö       
+
         
 
 
