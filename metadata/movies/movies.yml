@@ -7508,10 +7508,10 @@ metadata:
 
     "Alien: Romulus (2024)":
         year: 2024
-        title: "Alien: Romulus"
+        title: "A L I E N: Romulus"
         match:
           mapping_id: 945961
-        url_poster: https://theposterdb.com/api/assets/498314
+        url_poster: https://theposterdb.com/api/assets/502516
 
     "ALIEN (1979)":
         year: 1979
@@ -8519,7 +8519,7 @@ metadata:
         match:
           mapping_id: 560016
         url_poster: https://theposterdb.com/api/assets/502468       
-                                
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
