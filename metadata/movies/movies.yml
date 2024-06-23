@@ -8513,6 +8513,13 @@ metadata:
           mapping_id: 609972
         url_poster: https://theposterdb.com/api/assets/186258 
                                 
+    "Monkey Man (2024)":
+        year: 2024
+        title: "Monkey Man"
+        match:
+          mapping_id: 560016
+        url_poster: https://theposterdb.com/api/assets/502468       
+                                
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
