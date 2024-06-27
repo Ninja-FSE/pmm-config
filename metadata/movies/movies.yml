@@ -8518,7 +8518,42 @@ metadata:
         title: "Monkey Man"
         match:
           mapping_id: 560016
-        url_poster: https://theposterdb.com/api/assets/502468       
+        url_poster: https://theposterdb.com/api/assets/502468    
+
+    "White House Down (2013)":
+        year: 2013
+        title: "White House Down"
+        match:
+          mapping_id: 117251
+        url_poster: https://theposterdb.com/api/assets/208968
+
+    "Havoc (2005)":
+        year: 2005
+        title: "Havoc"
+        match:
+          mapping_id: 14695
+        url_poster: https://theposterdb.com/api/assets/216843
+
+    "Contagion (2011)":
+        year: 2011
+        title: "Contagion"
+        match:
+          mapping_id: 39538
+        url_poster: https://theposterdb.com/api/assets/499914
+
+    "A Guide to Recognizing Your Saints (2006)":
+        year: 2006
+        title: "A Guide to Recognizing Your Saints"
+        match:
+          mapping_id: 8194
+        url_poster: xxxxx
+
+    "I Am: Celine Dion (2024)":
+        year: 2024
+        title: "I Am: Celine Dion"
+        match:
+          mapping_id: 879805
+        url_poster: https://theposterdb.com/api/assets/502952
 
     "öööö (öööö)":
         year: ööööö
