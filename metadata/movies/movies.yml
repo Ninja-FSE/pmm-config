@@ -2670,42 +2670,42 @@ metadata:
         title: "Jurassic Park"
         match:
           mapping_id: 329
-        url_poster: https://theposterdb.com/api/assets/179165
+        url_poster: https://theposterdb.com/api/assets/504200
 
     "Jurassic Park: The Lost World (1997)":
         year: 1997
         title: "Jurassic Park: The Lost World"
         match:
           mapping_id: 330
-        url_poster: https://theposterdb.com/api/assets/179166
+        url_poster: https://theposterdb.com/api/assets/504199
 
     "Jurassic Park III (2001)":
         year: 2001
         title: "Jurassic Park III"
         match:
           mapping_id: 331
-        url_poster: https://theposterdb.com/api/assets/179167
+        url_poster: https://theposterdb.com/api/assets/504198
 
     "Jurassic World (2015)":
         year: 2015
         title: "Jurassic World"
         match:
           mapping_id: 135397
-        url_poster: https://theposterdb.com/api/assets/179168
+        url_poster: https://theposterdb.com/api/assets/504197
 
     "Jurassic World: Fallen Kingdom (2018)":
         year: 2018
         title: "Jurassic World: Fallen Kingdom"
         match:
           mapping_id: 351286
-        url_poster: https://theposterdb.com/api/assets/179169
+        url_poster: https://theposterdb.com/api/assets/504196
 
     "Jurassic World Dominion (2022)":
         year: 2022
         title: "Jurassic World Dominion"
         match:
           mapping_id: 507086
-        url_poster: https://theposterdb.com/api/assets/242689
+        url_poster: https://theposterdb.com/api/assets/504195
 
     "Kandahar (2023)":
         year: 2023
