@@ -6909,7 +6909,7 @@ metadata:
         title: "Twisters"
         match:
           mapping_id: 718821
-        url_poster: https://theposterdb.com/api/assets/481876
+        url_poster: https://theposterdb.com/api/assets/504660
 
     "Unfrosted (2024)":
         year: 2024
@@ -8624,6 +8624,20 @@ metadata:
         match:
           mapping_id: 1032823
         url_poster: https://theposterdb.com/api/assets/504658       
+
+    "The Exorcism (2024)":
+        year: 2024
+        title: "The Exorcism"
+        match:
+          mapping_id: 646683
+        url_poster: https://theposterdb.com/api/assets/504659       
+
+    "Fly Me to the Moon (2024)":
+        year: 2024
+        title: "Fly Me to the Moon"
+        match:
+          mapping_id: 956842
+        url_poster: https://theposterdb.com/api/assets/500925       
 
     "öööö (öööö)":
         year: ööööö
