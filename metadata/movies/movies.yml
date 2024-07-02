@@ -8604,6 +8604,13 @@ metadata:
           mapping_id: 290859
         url_poster: https://theposterdb.com/api/assets/504249       
 
+    "Boneyard (2024)":
+        year: 2024
+        title: "Boneyard"
+        match:
+          mapping_id: 1114738
+        url_poster: https://theposterdb.com/api/assets/504568       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
