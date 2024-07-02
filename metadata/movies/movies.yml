@@ -8618,6 +8618,13 @@ metadata:
           mapping_id: 9912
         url_poster: https://theposterdb.com/api/assets/216898     
 
+    "TRAP (2024)":
+        year: 2024
+        title: "TRAP"
+        match:
+          mapping_id: 1032823
+        url_poster: https://theposterdb.com/api/assets/504658       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
