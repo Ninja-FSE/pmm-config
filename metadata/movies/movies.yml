@@ -8611,6 +8611,13 @@ metadata:
           mapping_id: 1114738
         url_poster: https://theposterdb.com/api/assets/504568       
 
+    "The World's Fastest Indian (2005)":
+        year: 2005
+        title: "The World's Fastest Indian"
+        match:
+          mapping_id: 9912
+        url_poster: https://theposterdb.com/api/assets/216898     
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
