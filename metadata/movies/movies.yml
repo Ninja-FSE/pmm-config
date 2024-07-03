@@ -8772,7 +8772,7 @@ metadata:
         title: "Tjuven"
         sort_title: "WALLANDER 17" 
         match:
-          mapping_id: https://www.themoviedb.org/movie/289433-wallander-tjuven
+          mapping_id: 289433
         url_poster: https://theposterdb.com/api/assets/504934       
 
     "Cellisten (20009)":
