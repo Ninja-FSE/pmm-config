@@ -8639,9 +8639,266 @@ metadata:
           mapping_id: 956842
         url_poster: https://theposterdb.com/api/assets/500925       
 
+    "Innan Frosten (2005)":
+        year: 2005
+        title: "Innan Frosten"
+        sort_title: "WALLANDER 01" 
+        match:
+          mapping_id: 221868
+        url_poster: https://theposterdb.com/api/assets/504950       
+
+    "Byfånen (2005)":
+        year: 2005
+        title: "Byfånen"
+        sort_title: "WALLANDER 002" 
+        match:
+          mapping_id: 289341
+        url_poster: https://theposterdb.com/api/assets/504949       
+
+    "Bröderna (2005)":
+        year: 2005
+        title: "Bröderna"
+        sort_title: "WALLANDER 03" 
+        match:
+          mapping_id: 289335
+        url_poster: https://theposterdb.com/api/assets/504948       
+
+    "Mörkret (2005)":
+        year: 20005
+        title: "Mörkret"
+        sort_title: "WALLANDER 04" 
+        match:
+          mapping_id: 289329
+        url_poster: https://theposterdb.com/api/assets/504947       
+
+    "Afrikanen (2005)":
+        year: 2005
+        title: "Afrikanen"
+        sort_title: "WALLANDER 05" 
+        match:
+          mapping_id: 289342
+        url_poster: https://theposterdb.com/api/assets/504946       
+
+    "Mastermind (2005)":
+        year: 20005
+        title: "Mastermind"
+        sort_title: "WALLANDER 06" 
+        match:
+          mapping_id: 227246
+        url_poster: https://theposterdb.com/api/assets/504944       
+
+    "Den svaga punkten (2006)":
+        year: 2006
+        title: "Den svaga punkten"
+        sort_title: "WALLANDER 07" 
+        match:
+          mapping_id: 289340
+        url_poster: https://theposterdb.com/api/assets/504945       
+
+    "Fotografen (2006)":
+        year: 2006
+        title: "Fotografen"
+        sort_title: "WALLANDER 08" 
+        match:
+          mapping_id: 289334
+        url_poster: https://theposterdb.com/api/assets/504943       
+
+    "Täckmanteln (2006)":
+        year: 2006
+        title: "Täckmanteln"
+        sort_title: "WALLANDER 09" 
+        match:
+          mapping_id: 261615
+        url_poster: https://theposterdb.com/api/assets/504942       
+
+    "Luftslottet (20006)":
+        year: 20006
+        title: "Luftslottet"
+        sort_title: "WALLANDER 10" 
+        match:
+          mapping_id: 289330
+        url_poster: https://theposterdb.com/api/assets/504941       
+
+    "Blodsband (2006)":
+        year: 2006
+        title: "Blodsband"
+        sort_title: "WALLANDER 11" 
+        match:
+          mapping_id: 289421
+        url_poster: https://theposterdb.com/api/assets/504940     
+
+    "Jokern (2006)":
+        year: 2006
+        title: "Jokern"
+        sort_title: "WALLANDER 12" 
+        match:
+          mapping_id: 289332
+        url_poster: https://theposterdb.com/api/assets/504939       
+
+    "Hemligheten (2006)":
+        year: 2006
+        title: "Hemligheten"
+        sort_title: "WALLANDER 13" 
+        match:
+          mapping_id: 261618
+        url_poster: https://theposterdb.com/api/assets/504938       
+
+    "Hämnden (2009)":
+        year: 2009
+        title: "Hämnden"
+        sort_title: "WALLANDER 14" 
+        match:
+          mapping_id: 289344
+        url_poster: https://theposterdb.com/api/assets/504937       
+
+    "Skulden (2009)":
+        year: 2009
+        title: "Skulden"
+        sort_title: "WALLANDER 15" 
+        match:
+          mapping_id: 289430
+        url_poster: https://theposterdb.com/api/assets/504936       
+
+    "Kuriren (2009)":
+        year: 2009
+        title: "Kuriren"
+        sort_title: "WALLANDER 16" 
+        match:
+          mapping_id: 289425
+        url_poster: https://theposterdb.com/api/assets/504935       
+
+    "Tjuven (20009)":
+        year: 2009
+        title: "Tjuven"
+        sort_title: "WALLANDER 17" 
+        match:
+          mapping_id: https://www.themoviedb.org/movie/289433-wallander-tjuven
+        url_poster: https://theposterdb.com/api/assets/504934       
+
+    "Cellisten (20009)":
+        year: 2009
+        title: "Cellisten"
+        sort_title: "WALLANDER 18" 
+        match:
+          mapping_id: 289343
+        url_poster: https://theposterdb.com/api/assets/504933       
+
+    "Prästen (2009)":
+        year: 2009
+        title: "Prästen"
+        sort_title: "WALLANDER 19" 
+        match:
+          mapping_id: 289428
+        url_poster: https://theposterdb.com/api/assets/504932       
+
+    "Läckan (2009)":
+        year: 2009
+        title: "Läckan"
+        sort_title: "WALLANDER 20" 
+        match:
+          mapping_id: 289426
+        url_poster: https://theposterdb.com/api/assets/504931       
+
+    "Skytten (2009)":
+        year: 2009
+        title: "Skytten"
+        sort_title: "WALLANDER 21" 
+        match:
+          mapping_id: 289432
+        url_poster: https://theposterdb.com/api/assets/504930       
+
+    "Dödsängeln (2010)":
+        year: 2010
+        title: "Dödsängeln"
+        sort_title: "WALLANDER 22" 
+        match:
+          mapping_id: 261622
+        url_poster: https://theposterdb.com/api/assets/504929       
+
+    "Vålnaden (20100)":
+        year: 2010
+        title: "Vålnaden"
+        sort_title: "WALLANDER 23" 
+        match:
+          mapping_id: 289434
+        url_poster: https://theposterdb.com/api/assets/504928       
+
+    "Arvet (2010)":
+        year: 2010
+        title: "Arvet"
+        sort_title: "WALLANDER 24" 
+        match:
+          mapping_id: 284321
+        url_poster: https://theposterdb.com/api/assets/504927       
+
+    "Indrivaren (2010)":
+        year: 2010
+        title: "Indrivaren"
+        sort_title: "WALLANDER 25" 
+        match:
+          mapping_id: 289423
+        url_poster: https://theposterdb.com/api/assets/504926       
+
+    "Vittnet (2010)":
+        year: 2010
+        title: "Vittnet"
+        sort_title: "WALLANDER 26" 
+        match:
+          mapping_id: 289436
+        url_poster: https://theposterdb.com/api/assets/504925       
+
+    "Den orolige mannen (2013)":
+        year: 2013
+        title: "Den orolige mannen"
+        sort_title: "WALLANDER 27" 
+        match:
+          mapping_id: 218939
+        url_poster: https://theposterdb.com/api/assets/504924       
+
+    "Forsvunnen (2013)":
+        year: 2013
+        title: "Forsvunnen"
+        sort_title: "WALLANDER 28" 
+        match:
+          mapping_id: 270846
+        url_poster: https://theposterdb.com/api/assets/504923       
+
+    "Sveket (2013)":
+        year: 2013
+        title: "Sveket"
+        sort_title: "WALLANDER 29" 
+        match:
+          mapping_id: 282129
+        url_poster: https://theposterdb.com/api/assets/504922       
+
+    "Saknaden (2013)":
+        year: 2013
+        title: "Saknaden"
+        sort_title: "WALLANDER 30" 
+        match:
+          mapping_id: 276965
+        url_poster: https://theposterdb.com/api/assets/504921       
+
+    "Mordbrannaren (2013)":
+        year: 2013
+        title: "Mordbrannaren"
+        sort_title: "WALLANDER 31" 
+        match:
+          mapping_id: 270857
+        url_poster: https://theposterdb.com/api/assets/504920       
+
+    "Sorgfågeln (2013)":
+        year: 2013
+        title: "Sorgfågeln"
+        sort_title: "WALLANDER 32" 
+        match:
+          mapping_id: 282134
+        url_poster: https://theposterdb.com/api/assets/504919       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
+        sort_title: "WALLANDER öö" 
         match:
           mapping_id: öööö
         url_poster: öööööö       
