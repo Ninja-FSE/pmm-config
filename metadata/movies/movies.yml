@@ -8895,10 +8895,16 @@ metadata:
           mapping_id: 282134
         url_poster: https://theposterdb.com/api/assets/504919       
 
+    "Space Cadet (2024)":
+        year: 2024
+        title: "Space Cadet"
+        match:
+          mapping_id: 1019411
+        url_poster: https://theposterdb.com/api/assets/505449       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
-        sort_title: "WALLANDER öö" 
         match:
           mapping_id: öööö
         url_poster: öööööö       
