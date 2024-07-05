@@ -4531,6 +4531,21 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Försvunna människor (2022)                              #
+#                                                                   #
+#####################################################################
+    "Försvunna människor (2022)":
+        year: 2022
+        title: "Försvunna människor"
+        url_poster: https://theposterdb.com/api/assets/504656
+        match:
+          mapping_id: 402608
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/504657    
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
