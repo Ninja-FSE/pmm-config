@@ -8902,6 +8902,27 @@ metadata:
           mapping_id: 1019411
         url_poster: https://theposterdb.com/api/assets/505449       
 
+    "The Garfield Movie (2024)":
+        year: 2024
+        title: "The Garfield Movie"
+        match:
+          mapping_id: 748783
+        url_poster: https://theposterdb.com/api/assets/445251       
+
+    "The Vow (2012)":
+        year: 2012
+        title: "The Vow"
+        match:
+          mapping_id: 72570
+        url_poster: https://theposterdb.com/api/assets/209480       
+
+    "Kingdom of the Planet of the Apes (2024)":
+        year: 2024
+        title: "Kingdom of the Planet of the Apes"
+        match:
+          mapping_id: 653346
+        url_poster: https://theposterdb.com/api/assets/432675    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
