@@ -8923,6 +8923,13 @@ metadata:
           mapping_id: 653346
         url_poster: https://theposterdb.com/api/assets/432675    
 
+    "Carrie (20013)":
+        year: 2013
+        title: "Carrie"
+        match:
+          mapping_id: 133805
+        url_poster: https://theposterdb.com/api/assets/494849       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
