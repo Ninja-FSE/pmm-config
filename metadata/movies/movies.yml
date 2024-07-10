@@ -8930,6 +8930,13 @@ metadata:
           mapping_id: 133805
         url_poster: https://theposterdb.com/api/assets/494849       
 
+    "Murder Company (2024)":
+        year: 2024
+        title: "Murder Company"
+        match:
+          mapping_id: 1285247
+        url_poster: https://theposterdb.com/api/assets/506813       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
