@@ -8972,6 +8972,13 @@ metadata:
           mapping_id: 1303660
         url_poster: https://theposterdb.com/api/assets/507216       
 
+    "Sex Tape (2014)":
+        year: 2014
+        title: "Sex Tape"
+        match:
+          mapping_id: 225886
+        url_poster: https://theposterdb.com/api/assets/205738    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
