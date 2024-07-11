@@ -4581,6 +4581,26 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Strandhotellet (2023)                              #
+#                                                                   #
+#####################################################################
+    "Strandhotellet (2023)":
+        year: 2023
+        title: "Strandhotellet"
+        url_poster: https://theposterdb.com/api/assets/507146
+        match:
+          mapping_id: 431228
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/507147
+            2:
+                url_poster: https://theposterdb.com/api/assets/507148
+            3:
+                url_poster: https://theposterdb.com/api/assets/507149
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
