@@ -8979,6 +8979,13 @@ metadata:
           mapping_id: 225886
         url_poster: https://theposterdb.com/api/assets/205738    
 
+    "Wedding Crashers (2005)":
+        year: 2005
+        title: "Wedding Crashers"
+        match:
+          mapping_id: 9522
+        url_poster: https://theposterdb.com/api/assets/194502       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
