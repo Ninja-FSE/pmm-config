@@ -8965,6 +8965,13 @@ metadata:
           mapping_id: 1032425
         url_poster: https://theposterdb.com/api/assets/507166    
 
+    "The Outlaws (2024)":
+        year: 2024
+        title: "The Outlaws"
+        match:
+          mapping_id: 1303660
+        url_poster: https://theposterdb.com/api/assets/507216       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
