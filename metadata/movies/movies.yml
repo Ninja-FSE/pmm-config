@@ -8937,6 +8937,13 @@ metadata:
           mapping_id: 1285247
         url_poster: https://theposterdb.com/api/assets/506813       
 
+    "The Convert (2024)":
+        year: 2024
+        title: "The Convert"
+        match:
+          mapping_id: 1066262
+        url_poster: https://theposterdb.com/api/assets/507160       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
