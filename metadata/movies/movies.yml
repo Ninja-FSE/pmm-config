@@ -8944,6 +8944,20 @@ metadata:
           mapping_id: 1066262
         url_poster: https://theposterdb.com/api/assets/507160       
 
+    "Horizon: An American Saga - Chapter 1 (2024)":
+        year: 2024
+        title: "Horizon: An American Saga - Chapter 1"
+        match:
+          mapping_id: 932086
+        url_poster: https://theposterdb.com/api/assets/507163       
+
+    "Thelma (2024)":
+        year: 2024
+        title: "Thelma"
+        match:
+          mapping_id: 1051891
+        url_poster: https://theposterdb.com/api/assets/507165       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
