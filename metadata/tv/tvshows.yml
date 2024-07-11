@@ -4601,6 +4601,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         SIX (2017)                              #
+#                                                                   #
+#####################################################################
+    "SIX (2017)":
+        year: 2017
+        title: "SIX"
+        url_poster: https://theposterdb.com/api/assets/364811
+        match:
+          mapping_id: 311809
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/364812
+            2:
+                url_poster: https://theposterdb.com/api/assets/364813
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
