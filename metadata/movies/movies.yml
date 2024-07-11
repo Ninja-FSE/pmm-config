@@ -8958,6 +8958,13 @@ metadata:
           mapping_id: 1051891
         url_poster: https://theposterdb.com/api/assets/507165       
 
+    "The Dead Don't Hurt (2024)":
+        year: 2024
+        title: "The Dead Don't Hurt"
+        match:
+          mapping_id: 1032425
+        url_poster: https://theposterdb.com/api/assets/507166    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
