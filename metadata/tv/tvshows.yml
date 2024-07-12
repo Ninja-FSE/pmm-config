@@ -4619,6 +4619,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Exploding Kittens (2024)                              #
+#                                                                   #
+#####################################################################
+    "Exploding Kittens (2024)":
+        year: 2024
+        title: "Exploding Kittens"
+        url_poster: https://theposterdb.com/api/assets/507314
+        match:
+          mapping_id: 419191
+        seasons:   
+            1:
+                url_poster: https://theposterdb.com/api/assets/507315
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
