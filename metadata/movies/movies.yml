@@ -8993,6 +8993,13 @@ metadata:
           mapping_id: 15338
         url_poster: https://theposterdb.com/api/assets/203219       
 
+    "Chappie (2015)":
+        year: 2015
+        title: "Chappie"
+        match:
+          mapping_id: 198184
+        url_poster: https://theposterdb.com/api/assets/507783     
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
