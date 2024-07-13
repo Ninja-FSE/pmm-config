@@ -8986,6 +8986,13 @@ metadata:
           mapping_id: 9522
         url_poster: https://theposterdb.com/api/assets/194502       
 
+    "Ace Ventura Jr: Pet Detective (2009)":
+        year: 2009
+        title: "Ace Ventura Jr: Pet Detective"
+        match:
+          mapping_id: 15338
+        url_poster: https://theposterdb.com/api/assets/203219       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
