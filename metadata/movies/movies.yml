@@ -9000,6 +9000,20 @@ metadata:
           mapping_id: 198184
         url_poster: https://theposterdb.com/api/assets/507783     
 
+    "My Spy (2020)":
+        year: 2020
+        title: "My Spy"
+        match:
+          mapping_id: 592834
+        url_poster: https://theposterdb.com/api/assets/508653       
+
+    "My Spy: The Eternal City (2024)":
+        year: 2024
+        title: "My Spy: The Eternal City"
+        match:
+          mapping_id: 1048241
+        url_poster: https://theposterdb.com/api/assets/508652       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
