@@ -9014,6 +9014,20 @@ metadata:
           mapping_id: 1048241
         url_poster: https://theposterdb.com/api/assets/508652       
 
+    "Dragonkeeper (2024)":
+        year: 2024
+        title: "Dragonkeeper"
+        match:
+          mapping_id: 588648
+        url_poster: https://theposterdb.com/api/assets/508654       
+
+    "Descendants: The Rise of Red (2024)":
+        year: 2024
+        title: "Descendants: The Rise of Red"
+        match:
+          mapping_id: 974262
+        url_poster: https://theposterdb.com/api/assets/508468       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
