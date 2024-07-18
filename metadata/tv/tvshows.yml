@@ -4635,6 +4635,32 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Cobra Kai (2018)                              #
+#                                                                   #
+#####################################################################
+    "Cobra Kai (2018)":
+        year: 2018
+        title: "Cobra Kai"
+        url_poster: https://theposterdb.com/api/assets/508906
+        match:
+          mapping_id: 332858
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/508907
+            2:
+                url_poster: https://theposterdb.com/api/assets/508908
+            3:
+                url_poster: https://theposterdb.com/api/assets/508909
+            4:
+                url_poster: https://theposterdb.com/api/assets/508910
+            5:
+                url_poster: https://theposterdb.com/api/assets/508911
+            6:
+                url_poster: https://theposterdb.com/api/assets/508912
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
