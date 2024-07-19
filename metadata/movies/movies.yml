@@ -3204,12 +3204,101 @@ metadata:
           mapping_id: 324857
         url_poster: https://theposterdb.com/api/assets/171157
 
+    "Star Wars: Episode I - The Phantom Menace (1999)":
+        year: 1999
+        title: "Star Wars: The Phantom Menace"
+        sort_title: "Star Wars - 01"
+        match:
+          mapping_id: 1893
+        url_poster: https://theposterdb.com/api/assets/509309  
+
+    "Star Wars: Episode II - Attack of the Clones (2002)":
+        year: 2002
+        title: "Star Wars: Attack of the Clones"
+        sort_title: "Star Wars - 02"
+        match:
+          mapping_id: 1894
+        url_poster: https://theposterdb.com/api/assets/509308 
+
+    "Star Wars: Episode III - Revenge of the Sith (2005)":
+        year: 2005
+        title: "Star Wars: Revenge of the Sith"
+        sort_title: "Star Wars - 03"
+        match:
+          mapping_id: 1895
+        url_poster: https://theposterdb.com/api/assets/509307     
+
+    "Solo: A Star Wars Story (2018)":
+        year: 2018
+        title: "Solo: A Star Wars Story"
+        sort_title: "Star Wars - 04"
+        match:
+          mapping_id: 348350
+        url_poster: https://theposterdb.com/api/assets/509302    
+
+    "Obi-Wan Kenobi: A Jedi's Return (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi: A Jedi's Return"
+        sort_title: "Star Wars - 05"
+        match:
+          mapping_id: 1015606
+        url_poster: https://theposterdb.com/api/assets/264893    
+
+    "Rogue One: A Star Wars Story (2016)":
+        year: 2016
+        title: "Rogue One: A Star Wars Story"
+        sort_title: "Star Wars - 06"
+        match:
+          mapping_id: 330459
+        url_poster: https://theposterdb.com/api/assets/509304         
+
     "Star Wars: Episode IV - A New Hope (1977)":
         year: 1977
-        title: "Star Wars: Episode IV - A New Hope"
+        title: "Star Wars: A New Hope"
+        sort_title: "Star Wars - 07"        
         match:
           mapping_id: 11
-        url_poster: https://theposterdb.com/api/assets/174457
+        url_poster: https://theposterdb.com/api/assets/509315
+
+    "Star Wars: Episode V - The Empire Strikes Back (1980)":
+        year: 1980
+        title: "Star Wars: The Empire Strikes Back"
+        sort_title: "Star Wars - 08"   
+        match:
+          mapping_id: 1891
+        url_poster: https://theposterdb.com/api/assets/509313     
+
+    "Star Wars: Episode VI - Return of the Jedi (1983)":
+        year: 1983
+        title: "Star Wars: Return of the Jedi"
+        sort_title: "Star Wars - 09"   
+        match:
+          mapping_id: 1892
+        url_poster: https://theposterdb.com/api/assets/509312     
+
+    "Star Wars: Episode VII - The Force Awakens (2015)":
+        year: 2015
+        title: "Star Wars: The Force Awakens"
+        sort_title: "Star Wars - 10"          
+        match:
+          mapping_id: 140607
+        url_poster: https://theposterdb.com/api/assets/509305   
+
+    "Star Wars: Episode VIII - The Last Jedi (2017)":
+        year: 2017
+        title: "Star Wars: The Last Jedi"
+        sort_title: "Star Wars - 11"            
+        match:
+          mapping_id: 181808
+        url_poster: https://theposterdb.com/api/assets/509303       
+
+    "Star Wars: Episode IX - The Rise of Skywalker (2019)":
+        year: 2019
+        title: "Star Wars: The Rise of Skywalker"
+        sort_title: "Star Wars - 12"           
+        match:
+          mapping_id: 181812
+        url_poster: https://theposterdb.com/api/assets/509301       
 
     "The Star Wars Holiday Special (1978)":
         year: 1978
@@ -3219,44 +3308,6 @@ metadata:
           mapping_id: 74849
         url_poster: https://theposterdb.com/api/assets/174458
 
-    "Obi-Wan Kenobi: A Jedi's Return (2022)":
-        year: 2022
-        title: "Obi-Wan Kenobi: A Jedi's Return"
-        sort_title: "Star Wars - 21"
-        match:
-          mapping_id: 1015606
-        url_poster: https://theposterdb.com/api/assets/264893
-
-    "Star Wars: Episode V - The Empire Strikes Back (1980)":
-        year: 1980
-        title: "Star Wars: Episode V - The Empire Strikes Back"
-        match:
-          mapping_id: 1891
-        url_poster: https://theposterdb.com/api/assets/174459
-
-    "Star Wars: Episode VI - Return of the Jedi (1983)":
-        year: 1983
-        title: "Star Wars: Episode VI - Return of the Jedi"
-        match:
-          mapping_id: 1892
-        url_poster: https://theposterdb.com/api/assets/174460
-
-    "Star Wars: Episode I - The Phantom Menace (1999)":
-        year: 1999
-        title: "Star Wars: Episode I - The Phantom Menace"
-        sort_title: "Star Wars - 01"
-        match:
-          mapping_id: 1893
-        url_poster: https://theposterdb.com/api/assets/174463
-
-    "Star Wars: Episode II - Attack of the Clones (2002)":
-        year: 2002
-        title: "Star Wars: Episode II - Attack of the Clones"
-        sort_title: "Star Wars - 02"
-        match:
-          mapping_id: 1894
-        url_poster: https://theposterdb.com/api/assets/174464
-
     "Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)":
         year: 2004
         title: "Empire of Dreams: The Story of the 'Star Wars' Trilogy"
@@ -3264,57 +3315,12 @@ metadata:
           mapping_id: 76180
         url_poster: https://theposterdb.com/api/assets/244801
 
-    "Star Wars: Episode III - Revenge of the Sith (2005)":
-        year: 2005
-        title: "Star Wars: Episode III - Revenge of the Sith"
-        sort_title: "Star Wars - 03"
-        match:
-          mapping_id: 1895
-        url_poster: https://theposterdb.com/api/assets/174465
-
     "Star Wars: The Clone Wars (2008)":
         year: 2008
         title: "Star Wars: The Clone Wars"
         match:
           mapping_id: 12180
-        url_poster: https://theposterdb.com/api/assets/174473
-
-    "Star Wars: Episode VII - The Force Awakens (2015)":
-        year: 2015
-        title: "Star Wars: Episode VII - The Force Awakens"
-        match:
-          mapping_id: 140607
-        url_poster: https://theposterdb.com/api/assets/174467
-
-    "Rogue One: A Star Wars Story (2016)":
-        year: 2016
-        title: "Rogue One: A Star Wars Story"
-        sort_title: "Star Wars - 11"
-        match:
-          mapping_id: 330459
-        url_poster: https://theposterdb.com/api/assets/174468
-
-    "Star Wars: Episode VIII - The Last Jedi (2017)":
-        year: 2017
-        title: "Star Wars: Episode VIII - The Last Jedi"
-        match:
-          mapping_id: 181808
-        url_poster: https://theposterdb.com/api/assets/174469
-
-    "Solo: A Star Wars Story (2018)":
-        year: 2018
-        title: "Solo: A Star Wars Story"
-        sort_title: "Star Wars - 12"
-        match:
-          mapping_id: 348350
-        url_poster: https://theposterdb.com/api/assets/174470
-
-    "Star Wars: Episode IX - The Rise of Skywalker (2019)":
-        year: 2019
-        title: "Star Wars: Episode IX - The Rise of Skywalker"
-        match:
-          mapping_id: 181812
-        url_poster: https://theposterdb.com/api/assets/174471
+        url_poster: https://theposterdb.com/api/assets/509358
 
     "The Skywalker Legacy (2020)":
         year: 2020
