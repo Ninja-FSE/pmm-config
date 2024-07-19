@@ -832,7 +832,7 @@ metadata:
         year: 2008
         title: "The Clone Wars"
         sort_title: "Star Wars: The Clone Wars"
-        url_poster: https://theposterdb.com/api/assets/225828
+        url_poster: https://theposterdb.com/api/assets/509358
         match:
           mapping_id: 83268
         seasons:
@@ -862,16 +862,16 @@ metadata:
         year: 2019
         title: "The Mandalorian"
         sort_title: "Star Wars: Mandalorian"
-        url_poster: https://theposterdb.com/api/assets/174476
+        url_poster: https://theposterdb.com/api/assets/509351
         match:
           mapping_id: 361753
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/200215
+                url_poster: https://theposterdb.com/api/assets/509352
             2:
-                url_poster: https://theposterdb.com/api/assets/200216
+                url_poster: https://theposterdb.com/api/assets/509353
             3:
-                url_poster: https://theposterdb.com/api/assets/319818
+                url_poster: https://theposterdb.com/api/assets/509354
 
 #####################################################################
 #                                                                   #
@@ -882,7 +882,7 @@ metadata:
         year: 2021
         title: "The Book of Boba Fett"
         sort_title: "Star Wars: The Book of Boba Fett"  
-        url_poster: https://theposterdb.com/api/assets/200213
+        url_poster: https://theposterdb.com/api/assets/509347
         match:
           mapping_id: 393589
         seasons:
@@ -898,7 +898,7 @@ metadata:
         year: 2022
         title: "Obi-Wan Kenobi"
         sort_title: "Star Wars: Obi-Wan Kenobi"        
-        url_poster: https://theposterdb.com/api/assets/238547
+        url_poster: https://theposterdb.com/api/assets/509346
         match:
           mapping_id: 393199
         seasons:
@@ -914,7 +914,7 @@ metadata:
         year: 2022
         title: "Andor"
         sort_title: "Star Wars: Andor"          
-        url_poster: https://theposterdb.com/api/assets/267562
+        url_poster: https://theposterdb.com/api/assets/509345
         match:
           mapping_id: 393189
         seasons:
@@ -930,7 +930,7 @@ metadata:
         year: 2022
         title: "Tales of the Jedi"
         sort_title: "Star Wars: Tales of the Jedi"          
-        url_poster: https://theposterdb.com/api/assets/328803
+        url_poster: https://theposterdb.com/api/assets/509317
         match:
           mapping_id: 420659
         seasons:
@@ -946,7 +946,7 @@ metadata:
         year: 2023
         title: "Ahsoka"
         sort_title: "Star Wars: Tales of the Jedi"         
-        url_poster: https://theposterdb.com/api/assets/392135
+        url_poster: https://theposterdb.com/api/assets/509316
         match:
           mapping_id: 393187
         seasons:
