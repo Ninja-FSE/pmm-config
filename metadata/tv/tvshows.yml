@@ -681,17 +681,20 @@ metadata:
     "Snowpiercer (2020)":
         year: 2020
         title: "Snowpiercer"
-        url_poster: https://theposterdb.com/api/assets/259024
+        url_poster: https://theposterdb.com/api/assets/509919
         match:
           mapping_id: 364928
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/509920      
             1:
-                url_poster: https://theposterdb.com/api/assets/259026
+                url_poster: https://theposterdb.com/api/assets/509921
             2:
-                url_poster: https://theposterdb.com/api/assets/259027
+                url_poster: https://theposterdb.com/api/assets/509922
             3:
-                url_poster: https://theposterdb.com/api/assets/259028
-
+                url_poster: https://theposterdb.com/api/assets/509923
+            4:
+                url_poster: https://theposterdb.com/api/assets/509924
 #####################################################################
 #                                                                   #
 #               TV-Show Sons of Anarchy (2008)                      #
@@ -2619,7 +2622,7 @@ metadata:
         year: 2022
         title: "Tales of the Jedi"
         sort_title: "Star Wars: Tales of the Jedi"           
-        url_poster: https://theposterdb.com/api/assets/282026
+        url_poster: https://theposterdb.com/api/assets/509317
         match:
           mapping_id: 420659
         seasons:
@@ -3376,7 +3379,7 @@ metadata:
         year: 2024
         title: "The Acolyte"
         sort_title: "Star Wars: The Acolyte"           
-        url_poster: https://theposterdb.com/api/assets/494857
+        url_poster: https://theposterdb.com/api/assets/509344
         match:
           mapping_id: 393197
         seasons:
