@@ -3330,6 +3330,21 @@ metadata:
           mapping_id: 680382
         url_poster: https://theposterdb.com/api/assets/174486
 
+    "Ewoks: The Battle for Endor (1985)":
+        year: 1985
+        title: "Ewoks: The Battle for Endor"
+        match:
+          mapping_id: 10372
+        url_poster: https://theposterdb.com/api/assets/509310       
+
+    "Caravan of Courage: An Ewok Adventure (1984)":
+        year: 1984
+        title: "The Ewok Adventure"
+        match:
+          mapping_id: 1884
+        url_poster: https://theposterdb.com/api/assets/509311       
+
+
     "Talk to Me (2023)":
         year: 2023
         title: "Talk to Me"
