@@ -9056,6 +9056,27 @@ metadata:
           mapping_id: 573435
         url_poster: https://theposterdb.com/api/assets/510329       
 
+    "Bad Boys II (2003)":
+        year: 2003
+        title: "Bad Boys II"
+        match:
+          mapping_id: 8961
+        url_poster: https://theposterdb.com/api/assets/510335       
+
+    "Bad Boys (1995)":
+        year: 1995
+        title: "Bad Boys"
+        match:
+          mapping_id: 9737
+        url_poster: https://theposterdb.com/api/assets/510336       
+
+    "Bad Boys for Life (2020)":
+        year: 2020
+        title: "Bad Boys for Life"
+        match:
+          mapping_id: 38700
+        url_poster: https://theposterdb.com/api/assets/510334       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
