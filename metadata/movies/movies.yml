@@ -9077,6 +9077,13 @@ metadata:
           mapping_id: 38700
         url_poster: https://theposterdb.com/api/assets/510334       
 
+    "Kill the Irishman (20011)":
+        year: 20011
+        title: "Kill the Irishman"
+        match:
+          mapping_id: 51209
+        url_poster: https://theposterdb.com/api/assets/234927 
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
