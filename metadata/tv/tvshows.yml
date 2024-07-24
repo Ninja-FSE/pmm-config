@@ -4638,7 +4638,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
-#                         Cobra Kai (2018)                              #
+#                         Cobra Kai (2018)                           #
 #                                                                   #
 #####################################################################
     "Cobra Kai (2018)":
@@ -4663,6 +4663,24 @@ metadata:
             6:
                 url_poster: https://theposterdb.com/api/assets/508912
 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Cowboy Cartel (2024)                              #
+#                                                                   #
+#####################################################################
+    "Cowboy Cartel (2024)":
+        year: 2024
+        title: "Cowboy Cartel"
+        url_poster: https://theposterdb.com/api/assets/510900
+        match:
+          mapping_id: 452490
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/510901        
+            1:
+                url_poster: https://theposterdb.com/api/assets/510902
+ 
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
