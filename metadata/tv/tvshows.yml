@@ -4684,6 +4684,32 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         SEAL Team (2017)                              #
+#                                                                   #
+#####################################################################
+    "SEAL Team (2017)":
+        year: 2017
+        title: "SEAL Team"
+        url_poster: https://theposterdb.com/api/assets/366610
+        match:
+          mapping_id: 328686
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/366604
+            2:
+                url_poster: https://theposterdb.com/api/assets/366605
+            3:
+                url_poster: https://theposterdb.com/api/assets/366606
+            4:
+                url_poster: https://theposterdb.com/api/assets/366607
+            5:
+                url_poster: https://theposterdb.com/api/assets/366608
+            6:
+                url_poster: https://theposterdb.com/api/assets/366609
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
