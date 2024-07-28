@@ -9084,6 +9084,13 @@ metadata:
           mapping_id: 51209
         url_poster: https://theposterdb.com/api/assets/234927 
           
+    "Mr. Popper's Penguins (2011)":
+        year: 2011
+        title: "Mr. Popper's Penguins"
+        match:
+          mapping_id: 58224
+        url_poster: https://theposterdb.com/api/assets/174860       
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
