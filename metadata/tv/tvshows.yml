@@ -4710,6 +4710,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Simone Biles Rising (2024)                              #
+#                                                                   #
+#####################################################################
+    "Simone Biles Rising (2024)":
+        year: 2024
+        title: "Simone Biles Rising"
+        url_poster: https://theposterdb.com/api/assets/512173
+        match:
+          mapping_id: 450109
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/512174
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
