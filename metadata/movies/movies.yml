@@ -9091,12 +9091,19 @@ metadata:
           mapping_id: 58224
         url_poster: https://theposterdb.com/api/assets/174860       
           
+    "Daddio (2024)":
+        year: 2024
+        title: "Daddio"
+        match:
+          mapping_id: 843416
+        url_poster: https://theposterdb.com/api/assets/512084          
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
         match:
           mapping_id: öööö
-        url_poster: öööööö       
+        url_poster: ööööö    
 
         
 
