@@ -9098,6 +9098,27 @@ metadata:
           mapping_id: 843416
         url_poster: https://theposterdb.com/api/assets/512084          
           
+    "Nerve (2016)":
+        year: 20016
+        title: "Nerve"
+        match:
+          mapping_id: 328387
+        url_poster: https://theposterdb.com/api/assets/202370    
+          
+    "Mission: Cross (2024)":
+        year: 2024
+        title: "Mission: Cross"
+        match:
+          mapping_id: 1002088
+        url_poster: https://theposterdb.com/api/assets/515431    
+          
+    "Speed Kills (2018)":
+        year: 2018
+        title: "Speed Kills"
+        match:
+          mapping_id: 466411
+        url_poster: https://theposterdb.com/api/assets/515432    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
