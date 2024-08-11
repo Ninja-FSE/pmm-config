@@ -9126,6 +9126,13 @@ metadata:
           mapping_id: 1281826
         url_poster: https://theposterdb.com/api/assets/514511    
           
+    "Ride (2024)":
+        year: 2024
+        title: "Ride"
+        match:
+          mapping_id: 1279642
+        url_poster: https://theposterdb.com/api/assets/515736    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
