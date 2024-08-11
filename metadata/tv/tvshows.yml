@@ -4726,6 +4726,40 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Morden i Sandhamn (2010)                              #
+#                                                                   #
+#####################################################################
+    "Morden i Sandhamn (2010)":
+        year: 2010
+        title: "Morden i Sandhamn"
+        url_poster: https://theposterdb.com/api/assets/515563
+        match:
+          mapping_id: 212821
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/515564
+            2:
+                url_poster: https://theposterdb.com/api/assets/515565
+            3:
+                url_poster: https://theposterdb.com/api/assets/515566
+            4:
+                url_poster: https://theposterdb.com/api/assets/515567
+            5:
+                url_poster: https://theposterdb.com/api/assets/515568
+            6:
+                url_poster: https://theposterdb.com/api/assets/515569
+            7:
+                url_poster: https://theposterdb.com/api/assets/515570
+            8:
+                url_poster: https://theposterdb.com/api/assets/515571
+            9:
+                url_poster: https://theposterdb.com/api/assets/515572
+            10:
+                url_poster: https://theposterdb.com/api/assets/515573
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
