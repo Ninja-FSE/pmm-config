@@ -4762,6 +4762,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Secrets of the Hells Angels (2024)                              #
+#                                                                   #
+#####################################################################
+    "Secrets of the Hells Angels (2024)":
+        year: 2024
+        title: "Secrets of the Hells Angels"
+        url_poster: https://theposterdb.com/api/assets/483010
+        match:
+          mapping_id: 447119
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/483011        
+            1:
+                url_poster: https://theposterdb.com/api/assets/483012
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
