@@ -9119,6 +9119,13 @@ metadata:
           mapping_id: 466411
         url_poster: https://theposterdb.com/api/assets/515432    
           
+    "One Fast Move (2024)":
+        year: 20024
+        title: "One Fast Move"
+        match:
+          mapping_id: 1281826
+        url_poster: https://theposterdb.com/api/assets/514511    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
