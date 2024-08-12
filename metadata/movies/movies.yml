@@ -9140,6 +9140,13 @@ metadata:
           mapping_id: 466272
         url_poster: https://theposterdb.com/api/assets/170585    
           
+    "The Union (2024)":
+        year: 2024
+        title: "The Union"
+        match:
+          mapping_id: 704239
+        url_poster: https://theposterdb.com/api/assets/515960    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
