@@ -9133,6 +9133,13 @@ metadata:
           mapping_id: 1279642
         url_poster: https://theposterdb.com/api/assets/515736    
           
+    "Once Upon a Time in... Hollywood (2019)":
+        year: 2019
+        title: "Once Upon a Time in... Hollywood"
+        match:
+          mapping_id: 466272
+        url_poster: https://theposterdb.com/api/assets/170585    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
