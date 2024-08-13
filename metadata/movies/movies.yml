@@ -9154,6 +9154,13 @@ metadata:
           mapping_id: 1300962
         url_poster: https://theposterdb.com/api/assets/516099    
           
+    "Greedy People (2024)":
+        year: 2024
+        title: "Greedy People"
+        match:
+          mapping_id: 974250
+        url_poster: https://theposterdb.com/api/assets/516151    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
