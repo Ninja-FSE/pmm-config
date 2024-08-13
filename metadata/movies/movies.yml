@@ -9147,6 +9147,13 @@ metadata:
           mapping_id: 704239
         url_poster: https://theposterdb.com/api/assets/515960    
           
+    "The Beast Within (2024)":
+        year: 2024
+        title: "The Beast Within"
+        match:
+          mapping_id: 1300962
+        url_poster: https://theposterdb.com/api/assets/516099    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
