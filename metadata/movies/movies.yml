@@ -9161,6 +9161,13 @@ metadata:
           mapping_id: 974250
         url_poster: https://theposterdb.com/api/assets/516151    
           
+    "Jackpot! (2024)":
+        year: 2024
+        title: "Jackpot!"
+        match:
+          mapping_id: 1094138
+        url_poster: https://theposterdb.com/api/assets/516583    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
