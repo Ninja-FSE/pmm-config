@@ -9168,6 +9168,20 @@ metadata:
           mapping_id: 1094138
         url_poster: https://theposterdb.com/api/assets/516583    
           
+    "It Ends with Us (2024)":
+        year: 2024
+        title: "It Ends with Us"
+        match:
+          mapping_id: 1079091
+        url_poster: https://theposterdb.com/api/assets/516585    
+          
+    "Subservience (2024)":
+        year: 2024
+        title: "Subservience"
+        match:
+          mapping_id: 1064028
+        url_poster: https://theposterdb.com/api/assets/516586    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
