@@ -9182,6 +9182,13 @@ metadata:
           mapping_id: 1064028
         url_poster: https://theposterdb.com/api/assets/516586    
           
+    "Gunner (2024)":
+        year: 2024
+        title: "Gunner"
+        match:
+          mapping_id: 5492
+        url_poster: https://theposterdb.com/api/assets/516725    
+          
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
