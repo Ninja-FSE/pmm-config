@@ -23,6 +23,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/349101
             6:
                 url_poster: https://theposterdb.com/api/assets/349102
+            7:
+                url_poster: https://theposterdb.com/api/assets/458301                
 
 #####################################################################
 #                                                                   #
@@ -119,8 +121,12 @@ metadata:
         match:
           mapping_id: 399240
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/479041      
             1:
                 url_poster: https://theposterdb.com/api/assets/430915
+            2:
+                url_poster: https://theposterdb.com/api/assets/479042
 
 #####################################################################
 #                                                                   #
@@ -315,48 +321,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Gold Rush (2010)                            #
-#                                                                   #
-#####################################################################
-    "Gold Rush (2010)":
-        year: 2010
-        title: "Gold Rush"
-        sort_title: "Gold Rush"
-        url_poster: https://theposterdb.com/api/assets/415829
-        match:
-          mapping_id: 208111
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/415831
-            2:
-                url_poster: https://theposterdb.com/api/assets/415832
-            3:
-                url_poster: https://theposterdb.com/api/assets/415833
-            4:
-                url_poster: https://theposterdb.com/api/assets/415834
-            5:
-                url_poster: https://theposterdb.com/api/assets/415835
-            6:
-                url_poster: https://theposterdb.com/api/assets/415836
-            7:
-                url_poster: https://theposterdb.com/api/assets/415837
-            8:
-                url_poster: https://theposterdb.com/api/assets/415838
-            9:
-                url_poster: https://theposterdb.com/api/assets/415839
-            10:
-                url_poster: https://theposterdb.com/api/assets/415840
-            11:
-                url_poster: https://theposterdb.com/api/assets/415841
-            12:
-                url_poster: https://theposterdb.com/api/assets/415842
-            13:
-                url_poster: https://theposterdb.com/api/assets/415843
-            14:
-                url_poster: https://theposterdb.com/api/assets/415844
-
-#####################################################################
-#                                                                   #
 #               TV-Show Goosebumps (2023)                           #
 #                                                                   #
 #####################################################################
@@ -457,12 +421,15 @@ metadata:
     "House of the Dragon (2022)":
         year: 2022
         title: "House of the Dragon"
+        sort_title: "game of thrones 2"
         url_poster: https://theposterdb.com/api/assets/259940
         match:
           mapping_id: 371572
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/259942
+            2:
+                url_poster: https://theposterdb.com/api/assets/501186
 
 #####################################################################
 #                                                                   #
@@ -714,17 +681,20 @@ metadata:
     "Snowpiercer (2020)":
         year: 2020
         title: "Snowpiercer"
-        url_poster: https://theposterdb.com/api/assets/259024
+        url_poster: https://theposterdb.com/api/assets/509919
         match:
           mapping_id: 364928
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/509920      
             1:
-                url_poster: https://theposterdb.com/api/assets/259026
+                url_poster: https://theposterdb.com/api/assets/509921
             2:
-                url_poster: https://theposterdb.com/api/assets/259027
+                url_poster: https://theposterdb.com/api/assets/509922
             3:
-                url_poster: https://theposterdb.com/api/assets/259028
-
+                url_poster: https://theposterdb.com/api/assets/509923
+            4:
+                url_poster: https://theposterdb.com/api/assets/509924
 #####################################################################
 #                                                                   #
 #               TV-Show Sons of Anarchy (2008)                      #
@@ -737,6 +707,8 @@ metadata:
         match:
           mapping_id: 82696
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/292678   
             1:
                 url_poster: https://theposterdb.com/api/assets/292679
             2:
@@ -861,8 +833,9 @@ metadata:
 #####################################################################
     "Star Wars: The Clone Wars (2008)":
         year: 2008
-        title: "Star Wars: The Clone Wars"
-        url_poster: https://theposterdb.com/api/assets/225828
+        title: "The Clone Wars"
+        sort_title: "Star Wars: The Clone Wars"
+        url_poster: https://theposterdb.com/api/assets/509358
         match:
           mapping_id: 83268
         seasons:
@@ -891,17 +864,17 @@ metadata:
     "The Mandalorian (2019)":
         year: 2019
         title: "The Mandalorian"
-        sort_title: "Mandalorian"
-        url_poster: https://theposterdb.com/api/assets/174476
+        sort_title: "Star Wars: Mandalorian"
+        url_poster: https://theposterdb.com/api/assets/509351
         match:
           mapping_id: 361753
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/200215
+                url_poster: https://theposterdb.com/api/assets/509352
             2:
-                url_poster: https://theposterdb.com/api/assets/200216
+                url_poster: https://theposterdb.com/api/assets/509353
             3:
-                url_poster: https://theposterdb.com/api/assets/319818
+                url_poster: https://theposterdb.com/api/assets/509354
 
 #####################################################################
 #                                                                   #
@@ -911,8 +884,8 @@ metadata:
     "The Book of Boba Fett (2021)":
         year: 2021
         title: "The Book of Boba Fett"
-        sort_title: "Book of Boba Fett"
-        url_poster: https://theposterdb.com/api/assets/200213
+        sort_title: "Star Wars: The Book of Boba Fett"  
+        url_poster: https://theposterdb.com/api/assets/509347
         match:
           mapping_id: 393589
         seasons:
@@ -927,7 +900,8 @@ metadata:
     "Obi-Wan Kenobi (2022)":
         year: 2022
         title: "Obi-Wan Kenobi"
-        url_poster: https://theposterdb.com/api/assets/238547
+        sort_title: "Star Wars: Obi-Wan Kenobi"        
+        url_poster: https://theposterdb.com/api/assets/509346
         match:
           mapping_id: 393199
         seasons:
@@ -942,7 +916,8 @@ metadata:
     "Andor (2022)":
         year: 2022
         title: "Andor"
-        url_poster: https://theposterdb.com/api/assets/328800
+        sort_title: "Star Wars: Andor"          
+        url_poster: https://theposterdb.com/api/assets/509345
         match:
           mapping_id: 393189
         seasons:
@@ -956,8 +931,9 @@ metadata:
 #####################################################################
     "Star Wars: Tales of the Jedi (2022)":
         year: 2022
-        title: "Star Wars: Tales of the Jedi"
-        url_poster: https://theposterdb.com/api/assets/328803
+        title: "Tales of the Jedi"
+        sort_title: "Star Wars: Tales of the Jedi"          
+        url_poster: https://theposterdb.com/api/assets/509317
         match:
           mapping_id: 420659
         seasons:
@@ -972,7 +948,8 @@ metadata:
     "Ahsoka (2023)":
         year: 2023
         title: "Ahsoka"
-        url_poster: https://theposterdb.com/api/assets/392135
+        sort_title: "Star Wars: Tales of the Jedi"         
+        url_poster: https://theposterdb.com/api/assets/509316
         match:
           mapping_id: 393187
         seasons:
@@ -1087,8 +1064,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/242074
             3:
                 url_poster: https://theposterdb.com/api/assets/242075
-            #4:
-                #url_poster: https://theposterdb.com/api/assets/325816
+            4:
+                url_poster: https://theposterdb.com/api/assets/499849
 
 #####################################################################
 #                                                                   #
@@ -1778,7 +1755,8 @@ metadata:
 #####################################################################
     "The Walking Dead: Daryl Dixon (2023)":
         year: 2023
-        title: "The Walking Dead: Daryl Dixon"
+        title: "Daryl Dixon"
+        sort_title: "The Walking Dead: Daryl Dixon"         
         url_poster: https://theposterdb.com/api/assets/406442
         match:
           mapping_id: 427464
@@ -1880,21 +1858,6 @@ metadata:
 
 #####################################################################
 #                                                                   #
-#               TV-Show Sanningen  (2023)                           #
-#                                                                   #
-#####################################################################
-    "Fallen (2023)":
-        year: 2023
-        title: "Sanningen"
-        url_poster: https://theposterdb.com/api/assets/447983
-        match:
-          mapping_id: 443351
-        seasons:
-            1:
-               url_poster: https://theposterdb.com/api/assets/447984
-
-#####################################################################
-#                                                                   #
 #               TV-Show Fenris  (2022)                              #
 #                                                                   #
 #####################################################################
@@ -1931,6 +1894,7 @@ metadata:
     "The Walking Dead (2010)":
         year: 2010
         title: "The Walking Dead"
+        sort_title: "The Walking Dead"         
         url_poster: https://theposterdb.com/api/assets/218107
         match:
           mapping_id: 153021
@@ -1974,7 +1938,9 @@ metadata:
             1:
                 url_poster: https://theposterdb.com/api/assets/363344
             2:
-                url_poster: https://theposterdb.com/api/assets/363345
+                url_poster: https://theposterdb.com/api/assets/363345            
+            3:
+                url_poster: https://theposterdb.com/api/assets/488536
 
 #####################################################################
 #                                                                   #
@@ -1998,7 +1964,7 @@ metadata:
 #              Formula 1: Drive to Survive (2019)                   #
 #                                                                   #
 #####################################################################
-    "Formula 1: Drive to Survive (xxxx)":
+    "Formula 1: Drive to Survive (2019)":
         year: 2019
         title: "Formula 1: Drive to Survive"
         url_poster: https://theposterdb.com/api/assets/225782
@@ -2047,7 +2013,7 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TV-Show                                 #
-#                  Lessons in Chemistry (xxxx)                      #
+#                  Lessons in Chemistry (2023)                      #
 #                                                                   #
 #####################################################################
     "Lessons in Chemistry (2023)":
@@ -2209,6 +2175,7 @@ metadata:
     "Fear the Walking Dead (2015)":
         year: 2015
         title: "Fear the Walking Dead"
+        sort_title: "The Walking Dead: Fear the walking dead"         
         url_poster: https://theposterdb.com/api/assets/276061
         match:
           mapping_id: 290853
@@ -2241,6 +2208,7 @@ metadata:
     "Tales of the Walking Dead (2022)":
         year: 2022
         title: "Tales of the Walking Dead"
+        sort_title: "The Walking Dead: Tales of the walking dead"         
         url_poster: https://theposterdb.com/api/assets/276070
         match:
           mapping_id: 411314
@@ -2256,7 +2224,8 @@ metadata:
 #####################################################################
     "The Walking Dead: World Beyond (2020)":
         year: 2020
-        title: "The Walking Dead: World Beyond"
+        title: "World Beyond"
+        sort_title: "The Walking Dead: World Beyond"         
         url_poster: https://theposterdb.com/api/assets/276073
         match:
           mapping_id: 372787
@@ -2274,7 +2243,8 @@ metadata:
 #####################################################################
     "The Walking Dead: Dead City (2023)":
         year: 2023
-        title: "The Walking Dead: Dead City"
+        title: "Dead City"
+        sort_title: "The Walking Dead: Dead city"         
         url_poster: https://theposterdb.com/api/assets/368745
         match:
           mapping_id: 417549
@@ -2471,8 +2441,6 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/323148
             2:
                 url_poster: https://theposterdb.com/api/assets/344814
-            3:
-                url_poster: xxxx
 
 #####################################################################
 #                                                                   #
@@ -2614,7 +2582,8 @@ metadata:
 #####################################################################
     "Star Wars: Ewoks (1985)":
         year: 1985
-        title: "Star Wars: Ewoks"
+        title: "Ewoks"
+        sort_title: "Star Wars: Ewoks"           
         url_poster: https://theposterdb.com/api/assets/174490
         match:
           mapping_id: 73697
@@ -2632,7 +2601,8 @@ metadata:
 #####################################################################
     "Star Wars: Droids (1985)":
         year: 1985
-        title: "Star Wars: Droids"
+        title: "Droids"
+        sort_title: "Star Wars: Droids"           
         url_poster: https://theposterdb.com/api/assets/174477
         match:
           mapping_id: 70399
@@ -2650,8 +2620,9 @@ metadata:
 #####################################################################
     "Tales of the Jedi (2022)":
         year: 2022
-        title: "Star Wars: Tales of the Jedi"
-        url_poster: https://theposterdb.com/api/assets/282026
+        title: "Tales of the Jedi"
+        sort_title: "Star Wars: Tales of the Jedi"           
+        url_poster: https://theposterdb.com/api/assets/509317
         match:
           mapping_id: 420659
         seasons:
@@ -2667,8 +2638,9 @@ metadata:
 #####################################################################
     "Star Wars: The Bad Batch (2021)":
         year: 2021
-        title: "Star Wars: The Bad Batch"
-        url_poster: https://theposterdb.com/api/assets/174478
+        title: "The Bad Batch"
+        sort_title: "Star Wars: The bad Batch"           
+        url_poster: https://theposterdb.com/api/assets/509349
         match:
           mapping_id: 385376
         seasons:
@@ -2687,7 +2659,8 @@ metadata:
 #####################################################################
     "Star Wars: Forces of Destiny (2017)":
         year: 2017
-        title: "Star Wars: Forces of Destiny"
+        title: "Forces of Destiny"
+        sort_title: "Star Wars: Forces of Destiny"           
         url_poster: https://theposterdb.com/api/assets/174488
         match:
           mapping_id: 330710
@@ -2916,9 +2889,9 @@ metadata:
 #                         ted (2024  )                              #
 #                                                                   #
 #####################################################################
-    "ted (2024)":
+    "TED (2024)":
         year: 2024
-        title: "ted"
+        title: "TED"
         url_poster: https://theposterdb.com/api/assets/456287
         match:
           mapping_id: 404604
@@ -2929,12 +2902,13 @@ metadata:
 #####################################################################
 #                                                                   #
 #              The Walking Dead: The Ones Who Live                  #
-#               The Walking Dead: The Ones Who Live (xxxx)          #
+#               The Walking Dead: The Ones Who Live (2024)          #
 #                                                                   #
 #####################################################################
     "The Walking Dead: The Ones Who Live (2024)":
         year: 2024
-        title: "The Walking Dead: The Ones Who Live"
+        title: "The Ones Who Live"
+        sort_title: "The Walking Dead: The Ones Who Live"            
         url_poster: https://theposterdb.com/api/assets/456280
         match:
           mapping_id: 427202
@@ -3017,6 +2991,8 @@ metadata:
         match:
           mapping_id: 416744
         seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/480947       
             1:
                 url_poster: https://theposterdb.com/api/assets/439688
                       
@@ -3038,6 +3014,1771 @@ metadata:
 
 #####################################################################
 #                                                                   #
+#                           Manhunt                                 #
+#                         Manhunt (2024)                              #
+#                                                                   #
+#####################################################################
+    "Manhunt (2024)":
+        year: 2024
+        title: "Manhunt"
+        url_poster: https://theposterdb.com/api/assets/467677
+        match:
+          mapping_id: 414337
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/467678        
+            1:
+                url_poster: https://theposterdb.com/api/assets/467679
+
+#####################################################################
+#                                                                   #
+#                           Alaska Daily                            #
+#                         Alaska Daily (2022)                       #
+#                                                                   #
+#####################################################################
+    "Alaska Daily (2022)":
+        year: 2022
+        title: "Alaska Daily"
+        url_poster: https://theposterdb.com/api/assets/469083
+        match:
+          mapping_id: 420107
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/469084
+            1:
+                url_poster: https://theposterdb.com/api/assets/469085
+
+#####################################################################
+#                                                                   #
+#                           3 Body Problem                                 #
+#                         3 Body Problem (2024)                              #
+#                                                                   #
+#####################################################################
+    "3 Body Problem (2024)":
+        year: 20024
+        title: "3 Body Problem"
+        url_poster: https://theposterdb.com/api/assets/468334
+        match:
+          mapping_id: 411959
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/468335
+            1:
+                url_poster: https://theposterdb.com/api/assets/468336  
+
+#####################################################################
+#                                                                   #
+#                           heroes                                 #
+#                         heroes (2006)                              #
+#                                                                   #
+#####################################################################
+    "heroes (2006)":
+        year: 2006
+        title: "heroes"
+        url_poster: https://theposterdb.com/api/assets/362897
+        match:
+          mapping_id: 79501
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/362898
+            1:
+                url_poster: https://theposterdb.com/api/assets/362899
+            2:
+                url_poster: https://theposterdb.com/api/assets/362900
+            3:
+                url_poster: https://theposterdb.com/api/assets/362901
+            4:
+                url_poster: https://theposterdb.com/api/assets/362902
+
+#####################################################################
+#                                                                   #
+#                           Ghosts of Beirut                                 #
+#                         Ghosts of Beirut (2023)                              #
+#                                                                   #
+#####################################################################
+    "Ghosts of Beirut (2023)":
+        year: 2023
+        title: "Ghosts of Beirut"
+        url_poster: https://theposterdb.com/api/assets/472751
+        match:
+          mapping_id: 433353
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/472752   
+
+#####################################################################
+#                                                                   #
+#                           Knuckles                                 #
+#                         Knuckles (2024)                              #
+#                                                                   #
+#####################################################################
+    "Knuckles (2024)":
+        year: 2024
+        title: "Knuckles"
+        url_poster: https://theposterdb.com/api/assets/477748
+        match:
+          mapping_id: 417393
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/477749
+
+#####################################################################
+#                                                                   #
+#                           The Sympathizer                                 #
+#                         The Sympathizer (2024)                              #
+#                                                                   #
+#####################################################################
+    "The Sympathizer (2024)":
+        year: 2024
+        title: "The Sympathizer"
+        url_poster: https://theposterdb.com/api/assets/482122
+        match:
+          mapping_id: 406620
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/482123
+     
+#####################################################################
+#                                                                   #
+#                           Barry                                 #
+#                         Barry (2018)                              #
+#                                                                   #
+#####################################################################
+    "Barry (2018)":
+        year: 2018
+        title: "Barry"
+        url_poster: https://theposterdb.com/api/assets/241420
+        match:
+          mapping_id: 333072
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/241421
+            2:
+                url_poster: https://theposterdb.com/api/assets/241422
+            3:
+                url_poster: https://theposterdb.com/api/assets/241423
+            4:
+                url_poster: https://theposterdb.com/api/assets/368205
+
+#####################################################################
+#                                                                   #
+#                           Conan O'Brien Must Go                                 #
+#                         Conan O'Brien Must Go (2024)                              #
+#                                                                   #
+#####################################################################
+    "Conan O'Brien Must Go (2024)":
+        year: 2024
+        title: "Conan O'Brien Must Go"
+        url_poster: https://theposterdb.com/api/assets/479837
+        match:
+          mapping_id: 435035
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/479838
+
+#####################################################################
+#                                                                   #
+#                           Bonde söker fru - Jorden runt                                 #
+#                         Bonde söker fru - Jorden runt (2021)                              #
+#                                                                   #
+#####################################################################
+    "Bonde söker fru - Jorden runt (2021)":
+        year: 2021
+        title: "Bonde söker fru - Jorden runt"
+        url_poster: https://theposterdb.com/api/assets/497694
+        match:
+          mapping_id: 448655
+        seasons:
+            1:
+                url_poster: https://artworks.thetvdb.com/banners/v4/series/448655/posters/66138064b3a0e.jpg
+
+#####################################################################
+#                                                                   #
+#                           Franklin                                 #
+#                         Franklin (2024)                              #
+#                                                                   #
+#####################################################################
+    "Franklin (2024)":
+        year: 2024
+        title: "Franklin"
+        url_poster: https://theposterdb.com/api/assets/481308
+        match:
+          mapping_id: 417280
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/481309
+            1:
+                url_poster: https://theposterdb.com/api/assets/481310
+   
+
+#####################################################################
+#                                                                   #
+#                           Silicon Valley                                 #
+#                         Silicon Valley (2014)                              #
+#                                                                   #
+#####################################################################
+    "Silicon Valley (2014)":
+        year: 2014
+        title: "Silicon Valley"
+        url_poster: https://theposterdb.com/api/assets/333029
+        match:
+          mapping_id: 277165
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/333030
+            1:
+                url_poster: https://theposterdb.com/api/assets/333031
+            2:
+                url_poster: https://theposterdb.com/api/assets/333032
+            3:
+                url_poster: https://theposterdb.com/api/assets/333033
+            4:
+                url_poster: https://theposterdb.com/api/assets/333034
+            5:
+                url_poster: https://theposterdb.com/api/assets/333035
+            6:
+                url_poster: https://theposterdb.com/api/assets/333036
+
+#####################################################################
+#                                                                   #
+#                           The Tattooist of Auschwitz              #
+#                         The Tattooist of Auschwitz (2024)         #
+#                                                                   #
+#####################################################################
+    "The Tattooist of Auschwitz  (2024)":
+        year: 2024
+        title: "The Tattooist of Auschwitz "
+        url_poster: https://theposterdb.com/api/assets/489410
+        match:
+          mapping_id: 433788
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/489411
+            1:
+                url_poster: https://theposterdb.com/api/assets/489412
+  
+#####################################################################
+#                                                                   #
+#                           Dark Matter                                 #
+#                         Dark Matter (2024)                              #
+#                                                                   #
+#####################################################################
+    "Dark Matter (2024)":
+        year: 2024
+        title: "Dark Matter"
+        url_poster: https://theposterdb.com/api/assets/487508
+        match:
+          mapping_id: 393159
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/487509
+            1:
+                url_poster: https://theposterdb.com/api/assets/487510
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Better Call Saul (2015)                              #
+#                                                                   #
+#####################################################################
+    "Better Call Saul (2015)":
+        year: 2015
+        title: "Better Call Saul"
+        url_poster: https://theposterdb.com/api/assets/229403
+        match:
+          mapping_id: 273181
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/229404
+            1:
+                url_poster: https://theposterdb.com/api/assets/229405
+            2:
+                url_poster: https://theposterdb.com/api/assets/229406
+            3:
+                url_poster: https://theposterdb.com/api/assets/229407
+            4:
+                url_poster: https://theposterdb.com/api/assets/229408
+            5:
+                url_poster: https://theposterdb.com/api/assets/229409
+            6:
+                url_poster: https://theposterdb.com/api/assets/229410                
+    
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Brooklyn Nine-Nine (2013)                              #
+#                                                                   #
+#####################################################################
+    "Brooklyn Nine-Nine (2013)":
+        year: 2013
+        title: "Brooklyn Nine-Nine"
+        url_poster: https://theposterdb.com/api/assets/241381
+        match:
+          mapping_id: 269586
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/241382        
+            1:
+                url_poster: https://theposterdb.com/api/assets/241383
+            2:
+                url_poster: https://theposterdb.com/api/assets/241384
+            3:
+                url_poster: https://theposterdb.com/api/assets/241385
+            4:
+                url_poster: https://theposterdb.com/api/assets/241386
+            5:
+                url_poster: https://theposterdb.com/api/assets/241387
+            6:
+                url_poster: https://theposterdb.com/api/assets/241388
+            7:
+                url_poster: https://theposterdb.com/api/assets/241389
+            8:
+                url_poster: https://theposterdb.com/api/assets/241390
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Avenue 5 (2020)                              #
+#                                                                   #
+#####################################################################
+    "Avenue 5 (2020)":
+        year: 2020
+        title: "Avenue 5"
+        url_poster: https://theposterdb.com/api/assets/332718
+        match:
+          mapping_id: 364106
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/332719
+            2:
+                url_poster: https://theposterdb.com/api/assets/332720
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Endgame (2022)                              #
+#                                                                   #
+#####################################################################
+    "The Endgame (2022)":
+        year: 2022
+        title: "The Endgame"
+        url_poster: https://theposterdb.com/api/assets/359490
+        match:
+          mapping_id: 410357
+        seasons:   
+            1:
+                url_poster: https://theposterdb.com/api/assets/359491
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Acolyte (2024)                              #
+#                                                                   #
+#####################################################################
+    "The Acolyte (2024)":
+        year: 2024
+        title: "The Acolyte"
+        sort_title: "Star Wars: The Acolyte"           
+        url_poster: https://theposterdb.com/api/assets/509344
+        match:
+          mapping_id: 393197
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/494858        
+            1:
+                url_poster: https://theposterdb.com/api/assets/494859
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#          The Star Wars: Young Jedi Adventures (2023)               #
+#                                                                   #
+#####################################################################
+    "Star Wars: Young Jedi Adventures (2023)":
+        year: 2024
+        title: "Young Jedi Adventures"
+        sort_title: "Star Wars: Young Jedi Adventures"           
+        url_poster: https://theposterdb.com/api/assets/494876
+        match:
+          mapping_id: 420658
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/494878
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Slow Horses (2022)                              #
+#                                                                   #
+#####################################################################
+    "Slow Horses (2022)":
+        year: 2022
+        title: "Slow Horses"
+        url_poster: https://theposterdb.com/api/assets/345379
+        match:
+          mapping_id: 372264
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/345380
+            2:
+                url_poster: https://theposterdb.com/api/assets/345381
+            3:
+                url_poster: https://theposterdb.com/api/assets/447198
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Joe vs. Carole (2022)                              #
+#                                                                   #
+#####################################################################
+    "Joe vs. Carole (2022)":
+        year: 2022
+        title: "Joe vs. Carole"
+        url_poster: https://theposterdb.com/api/assets/452703
+        match:
+          mapping_id: 405727
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/452704
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Tiger King (2020)                              #
+#                                                                   #
+#####################################################################
+    "Tiger King (2020)":
+        year: 2020
+        title: "Tiger King"
+        url_poster: https://theposterdb.com/api/assets/339277
+        match:
+          mapping_id: 377269
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/339278
+            2:
+                url_poster: https://theposterdb.com/api/assets/339279
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Sveriges Mästerkock (2011)                              #
+#                                                                   #
+#####################################################################
+    "  Sveriges Mästerkock (2011)":
+        year: 2011
+        title: "  Sveriges Mästerkock"
+        url_poster: https://theposterdb.com/api/assets/488247
+        match:
+          mapping_id: 221121
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Veronika (2024)                              #
+#                                                                   #
+#####################################################################
+    "Veronika (2024)":
+        year: 2024
+        title: "Veronika"
+        url_poster: https://theposterdb.com/api/assets/482946
+        match:
+          mapping_id: 446127
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/482947        
+            1:
+                url_poster: https://theposterdb.com/api/assets/482948
+             
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         STHLM Blackout (2024)                              #
+#                                                                   #
+#####################################################################
+    "STHLM Blackout (2024)":
+        year: 2024
+        title: "STHLM Blackout"
+        url_poster: https://theposterdb.com/api/assets/491740
+        match:
+          mapping_id: 440421
+        seasons:                  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Wahlgrens Värld (2016)                              #
+#                                                                   #
+#####################################################################
+    "Wahlgrens Värld (2016)":
+        year: 2016
+        title: "Wahlgrens Värld"
+        url_poster: https://theposterdb.com/api/assets/469887
+        match:
+          mapping_id: 317365
+        seasons:
+                                         
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Börje - The Journey of a Legend (2023)                              #
+#                                                                   #
+#####################################################################
+    "Börje - The Journey of a Legend (2023)":
+        year: 2023
+        title: "Börje - The Journey of a Legend"
+        url_poster: https://theposterdb.com/api/assets/469902
+        match:
+          mapping_id: 435297
+        seasons:
+    
+            1:
+                url_poster: https://theposterdb.com/api/assets/469903
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Sanningen (2023)                              #
+#                                                                   #
+#####################################################################
+    "Sanningen (2023)":
+        year: 2023
+        title: "Sanningen"
+        url_poster: https://theposterdb.com/api/assets/469528
+        match:
+          mapping_id: 443351
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/447984
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Solsidan (2010)                              #
+#                                                                   #
+#####################################################################
+    "Solsidan (2010)":
+        year: 2010
+        title: "Solsidan"
+        url_poster: https://theposterdb.com/api/assets/499882
+        match:
+          mapping_id: 138531
+        seasons:  
+            0:
+                url_poster: https://theposterdb.com/api/assets/499883 
+            1:
+                url_poster: https://theposterdb.com/api/assets/499884
+            2:
+                url_poster: https://theposterdb.com/api/assets/499885
+            3:
+                url_poster: https://theposterdb.com/api/assets/499886
+            4:
+                url_poster: https://theposterdb.com/api/assets/499887
+            5:
+                url_poster: https://theposterdb.com/api/assets/499888
+            6:
+                url_poster: https://theposterdb.com/api/assets/499889
+            7:
+                url_poster: https://theposterdb.com/api/assets/499890
+            8:
+                url_poster: https://theposterdb.com/api/assets/499891
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Shardlake (2024)                              #
+#                                                                   #
+#####################################################################
+    "Shardlake (2024)":
+        year: 2024
+        title: "Shardlake"
+        url_poster: https://theposterdb.com/api/assets/491634
+        match:
+          mapping_id: 438789
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/491635
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Efterlyst (2008)                              #
+#                                                                   #
+#####################################################################
+    "Efterlyst (2008)":
+        year: 2008
+        title: "Efterlyst"
+        url_poster: https://theposterdb.com/api/assets/496053
+        match:
+          mapping_id: 83113
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         BIANCA (2022)                              #
+#                                                                   #
+#####################################################################
+    "BIANCA (2022)":
+        year: 2022
+        title: "BIANCA"
+        url_poster: https://theposterdb.com/api/assets/428466
+        match:
+          mapping_id: 425757
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Byhåla (1991)                              #
+#                                                                   #
+#####################################################################
+    "Byhåla (1991)":
+        year: 1991
+        title: "BYHÅLA"
+        url_poster: https://theposterdb.com/api/assets/496057
+        match:
+          mapping_id: 139551
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Centralskolan (2007)                              #
+#                                                                   #
+#####################################################################
+    "Centralskolan (2007)":
+        year: 2007
+        title: "Centralskolan"
+        url_poster: https://theposterdb.com/api/assets/496059
+        match:
+          mapping_id: 80771
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Allt och Eva (2024)                              #
+#                                                                   #
+#####################################################################
+    "  Allt och Eva (2024)":
+        year: 2024
+        title: "  Allt och Eva"
+        url_poster: https://theposterdb.com/api/assets/496060
+        match:
+          mapping_id: 449124
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Älskar, Älskar Inte (2021)                              #
+#                                                                   #
+#####################################################################
+    "Älskar, Älskar Inte (2021)":
+        year: 2021
+        title: "Älskar, Älskar Inte"
+        url_poster: https://theposterdb.com/api/assets/496376
+        match:
+          mapping_id: 394796
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Gold Rush (2010)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush (2010)":
+        year: 2010
+        title: "Gold Rush"
+        url_poster: https://theposterdb.com/api/assets/482455
+        match:
+          mapping_id: 208111
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/482456        
+            1:
+                url_poster: https://theposterdb.com/api/assets/482457
+            2:
+                url_poster: https://theposterdb.com/api/assets/482458
+            3:
+                url_poster: https://theposterdb.com/api/assets/482459
+            4:
+                url_poster: https://theposterdb.com/api/assets/482460
+            5:
+                url_poster: https://theposterdb.com/api/assets/482461
+            6:
+                url_poster: https://theposterdb.com/api/assets/482462
+            7:
+                url_poster: https://theposterdb.com/api/assets/482463
+            8:
+                url_poster: https://theposterdb.com/api/assets/482464
+            9:
+                url_poster: https://theposterdb.com/api/assets/482465
+            10:
+                url_poster: https://theposterdb.com/api/assets/482466
+            11:
+                url_poster: https://theposterdb.com/api/assets/482467                
+            12:
+                url_poster: https://theposterdb.com/api/assets/482468    
+            13:
+                url_poster: https://theposterdb.com/api/assets/482469        
+            14:
+                url_poster: https://theposterdb.com/api/assets/482470    
+                
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Rookie (2018)                              #
+#                                                                   #
+#####################################################################
+    "The Rookie (2018)":
+        year: 2018
+        title: "The Rookie"
+        url_poster: https://theposterdb.com/api/assets/354902
+        match:
+          mapping_id: 350665
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/354903
+            2:
+                url_poster: https://theposterdb.com/api/assets/354904
+            3:
+                url_poster: https://theposterdb.com/api/assets/354905
+            4:
+                url_poster: https://theposterdb.com/api/assets/354906
+            5:
+                url_poster: https://theposterdb.com/api/assets/354907
+            6:
+                url_poster: https://theposterdb.com/api/assets/450764
+        
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Formula 1 (1950)                              #
+#                                                                   #
+#####################################################################
+    "Formula 1 (1950)":
+        year: 1950
+        title: "Formula 1"
+        url_poster: https://theposterdb.com/api/assets/481459
+        match:
+          mapping_id: 387219
+        seasons:
+        
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Bäckström (2020)                              #
+#                                                                   #
+#####################################################################
+    "Bäckström (2020)":
+        year: 2020
+        title: "Bäckström"
+        url_poster: https://theposterdb.com/api/assets/472970
+        match:
+          mapping_id: 377395
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/472971        
+            1:
+                url_poster: https://theposterdb.com/api/assets/472972
+            2:
+                url_poster: https://theposterdb.com/api/assets/472973
+  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Artful Dodger (2023)                              #
+#                                                                   #
+#####################################################################
+    "The Artful Dodger (2023)":
+        year: 2023
+        title: "The Artful Dodger"
+        url_poster: https://theposterdb.com/api/assets/437670
+        match:
+          mapping_id: 429915
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/437671
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         jägarna (2018)                              #
+#                                                                   #
+#####################################################################
+    "Jägarna (2018)":
+        year: 2018
+        title: "Jägarna"
+        url_poster: https://theposterdb.com/api/assets/469870
+        match:
+          mapping_id: 354559
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Eric (2024)                              #
+#                                                                   #
+#####################################################################
+    "Eric (2024)":
+        year: 2024
+        title: "Eric"
+        url_poster: https://theposterdb.com/api/assets/496686
+        match:
+          mapping_id: 421652
+        seasons:    
+            0:
+                url_poster: https://theposterdb.com/api/assets/497543           
+            1:
+                url_poster: https://theposterdb.com/api/assets/496687
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Gold Rush: Parker's Trail (2017)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush: Parker's Trail (2017)":
+        year: 2017
+        title: "Parker`s Trail"
+        sort_title: "Gold Rush: Parker's Trail"
+        url_poster: https://theposterdb.com/api/assets/497637
+        match:
+          mapping_id: 379221
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Gold Rush: Mine Rescue with Freddy & Juan (2021)                              #
+#                                                                   #
+#####################################################################
+    "Gold Rush: Mine Rescue with Freddy & Juan (2021)":
+        year: 2021
+        title: "Mine Rescue with Freddy & Juan"
+        sort_title: "Gold Rush: Mine Rescue with Freddy & Juan"
+        url_poster: https://theposterdb.com/api/assets/497649
+        match: 
+          mapping_id: 393057
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Hell on Wheels (2011)                              #
+#                                                                   #
+#####################################################################
+    "Hell on Wheels (2011)":
+        year: 2011
+        title: "Hell on Wheels"
+        url_poster: https://theposterdb.com/api/assets/497654
+        match:
+          mapping_id: 212961
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/497655        
+            1:
+                url_poster: https://theposterdb.com/api/assets/497656
+            2:
+                url_poster: https://theposterdb.com/api/assets/497657
+            3:
+                url_poster: https://theposterdb.com/api/assets/497658
+            4:
+                url_poster: https://theposterdb.com/api/assets/497659
+            5:
+                url_poster: https://theposterdb.com/api/assets/497658
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         En stark resa med Morgan & Ola-Conny (2012)                              #
+#                                                                   #
+#####################################################################
+    "En stark resa med Morgan & Ola-Conny (2012)":
+        year: 2012
+        title: "En stark resa med Morgan & Ola-Conny"
+        url_poster: https://theposterdb.com/api/assets/497675
+        match:
+          mapping_id: 257793
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         EAGLES (2019)                              #
+#                                                                   #
+#####################################################################
+    "EAGLES (2019)":
+        year: 2019
+        title: "EAGLES"
+        url_poster: https://theposterdb.com/api/assets/497676
+        match:
+          mapping_id: 354873
+        seasons:
+
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#              Elitstyrkans hemligheter - Sverige (2021)                              #
+#                                                                   #
+#####################################################################
+    "Elitstyrkans hemligheter - Sverige (2021)":
+        year: 2021
+        title: "Elitstyrkans hemligheter - Sverige"
+        url_poster: https://theposterdb.com/api/assets/497710
+        match:
+          mapping_id: 395024
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         NileCity 105.6 (1995)                              #
+#                                                                   #
+#####################################################################
+    "NileCity 105.6 (1995)":
+        year: 1995
+        title: "NileCity 105.6"
+        url_poster: https://theposterdb.com/api/assets/497711
+        match:
+          mapping_id: 81285
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Hello Ladies (2013)                              #
+#                                                                   #
+#####################################################################
+    "Hello Ladies (2013)":
+        year: 2013
+        title: "Hello Ladies"
+        url_poster: https://theposterdb.com/api/assets/497712
+        match:
+          mapping_id: 265609
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Hem till Midgård (2003)                              #
+#                                                                   #
+#####################################################################
+    "Hem till Midgård (2003)":
+        year: 2003
+        title: "Hem till Midgård"
+        url_poster: https://theposterdb.com/api/assets/497738
+        match:
+          mapping_id: 80453
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         I Am Groot (2022)                              #
+#                                                                   #
+#####################################################################
+    "I Am Groot (2022)":
+        year: 2022
+        title: "I Am Groot"
+        url_poster: https://theposterdb.com/api/assets/241856
+        match:
+          mapping_id: 393201
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/258763
+            2:
+                url_poster: https://theposterdb.com/api/assets/451048
+
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Jana - Märkta för livet (2024)                              #
+#                                                                   #
+#####################################################################
+    "Jana - Märkta för livet (2024)":
+        year: 2024
+        title: "Jana - Märkta för livet"
+        url_poster: https://theposterdb.com/api/assets/497739
+        match:
+          mapping_id: 432201
+        seasons:
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         KARATEFYLLA (2011)                              #
+#                                                                   #
+#####################################################################
+    "KARATEFYLLA (2011)":
+        year: 2011
+        title: "KARATEFYLLA"
+        url_poster: https://theposterdb.com/api/assets/497740
+        match:
+          mapping_id: 252369
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Playa Del Sol (2007)                              #
+#                                                                   #
+#####################################################################
+    "Playa Del Sol (2007)":
+        year: 2007
+        title: "Playa Del Sol"
+        url_poster: https://theposterdb.com/api/assets/497741
+        match:
+          mapping_id: 80143
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         BÄST I TEST (2017)                              #
+#                                                                   #
+#####################################################################
+    "BÄST I TEST (2017)":
+        year: 2017
+        title: "BÄST I TEST"
+        url_poster: https://theposterdb.com/api/assets/497743
+        match:
+          mapping_id: 325248
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Tom Clancy's Jack Ryan (2018)                              #
+#                                                                   #
+#####################################################################
+    "Tom Clancy's Jack Ryan (2018)":
+        year: 2018
+        title: "Tom Clancy's Jack Ryan"
+        url_poster: https://theposterdb.com/api/assets/300708
+        match:
+          mapping_id: 336261
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/300709
+            2:
+                url_poster: https://theposterdb.com/api/assets/300710
+            3:
+                url_poster: https://theposterdb.com/api/assets/300711
+            4:
+                url_poster: https://theposterdb.com/api/assets/373572
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         9-1-1: Lone Star (2020)                              #
+#                                                                   #
+#####################################################################
+    "9-1-1: Lone Star (2020)":
+        year: 2020
+        title: "9-1-1: Lone Star"
+        url_poster: https://theposterdb.com/api/assets/349110
+        match:
+          mapping_id: 364080
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/349111
+            2:
+                url_poster: https://theposterdb.com/api/assets/349112
+            3:
+                url_poster: https://theposterdb.com/api/assets/349113
+            4:
+                url_poster: https://theposterdb.com/api/assets/349114
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Black Sails (2014)                              #
+#                                                                   #
+#####################################################################
+    "Black Sails (2014)":
+        year: 2014
+        title: "Black Sails"
+        url_poster: https://theposterdb.com/api/assets/345921
+        match:
+          mapping_id: 262407
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/345922        
+            1:
+                url_poster: https://theposterdb.com/api/assets/345923
+            2:
+                url_poster: https://theposterdb.com/api/assets/345924
+            3:
+                url_poster: https://theposterdb.com/api/assets/345925
+            4:
+                url_poster: https://theposterdb.com/api/assets/345926
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                  #
+#                         Becoming Karl Lagerfeld (2024)            #
+#                                                                   #
+#####################################################################
+    "Becoming Karl Lagerfeld (2024)":
+        year: 2024
+        title: "Becoming Karl Lagerfeld"
+        url_poster: https://theposterdb.com/api/assets/499590
+        match:
+          mapping_id: 445112
+        seasons:
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         This is Benjamin Ingrosso (2024)                              #
+#                                                                   #
+#####################################################################
+    "This is Benjamin Ingrosso (2024)":
+        year: 2024
+        title: "This is Benjamin Ingrosso"
+        url_poster: https://theposterdb.com/api/assets/499633
+        match:
+          mapping_id: 449297
+        seasons:
+  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Top Dog (2020)                              #
+#                                                                   #
+#####################################################################
+    "Top Dog (2020)":
+        year: 2020
+        title: "Top Dog"
+        url_poster: https://theposterdb.com/api/assets/499636
+        match:
+          mapping_id: 377684
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/499637
+            2:
+                url_poster: https://theposterdb.com/api/assets/499638
+  
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Tex Mex Motors (2023)                              #
+#                                                                   #
+#####################################################################
+    "Tex Mex Motors (2023)":
+        year: 2023
+        title: "Tex Mex Motors"
+        url_poster: https://theposterdb.com/api/assets/499595
+        match:
+          mapping_id: 434858
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Marko & Irma  (2023)                              #
+#                                                                   #
+#####################################################################
+    "Marko & Irma (2023)":
+        year: 2023
+        title: "Marko & Irma"
+        url_poster: https://theposterdb.com/api/assets/499653
+        match:
+          mapping_id: 428884
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/499654
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Estonia (2023)                              #
+#                                                                   #
+#####################################################################
+    "Estonia (2023)":
+        year: 2023
+        title: "Estonia"
+        url_poster: https://theposterdb.com/api/assets/499655
+        match:
+          mapping_id: 425797
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/499656
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Exit (2019)                              #
+#                                                                   #
+#####################################################################
+    "Exit (2019)":
+        year: 2019
+        title: "Exit"
+        url_poster: https://theposterdb.com/api/assets/499657
+        match:
+          mapping_id: 361816
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         En helt vanlig familj (2023)                              #
+#                                                                   #
+#####################################################################
+    "En helt vanlig familj (2023)":
+        year: 2023
+        title: "En helt vanlig familj"
+        url_poster: https://theposterdb.com/api/assets/499658
+        match:
+          mapping_id: 426123
+        seasons:       
+            1:
+                url_poster: https://theposterdb.com/api/assets/499659
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Fast N' Loud (2012)                              #
+#                                                                   #
+#####################################################################
+    "Fast N' Loud (2012)":
+        year: 2012
+        title: "Fast N' Loud"
+        url_poster: https://theposterdb.com/api/assets/499661
+        match:
+          mapping_id: 259393
+        seasons:
+          
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Roadkill (2012)                              #
+#                                                                   #
+#####################################################################
+    "Roadkill (2012)":
+        year: 2012
+        title: "Roadkill"
+        url_poster: https://theposterdb.com/api/assets/499695
+        match:
+          mapping_id: 265865
+        seasons:
+        
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Kockarnas kamp (2012)                              #
+#                                                                   #
+#####################################################################
+    "Kockarnas kamp (2012)":
+        year: 2012
+        title: "Kockarnas kamp"
+        url_poster: https://theposterdb.com/api/assets/499900
+        match:
+          mapping_id: 262437
+        seasons:
+        
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Kompani Svan (2022)                              #
+#                                                                   #
+#####################################################################
+    "Kompani Svan (2022)":
+        year: 2022
+        title: "Kompani Svan"
+        url_poster: https://theposterdb.com/api/assets/499931
+        match:
+          mapping_id: 425189
+        seasons:
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Nora Sand - Flickorna på englandsbåten (2023)                              #
+#                                                                   #
+#####################################################################
+    "Nora Sand - Flickorna på englandsbåten (2023)":
+        year: 2023
+        title: "Nora Sand - Flickorna på englandsbåten"
+        url_poster: https://theposterdb.com/api/assets/500186
+        match:
+          mapping_id: 439473
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Jordskott (2015)                              #
+#                                                                   #
+#####################################################################
+    "Jordskott (2015)":
+        year: 2015
+        title: "Jordskott"
+        url_poster: https://theposterdb.com/api/assets/500188
+        match:
+          mapping_id: 291965
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/500189
+            2:
+                url_poster: https://theposterdb.com/api/assets/500190        
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Uti bôgda (2016)                              #
+#                                                                   #
+#####################################################################
+    "Uti bôgda (2016)":
+        year: 2016
+        title: "Uti bôgda"
+        url_poster: https://theposterdb.com/api/assets/500192
+        match:
+          mapping_id: 318593
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/500193
+            2:
+                url_poster: https://theposterdb.com/api/assets/500194
+            3:
+                url_poster: https://theposterdb.com/api/assets/500195
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Svenska fall (2018)                              #
+#                                                                   #
+#####################################################################
+    "Svenska fall (2018)":
+        year: 2018
+        title: "Svenska fall"
+        url_poster: https://theposterdb.com/api/assets/500198
+        match:
+          mapping_id: 360299
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Supersex (2024)                              #
+#                                                                   #
+#####################################################################
+    "Supersex (2024)":
+        year: 2024
+        title: "Supersex"
+        url_poster: https://theposterdb.com/api/assets/500199
+        match:
+          mapping_id: 432040
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/500200
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         S·W·I·P Snutarna (1994)                              #
+#                                                                   #
+#####################################################################
+    "S·W·I·P Snutarna (1994)":
+        year: 1994
+        title: "S·W·I·P Snutarna"
+        url_poster: https://theposterdb.com/api/assets/500202
+        match:
+          mapping_id: 81374
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/500203
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Richard Hammond's Workshop (2021)                              #
+#                                                                   #
+#####################################################################
+    "Richard Hammond's Workshop (2021)":
+        year: 2021
+        title: "Richard Hammond's Workshop"
+        url_poster: https://theposterdb.com/api/assets/253889
+        match:
+          mapping_id: 411496
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Maria Wern (2008)                              #
+#                                                                   #
+#####################################################################
+    "Maria Wern (2008)":
+        year: 2008
+        title: "Maria Wern"
+        url_poster: https://theposterdb.com/api/assets/500204
+        match:
+          mapping_id: 83172
+        seasons:
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Kodnamn: Annika (2023)                              #
+#                                                                   #
+#####################################################################
+    "Kodnamn: Annika (2023)":
+        year: 2023
+        title: "Kodnamn: Annika"
+        url_poster: https://theposterdb.com/api/assets/500205
+        match:
+          mapping_id: 438389
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/500206
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Ronja Rövardotter (2024)                              #
+#                                                                   #
+#####################################################################
+    "Ronja Rövardotter (2024)":
+        year: 2024
+        title: "Ronja Rövardotter"
+        url_poster: https://theposterdb.com/api/assets/500214
+        match:
+          mapping_id: 424514
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/500215
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Behind the Attraction (2021)                              #
+#                                                                   #
+#####################################################################
+    "Behind the Attraction (2021)":
+        year: 2021
+        title: "Behind the Attraction"
+        url_poster: https://theposterdb.com/api/assets/500574
+        match:
+          mapping_id: 404205
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Toughest Forces on Earth (2024)                              #
+#                                                                   #
+#####################################################################
+    "Toughest Forces on Earth (2024)":
+        year: 2024
+        title: "Toughest Forces on Earth"
+        url_poster: https://theposterdb.com/api/assets/500576
+        match:
+          mapping_id: 449662
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Gränsbevakarna Sverige (2022)                              #
+#                                                                   #
+#####################################################################
+    "Gränsbevakarna Sverige (2022)":
+        year: 2022
+        title: "Gränsbevakarna Sverige"
+        url_poster: https://theposterdb.com/api/assets/500577
+        match:
+          mapping_id: 424032
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Morran och Tobias - Pengarna eller livet (2024)                              #
+#                                                                   #
+#####################################################################
+    "Morran och Tobias - Pengarna eller livet (2024)":
+        year: 2024
+        title: "Morran och Tobias - Pengarna eller livet"
+        url_poster: https://theposterdb.com/api/assets/500581
+        match:
+          mapping_id: 447968
+        seasons:
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Hoffman Family Gold (2022)                              #
+#                                                                   #
+#####################################################################
+    "Hoffman Family Gold (2022)":
+        year: 2022
+        title: "Hoffman Family Gold"
+        url_poster: https://theposterdb.com/api/assets/502370
+        match:
+          mapping_id: 410486
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/502371
+            2:
+                url_poster: https://theposterdb.com/api/assets/502372
+            3:
+                url_poster: https://theposterdb.com/api/assets/504202
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Försvunna människor (2022)                              #
+#                                                                   #
+#####################################################################
+    "Försvunna människor (2022)":
+        year: 2022
+        title: "Försvunna människor"
+        url_poster: https://theposterdb.com/api/assets/504656
+        match:
+          mapping_id: 402608
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/504657
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Slutet på sommaren (2023)                              #
+#                                                                   #
+#####################################################################
+    "Slutet på sommaren (2023)":
+        year: 2023
+        title: "Slutet på sommaren"
+        url_poster: https://theposterdb.com/api/assets/506541
+        match:
+          mapping_id: 441096
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/506542
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Time Bandits (2024)                              #
+#                                                                   #
+#####################################################################
+    "Time Bandits (2024)":
+        year: 2024
+        title: "Time Bandits"
+        url_poster: https://theposterdb.com/api/assets/506824
+        match:
+          mapping_id: 425453
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/506826           
+            1:
+                url_poster: https://theposterdb.com/api/assets/506825
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Strandhotellet (2023)                              #
+#                                                                   #
+#####################################################################
+    "Strandhotellet (2023)":
+        year: 2023
+        title: "Strandhotellet"
+        url_poster: https://theposterdb.com/api/assets/507146
+        match:
+          mapping_id: 431228
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/507147
+            2:
+                url_poster: https://theposterdb.com/api/assets/507148
+            3:
+                url_poster: https://theposterdb.com/api/assets/507149
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         SIX (2017)                              #
+#                                                                   #
+#####################################################################
+    "SIX (2017)":
+        year: 2017
+        title: "SIX"
+        url_poster: https://theposterdb.com/api/assets/364811
+        match:
+          mapping_id: 311809
+        seasons:      
+            1:
+                url_poster: https://theposterdb.com/api/assets/364812
+            2:
+                url_poster: https://theposterdb.com/api/assets/364813
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Exploding Kittens (2024)                              #
+#                                                                   #
+#####################################################################
+    "Exploding Kittens (2024)":
+        year: 2024
+        title: "Exploding Kittens"
+        url_poster: https://theposterdb.com/api/assets/507314
+        match:
+          mapping_id: 419191
+        seasons:   
+            1:
+                url_poster: https://theposterdb.com/api/assets/507315
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Cobra Kai (2018)                           #
+#                                                                   #
+#####################################################################
+    "Cobra Kai (2018)":
+        year: 2018
+        title: "Cobra Kai"
+        url_poster: https://theposterdb.com/api/assets/508906
+        match:
+          mapping_id: 332858
+        seasons:     
+            0:
+                url_poster: https://theposterdb.com/api/assets/508913   
+            1:
+                url_poster: https://theposterdb.com/api/assets/508907
+            2:
+                url_poster: https://theposterdb.com/api/assets/508908
+            3:
+                url_poster: https://theposterdb.com/api/assets/508909
+            4:
+                url_poster: https://theposterdb.com/api/assets/508910
+            5:
+                url_poster: https://theposterdb.com/api/assets/508911
+            6:
+                url_poster: https://theposterdb.com/api/assets/508912
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Cowboy Cartel (2024)                              #
+#                                                                   #
+#####################################################################
+    "Cowboy Cartel (2024)":
+        year: 2024
+        title: "Cowboy Cartel"
+        url_poster: https://theposterdb.com/api/assets/510900
+        match:
+          mapping_id: 452490
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/510901        
+            1:
+                url_poster: https://theposterdb.com/api/assets/510902
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         SEAL Team (2017)                              #
+#                                                                   #
+#####################################################################
+    "SEAL Team (2017)":
+        year: 2017
+        title: "SEAL Team"
+        url_poster: https://theposterdb.com/api/assets/366610
+        match:
+          mapping_id: 328686
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/366604
+            2:
+                url_poster: https://theposterdb.com/api/assets/366605
+            3:
+                url_poster: https://theposterdb.com/api/assets/366606
+            4:
+                url_poster: https://theposterdb.com/api/assets/366607
+            5:
+                url_poster: https://theposterdb.com/api/assets/366608
+            6:
+                url_poster: https://theposterdb.com/api/assets/366609
+            7:
+                url_poster: https://theposterdb.com/api/assets/515575
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Simone Biles Rising (2024)                              #
+#                                                                   #
+#####################################################################
+    "Simone Biles Rising (2024)":
+        year: 2024
+        title: "Simone Biles Rising"
+        url_poster: https://theposterdb.com/api/assets/512173
+        match:
+          mapping_id: 450109
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/512174
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Morden i Sandhamn (2010)                              #
+#                                                                   #
+#####################################################################
+    "Morden i Sandhamn (2010)":
+        year: 2010
+        title: "Morden i Sandhamn"
+        url_poster: https://theposterdb.com/api/assets/515563
+        match:
+          mapping_id: 212821
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/515564
+            2:
+                url_poster: https://theposterdb.com/api/assets/515565
+            3:
+                url_poster: https://theposterdb.com/api/assets/515566
+            4:
+                url_poster: https://theposterdb.com/api/assets/515567
+            5:
+                url_poster: https://theposterdb.com/api/assets/515568
+            6:
+                url_poster: https://theposterdb.com/api/assets/515569
+            7:
+                url_poster: https://theposterdb.com/api/assets/515570
+            8:
+                url_poster: https://theposterdb.com/api/assets/515571
+            9:
+                url_poster: https://theposterdb.com/api/assets/515572
+            10:
+                url_poster: https://theposterdb.com/api/assets/515573
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         Secrets of the Hells Angels (2024)                              #
+#                                                                   #
+#####################################################################
+    "Secrets of the Hells Angels (2024)":
+        year: 2024
+        title: "Secrets of the Hells Angels"
+        url_poster: https://theposterdb.com/api/assets/483010
+        match:
+          mapping_id: 447119
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/483011        
+            1:
+                url_poster: https://theposterdb.com/api/assets/483012
+
+#####################################################################
+#                                                                   #
 #                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
@@ -3049,6 +4790,8 @@ metadata:
         match:
           mapping_id: xxxx
         seasons:
+            0:
+                url_poster: xxxxx        
             1:
                 url_poster: xxxxx
             2:
@@ -3070,6 +4813,7 @@ metadata:
             10:
                 url_poster: xxxx
             11:
-                url_poster: xxxxx        
+                url_poster: xxxxx    
+
 
                 

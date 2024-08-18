@@ -414,7 +414,7 @@ metadata:
         title: "Furiosa: A Mad Max Saga"
         match:
           mapping_id: 786892
-        url_poster: https://theposterdb.com/api/assets/439032
+        url_poster: https://theposterdb.com/api/assets/502368
 
     "Marley & Me (2008)":
         year: 2008
@@ -477,7 +477,7 @@ metadata:
         title: "Onyx the Fortuitous and the Talisman of Souls"
         match:
           mapping_id: 929230
-        url_poster: https://theposterdb.com/api/assets/432829
+        url_poster: https://theposterdb.com/api/assets/475013
 
     "Outlaw Johnny Black (2023)":
         year: 2023
@@ -506,13 +506,6 @@ metadata:
         match:
           mapping_id: 821890
         url_poster: https://theposterdb.com/api/assets/342336
-
-    "Paranormal Activity: Next of Kin (2021)":
-        year: 2021
-        title: "Paranormal Activity: Next of Kin"
-        match:
-          mapping_id: 609972
-        url_poster: https://theposterdb.com/api/assets/186258
 
     "Paul (2011)":
         year: 2011
@@ -638,7 +631,7 @@ metadata:
         title: "See You on Venus"
         match:
           mapping_id: 1122932
-        url_poster: https://theposterdb.com/api/assets/395356
+        url_poster: https://theposterdb.com/api/assets/459855
 
     "Senna (2010)":
         year: 2010
@@ -1328,7 +1321,7 @@ metadata:
 
     "Clerks II (2006)":
         year: 2006
-        title: "xxClerks IIx"
+        title: "Clerks II"
         match:
           mapping_id: 2295
         url_poster: https://theposterdb.com/api/assets/187841
@@ -1408,7 +1401,7 @@ metadata:
         title: "Deadpool"
         match:
           mapping_id: 293660
-        url_poster: https://theposterdb.com/api/assets/171134
+        url_poster: https://theposterdb.com/api/assets/497881
 
     "Once Upon a Deadpool (2018)":
         year: 2018
@@ -1422,7 +1415,7 @@ metadata:
         title: "Deadpool 2"
         match:
           mapping_id: 383498
-        url_poster: https://theposterdb.com/api/assets/171135
+        url_poster: https://theposterdb.com/api/assets/497869
 
     "Dumb and Dumberer: When Harry Met Lloyd (2003)":
         year: 2003
@@ -1937,26 +1930,29 @@ metadata:
           mapping_id: 961268
         url_poster: https://theposterdb.com/api/assets/423050
 
-    "Beck 50 (2023)":
+    "Dödläge (2023)":
         year: 2023
-        title: "Beck 50 - Deadlock"
+        title: "Dödläge"
+        sort_title: "Beck 50"         
         match:
           mapping_id: 1037367
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498763
 
-    "Beck 49 (2023)":
+    "Inferno (2023)":
         year: 2023
-        title: "Beck 50 - Inferno"
+        title: "Inferno"
+        sort_title: "Beck 49"        
         match:
           mapping_id: 1037365
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498752
 
-    "Beck 48 (2023)":
+    "Quid Pro Quo (2023)":
         year: 2023
-        title: "Beck 50 - Quid Pro Quo"
+        title: "Quid Pro Quo"
+        sort_title: "Beck 48"        
         match:
           mapping_id: 1037360
-        #url_poster: https://theposterdb.com/api/assets/200126
+        url_poster: https://theposterdb.com/api/assets/498753
 
     "Bird Box: Barcelona (2023)":
         year: 2023
@@ -2674,42 +2670,42 @@ metadata:
         title: "Jurassic Park"
         match:
           mapping_id: 329
-        url_poster: https://theposterdb.com/api/assets/179165
+        url_poster: https://theposterdb.com/api/assets/504200
 
     "Jurassic Park: The Lost World (1997)":
         year: 1997
         title: "Jurassic Park: The Lost World"
         match:
           mapping_id: 330
-        url_poster: https://theposterdb.com/api/assets/179166
+        url_poster: https://theposterdb.com/api/assets/504199
 
     "Jurassic Park III (2001)":
         year: 2001
         title: "Jurassic Park III"
         match:
           mapping_id: 331
-        url_poster: https://theposterdb.com/api/assets/179167
+        url_poster: https://theposterdb.com/api/assets/504198
 
     "Jurassic World (2015)":
         year: 2015
         title: "Jurassic World"
         match:
           mapping_id: 135397
-        url_poster: https://theposterdb.com/api/assets/179168
+        url_poster: https://theposterdb.com/api/assets/504197
 
     "Jurassic World: Fallen Kingdom (2018)":
         year: 2018
         title: "Jurassic World: Fallen Kingdom"
         match:
           mapping_id: 351286
-        url_poster: https://theposterdb.com/api/assets/179169
+        url_poster: https://theposterdb.com/api/assets/504196
 
     "Jurassic World Dominion (2022)":
         year: 2022
         title: "Jurassic World Dominion"
         match:
           mapping_id: 507086
-        url_poster: https://theposterdb.com/api/assets/242689
+        url_poster: https://theposterdb.com/api/assets/504195
 
     "Kandahar (2023)":
         year: 2023
@@ -3208,12 +3204,101 @@ metadata:
           mapping_id: 324857
         url_poster: https://theposterdb.com/api/assets/171157
 
+    "Star Wars: Episode I - The Phantom Menace (1999)":
+        year: 1999
+        title: "Star Wars: The Phantom Menace"
+        sort_title: "Star Wars - 01"
+        match:
+          mapping_id: 1893
+        url_poster: https://theposterdb.com/api/assets/509309  
+
+    "Star Wars: Episode II - Attack of the Clones (2002)":
+        year: 2002
+        title: "Star Wars: Attack of the Clones"
+        sort_title: "Star Wars - 02"
+        match:
+          mapping_id: 1894
+        url_poster: https://theposterdb.com/api/assets/509308 
+
+    "Star Wars: Episode III - Revenge of the Sith (2005)":
+        year: 2005
+        title: "Star Wars: Revenge of the Sith"
+        sort_title: "Star Wars - 03"
+        match:
+          mapping_id: 1895
+        url_poster: https://theposterdb.com/api/assets/509307     
+
+    "Solo: A Star Wars Story (2018)":
+        year: 2018
+        title: "Solo: A Star Wars Story"
+        sort_title: "Star Wars - 04"
+        match:
+          mapping_id: 348350
+        url_poster: https://theposterdb.com/api/assets/509302    
+
+    "Obi-Wan Kenobi: A Jedi's Return (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi: A Jedi's Return"
+        sort_title: "Star Wars - 05"
+        match:
+          mapping_id: 1015606
+        url_poster: https://theposterdb.com/api/assets/509421  
+
+    "Rogue One: A Star Wars Story (2016)":
+        year: 2016
+        title: "Rogue One: A Star Wars Story"
+        sort_title: "Star Wars - 06"
+        match:
+          mapping_id: 330459
+        url_poster: https://theposterdb.com/api/assets/509304         
+
     "Star Wars: Episode IV - A New Hope (1977)":
         year: 1977
-        title: "Star Wars: Episode IV - A New Hope"
+        title: "Star Wars: A New Hope"
+        sort_title: "Star Wars - 07"        
         match:
           mapping_id: 11
-        url_poster: https://theposterdb.com/api/assets/174457
+        url_poster: https://theposterdb.com/api/assets/509315
+
+    "Star Wars: Episode V - The Empire Strikes Back (1980)":
+        year: 1980
+        title: "Star Wars: The Empire Strikes Back"
+        sort_title: "Star Wars - 08"   
+        match:
+          mapping_id: 1891
+        url_poster: https://theposterdb.com/api/assets/509313     
+
+    "Star Wars: Episode VI - Return of the Jedi (1983)":
+        year: 1983
+        title: "Star Wars: Return of the Jedi"
+        sort_title: "Star Wars - 09"   
+        match:
+          mapping_id: 1892
+        url_poster: https://theposterdb.com/api/assets/509312     
+
+    "Star Wars: Episode VII - The Force Awakens (2015)":
+        year: 2015
+        title: "Star Wars: The Force Awakens"
+        sort_title: "Star Wars - 10"          
+        match:
+          mapping_id: 140607
+        url_poster: https://theposterdb.com/api/assets/509305   
+
+    "Star Wars: Episode VIII - The Last Jedi (2017)":
+        year: 2017
+        title: "Star Wars: The Last Jedi"
+        sort_title: "Star Wars - 11"            
+        match:
+          mapping_id: 181808
+        url_poster: https://theposterdb.com/api/assets/509303       
+
+    "Star Wars: Episode IX - The Rise of Skywalker (2019)":
+        year: 2019
+        title: "Star Wars: The Rise of Skywalker"
+        sort_title: "Star Wars - 12"           
+        match:
+          mapping_id: 181812
+        url_poster: https://theposterdb.com/api/assets/509301       
 
     "The Star Wars Holiday Special (1978)":
         year: 1978
@@ -3221,37 +3306,7 @@ metadata:
         sort_title: "Star Wars - 20"
         match:
           mapping_id: 74849
-        url_poster: https://theposterdb.com/api/assets/174458
-
-    "Star Wars: Episode V - The Empire Strikes Back (1980)":
-        year: 1980
-        title: "Star Wars: Episode V - The Empire Strikes Back"
-        match:
-          mapping_id: 1891
-        url_poster: https://theposterdb.com/api/assets/174481
-
-    "Star Wars: Episode VI - Return of the Jedi (1983)":
-        year: 1983
-        title: "Star Wars: Episode VI - Return of the Jedi"
-        match:
-          mapping_id: 1892
-        url_poster: https://theposterdb.com/api/assets/174482
-
-    "Star Wars: Episode I - The Phantom Menace (1999)":
-        year: 1999
-        title: "Star Wars: Episode I - The Phantom Menace"
-        sort_title: "Star Wars - 01"
-        match:
-          mapping_id: 1893
-        url_poster: https://theposterdb.com/api/assets/174463
-
-    "Star Wars: Episode II - Attack of the Clones (2002)":
-        year: 2002
-        title: "Star Wars: Episode II - Attack of the Clones"
-        sort_title: "Star Wars - 02"
-        match:
-          mapping_id: 1894
-        url_poster: https://theposterdb.com/api/assets/174464
+        url_poster: https://theposterdb.com/api/assets/509314
 
     "Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)":
         year: 2004
@@ -3260,57 +3315,12 @@ metadata:
           mapping_id: 76180
         url_poster: https://theposterdb.com/api/assets/244801
 
-    "Star Wars: Episode III - Revenge of the Sith (2005)":
-        year: 2005
-        title: "Star Wars: Episode III - Revenge of the Sith"
-        sort_title: "Star Wars - 03"
-        match:
-          mapping_id: 1895
-        url_poster: https://theposterdb.com/api/assets/174465
-
     "Star Wars: The Clone Wars (2008)":
         year: 2008
         title: "Star Wars: The Clone Wars"
         match:
           mapping_id: 12180
-        url_poster: https://theposterdb.com/api/assets/174473
-
-    "Star Wars: Episode VII - The Force Awakens (2015)":
-        year: 2015
-        title: "Star Wars: Episode VII - The Force Awakens"
-        match:
-          mapping_id: 140607
-        url_poster: https://theposterdb.com/api/assets/174467
-
-    "Rogue One: A Star Wars Story (2016)":
-        year: 2016
-        title: "Rogue One: A Star Wars Story"
-        sort_title: "Star Wars - 11"
-        match:
-          mapping_id: 330459
-        url_poster: https://theposterdb.com/api/assets/174468
-
-    "Star Wars: Episode VIII - The Last Jedi (2017)":
-        year: 2017
-        title: "Star Wars: Episode VIII - The Last Jedi"
-        match:
-          mapping_id: 181808
-        url_poster: https://theposterdb.com/api/assets/174469
-
-    "Solo: A Star Wars Story (2018)":
-        year: 2018
-        title: "Solo: A Star Wars Story"
-        sort_title: "Star Wars - 12"
-        match:
-          mapping_id: 348350
-        url_poster: https://theposterdb.com/api/assets/174470
-
-    "Star Wars: Episode IX - The Rise of Skywalker (2019)":
-        year: 2019
-        title: "Star Wars: Episode IX - The Rise of Skywalker"
-        match:
-          mapping_id: 181812
-        url_poster: https://theposterdb.com/api/assets/174471
+        url_poster: https://theposterdb.com/api/assets/509306
 
     "The Skywalker Legacy (2020)":
         year: 2020
@@ -3319,6 +3329,21 @@ metadata:
         match:
           mapping_id: 680382
         url_poster: https://theposterdb.com/api/assets/174486
+
+    "Ewoks: The Battle for Endor (1985)":
+        year: 1985
+        title: "Ewoks: The Battle for Endor"
+        match:
+          mapping_id: 10372
+        url_poster: https://theposterdb.com/api/assets/509310       
+
+    "Caravan of Courage: An Ewok Adventure (1984)":
+        year: 1984
+        title: "The Ewok Adventure"
+        match:
+          mapping_id: 1884
+        url_poster: https://theposterdb.com/api/assets/509311       
+
 
     "Talk to Me (2023)":
         year: 2023
@@ -3915,8 +3940,8 @@ metadata:
           mapping_id: 378385
         url_poster: https://theposterdb.com/api/assets/398128
 
-    "Jarhead: Law of Return (xxxx)":
-        year: xxxx
+    "Jarhead: Law of Return (2019)":
+        year: 2019
         title: "Jarhead: Law of Return"
         match:
           mapping_id: 635744
@@ -4053,7 +4078,7 @@ metadata:
         title: "Rebel Moon - Part One: A Child of Fire"
         match:
           mapping_id: 848326
-        url_poster: https://theposterdb.com/api/assets/402012
+        url_poster: https://theposterdb.com/api/assets/480394
 
     "The Abyss (2023)":
         year: 2023
@@ -4165,7 +4190,7 @@ metadata:
         title: "The Little Death"
         match:
           mapping_id: 276844
-        url_poster: https://theposterdb.com/api/assets/447282
+        url_poster: https://theposterdb.com/api/assets/511336
 
     "National Lampoon's Loaded Weapon 1 (1993)":
         year: 1993
@@ -4576,8 +4601,8 @@ metadata:
         year: 1971
         title: "Pongo och de 101 dalmatinerna"
         match:
-          mapping_id: xxx
-        url_poster: xxxxxx
+          mapping_id: 12230
+        url_poster: https://theposterdb.com/api/assets/191968
                                                                 
     "101 Dalmatians II: Patch's London Adventure (2002)":
         year: 2002
@@ -6031,7 +6056,7 @@ metadata:
 
     "Biohazard 4: Incubate (2006)":
         year: 2006
-        title: "xxx"
+        title: "Biohazard 4: Incubate"
         match:
           mapping_id: 497467
         url_poster: https://theposterdb.com/api/assets/448164
@@ -6181,7 +6206,7 @@ metadata:
         title: "One More Shot"
         match:
           mapping_id: 1214314
-        #url_poster: xxxxxx
+        url_poster: https://theposterdb.com/api/assets/464064
 
     "Role Play (2024)":
         year: 2024
@@ -6466,10 +6491,2711 @@ metadata:
           mapping_id: 500664
         url_poster: https://theposterdb.com/api/assets/184008
 
-    "xxxxx (xxxx)":
-        year: xxxx
-        title: "xxxxx"
+    "Road House (1989)":
+        year: 1989
+        title: "Road House"
         match:
-          mapping_id: xxxxx
-        url_poster: xxxxx
+          mapping_id: 10135
+        url_poster: https://theposterdb.com/api/assets/204193
+
+    "Road House 2: Last Call (2006)":
+        year: 2006
+        title: "Road House 2: Last Call"
+        match:
+          mapping_id: 27732
+        url_poster: https://theposterdb.com/api/assets/204199
+
+    "The Zone of Interest (2023)":
+        year: 2023
+        title: "The Zone of Interest"
+        match:
+          mapping_id: 467244
+        url_poster: https://theposterdb.com/api/assets/468711
+
+    "Godzilla x Kong: The New Empire (2024)":
+        year: 2024
+        title: "Godzilla x Kong: The New Empire"
+        match:
+          mapping_id: 823464
+        url_poster: https://theposterdb.com/api/assets/468836
+
+    "Bob Marley: One Love (2024)":
+        year: 2024
+        title: "Bob Marley: One Love"
+        match:
+          mapping_id: 802219
+        url_poster: https://theposterdb.com/api/assets/450411
+
+    "Road House (2024)":
+        year: 2024
+        title: "Road House"
+        match:
+          mapping_id: 359410
+        url_poster: https://theposterdb.com/api/assets/470676
+
+    "Jeff Dunham: I'm With Cupid (2024)":
+        year: 2024
+        title: "Jeff Dunham: I'm With Cupid"
+        match:
+          mapping_id: 1230888
+        url_poster: https://theposterdb.com/api/assets/470807
+
+    "The Bloody Hundredth (2024)":
+        year: 2024
+        title: "The Bloody Hundredth"
+        match:
+          mapping_id: 1251636
+        url_poster: https://theposterdb.com/api/assets/471283
+
+    "Adam Sandler: 100% Fresh (2018)":
+        year: 2018
+        title: "Adam Sandler: 100% Fresh"
+        match:
+          mapping_id: 517596
+        url_poster: https://theposterdb.com/api/assets/472337
+
+    "Barb Wire (1996)":
+        year: 1996
+        title: "Barb Wire"
+        match:
+          mapping_id: 11867
+        url_poster: https://theposterdb.com/api/assets/171819
+
+    "Ordinary Angels (2024)":
+        year: 2024
+        title: "Ordinary Angels"
+        match:
+          mapping_id: 974036
+        url_poster: https://theposterdb.com/api/assets/450595
+
+    "Imaginary (2024)":
+        year: 2024
+        title: "Imaginary"
+        match:
+          mapping_id: 1125311
+        url_poster: https://theposterdb.com/api/assets/473454
+
+    "Madame Web (2024)":
+        year: 2024
+        title: "Madame Web"
+        match:
+          mapping_id: 634492
+        url_poster: https://theposterdb.com/api/assets/442731
+
+    "The Eagle (2011)":
+        year: 2011
+        title: "The Eagle"
+        match:
+          mapping_id: 49494
+        url_poster: https://theposterdb.com/api/assets/195587
+
+    "22 Jump Street (2014)":
+        year: 2014
+        title: "22 Jump Street"
+        match:
+          mapping_id: 187017
+        url_poster: https://theposterdb.com/api/assets/200158
+
+    "21 Jump Street (2012)":
+        year: 2012
+        title: "21 Jump Street"
+        match:
+          mapping_id: 64688
+        url_poster: https://theposterdb.com/api/assets/200157
+
+    "Coach Carter (2005)":
+        year: 2005
+        title: "Coach Carter"
+        match:
+          mapping_id: 7214
+        url_poster: https://theposterdb.com/api/assets/230739
+
+    "Dear John (2010)":
+        year: 2010
+        title: "Dear John"
+        match:
+          mapping_id: 22971
+        url_poster: https://theposterdb.com/api/assets/213033
+
+    "The Dilemma (2011)":
+        year: 2011
+        title: "The Dilemma"
+        match:
+          mapping_id: 44564
+        url_poster: https://theposterdb.com/api/assets/235728
+
+    "From Paris With Love (2010)":
+        year: 2010
+        title: "From Paris With Love"
+        match:
+          mapping_id: 26389
+        url_poster: https://theposterdb.com/api/assets/212181
+
+    "Joker: Folie à Deux (2024)":
+        year: 2024
+        title: "Joker: Folie à Deux"
+        match:
+          mapping_id: 889737
+        url_poster: https://theposterdb.com/api/assets/477507
+
+    "Life (2017)":
+        year: 2017
+        title: "Life"
+        match:
+          mapping_id: 395992
+        url_poster: https://theposterdb.com/api/assets/178851
+
+    "Everest (2015)":
+        year: 2015
+        title: "Everest"
+        match:
+          mapping_id: 253412
+        url_poster: https://theposterdb.com/api/assets/188741
+
+    "The Girl on the Train (2016)":
+        year: 2016
+        title: "The Girl on the Train"
+        match:
+          mapping_id: 346685
+        url_poster: https://theposterdb.com/api/assets/217104
+
+    "The Number 23 (2007)":
+        year: 2007
+        title: "The Number 23"
+        match:
+          mapping_id: 3594
+        url_poster: https://theposterdb.com/api/assets/216237
+
+    "The Three Musketeers: Milady (2023)":
+        year: 2023
+        title: "The Three Musketeers: Milady"
+        match:
+          mapping_id: 845111
+        url_poster: https://theposterdb.com/api/assets/467551
+
+    "Godzilla Minus One (2023)":
+        year: 2023
+        title: "Godzilla Minus One"
+        match:
+          mapping_id: 940721
+        url_poster: https://theposterdb.com/api/assets/439716
+
+    "G.I. Joe: Retaliation (2013)":
+        year: 2013
+        title: "G.I. Joe: Retaliation"
+        match:
+          mapping_id: 72559
+        url_poster: https://theposterdb.com/api/assets/172041
+
+    "Bullet Train (2022)":
+        year: 2022
+        title: "Bullet Train"
+        match:
+          mapping_id: 718930
+        url_poster: https://theposterdb.com/api/assets/269722
+
+    "G.I. Joe: The Rise of Cobra (2009)":
+        year: 2009
+        title: "G.I. Joe: The Rise of Cobra"
+        match:
+          mapping_id: 14869
+        url_poster: https://theposterdb.com/api/assets/172040
+
+    "Snake Eyes: G.I. Joe Origins (2021)":
+        year: 2021
+        title: "Snake Eyes: G.I. Joe Origins"
+        match:
+          mapping_id: 568620
+        url_poster: https://theposterdb.com/api/assets/172042
+
+    "Sleeping Dogs (2024)":
+        year: 2024
+        title: "Sleeping Dogs"
+        match:
+          mapping_id: 978592
+        url_poster: https://theposterdb.com/api/assets/479960
+
+    "Rebel Moon - Part Two: The Scargiver (2024)":
+        year: 2024
+        title: "Rebel Moon - Part Two: The Scargiver"
+        match:
+          mapping_id: 934632
+        url_poster: https://theposterdb.com/api/assets/480393
+
+    "Breathe (2024)":
+        year: 2024
+        title: "Breathe"
+        match:
+          mapping_id: 720321
+        url_poster: https://theposterdb.com/api/assets/480372
+
+    "Damaged (2024)":
+        year: 2024
+        title: "Damaged"
+        match:
+          mapping_id: 1105407
+        url_poster: https://theposterdb.com/api/assets/481554
+
+    "Woody Woodpecker Goes to Camp (2024)":
+        year: 2024
+        title: "Woody Woodpecker Goes to Camp"
+        match:
+          mapping_id: 1239146
+        url_poster: https://theposterdb.com/api/assets/481545
+
+    "Hachiko (2023)":
+        year: 2023
+        title: "Hachiko"
+        match:
+          mapping_id: 1107387
+        url_poster: https://theposterdb.com/api/assets/481506
+
+    "Don Jon (2013)":
+        year: 2013
+        title: "Don Jon"
+        match:
+          mapping_id: 138697
+        url_poster: https://theposterdb.com/api/assets/208789
+
+    "No Reservations (2007)":
+        year: 2007
+        title: "No Reservations"
+        match:
+          mapping_id: 3638
+        url_poster: https://theposterdb.com/api/assets/216234
+
+    "Sweet Dreams (2024)":
+        year: 2024
+        title: "Sweet Dreams"
+        match:
+          mapping_id: 1062421
+        url_poster: https://theposterdb.com/api/assets/483288
+
+    "The Girl Who Escaped: The Kara Robinson Story (2023)":
+        year: 2023
+        title: "The Girl Who Escaped: The Kara Robinson Story"
+        match:
+          mapping_id: 1075334
+        url_poster: https://theposterdb.com/api/assets/323928
+
+    "Baghead (2023)":
+        year: 2023
+        title: "Baghead"
+        match:
+          mapping_id: 845783
+        url_poster: https://theposterdb.com/api/assets/482032
+
+    "Immaculate (2024)":
+        year: 2024
+        title: "Immaculate"
+        match:
+          mapping_id: 1041613
+        url_poster: https://theposterdb.com/api/assets/477164
+
+    "Jerry & Marge Go Large (2022)":
+        year: 2022
+        title: "Jerry & Marge Go Large"
+        match:
+          mapping_id: 843847
+        url_poster: https://theposterdb.com/api/assets/245862
+
+    "12 Strong (2018)":
+        year: 2018
+        title: "12 Strong"
+        match:
+          mapping_id: 429351
+        url_poster: https://theposterdb.com/api/assets/195272
+        
+    "The Hummingbird Project (2019)":
+        year: 2019
+        title: "The Hummingbird Project"
+        match:
+          mapping_id: 489243
+        url_poster: https://theposterdb.com/api/assets/376187
+        
+    "Crocodile Dundee (1986)":
+        year: 1986
+        title: "Crocodile Dundee"
+        match:
+          mapping_id: 9671
+        url_poster: https://theposterdb.com/api/assets/194015
+        
+    "Crocodile Dundee II (1988)":
+        year: 1988
+        title: "Crocodile Dundee II"
+        match:
+          mapping_id: 9396
+        url_poster: https://theposterdb.com/api/assets/194016
+        
+    "Crocodile Dundee in Los Angeles (2001)":
+        year: 2001
+        title: "Crocodile Dundee in Los Angeles"
+        match:
+          mapping_id: 9290
+        url_poster: https://theposterdb.com/api/assets/194017
+        
+    "Asphalt City (2024)":
+        year: 2024
+        title: "Asphalt City"
+        match:
+          mapping_id: 628922
+        url_poster: https://theposterdb.com/api/assets/484498
+        
+    "DOMINO (2005)":
+        year: 2005
+        title: "DOMINO"
+        match:
+          mapping_id: 9923
+        url_poster: https://theposterdb.com/api/assets/216829
+
+    "Seeking a Friend for the End of the World (2012)":
+        year: 2012
+        title: "Seeking a Friend for the End of the World"
+        match:
+          mapping_id: 88005
+        url_poster: https://theposterdb.com/api/assets/209459   
+
+    "Minority Report (2002)":
+        year: 2002
+        title: "Minority Report"
+        match:
+          mapping_id: 180
+        url_poster: https://theposterdb.com/api/assets/179235
+
+    "Transformers One (2024)":
+        year: 2024
+        title: "Transformers One"
+        match:
+          mapping_id: 698687
+        url_poster: https://theposterdb.com/api/assets/485081
+
+    "Arcadian (2024)":
+        year: 2024
+        title: "Arcadian"
+        match:
+          mapping_id: 1051896
+        url_poster: https://theposterdb.com/api/assets/481872
+
+    "The Ides of March (2011)":
+        year: 2011
+        title: "The Ides of March"
+        match:
+          mapping_id: 10316
+        url_poster: https://theposterdb.com/api/assets/210182
+
+    "Haywire (2011)":
+        year: 2011
+        title: "Haywire"
+        match:
+          mapping_id: 70435
+        url_poster: https://theposterdb.com/api/assets/209416
+
+    "The Long Game (2024)":
+        year: 2024
+        title: "The Long Game"
+        match:
+          mapping_id: 1079810
+        url_poster: https://theposterdb.com/api/assets/487315
+
+    "Demolition (2016)":
+        year: 2016
+        title: "Demolition"
+        match:
+          mapping_id: 303991
+        url_poster: https://theposterdb.com/api/assets/202134
+
+    "The Idea of You (2024)":
+        year: 2024
+        title: "The Idea of You"
+        match:
+          mapping_id: 843527
+        url_poster: https://theposterdb.com/api/assets/488511
+
+    "War of the Worlds (2005)":
+        year: 2005
+        title: "War of the Worlds"
+        match:
+          mapping_id: 74
+        url_poster: https://theposterdb.com/api/assets/245649
+
+    "Twister (1996)":
+        year: 1996
+        title: "Twister"
+        match:
+          mapping_id: 664
+        url_poster: https://theposterdb.com/api/assets/175453
+
+    "Twisters (2024)":
+        year: 2024
+        title: "Twisters"
+        match:
+          mapping_id: 718821
+        url_poster: https://theposterdb.com/api/assets/504660
+
+    "Unfrosted (2024)":
+        year: 2024
+        title: "Unfrosted"
+        match:
+          mapping_id: 844185
+        url_poster: https://theposterdb.com/api/assets/488773
+
+    "White Bird (2024)":
+        year: 2024
+        title: "White Bird"
+        match:
+          mapping_id: 779816
+        url_poster: https://theposterdb.com/api/assets/483905
+
+    "Ghostbusters: Frozen Empire (2024)":
+        year: 2024
+        title: "Ghostbusters: Frozen Empire"
+        match:
+          mapping_id: 967847
+        url_poster: https://theposterdb.com/api/assets/471351
+
+    "Abigail (2024)":
+        year: 2024
+        title: "Abigail"
+        match:
+          mapping_id: 1111873
+        url_poster: https://theposterdb.com/api/assets/450384
+
+    "The Crow (1994)":
+        year: 1994
+        title: "The Crow"
+        match:
+          mapping_id: 9495
+        url_poster: https://theposterdb.com/api/assets/171690
+
+    "Shutter Island (2010)":
+        year: 2010
+        title: "Shutter Island"
+        match:
+          mapping_id: 11324
+        url_poster: https://theposterdb.com/api/assets/213094
+
+    "Magic Mike's Last Dance (2023)":
+        year: 2023
+        title: "Magic Mike's Last Dance"
+        match:
+          mapping_id: 906221
+        url_poster: https://theposterdb.com/api/assets/327067
+
+    "Magic Mike XXL (2015)":
+        year: 2015
+        title: "Magic Mike XXL"
+        match:
+          mapping_id: 264999
+        url_poster: https://theposterdb.com/api/assets/171945
+
+    "Magic Mike (2012)":
+        year: 2012
+        title: "Magic Mike"
+        match:
+          mapping_id: 77930
+        url_poster: https://theposterdb.com/api/assets/171944
+
+    "Brokeback Mountain (2005)":
+        year: 2005
+        title: "Brokeback Mountain"
+        match:
+          mapping_id: 142
+        url_poster: https://theposterdb.com/api/assets/207193
+
+    "The Ministry of Ungentlemanly Warfare (2024)":
+        year: 2024
+        title: "The Ministry of Ungentlemanly Warfare"
+        match:
+          mapping_id: 799583
+        url_poster: https://theposterdb.com/api/assets/481910
+        
+    "Purple Hearts (2022)":
+        year: 2022
+        title: "Purple Hearts"
+        match:
+          mapping_id: 762975
+        url_poster: https://theposterdb.com/api/assets/309838
+        
+    "Mr and Mrs Smith (2005)":
+        year: 2005
+        title: "Mr and Mrs Smith"
+        match:
+          mapping_id: 787
+        url_poster: https://theposterdb.com/api/assets/216868
+        
+    "Big Hero 6 (2014)":
+        year: 2014
+        title: "Big Hero 6"
+        match:
+          mapping_id: 177572
+        url_poster: https://theposterdb.com/api/assets/191990
+        
+    "Pirates of the Caribbean: Tales of the Code: Wedlocked (2011)":
+        year: 2011
+        title: "Pirates of the Caribbean: Tales of the Code: Wedlocked"
+        match:
+          mapping_id: 230652
+        url_poster: https://theposterdb.com/api/assets/169553      
+
+    "Queen: Rock Montreal & Live Aid (2004)":
+        year: 2007
+        title: "Queen: Rock Montreal & Live Aid"
+        match:
+          mapping_id: 468591
+        url_poster: https://theposterdb.com/api/assets/398373
+
+    "Mulan (2020)":
+        year: 2020
+        title: "Mulan"
+        match:
+          mapping_id: 337401
+        url_poster: https://theposterdb.com/api/assets/172612
+
+    "RED (2010)":
+        year: 2010
+        title: "RED"
+        match:
+          mapping_id: 39514
+        url_poster: https://theposterdb.com/api/assets/371822
+
+    "RED 2 (2013)":
+        year: 2013
+        title: "RED 2"
+        match:
+          mapping_id: 146216
+        url_poster: https://theposterdb.com/api/assets/371825
+
+    "Armageddon (1998)":
+        year: 1998
+        title: "Armageddon"
+        match:
+          mapping_id: 95
+        url_poster: https://theposterdb.com/api/assets/186794
+
+    "The Wrath of Becky (2023)":
+        year: 2023
+        title: "The Wrath of Becky"
+        match:
+          mapping_id: 986070
+        url_poster: https://theposterdb.com/api/assets/379943
+
+    "Becky (2020)":
+        year: 2020
+        title: "Becky"
+        match:
+          mapping_id: 601844
+        url_poster: https://theposterdb.com/api/assets/379942
+
+    "The Fall Guy (2024)":
+        year: 2024
+        title: "The Fall Guy"
+        match:
+          mapping_id: 746036
+        url_poster: https://theposterdb.com/api/assets/481884
+
+    "Boy Kills World (2024)":
+        year: 2024
+        title: "Boy Kills World"
+        match:
+          mapping_id: 882059
+        url_poster: https://theposterdb.com/api/assets/481893
+
+    "Den of Thieves (2018)":
+        year: 2018
+        title: "Den of Thieves"
+        match:
+          mapping_id: 449443
+        url_poster: https://theposterdb.com/api/assets/230740
+
+    "Seize Them! (2024)":
+        year: 2024
+        title: "Seize Them!"
+        match:
+          mapping_id: 954802
+        url_poster: https://theposterdb.com/api/assets/494009
+
+    "Atlas (2024)":
+        year: 2024
+        title: "Atlas"
+        match:
+          mapping_id: 614933
+        url_poster: https://theposterdb.com/api/assets/494014
+
+    "V FOR VENDETTA (20006)":
+        year: 2006
+        title: "V FOR VENDETTA"
+        match:
+          mapping_id: 752
+        url_poster: https://theposterdb.com/api/assets/171585
+
+    "The Blue Angels (2024)":
+        year: 2024
+        title: "The Blue Angels"
+        match:
+          mapping_id: 1120821
+        url_poster: https://theposterdb.com/api/assets/494391
+
+    "IF (2024)":
+        year: 2024
+        title: "IF"
+        match:
+          mapping_id: 639720
+        url_poster: https://theposterdb.com/api/assets/494499
+
+    "South Park: The End Of Obesity (2024)":
+        year: 2024
+        title: "South Park: The End Of Obesity"
+        match:
+          mapping_id: 1290938
+        url_poster: https://theposterdb.com/api/assets/494684
+
+    "The Beach Boys (2024)":
+        year: 2024
+        title: "The Beach Boys"
+        match:
+          mapping_id: 1265066
+        url_poster: https://theposterdb.com/api/assets/494601
+
+    "Thelma the Unicorn (2024)":
+        year: 2024
+        title: "Thelma the Unicorn"
+        match:
+          mapping_id: 739547
+        url_poster: https://theposterdb.com/api/assets/494845
+
+    "Tarot (2024)":
+        year: 2024
+        title: "Tarot"
+        match:
+          mapping_id: 719221
+        url_poster: https://theposterdb.com/api/assets/481885
+
+    "The First Omen (2024)":
+        year: 2024
+        title: "The First Omen"
+        match:
+          mapping_id: 437342
+        url_poster: https://theposterdb.com/api/assets/481871        
+
+    "The Omen (1967)":
+        year: 1967
+        title: "The Omen"
+        match:
+          mapping_id: 794
+        url_poster: https://theposterdb.com/api/assets/178455
+
+    "Damien: Omen II (1978)":
+        year: 1978
+        title: "Damien: Omen II"
+        match:
+          mapping_id: 10766
+        url_poster: https://theposterdb.com/api/assets/178456
+
+    "The Final Conflict (1981)":
+        year: 1981
+        title: "The Final Conflict"
+        match:
+          mapping_id: 10768
+        url_poster: https://theposterdb.com/api/assets/178457
+
+    "Omen IV: The Awakening (1991)":
+        year: 1991
+        title: "Omen IV: The Awakening"
+        match:
+          mapping_id: 17792
+        url_poster: https://theposterdb.com/api/assets/178458
+
+    "The Omen (2006)":
+        year: 2006
+        title: "The Omen"
+        match:
+          mapping_id: 806
+        url_poster: https://theposterdb.com/api/assets/178459
+
+    "I Am Number Four (2011)":
+        year: 2011
+        title: "I Am Number Four"
+        match:
+          mapping_id: 46529
+        url_poster: https://theposterdb.com/api/assets/185137
+
+    "Back to Black (2024)":
+        year: 2024
+        title: "Back to Black"
+        match:
+          mapping_id: 998846
+        url_poster: https://theposterdb.com/api/assets/495561
+
+    "Tillsammans (2000)":
+        year: 2000
+        title: "Tillsammans"
+        match:
+          mapping_id: 742
+        url_poster: https://theposterdb.com/api/assets/475303
+
+    "Source Code (2011)":
+        year: 2011
+        title: "Source Code"
+        match:
+          mapping_id: 45612
+        url_poster: https://theposterdb.com/api/assets/185150
+
+    "The Da Vinci Code (2006)":
+        year: 2006
+        title: "The Da Vinci Code"
+        match:
+          mapping_id: 591
+        url_poster: https://theposterdb.com/api/assets/202308
+
+    "Inferno (2016)":
+        year: 2016
+        title: "Inferno"
+        match:
+          mapping_id: 207932
+        url_poster: https://theposterdb.com/api/assets/202310
+
+    "Angels & Demons (2009)":
+        year: 2009
+        title: "Angels & Demons"
+        match:
+          mapping_id: 13448
+        url_poster: https://theposterdb.com/api/assets/202309
+
+    "Logan Lucky (2017)":
+        year: 2017
+        title: "Logan Lucky"
+        match:
+          mapping_id: 399170
+        url_poster: https://theposterdb.com/api/assets/201468
+
+    "The Lost City (2022)":
+        year: 2022
+        title: "The Lost City"
+        match:
+          mapping_id: 752623
+        url_poster: https://theposterdb.com/api/assets/235356
+
+    "Beverly Hills Cop: Axel F (2024)":
+        year: 2024
+        title: "Beverly Hills Cop: Axel F"
+        match:
+          mapping_id: 280180
+        url_poster: https://theposterdb.com/api/assets/495968
+
+    "Uncharted (20022)":
+        year: 20022
+        title: "Uncharted"
+        match:
+          mapping_id: 335787
+        url_poster: https://theposterdb.com/api/assets/214312
+
+    "Little Children (2006)":
+        year: 2006
+        title: "Little Children"
+        match:
+          mapping_id: 1440
+        url_poster: https://theposterdb.com/api/assets/216487
+
+    "Blind Date Book Club (2024)":
+        year: 2024
+        title: "Blind Date Book Club"
+        match:
+          mapping_id: 1249342
+        url_poster: https://theposterdb.com/api/assets/479879
+
+    "Stöld (2024)":
+        year: 2024
+        title: "Stöld"
+        match:
+          mapping_id: 1019317
+        url_poster: https://theposterdb.com/api/assets/485243
+
+    "Snack Shack (2024)":
+        year: 2024
+        title: "Snack Shack"
+        match:
+          mapping_id: 1037113
+        url_poster: https://theposterdb.com/api/assets/477215
+
+    "Winnie-the-Pooh: Blood and Honey (2023)":
+        year: 2023
+        title: "Winnie-the-Pooh: Blood and Honey"
+        match:
+          mapping_id: 980078
+        url_poster: https://theposterdb.com/api/assets/338358
+
+    "Winnie-the-Pooh: Blood and Honey 2 (2024)":
+        year: 2024
+        title: "Winnie-the-Pooh: Blood and Honey 2"
+        match:
+          mapping_id: 1079485
+        url_poster: https://theposterdb.com/api/assets/486177
+
+    "Irish Wish (2024)":
+        year: 2024
+        title: "Irish Wish"
+        match:
+          mapping_id: 1019420
+        url_poster: https://theposterdb.com/api/assets/468923
+
+    "Mask (1985)":
+        year: 1985
+        title: "Mask"
+        match:
+          mapping_id: 11177
+        url_poster: https://theposterdb.com/api/assets/223851
+
+    "I Spit on Your Grave (2010)":
+        year: 2010
+        title: "I Spit on Your Grave"
+        match:
+          mapping_id: 43947
+        url_poster: https://theposterdb.com/api/assets/177583
+
+    "I Spit on Your Grave 2 (2013)":
+        year: 2013
+        title: "I Spit on Your Grave 2"
+        match:
+          mapping_id: 207768
+        url_poster: https://theposterdb.com/api/assets/177584
+
+    "I Spit on Your Grave III: Vengeance Is Mine (2015)":
+        year: 2015
+        title: "I Spit on Your Grave III: Vengeance Is Mine"
+        match:
+          mapping_id: 357096
+        url_poster: https://theposterdb.com/api/assets/177585
+
+    "I Spit on Your Grave: Déjà Vu (2019)":
+        year: 2019
+        title: "I Spit on Your Grave: Déjà Vu"
+        match:
+          mapping_id: 369196
+        url_poster: https://theposterdb.com/api/assets/177586
+
+    "The Terminal (2004)":
+        year: 2004
+        title: "The Terminal"
+        match:
+          mapping_id: 594
+        url_poster: https://theposterdb.com/api/assets/179237
+
+    "Bridge of Spies (2015)":
+        year: 2015
+        title: "Bridge of Spies"
+        match:
+          mapping_id: 296098
+        url_poster: https://theposterdb.com/api/assets/179242
+
+    "Letters from Iwo Jima (2006)":
+        year: 2006
+        title: "Letters from Iwo Jima"
+        match:
+          mapping_id: 1251
+        url_poster: https://theposterdb.com/api/assets/170440
+
+    "Flags of Our Fathers (2006)":
+        year: 2006
+        title: "Flags of Our Fathers"
+        match:
+          mapping_id: 3683
+        url_poster: https://theposterdb.com/api/assets/170439
+
+    "Die Hart (2023)":
+        year: 2023
+        title: "Die Hart"
+        match:
+          mapping_id: 1077280
+        url_poster: https://theposterdb.com/api/assets/326918
+
+    "Die Hart 2: Die Harter (2024)":
+        year: 2024
+        title: "Die Hart 2: Die Harter"
+        match:
+          mapping_id: 1296838
+        url_poster: https://theposterdb.com/api/assets/496314
+
+    "Joe Dirt (2001)":
+        year: 2001
+        title: "Joe Dirt"
+        match:
+          mapping_id: 10956
+        url_poster: https://theposterdb.com/api/assets/204427
+
+    "Joe Dirt 2: Beautiful Loser (2015)":
+        year: 2015
+        title: "Joe Dirt 2: Beautiful Loser"
+        match:
+          mapping_id: 335970
+        url_poster: https://theposterdb.com/api/assets/204428
+
+    "Secretariat (2010)":
+        year: 2010
+        title: "Secretariat"
+        match:
+          mapping_id: 39486
+        url_poster: https://theposterdb.com/api/assets/401249
+
+    "Den blomstertid nu kommer (2018)":
+        year: 2018
+        title: "Den blomstertid nu kommer"
+        match:
+          mapping_id: 518502
+        url_poster: https://theposterdb.com/api/assets/497677
+
+    "Hammarskjöld (2023)":
+        year: 2023
+        title: "Hammarskjöld"
+        match:
+          mapping_id: 1084145
+        url_poster: https://theposterdb.com/api/assets/497687
+
+    "Stockholm Bloodbath (2024)":
+        year: 2024
+        title: "Stockholm Bloodbath"
+        match:
+          mapping_id: 1051486
+        url_poster: https://theposterdb.com/api/assets/497745
+
+    "Jack Ryan: Shadow Recruit (2014)":
+        year: 2014
+        title: "Jack Ryan: Shadow Recruit"
+        match:
+          mapping_id: 137094
+        url_poster: https://theposterdb.com/api/assets/170508
+
+    "The Sum of All Fears (2002)":
+        year: 2002
+        title: "The Sum of All Fears"
+        match:
+          mapping_id: 4614
+        url_poster: https://theposterdb.com/api/assets/170507
+
+    "Deadpool & Wolverine (2024)":
+        year: 2024
+        title: "Deadpool & Wolverine"
+        match:
+          mapping_id: 533535
+        url_poster: https://theposterdb.com/api/assets/497843
+
+    "LOGAN (2017)":
+        year: 2017
+        title: "LOGAN"
+        match:
+          mapping_id: 263115
+        url_poster: https://theposterdb.com/api/assets/497907
+
+    " Starship Troopers (1997)":
+        year: 1997
+        title: " Starship Troopers"
+        match:
+          mapping_id: 563
+        url_poster: https://theposterdb.com/api/assets/185158
+
+    "Starship Troopers 3: Marauder (2008)":
+        year: 2008
+        title: "Starship Troopers 3: Marauder"
+        match:
+          mapping_id: 11127
+        url_poster: https://theposterdb.com/api/assets/185160
+
+    "Starship Troopers: Traitor of Mars (2017)":
+        year: 2017
+        title: "Starship Troopers: Traitor of Mars"
+        match:
+          mapping_id: 460790
+        url_poster: https://theposterdb.com/api/assets/185162
+
+    "Starship Troopers 2: Hero of the Federation (2004)":
+        year: 2004
+        title: "Starship Troopers 2: Hero of the Federation"
+        match:
+          mapping_id: 10304
+        url_poster: https://theposterdb.com/api/assets/185159
+
+    "Starship Troopers: Invasion (2012)":
+        year: 2012
+        title: "Starship Troopers: Invasion"
+        match:
+          mapping_id: 114478
+        url_poster: https://theposterdb.com/api/assets/185161
+
+    "Fear and Loathing in Las Vegas (1998)":
+        year: 1998
+        title: "Fear and Loathing in Las Vegas"
+        match:
+          mapping_id: 1878
+        url_poster: https://theposterdb.com/api/assets/194019
+
+    "Alien: Romulus (2024)":
+        year: 2024
+        title: "A L I E N: Romulus"
+        match:
+          mapping_id: 945961
+        url_poster: https://theposterdb.com/api/assets/507698
+
+    "ALIEN (1979)":
+        year: 1979
+        title: "A L I E N"
+        match:
+          mapping_id: 348
+        url_poster: https://theposterdb.com/api/assets/507702
+
+    "ALIENS (1986)":
+        year: 1986
+        title: "A L I E N S"
+        match:
+          mapping_id: 679
+        url_poster: https://theposterdb.com/api/assets/507701
+
+    "Alien³ (1992)":
+        year: 1992
+        title: "A L I E N ³"
+        match:
+          mapping_id: 8077
+        url_poster: https://theposterdb.com/api/assets/507700
+
+    "Alien Resurrection (1997)":
+        year: 1997
+        title: "A L I E N Resurrection"
+        match:
+          mapping_id: 8078
+        url_poster: https://theposterdb.com/api/assets/507699
+
+    "Lightyear (2022)":
+        year: 2022
+        title: "Lightyear"
+        match:
+          mapping_id: 718789
+        url_poster: https://theposterdb.com/api/assets/186643
+
+    "Venom: The Last Dance (2024)":
+        year: 2024
+        title: "Venom: The Last Dance"
+        match:
+          mapping_id: 912649
+        url_poster: https://theposterdb.com/api/assets/498486
+
+    "Hit Man (2024)":
+        year: 2024
+        title: "Hit Man"
+        match:
+          mapping_id: 974635
+        url_poster: https://theposterdb.com/api/assets/498642
+
+    "The Bikeriders (2024)":
+        year: 2024
+        title: "The Bikeriders"
+        match:
+          mapping_id: 1008409
+        url_poster: https://theposterdb.com/api/assets/498643
+
+    "Under Paris (2024)":
+        year: 2024
+        title: "Under Paris"
+        match:
+          mapping_id: 1001311
+        url_poster: https://theposterdb.com/api/assets/498416
+
+    "MaXXXine  (2024)":
+        year: 2024
+        title: "MaXXXine "
+        match:
+          mapping_id: 1023922
+        url_poster: https://theposterdb.com/api/assets/498492
+
+    "X (2022)":
+        year: 2022
+        title: "X"
+        match:
+          mapping_id: 760104
+        url_poster: https://theposterdb.com/api/assets/228273
+
+    "Pearl (2022)":
+        year: 2022
+        title: "Pearl"
+        match:
+          mapping_id: 949423
+        url_poster: https://theposterdb.com/api/assets/281426
+
+    "Rocky (1976)":
+        year: 1976
+        title: "Rocky"
+        match:
+          mapping_id: 1366
+        url_poster: https://theposterdb.com/api/assets/172014
+
+    "Rocky II (1979)":
+        year: 1979
+        title: "Rocky II"
+        match:
+          mapping_id: 1367
+        url_poster: https://theposterdb.com/api/assets/172015
+
+    "Rocky III (1982)":
+        year: 1982
+        title: "Rocky III"
+        match:
+          mapping_id: 1371
+        url_poster: https://theposterdb.com/api/assets/172016
+
+    "Rocky IV (1985)":
+        year: 1985
+        title: "Rocky IV"
+        match:
+          mapping_id: 1374
+        url_poster: https://theposterdb.com/api/assets/172017
+
+    "Rocky V (1990)":
+        year: 1990
+        title: "Rocky V"
+        match:
+          mapping_id: 1375
+        url_poster: https://theposterdb.com/api/assets/172018
+
+    "Rocky Balboa (2006)":
+        year: 2006
+        title: "Rocky Balboa"
+        match:
+          mapping_id: 1246
+        url_poster: https://theposterdb.com/api/assets/172019
+
+    "Jaws (1975)":
+        year: 1975
+        title: "Jaws"
+        match:
+          mapping_id: 578
+        url_poster: https://theposterdb.com/api/assets/498734
+
+    "Jaws 2 (1978)":
+        year: 1978
+        title: "Jaws 2"
+        match:
+          mapping_id: 579
+        url_poster: https://theposterdb.com/api/assets/498727
+
+    "Jaws 3 (1983)":
+        year: 1983
+        title: "Jaws 3"
+        match:
+          mapping_id: 17692
+        url_poster: https://theposterdb.com/api/assets/498728
+
+    "Jaws: The Revenge (1987)":
+        year: 1987
+        title: "Jaws: The Revenge"
+        match:
+          mapping_id: 580
+        url_poster: https://theposterdb.com/api/assets/498732
+
+    "Cruel Jaws (1995)":
+        year: 1995
+        title: "Cruel Jaws"
+        match:
+          mapping_id: 84060
+        url_poster: https://theposterdb.com/api/assets/498733
+
+    "Dödsfällan (2022)":
+        year: 2022
+        title: "Dödsfällan"
+        sort_title: "Beck 47"         
+        match:
+          mapping_id: 1037341
+        url_poster: https://theposterdb.com/api/assets/498759
+
+    "Den gråtande polisen (2022)":
+        year: 2022
+        title: "Den gråtande polisen"
+        sort_title: "Beck 46" 
+        match:
+          mapping_id: 921250
+        url_poster: https://theposterdb.com/api/assets/498770
+
+    "58 Minuter (2022)":
+        year: 2022
+        title: "58 Minuter"
+        sort_title: "Beck 45" 
+        match:
+          mapping_id: 921232
+        url_poster: https://theposterdb.com/api/assets/498773
+
+    "Rage Room (2022)":
+        year: 2022
+        title: "Rage Room"
+        sort_title: "Beck 44" 
+        match:
+          mapping_id: 918913
+        url_poster: https://theposterdb.com/api/assets/499383
+
+    "Ett nytt liv (2021)":
+        year: 2021
+        title: "Ett nytt liv"
+        sort_title: "Beck 43" 
+        match:
+          mapping_id: 917524
+        url_poster: https://theposterdb.com/api/assets/499382
+
+    "Den förlorade sonen (2021)":
+        year: 2021
+        title: "Den förlorade sonen"
+        sort_title: "Beck 42" 
+        match:
+          mapping_id: 782724
+        url_poster: https://theposterdb.com/api/assets/499381
+
+    "Döden i Samarra (2021)":
+        year: 2021
+        title: "Döden i Samarra"
+        sort_title: "Beck 41" 
+        match:
+          mapping_id: 781766
+        url_poster: https://theposterdb.com/api/assets/499380
+
+    "Utom rimligt tvivel (2020)":
+        year: 2020
+        title: "Utom rimligt tvivel"
+        sort_title: "Beck 40" 
+        match:
+          mapping_id: 771622
+        url_poster: https://theposterdb.com/api/assets/499379
+
+    "Undercover (2020)":
+        year: 2020
+        title: "Undercover"
+        sort_title: "Beck 39" 
+        match:
+          mapping_id: 761156
+        url_poster: https://theposterdb.com/api/assets/499378
+
+    "Djävulens advokat (2018)":
+        year: 2018
+        title: "Djävulens advokat"
+        sort_title: "Beck 38" 
+        match:
+          mapping_id: 514961
+        url_poster: https://theposterdb.com/api/assets/499377
+
+    "Utan uppsåt (2018)":
+        year: 2018
+        title: "Utan uppsåt"
+        sort_title: "Beck 37" 
+        match:
+          mapping_id: 507050
+        url_poster: https://theposterdb.com/api/assets/499376
+
+    "Den tunna isen (2018)":
+        year: 2018
+        title: "Den tunna isen"
+        sort_title: "Beck 36" 
+        match:
+          mapping_id: 500205
+        url_poster: https://theposterdb.com/api/assets/499375
+
+    "Ditt eget blod (2018)":
+        year: 2018
+        title: "Ditt eget blod"
+        sort_title: "Beck 35" 
+        match:
+          mapping_id: 493594
+        url_poster: https://theposterdb.com/api/assets/499374
+
+    "Sista dagen (2016)":
+        year: 2016
+        title: "Sista dagen"
+        sort_title: "Beck 34" 
+        match:
+          mapping_id: 387656
+        url_poster: https://theposterdb.com/api/assets/499371
+
+    "The Shape of Water (2017)":
+        year: 2017
+        title: "The Shape of Water"
+        match:
+          mapping_id: 399055
+        url_poster: https://theposterdb.com/api/assets/184101
+
+    "Captain Phillips (2013)":
+        year: 2013
+        title: "Captain Phillips"
+        match:
+          mapping_id: 109424
+        url_poster: https://theposterdb.com/api/assets/197017
+
+    "Dark Shadows (2012)":
+        year: 2012
+        title: "Dark Shadows"
+        match:
+          mapping_id: 62213
+        url_poster: https://theposterdb.com/api/assets/180061
+
+    "Gunvald (2016)":
+        year: 2016
+        title: "Gunvald"
+        sort_title: "Beck 31" 
+        match:
+          mapping_id: 375486
+        url_poster: https://theposterdb.com/api/assets/499368
+
+    "Steinar (2016)":
+        year: 2016
+        title: "Steninar"
+        sort_title: "Beck 32" 
+        match:
+          mapping_id: 375880
+        url_poster: https://theposterdb.com/api/assets/499369
+
+    "Vägs ände (2016)":
+        year: 2016
+        title: "Vägs ände"
+        sort_title: "Beck 33" 
+        match:
+          mapping_id: 380590
+        url_poster: https://theposterdb.com/api/assets/499370
+
+    "Sjukhusmorden (2015)":
+        year: 2015
+        title: "Sjukhusmorden"
+        sort_title: "Beck 30" 
+        match:
+          mapping_id: 315367
+        url_poster: https://theposterdb.com/api/assets/499367
+
+    "Invasionen (2015)":
+        year: 2015
+        title: "Invasionen"
+        sort_title: "Beck 29" 
+        match:
+          mapping_id: 315364
+        url_poster: https://theposterdb.com/api/assets/499366
+
+    "Familjen (2015)":
+        year: 2015
+        title: "Familjen"
+        sort_title: "Beck 28" 
+        match:
+          mapping_id: 315362
+        url_poster: https://theposterdb.com/api/assets/499365
+
+    "Rum 302 (2015)":
+        year: 2015
+        title: "Rum 302"
+        sort_title: "Beck 27" 
+        match:
+          mapping_id: 315360
+        url_poster: https://theposterdb.com/api/assets/499364
+
+    "Levande begravd (2010)":
+        year: 2010
+        title: "Levande begravd"
+        sort_title: "Beck 26" 
+        match:
+          mapping_id: 119671
+        url_poster: https://theposterdb.com/api/assets/499363
+
+    "I stormens öga (2009)":
+        year: 2009
+        title: "I stormens öga"
+        sort_title: "Beck 25" 
+        match:
+          mapping_id: 164435
+        url_poster: https://theposterdb.com/api/assets/499361
+
+    "I Guds namn (2007)":
+        year: 2007
+        title: "I Guds namn"
+        sort_title: "Beck 24" 
+        match:
+          mapping_id: 265980
+        url_poster: https://theposterdb.com/api/assets/499359
+
+    "Det tysta skriket (2007)":
+        year: 2007
+        title: "Det tysta skriket"
+        sort_title: "Beck 23" 
+        match:
+          mapping_id: 270113
+        url_poster: https://theposterdb.com/api/assets/499356
+
+    "Den svaga länken (2007)":
+        year: 2007
+        title: "Den svaga länken"
+        sort_title: "Beck 22" 
+        match:
+          mapping_id: 128692
+        url_poster: https://theposterdb.com/api/assets/499354
+
+    "Den japanska shungamålningen (2007)":
+        year: 2007
+        title: "Den japanska shungamålningen"
+        sort_title: "Beck 21" 
+        match:
+          mapping_id: 265981
+        url_poster: https://theposterdb.com/api/assets/499353
+
+    "Advokaten (2007)":
+        year: 2007
+        title: "Advokaten"
+        sort_title: "Beck 20" 
+        match:
+          mapping_id: 270114
+        url_poster: https://theposterdb.com/api/assets/499352
+
+    "Gamen (2007)":
+        year: 2007
+        title: "Gamen"
+        sort_title: "Beck 19" 
+        match:
+          mapping_id: 270116
+        url_poster: https://theposterdb.com/api/assets/499351
+
+    "Flickan i jordkällaren (2006)":
+        year: 2006
+        title: "Flickan i jordkällaren"
+        sort_title: "Beck 18" 
+        match:
+          mapping_id: 270117
+        url_poster: https://theposterdb.com/api/assets/499350
+
+    "Skarpt läge (2006)":
+        year: 2006
+        title: "Skarpt läge"
+        sort_title: "Beck 17" 
+        match:
+          mapping_id: 164431
+        url_poster: https://theposterdb.com/api/assets/499349
+
+    "Sista vittnet (2002)":
+        year: 2002
+        title: "Sista vittnet"
+        sort_title: "Beck 16" 
+        match:
+          mapping_id: 137190
+        url_poster: https://theposterdb.com/api/assets/499348
+
+    "Pojken i glaskulan (2002)":
+        year: 2002
+        title: "Pojken i glaskulan"
+        sort_title: "Beck 15" 
+        match:
+          mapping_id: 270199
+        url_poster: https://theposterdb.com/api/assets/499347
+
+    "Annonsmannen (2002)":
+        year: 2002
+        title: "Annonsmannen"
+        sort_title: "Beck 14" 
+        match:
+          mapping_id: 263116
+        url_poster: https://theposterdb.com/api/assets/499346
+
+    "Okänd avsändare (2002)":
+        year: 20002
+        title: "Okänd avsändare"
+        sort_title: "Beck 13" 
+        match:
+          mapping_id: 270112
+        url_poster: https://theposterdb.com/api/assets/499345
+
+    "Enslingen (2002)":
+        year: 2002
+        title: "Enslingen"
+        sort_title: "Beck 12" 
+        match:
+          mapping_id: 263120
+        url_poster: https://theposterdb.com/api/assets/499344
+
+    "Kartellen (2001)":
+        year: 2001
+        title: "Kartellen"
+        sort_title: "Beck 11" 
+        match:
+          mapping_id: 270111
+        url_poster: https://theposterdb.com/api/assets/499342
+
+    "Mannen utan ansikte (2001)":
+        year: 2001
+        title: "Mannen utan ansikte"
+        sort_title: "Beck 10" 
+        match:
+          mapping_id: 270106
+        url_poster: https://theposterdb.com/api/assets/499341
+
+    "Hämndens pris (2001)":
+        year: 2001
+        title: "Hämndens pris"
+        sort_title: "Beck 09" 
+        match:
+          mapping_id: 119644
+        url_poster: https://theposterdb.com/api/assets/499340
+
+    "Spår i mörker (1998)":
+        year: 1998
+        title: "Spår i mörker"
+        sort_title: "Beck 08" 
+        match:
+          mapping_id: 24771
+        url_poster: https://theposterdb.com/api/assets/499338
+
+    "The Money Man (1998)":
+        year: 1998
+        title: "The Money Man"
+        sort_title: "Beck 07" 
+        match:
+          mapping_id: 270105
+        url_poster: https://theposterdb.com/api/assets/499337
+
+    "Monstret (1998)":
+        year: 1998
+        title: "Monstret"
+        sort_title: "Beck 06" 
+        match:
+          mapping_id: 270047
+        url_poster: https://theposterdb.com/api/assets/499336
+
+    "Pensionat Pärlan (1998)":
+        year: 1998
+        title: "Pensionat Pärlan"
+        sort_title: "Beck 05" 
+        match:
+          mapping_id: 270046
+        url_poster: https://theposterdb.com/api/assets/499335
+
+    "Öga för öga (1998)":
+        year: 1998
+        title: "Öga för öga"
+        sort_title: "Beck 04" 
+        match:
+          mapping_id: 270045
+        url_poster: https://theposterdb.com/api/assets/499334
+
+    "Vita nätter (1998)":
+        year: 1998
+        title: "Vita nätter"
+        sort_title: "Beck 03" 
+        match:
+          mapping_id: 270044
+        url_poster: https://theposterdb.com/api/assets/499333
+
+    "Mannen med ikonerna (1997)":
+        year: 1997
+        title: "Mannen med ikonerna"
+        sort_title: "Beck 02" 
+        match:
+          mapping_id: 270043
+        url_poster: https://theposterdb.com/api/assets/499332
+
+    "Lockpojken (1997)":
+        year: 1997
+        title: "Lockpojken"
+        sort_title: "Beck 01" 
+        match:
+          mapping_id: 383623
+        url_poster: https://theposterdb.com/api/assets/499331
+
+    "Gruppen för särskilda insatser (2009)":
+        year: 2009
+        title: "Gruppen för särskilda insatser"
+        sort_title: "Johan Falk 1" 
+        match:
+          mapping_id: 24023
+        url_poster: https://theposterdb.com/api/assets/499424
+
+    "Vapenbröder (2009)":
+        year: 2009
+        title: "Vapenbröder"
+        sort_title: "Johan Falk 2" 
+        match:
+          mapping_id: 24026
+        url_poster: https://theposterdb.com/api/assets/499426
+
+    "Leo Gaut (2009)":
+        year: 2009
+        title: "Leo Gaut"
+        sort_title: "Johan Falk 4" 
+        match:
+          mapping_id: 24024
+        url_poster: https://theposterdb.com/api/assets/499512
+
+    "National Target (2009)":
+        year: 2009
+        title: "National Target"
+        sort_title: "Johan Falk 3" 
+        match:
+          mapping_id: 24025
+        url_poster: https://theposterdb.com/api/assets/499510
+
+    "Slutet (2015)":
+        year: 2015
+        title: "Slutet"
+        sort_title: "Johan Falk 17" 
+        match:
+          mapping_id: 343689
+        url_poster: https://theposterdb.com/api/assets/499439
+
+    "Lockdown (2015)":
+        year: 2015
+        title: "Lockdown"
+        sort_title: "Johan Falk 16" 
+        match:
+          mapping_id: 343688
+        url_poster: https://theposterdb.com/api/assets/499440
+
+    "Blodsdiamanter (2015)":
+        year: 2015
+        title: "Blodsdiamanter"
+        sort_title: "Johan Falk 15" 
+        match:
+          mapping_id: 341190
+        url_poster: https://theposterdb.com/api/assets/499442
+
+    "Tyst diplomati (2015)":
+        year: 2015
+        title: "Tyst diplomati"
+        sort_title: "Johan Falk 14" 
+        match:
+          mapping_id: 325619
+        url_poster: https://theposterdb.com/api/assets/499445
+
+    "Ur askan i elden (2015)":
+        year: 2015
+        title: "Ur askan i elden"
+        sort_title: "Johan Falk 13" 
+        match:
+          mapping_id: 322771
+        url_poster: https://theposterdb.com/api/assets/499448
+
+    "Kodnamn Lisa (2013)":
+        year: 2013
+        title: "Kodnamn Lisa"
+        sort_title: "Johan Falk 12" 
+        match:
+          mapping_id: 141267
+        url_poster: https://theposterdb.com/api/assets/499451
+
+    "Barninfiltratören (2012)":
+        year: 2012
+        title: "Barninfiltratören"
+        sort_title: "Johan Falk 11" 
+        match:
+          mapping_id: 138118
+        url_poster: https://theposterdb.com/api/assets/499455
+
+    "Organizatsija Karayan (2012)":
+        year: 2012
+        title: "Organizatsija Karayan"
+        sort_title: "Johan Falk 10" 
+        match:
+          mapping_id: 138115
+        url_poster: https://theposterdb.com/api/assets/499459
+
+    "Alla råns moder (2012)":
+        year: 2012
+        title: "Alla råns moder"
+        sort_title: "Johan Falk 9" 
+        match:
+          mapping_id: 136071
+        url_poster: https://theposterdb.com/api/assets/499467
+
+    "Operation Näktergal (2009)":
+        year: 2009
+        title: "Operation Näktergal"
+        sort_title: "Johan Falk 5" 
+        match:
+          mapping_id: 24713
+        url_poster: https://theposterdb.com/api/assets/499611
+
+    "De fredlösa (2009)":
+        year: 2009
+        title: "De fredlösa"
+        sort_title: "Johan Falk 6" 
+        match:
+          mapping_id: 24712
+        url_poster: https://theposterdb.com/api/assets/499613
+
+    "Spelets regler (2012)":
+        year: 2012
+        title: "Spelets regler"
+        sort_title: "Johan Falk 7" 
+        match:
+          mapping_id: 133879
+        url_poster: https://theposterdb.com/api/assets/499615
+
+    "De 107 patrioterna (2012)":
+        year: 2012
+        title: "De 107 patrioterna"
+        sort_title: "Johan Falk 8" 
+        match:
+          mapping_id: 135659
+        url_poster: https://theposterdb.com/api/assets/499618
+
+    "Konvojen (2023)":
+        year: 2023
+        title: "Konvojen"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 983044
+        url_poster: https://theposterdb.com/api/assets/499687
+
+    "Sorority Boys (2002)":
+        year: 2002
+        title: "Sorority Boys"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 6020
+        url_poster: https://theposterdb.com/api/assets/499688
+
+    "Upproret (2003)":
+        year: 2003
+        title: "Upproret"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 964258
+        url_poster: https://theposterdb.com/api/assets/499692
+
+    "Karusell (2023)":
+        year: 2023
+        title: "Karusell"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1058078
+        url_poster: https://theposterdb.com/api/assets/499693
+
+    "The Beast of War (1988)":
+        year: 1988
+        title: "The Beast of War"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 15267
+        url_poster: https://theposterdb.com/api/assets/499694
+
+    "Cottage Country (2013)":
+        year: 2013
+        title: "Cottage Country"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 141733
+        url_poster: https://theposterdb.com/api/assets/499807
+
+    "Mountain Men (2014)":
+        year: 2014
+        title: "Mountain Men"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 309050
+        url_poster: https://theposterdb.com/api/assets/499847
+
+    "Starve Acre (2024)":
+        year: 2024
+        title: "Starve Acre"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 933090
+        url_poster: https://theposterdb.com/api/assets/499873
+
+    "Paddington (2014)":
+        year: 2014
+        title: "Paddington"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 116149
+        url_poster: https://image.tmdb.org/t/p/original/5oPgiQd3HxSosW2F30xLDfMm3mW.jpg
+
+    "Paddington 2 (2017)":
+        year: 2017
+        title: "Paddington 2"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 346648
+        url_poster: https://image.tmdb.org/t/p/original/8Y26W6ObyphvV3uzovZSnSriX8V.jpg
+
+    "Paddington in Peru (2024)":
+        year: 2024
+        title: "Paddington in Peru"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 516729
+        url_poster: https://theposterdb.com/api/assets/500155
+
+    "The Instigators (2024)":
+        year: 2024
+        title: "The Instigators"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1059064
+        url_poster: https://theposterdb.com/api/assets/510074
+
+    "A Quiet Place: Day One (2024)":
+        year: 2024
+        title: "A Quiet Place: Day One"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 762441
+        url_poster: https://theposterdb.com/api/assets/500178
+
+    "Noll tolerans (1999)":
+        year: 1999
+        title: "Noll tolerans"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21072
+        url_poster: https://theposterdb.com/api/assets/500184
+
+    "Livvakterna (2001)":
+        year: 2001
+        title: "Livvakterna"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21040
+        url_poster: https://theposterdb.com/api/assets/500183
+
+    "Den tredje vågen (2003)":
+        year: 2003
+        title: "Den tredje vågen"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 21041
+        url_poster: https://theposterdb.com/api/assets/500182
+
+    "How to Rob a Bank (2024)":
+        year: 2024
+        title: "How to Rob a Bank"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 1291143
+        url_poster: https://theposterdb.com/api/assets/500196
+
+    "Ultraman: Rising (2024)":
+        year: 2024
+        title: "Ultraman: Rising"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 829402
+        url_poster: https://theposterdb.com/api/assets/500586
+
+    "Burlesque (2010)":
+        year: 2010
+        title: "Burlesque"
+        #sort_title: "Johan Falk xx" 
+        match:
+          mapping_id: 42297
+        url_poster: https://theposterdb.com/api/assets/494676
+
+    "Planet of the Apes (2001)":
+        year: 2001
+        title: "Planet of the Apes"
+        match:
+          mapping_id: 869
+        url_poster: https://theposterdb.com/api/assets/185521
+
+    "Planet of the Apes (1968)":
+        year: 1968
+        title: "Planet of the Apes"
+        match:
+          mapping_id: 871
+        url_poster: https://theposterdb.com/api/assets/187337
+
+    "Escape from the Planet of the Apes (1971)":
+        year: 1971
+        title: "Escape from the Planet of the Apes"
+        match:
+          mapping_id: 1687
+        url_poster: https://theposterdb.com/api/assets/187339
+        
+    "Conquest of the Planet of the Apes (1972)":
+        year: 1972
+        title: "Conquest of the Planet of the Apes"
+        match:
+          mapping_id: 1688
+        url_poster: https://theposterdb.com/api/assets/187340
+        
+    "Beneath the Planet of the Apes (1970)":
+        year: 1970
+        title: "Beneath the Planet of the Apes"
+        match:
+          mapping_id: 1685
+        url_poster: https://theposterdb.com/api/assets/187338
+        
+    "Battle for the Planet of the Apes (1973)":
+        year: 1973
+        title: "Battle for the Planet of the Apes"
+        match:
+          mapping_id: 1705
+        url_poster: https://theposterdb.com/api/assets/187341
+        
+    "Den sista resan (2024)":
+        year: 2024
+        title: "Den sista resan"
+        match:
+          mapping_id: 1218213
+        url_poster: https://theposterdb.com/api/assets/501184    
+
+    "Public Enemies (2009)":
+        year: 2009
+        title: "Public Enemies"
+        match:
+          mapping_id: 11322
+        url_poster: https://theposterdb.com/api/assets/213490
+        
+    "Mechanic: Resurrection (2016)":
+        year: 2016
+        title: "Mechanic: Resurrection"
+        match:
+          mapping_id: 278924
+        url_poster: https://theposterdb.com/api/assets/202356     
+
+    "The Mechanic (2011)":
+        year: 2011
+        title: "The Mechanic"
+        match:
+          mapping_id: 27582
+        url_poster: https://theposterdb.com/api/assets/202355
+        
+    "The Mechanic (1972)":
+        year: 1972
+        title: "The Mechanic"
+        match:
+          mapping_id: 19403
+        url_poster: https://theposterdb.com/api/assets/202354
+        
+    "Fighting (2009)":
+        year: 2009
+        title: "Fighting"
+        match:
+          mapping_id: 17336
+        url_poster: https://theposterdb.com/api/assets/234921
+                
+    "Trigger Warning (2024)":
+        year: 2024
+        title: "Trigger Warning"
+        match:
+          mapping_id: 704673
+        url_poster: https://theposterdb.com/api/assets/502263
+                
+    "Anyone But You (2023)":
+        year: 2023
+        title: "Anyone But You"
+        match:
+          mapping_id: 1072790
+        url_poster: https://theposterdb.com/api/assets/439702
+                        
+    "Paranormal Activity (2007)":
+        year: 2007
+        title: "Paranormal Activity"
+        match:
+          mapping_id: 23827
+        url_poster: https://theposterdb.com/api/assets/178560
+                                
+    "Paranormal Activity 2 (2010)":
+        year: 2010
+        title: "Paranormal Activity 2"
+        match:
+          mapping_id: 41436
+        url_poster: https://theposterdb.com/api/assets/178561
+                                
+    "Paranormal Activity: Tokyo Night (2010)":
+        year: 2010
+        title: "Paranormal Activity: Tokyo Night"
+        match:
+          mapping_id: 59429
+        url_poster: https://theposterdb.com/api/assets/178562
+                                
+    "Paranormal Activity 3 (2011)":
+        year: 2011
+        title: "Paranormal Activity 3"
+        match:
+          mapping_id: 72571
+        url_poster: https://theposterdb.com/api/assets/178563
+                                
+    "Paranormal Activity 4 (2012)":
+        year: 2012
+        title: "Paranormal Activity 4"
+        match:
+          mapping_id: 82990
+        url_poster: https://theposterdb.com/api/assets/178564
+                                
+    "Paranormal Activity: The Marked Ones (2014)":
+        year: 2014
+        title: "Paranormal Activity: The Marked Ones"
+        match:
+          mapping_id: 227348
+        url_poster: https://theposterdb.com/api/assets/178565
+                                
+    "Paranormal Activity: The Ghost Dimension (2015)":
+        year: 2015
+        title: "Paranormal Activity: The Ghost Dimension"
+        match:
+          mapping_id: 146301
+        url_poster: https://theposterdb.com/api/assets/178566
+                                
+    "Paranormal Activity: Next of Kin (2021)":
+        year: 2021
+        title: "Paranormal Activity: Next of Kin"
+        match:
+          mapping_id: 609972
+        url_poster: https://theposterdb.com/api/assets/186258 
+                                
+    "Monkey Man (2024)":
+        year: 2024
+        title: "Monkey Man"
+        match:
+          mapping_id: 560016
+        url_poster: https://theposterdb.com/api/assets/502468    
+
+    "White House Down (2013)":
+        year: 2013
+        title: "White House Down"
+        match:
+          mapping_id: 117251
+        url_poster: https://theposterdb.com/api/assets/208968
+
+    "Havoc (2005)":
+        year: 2005
+        title: "Havoc"
+        match:
+          mapping_id: 14695
+        url_poster: https://theposterdb.com/api/assets/216843
+
+    "Contagion (2011)":
+        year: 2011
+        title: "Contagion"
+        match:
+          mapping_id: 39538
+        url_poster: https://theposterdb.com/api/assets/499914
+
+    "A Guide to Recognizing Your Saints (2006)":
+        year: 2006
+        title: "A Guide to Recognizing Your Saints"
+        match:
+          mapping_id: 8194
+        url_poster: https://theposterdb.com/api/assets/504114
+
+    "I Am: Celine Dion (2024)":
+        year: 2024
+        title: "I Am: Celine Dion"
+        match:
+          mapping_id: 879805
+        url_poster: https://theposterdb.com/api/assets/502952
+
+    "Hunt vs Lauda: F1's Greatest Racing Rivals (2013)":
+        year: 2013
+        title: "Hunt vs Lauda: F1's Greatest Racing Rivals"
+        match:
+          mapping_id: 223971
+        url_poster: https://theposterdb.com/api/assets/504203       
+
+    "The Terminator (1984)":
+        year: 1984
+        title: "The Terminator"
+        match:
+          mapping_id: 218
+        url_poster: https://theposterdb.com/api/assets/504254       
+
+    "Terminator 2: Judgment Day (1991)":
+        year: 1991
+        title: "Terminator 2: Judgment Day"
+        match:
+          mapping_id: 280
+        url_poster: https://theposterdb.com/api/assets/504253       
+
+    "Terminator 3: Rise of the Machines (2003)":
+        year: 2003
+        title: "Terminator 3: Rise of the Machines"
+        match:
+          mapping_id: 296
+        url_poster: https://theposterdb.com/api/assets/504252       
+
+    "Terminator Salvation (2009)":
+        year: 2009
+        title: "Terminator Salvation"
+        match:
+          mapping_id: 534
+        url_poster: https://theposterdb.com/api/assets/504251       
+
+    "Terminator Genisys (2015)":
+        year: 2015
+        title: "Terminator Genisys"
+        match:
+          mapping_id: 87101
+        url_poster: https://theposterdb.com/api/assets/504250       
+
+    "Terminator: Dark Fate (2019)":
+        year: 2019
+        title: "Terminator: Dark Fate"
+        match:
+          mapping_id: 290859
+        url_poster: https://theposterdb.com/api/assets/504249       
+
+    "Boneyard (2024)":
+        year: 2024
+        title: "Boneyard"
+        match:
+          mapping_id: 1114738
+        url_poster: https://theposterdb.com/api/assets/504568       
+
+    "The World's Fastest Indian (2005)":
+        year: 2005
+        title: "The World's Fastest Indian"
+        match:
+          mapping_id: 9912
+        url_poster: https://theposterdb.com/api/assets/216898     
+
+    "TRAP (2024)":
+        year: 2024
+        title: "TRAP"
+        match:
+          mapping_id: 1032823
+        url_poster: https://theposterdb.com/api/assets/504658       
+
+    "The Exorcism (2024)":
+        year: 2024
+        title: "The Exorcism"
+        match:
+          mapping_id: 646683
+        url_poster: https://theposterdb.com/api/assets/504659       
+
+    "Fly Me to the Moon (2024)":
+        year: 2024
+        title: "Fly Me to the Moon"
+        match:
+          mapping_id: 956842
+        url_poster: https://theposterdb.com/api/assets/500925       
+
+    "Innan Frosten (2005)":
+        year: 2005
+        title: "Innan Frosten"
+        sort_title: "WALLANDER 01" 
+        match:
+          mapping_id: 221868
+        url_poster: https://theposterdb.com/api/assets/504950       
+
+    "Byfånen (2005)":
+        year: 2005
+        title: "Byfånen"
+        sort_title: "WALLANDER 002" 
+        match:
+          mapping_id: 289341
+        url_poster: https://theposterdb.com/api/assets/504949       
+
+    "Bröderna (2005)":
+        year: 2005
+        title: "Bröderna"
+        sort_title: "WALLANDER 03" 
+        match:
+          mapping_id: 289335
+        url_poster: https://theposterdb.com/api/assets/504948       
+
+    "Mörkret (2005)":
+        year: 20005
+        title: "Mörkret"
+        sort_title: "WALLANDER 04" 
+        match:
+          mapping_id: 289329
+        url_poster: https://theposterdb.com/api/assets/504947       
+
+    "Afrikanen (2005)":
+        year: 2005
+        title: "Afrikanen"
+        sort_title: "WALLANDER 05" 
+        match:
+          mapping_id: 289342
+        url_poster: https://theposterdb.com/api/assets/504946       
+
+    "Mastermind (2005)":
+        year: 20005
+        title: "Mastermind"
+        sort_title: "WALLANDER 06" 
+        match:
+          mapping_id: 227246
+        url_poster: https://theposterdb.com/api/assets/504944       
+
+    "Den svaga punkten (2006)":
+        year: 2006
+        title: "Den svaga punkten"
+        sort_title: "WALLANDER 07" 
+        match:
+          mapping_id: 289340
+        url_poster: https://theposterdb.com/api/assets/504945       
+
+    "Fotografen (2006)":
+        year: 2006
+        title: "Fotografen"
+        sort_title: "WALLANDER 08" 
+        match:
+          mapping_id: 289334
+        url_poster: https://theposterdb.com/api/assets/504943       
+
+    "Täckmanteln (2006)":
+        year: 2006
+        title: "Täckmanteln"
+        sort_title: "WALLANDER 09" 
+        match:
+          mapping_id: 261615
+        url_poster: https://theposterdb.com/api/assets/504942       
+
+    "Luftslottet (20006)":
+        year: 20006
+        title: "Luftslottet"
+        sort_title: "WALLANDER 10" 
+        match:
+          mapping_id: 289330
+        url_poster: https://theposterdb.com/api/assets/504941       
+
+    "Blodsband (2006)":
+        year: 2006
+        title: "Blodsband"
+        sort_title: "WALLANDER 11" 
+        match:
+          mapping_id: 289421
+        url_poster: https://theposterdb.com/api/assets/504940     
+
+    "Jokern (2006)":
+        year: 2006
+        title: "Jokern"
+        sort_title: "WALLANDER 12" 
+        match:
+          mapping_id: 289332
+        url_poster: https://theposterdb.com/api/assets/504939       
+
+    "Hemligheten (2006)":
+        year: 2006
+        title: "Hemligheten"
+        sort_title: "WALLANDER 13" 
+        match:
+          mapping_id: 261618
+        url_poster: https://theposterdb.com/api/assets/504938       
+
+    "Hämnden (2009)":
+        year: 2009
+        title: "Hämnden"
+        sort_title: "WALLANDER 14" 
+        match:
+          mapping_id: 289344
+        url_poster: https://theposterdb.com/api/assets/504937       
+
+    "Skulden (2009)":
+        year: 2009
+        title: "Skulden"
+        sort_title: "WALLANDER 15" 
+        match:
+          mapping_id: 289430
+        url_poster: https://theposterdb.com/api/assets/504936       
+
+    "Kuriren (2009)":
+        year: 2009
+        title: "Kuriren"
+        sort_title: "WALLANDER 16" 
+        match:
+          mapping_id: 289425
+        url_poster: https://theposterdb.com/api/assets/504935       
+
+    "Tjuven (20009)":
+        year: 2009
+        title: "Tjuven"
+        sort_title: "WALLANDER 17" 
+        match:
+          mapping_id: 289433
+        url_poster: https://theposterdb.com/api/assets/504934       
+
+    "Cellisten (20009)":
+        year: 2009
+        title: "Cellisten"
+        sort_title: "WALLANDER 18" 
+        match:
+          mapping_id: 289343
+        url_poster: https://theposterdb.com/api/assets/504933       
+
+    "Prästen (2009)":
+        year: 2009
+        title: "Prästen"
+        sort_title: "WALLANDER 19" 
+        match:
+          mapping_id: 289428
+        url_poster: https://theposterdb.com/api/assets/504932       
+
+    "Läckan (2009)":
+        year: 2009
+        title: "Läckan"
+        sort_title: "WALLANDER 20" 
+        match:
+          mapping_id: 289426
+        url_poster: https://theposterdb.com/api/assets/504931       
+
+    "Skytten (2009)":
+        year: 2009
+        title: "Skytten"
+        sort_title: "WALLANDER 21" 
+        match:
+          mapping_id: 289432
+        url_poster: https://theposterdb.com/api/assets/504930       
+
+    "Dödsängeln (2010)":
+        year: 2010
+        title: "Dödsängeln"
+        sort_title: "WALLANDER 22" 
+        match:
+          mapping_id: 261622
+        url_poster: https://theposterdb.com/api/assets/504929       
+
+    "Vålnaden (20100)":
+        year: 2010
+        title: "Vålnaden"
+        sort_title: "WALLANDER 23" 
+        match:
+          mapping_id: 289434
+        url_poster: https://theposterdb.com/api/assets/504928       
+
+    "Arvet (2010)":
+        year: 2010
+        title: "Arvet"
+        sort_title: "WALLANDER 24" 
+        match:
+          mapping_id: 284321
+        url_poster: https://theposterdb.com/api/assets/504927       
+
+    "Indrivaren (2010)":
+        year: 2010
+        title: "Indrivaren"
+        sort_title: "WALLANDER 25" 
+        match:
+          mapping_id: 289423
+        url_poster: https://theposterdb.com/api/assets/504926       
+
+    "Vittnet (2010)":
+        year: 2010
+        title: "Vittnet"
+        sort_title: "WALLANDER 26" 
+        match:
+          mapping_id: 289436
+        url_poster: https://theposterdb.com/api/assets/504925       
+
+    "Den orolige mannen (2013)":
+        year: 2013
+        title: "Den orolige mannen"
+        sort_title: "WALLANDER 27" 
+        match:
+          mapping_id: 218939
+        url_poster: https://theposterdb.com/api/assets/504924       
+
+    "Forsvunnen (2013)":
+        year: 2013
+        title: "Forsvunnen"
+        sort_title: "WALLANDER 28" 
+        match:
+          mapping_id: 270846
+        url_poster: https://theposterdb.com/api/assets/504923       
+
+    "Sveket (2013)":
+        year: 2013
+        title: "Sveket"
+        sort_title: "WALLANDER 29" 
+        match:
+          mapping_id: 282129
+        url_poster: https://theposterdb.com/api/assets/504922       
+
+    "Saknaden (2013)":
+        year: 2013
+        title: "Saknaden"
+        sort_title: "WALLANDER 30" 
+        match:
+          mapping_id: 276965
+        url_poster: https://theposterdb.com/api/assets/504921       
+
+    "Mordbrannaren (2013)":
+        year: 2013
+        title: "Mordbrannaren"
+        sort_title: "WALLANDER 31" 
+        match:
+          mapping_id: 270857
+        url_poster: https://theposterdb.com/api/assets/504920       
+
+    "Sorgfågeln (2013)":
+        year: 2013
+        title: "Sorgfågeln"
+        sort_title: "WALLANDER 32" 
+        match:
+          mapping_id: 282134
+        url_poster: https://theposterdb.com/api/assets/504919       
+
+    "Space Cadet (2024)":
+        year: 2024
+        title: "Space Cadet"
+        match:
+          mapping_id: 1019411
+        url_poster: https://theposterdb.com/api/assets/505449       
+
+    "The Garfield Movie (2024)":
+        year: 2024
+        title: "The Garfield Movie"
+        match:
+          mapping_id: 748783
+        url_poster: https://theposterdb.com/api/assets/445251       
+
+    "The Vow (2012)":
+        year: 2012
+        title: "The Vow"
+        match:
+          mapping_id: 72570
+        url_poster: https://theposterdb.com/api/assets/209480       
+
+    "Kingdom of the Planet of the Apes (2024)":
+        year: 2024
+        title: "Kingdom of the Planet of the Apes"
+        match:
+          mapping_id: 653346
+        url_poster: https://theposterdb.com/api/assets/432675    
+
+    "Carrie (20013)":
+        year: 2013
+        title: "Carrie"
+        match:
+          mapping_id: 133805
+        url_poster: https://theposterdb.com/api/assets/494849       
+
+    "Murder Company (2024)":
+        year: 2024
+        title: "Murder Company"
+        match:
+          mapping_id: 1285247
+        url_poster: https://theposterdb.com/api/assets/506813       
+
+    "The Convert (2024)":
+        year: 2024
+        title: "The Convert"
+        match:
+          mapping_id: 1066262
+        url_poster: https://theposterdb.com/api/assets/508616    
+
+    "Horizon: An American Saga - Chapter 1 (2024)":
+        year: 2024
+        title: "Horizon: An American Saga - Chapter 1"
+        match:
+          mapping_id: 932086
+        url_poster: https://theposterdb.com/api/assets/507163       
+
+    "Thelma (2024)":
+        year: 2024
+        title: "Thelma"
+        match:
+          mapping_id: 1051891
+        url_poster: https://theposterdb.com/api/assets/507165       
+
+    "The Dead Don't Hurt (2024)":
+        year: 2024
+        title: "The Dead Don't Hurt"
+        match:
+          mapping_id: 1032425
+        url_poster: https://theposterdb.com/api/assets/507166    
+
+    "The Outlaws (2024)":
+        year: 2024
+        title: "The Outlaws"
+        match:
+          mapping_id: 1303660
+        url_poster: https://theposterdb.com/api/assets/507216       
+
+    "Sex Tape (2014)":
+        year: 2014
+        title: "Sex Tape"
+        match:
+          mapping_id: 225886
+        url_poster: https://theposterdb.com/api/assets/205738    
+
+    "Wedding Crashers (2005)":
+        year: 2005
+        title: "Wedding Crashers"
+        match:
+          mapping_id: 9522
+        url_poster: https://theposterdb.com/api/assets/194502       
+
+    "Ace Ventura Jr: Pet Detective (2009)":
+        year: 2009
+        title: "Ace Ventura Jr: Pet Detective"
+        match:
+          mapping_id: 15338
+        url_poster: https://theposterdb.com/api/assets/203219       
+
+    "Chappie (2015)":
+        year: 2015
+        title: "Chappie"
+        match:
+          mapping_id: 198184
+        url_poster: https://theposterdb.com/api/assets/507783     
+
+    "My Spy (2020)":
+        year: 2020
+        title: "My Spy"
+        match:
+          mapping_id: 592834
+        url_poster: https://theposterdb.com/api/assets/508653       
+
+    "My Spy: The Eternal City (2024)":
+        year: 2024
+        title: "My Spy: The Eternal City"
+        match:
+          mapping_id: 1048241
+        url_poster: https://theposterdb.com/api/assets/508652       
+
+    "Dragonkeeper (2024)":
+        year: 2024
+        title: "Dragonkeeper"
+        match:
+          mapping_id: 588648
+        url_poster: https://theposterdb.com/api/assets/508654       
+
+    "Descendants: The Rise of Red (2024)":
+        year: 2024
+        title: "Descendants: The Rise of Red"
+        match:
+          mapping_id: 974262
+        url_poster: https://theposterdb.com/api/assets/508468       
+
+    "Bad Boys: Ride or Die (2024)":
+        year: 2024
+        title: "Bad Boys: Ride or Die"
+        match:
+          mapping_id: 573435
+        url_poster: https://theposterdb.com/api/assets/510329       
+
+    "Bad Boys II (2003)":
+        year: 2003
+        title: "Bad Boys II"
+        match:
+          mapping_id: 8961
+        url_poster: https://theposterdb.com/api/assets/510335       
+
+    "Bad Boys (1995)":
+        year: 1995
+        title: "Bad Boys"
+        match:
+          mapping_id: 9737
+        url_poster: https://theposterdb.com/api/assets/510336       
+
+    "Bad Boys for Life (2020)":
+        year: 2020
+        title: "Bad Boys for Life"
+        match:
+          mapping_id: 38700
+        url_poster: https://theposterdb.com/api/assets/510334       
+
+    "Kill the Irishman (20011)":
+        year: 20011
+        title: "Kill the Irishman"
+        match:
+          mapping_id: 51209
+        url_poster: https://theposterdb.com/api/assets/234927 
+          
+    "Mr. Popper's Penguins (2011)":
+        year: 2011
+        title: "Mr. Popper's Penguins"
+        match:
+          mapping_id: 58224
+        url_poster: https://theposterdb.com/api/assets/174860       
+          
+    "Daddio (2024)":
+        year: 2024
+        title: "Daddio"
+        match:
+          mapping_id: 843416
+        url_poster: https://theposterdb.com/api/assets/512084          
+          
+    "Nerve (2016)":
+        year: 20016
+        title: "Nerve"
+        match:
+          mapping_id: 328387
+        url_poster: https://theposterdb.com/api/assets/202370    
+          
+    "Mission: Cross (2024)":
+        year: 2024
+        title: "Mission: Cross"
+        match:
+          mapping_id: 1002088
+        url_poster: https://theposterdb.com/api/assets/515431    
+          
+    "Speed Kills (2018)":
+        year: 2018
+        title: "Speed Kills"
+        match:
+          mapping_id: 466411
+        url_poster: https://theposterdb.com/api/assets/515432    
+          
+    "One Fast Move (2024)":
+        year: 20024
+        title: "One Fast Move"
+        match:
+          mapping_id: 1281826
+        url_poster: https://theposterdb.com/api/assets/514511    
+          
+    "Ride (2024)":
+        year: 2024
+        title: "Ride"
+        match:
+          mapping_id: 1279642
+        url_poster: https://theposterdb.com/api/assets/515736    
+          
+    "Once Upon a Time in... Hollywood (2019)":
+        year: 2019
+        title: "Once Upon a Time in... Hollywood"
+        match:
+          mapping_id: 466272
+        url_poster: https://theposterdb.com/api/assets/170585    
+          
+    "The Union (2024)":
+        year: 2024
+        title: "The Union"
+        match:
+          mapping_id: 704239
+        url_poster: https://theposterdb.com/api/assets/515960    
+          
+    "The Beast Within (2024)":
+        year: 2024
+        title: "The Beast Within"
+        match:
+          mapping_id: 1300962
+        url_poster: https://theposterdb.com/api/assets/516099    
+          
+    "Greedy People (2024)":
+        year: 2024
+        title: "Greedy People"
+        match:
+          mapping_id: 974250
+        url_poster: https://theposterdb.com/api/assets/516151    
+          
+    "Jackpot! (2024)":
+        year: 2024
+        title: "Jackpot!"
+        match:
+          mapping_id: 1094138
+        url_poster: https://theposterdb.com/api/assets/516583    
+          
+    "It Ends with Us (2024)":
+        year: 2024
+        title: "It Ends with Us"
+        match:
+          mapping_id: 1079091
+        url_poster: https://theposterdb.com/api/assets/516585    
+          
+    "Subservience (2024)":
+        year: 2024
+        title: "Subservience"
+        match:
+          mapping_id: 1064028
+        url_poster: https://theposterdb.com/api/assets/516586    
+          
+    "Gunner (2024)":
+        year: 2024
+        title: "Gunner"
+        match:
+          mapping_id: 5492
+        url_poster: https://theposterdb.com/api/assets/516725    
+          
+    "öööö (öööö)":
+        year: ööööö
+        title: "öööööö"
+        match:
+          mapping_id: öööö
+        url_poster: ööööö    
+
+        
+
 
