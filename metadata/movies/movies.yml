@@ -9189,6 +9189,13 @@ metadata:
           mapping_id: 5492
         url_poster: https://theposterdb.com/api/assets/516725    
           
+    "Jupiter Ascending (2015)":
+        year: 2015
+        title: "Jupiter Ascending"
+        match:
+          mapping_id: 76757
+        url_poster: https://theposterdb.com/api/assets/184529    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
