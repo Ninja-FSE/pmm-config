@@ -9217,6 +9217,20 @@ metadata:
           mapping_id: 355338
         url_poster: https://theposterdb.com/api/assets/518055       
 
+    "Nelly Rapp - Dödens spegel (2023)":
+        year: 2023
+        title: "Nelly Rapp - Dödens spegel"
+        match:
+          mapping_id: 1088530
+        url_poster: https://theposterdb.com/api/assets/518061    
+
+    "Nelly Rapp - monsteragent (2020)":
+        year: 2020
+        title: "Nelly Rapp - monsteragent"
+        match:
+          mapping_id: 643537
+        url_poster: https://theposterdb.com/api/assets/518062    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
