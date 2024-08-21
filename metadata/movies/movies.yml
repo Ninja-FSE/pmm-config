@@ -9196,6 +9196,27 @@ metadata:
           mapping_id: 76757
         url_poster: https://theposterdb.com/api/assets/184529    
 
+    "Insidan ut 2 (2024)":
+        year: 2024
+        title: "Insidan ut 2"
+        match:
+          mapping_id: 1022789
+        url_poster: https://theposterdb.com/api/assets/518052   
+
+    "Insidan ut (2015)":
+        year: 2015
+        title: "Insidan ut"
+        match:
+          mapping_id: 150540
+        url_poster: https://theposterdb.com/api/assets/518056    
+        
+    "RILEY`S FÖRSTA DATE? (2015)":
+        year: 2015
+        title: "RILEY`S FÖRSTA DATE?"
+        match:
+          mapping_id: 355338
+        url_poster: https://theposterdb.com/api/assets/518055       
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
