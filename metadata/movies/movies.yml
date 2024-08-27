@@ -9238,6 +9238,13 @@ metadata:
           mapping_id: 766218
         url_poster: https://theposterdb.com/api/assets/518274    
 
+    "Heartbreak Hotel (2006)":
+        year: 2006
+        title: "Heartbreak Hotel"
+        match:
+          mapping_id: 2180
+        url_poster: https://theposterdb.com/api/assets/519339    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
