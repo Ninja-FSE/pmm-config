@@ -4796,6 +4796,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Tales from the Loop (2020)                              #
+#                                                                   #
+#####################################################################
+    "Tales from the Loop (2020)":
+        year: 2020
+        title: "Tales from the Loop"
+        url_poster: https://theposterdb.com/api/assets/335512
+        match:
+          mapping_id: 368210
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/335513        
+            1:
+                url_poster: https://theposterdb.com/api/assets/335514
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
