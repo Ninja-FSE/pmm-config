@@ -9245,6 +9245,13 @@ metadata:
           mapping_id: 2180
         url_poster: https://theposterdb.com/api/assets/519339    
 
+    "Adam Sandler: Love You (2024)":
+        year: 2024
+        title: "Adam Sandler: Love You"
+        match:
+          mapping_id: 1244705
+        url_poster: https://theposterdb.com/api/assets/519294    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
