@@ -4822,7 +4822,7 @@ metadata:
         title: "Those About to Die"
         url_poster: https://theposterdb.com/api/assets/511863
         match:
-          mapping_id: xxxx
+          mapping_id: 422772
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/511864        
