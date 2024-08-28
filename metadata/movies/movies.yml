@@ -9259,6 +9259,13 @@ metadata:
           mapping_id: 365177
         url_poster: https://theposterdb.com/api/assets/450415    
 
+    "Stop-Loss (2008)":
+        year: 2008
+        title: "Stop-Loss"
+        match:
+          mapping_id: 8988
+        url_poster: https://theposterdb.com/api/assets/195727    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
