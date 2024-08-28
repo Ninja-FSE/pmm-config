@@ -9252,6 +9252,13 @@ metadata:
           mapping_id: 1244705
         url_poster: https://theposterdb.com/api/assets/519294    
 
+    "Borderlands (2024)":
+        year: 2024
+        title: "Borderlands"
+        match:
+          mapping_id: 365177
+        url_poster: https://theposterdb.com/api/assets/450415    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
