@@ -4814,6 +4814,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Those About to Die (2024)                              #
+#                                                                   #
+#####################################################################
+    "Those About to Die (2024)":
+        year: 2024
+        title: "Those About to Die"
+        url_poster: https://theposterdb.com/api/assets/511863
+        match:
+          mapping_id: xxxx
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/511864        
+            1:
+                url_poster: https://theposterdb.com/api/assets/511865  
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
