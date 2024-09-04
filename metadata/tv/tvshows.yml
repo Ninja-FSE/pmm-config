@@ -4852,6 +4852,24 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Naked Attraction Sverige (2022)                              #
+#                                                                   #
+#####################################################################
+    "Naked Attraction Sverige (2022)":
+        year: 2022
+        title: "Naked Attraction Sverige"
+        url_poster: https://theposterdb.com/api/assets/521797
+        match:
+          mapping_id: 417608
+        seasons:    
+            1:
+                url_poster: https://theposterdb.com/api/assets/521798
+            2:
+                url_poster: https://theposterdb.com/api/assets/521799
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
