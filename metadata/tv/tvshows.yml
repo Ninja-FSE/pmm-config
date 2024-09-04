@@ -4836,6 +4836,22 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Den svenska Tinderbedragaren (2023)                              #
+#                                                                   #
+#####################################################################
+    "Den svenska Tinderbedragaren (2023)":
+        year: 2023
+        title: "Den svenska Tinderbedragaren"
+        url_poster: https://theposterdb.com/api/assets/521790
+        match:
+          mapping_id: 440818
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/521791
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
