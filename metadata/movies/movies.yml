@@ -9266,6 +9266,13 @@ metadata:
           mapping_id: 8988
         url_poster: https://theposterdb.com/api/assets/195727    
 
+    "The Deliverance (2024)":
+        year: 2024
+        title: "The Deliverance"
+        match:
+          mapping_id: 930600
+        url_poster: https://theposterdb.com/api/assets/520065    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
