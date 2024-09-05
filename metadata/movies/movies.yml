@@ -9273,6 +9273,20 @@ metadata:
           mapping_id: 930600
         url_poster: https://theposterdb.com/api/assets/520065    
 
+    "Ready or Not (2019)":
+        year: 2019
+        title: "Ready or Not"
+        match:
+          mapping_id: 567609
+        url_poster: https://theposterdb.com/api/assets/178133    
+
+    "The Three Stooges Go Around the World in a Daze (1963)":
+        year: 1963
+        title: "The Three Stooges Go Around the World in a Daze"
+        match:
+          mapping_id: 100053
+        url_poster: https://theposterdb.com/api/assets/249099    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
