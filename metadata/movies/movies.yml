@@ -9287,6 +9287,13 @@ metadata:
           mapping_id: 100053
         url_poster: https://theposterdb.com/api/assets/249099    
 
+    "Rebel Ridge (2024)":
+        year: 2024
+        title: "Rebel Ridge"
+        match:
+          mapping_id: 646097
+        url_poster: https://theposterdb.com/api/assets/522284    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
