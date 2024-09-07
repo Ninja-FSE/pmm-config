@@ -4870,6 +4870,26 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         Vilket liv! (2024)                              #
+#                                                                   #
+#####################################################################
+    "Vilket liv! (2024)":
+        year: 2024
+        title: "Vilket liv!"
+        url_poster: https://theposterdb.com/api/assets/522374
+        match:
+          mapping_id: 423870
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/522375
+            2:
+                url_poster: https://theposterdb.com/api/assets/522376
+            3:
+                url_poster: https://theposterdb.com/api/assets/522377
+ 
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
