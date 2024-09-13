@@ -9294,6 +9294,41 @@ metadata:
           mapping_id: 646097
         url_poster: https://theposterdb.com/api/assets/522284    
 
+    "The Crow (2024)":
+        year: 2024
+        title: "The Crow"
+        match:
+          mapping_id: 957452
+        url_poster: https://theposterdb.com/api/assets/524428    
+
+    "Beetlejuice (1988)":
+        year: 1988
+        title: "Beetlejuice"
+        match:
+          mapping_id: 4011
+        url_poster: https://theposterdb.com/api/assets/523060    
+
+    "Flickan som lekte med elden (2009)":
+        year: 2009
+        title: "Flickan som lekte med elden"
+        match:
+          mapping_id: 24253
+        url_poster: https://theposterdb.com/api/assets/524431    
+
+    "Män som hatar kvinnor (2009)":
+        year: 2009
+        title: "Män som hatar kvinnor"
+        match:
+          mapping_id: 15472
+        url_poster: https://theposterdb.com/api/assets/524432    
+
+    "Luftslottet som sprängdes (2009)":
+        year: 2009
+        title: "Luftslottet som sprängdes"
+        match:
+          mapping_id: 33613
+        url_poster: https://theposterdb.com/api/assets/524430    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
