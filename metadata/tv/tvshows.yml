@@ -4903,6 +4903,27 @@ metadata:
             1:
                 url_poster: https://theposterdb.com/api/assets/522379
 
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
+#                         The Jinx (2015)                              #
+#                                                                   #
+#####################################################################
+    "The Jinx (2015)":
+        year: 2015
+        title: "The Jinx"
+        url_poster: https://theposterdb.com/api/assets/486968
+        match:
+          mapping_id: 289946
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/486969        
+            1:
+                url_poster: https://theposterdb.com/api/assets/486970
+            2:
+                url_poster: https://theposterdb.com/api/assets/486971                
+
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
@@ -4940,6 +4961,7 @@ metadata:
                 url_poster: xxxx
             11:
                 url_poster: xxxxx    
+
 
 
                 
