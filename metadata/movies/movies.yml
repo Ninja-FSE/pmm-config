@@ -9329,6 +9329,20 @@ metadata:
           mapping_id: 33613
         url_poster: https://theposterdb.com/api/assets/524430    
 
+    "1992 (2024)":
+        year: 2024
+        title: "1992"
+        match:
+          mapping_id: 413846
+        url_poster: https://theposterdb.com/api/assets/513744    
+
+    "Blink Twice (2024)":
+        year: 2024
+        title: "Blink Twice"
+        match:
+          mapping_id: 840705
+        url_poster: https://theposterdb.com/api/assets/520735  
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
