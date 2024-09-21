@@ -4927,6 +4927,23 @@ metadata:
 #####################################################################
 #                                                                   #
 #                           TVShow                                 #
+#                         High Potential (2024)                              #
+#                                                                   #
+#####################################################################
+    "High Potential (2024)":
+        year: 2024
+        title: "High Potential"
+        url_poster: https://theposterdb.com/api/assets/525989
+        match:
+          mapping_id: 434988
+        seasons:
+     
+            1:
+                url_poster: https://theposterdb.com/api/assets/525990
+
+#####################################################################
+#                                                                   #
+#                           TVShow                                 #
 #                         xxxxx (xxxx)                              #
 #                                                                   #
 #####################################################################
