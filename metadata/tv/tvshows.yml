@@ -4942,10 +4942,16 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/525990
 
 #####################################################################
-#                                                                   #
-#                           TVShow                                 #
-#                         xxxxx (xxxx)                              #
-#                                                                   #
+    "FUBAR (20023)":
+        year: 2023
+        title: "FUBAR"
+        url_poster: https://theposterdb.com/api/assets/367366
+        match:
+          mapping_id: 430571
+        seasons:     
+            1:
+                url_poster: https://theposterdb.com/api/assets/367367
+
 #####################################################################
     "xxxx (xxxx)":
         year: xxxx
