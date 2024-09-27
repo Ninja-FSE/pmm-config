@@ -9350,6 +9350,20 @@ metadata:
           mapping_id: 46503
         url_poster: https://theposterdb.com/api/assets/203391    
 
+    "Wolfs (2024)":
+        year: 2024
+        title: "Wolfs"
+        match:
+          mapping_id: 877817
+        url_poster: https://theposterdb.com/api/assets/527943    
+
+    "JAKT (2024)":
+        year: 2024
+        title: "JAKT"
+        match:
+          mapping_id: 1104027
+        url_poster: https://theposterdb.com/api/assets/527977    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
