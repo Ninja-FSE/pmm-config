@@ -9364,6 +9364,48 @@ metadata:
           mapping_id: 1104027
         url_poster: https://theposterdb.com/api/assets/527977    
 
+    "Hellboy: The Crooked Man (2024)":
+        year: 2024
+        title: "Hellboy: The Crooked Man"
+        match:
+          mapping_id: 1087822
+        url_poster: https://theposterdb.com/api/assets/531984    
+
+    "Beetlejuice Beetlejuice (2024)":
+        year: 2024
+        title: "Beetlejuice Beetlejuice"
+        match:
+          mapping_id: 917496
+        url_poster: https://theposterdb.com/api/assets/522282    
+
+    "Uglies (2024)":
+        year: 2024
+        title: "Uglies"
+        match:
+          mapping_id: 748167
+        url_poster: https://theposterdb.com/api/assets/525974    
+
+    "Speak No Evil (2024)":
+        year: 2024
+        title: "Speak No Evil"
+        match:
+          mapping_id: 1114513
+        url_poster: https://theposterdb.com/api/assets/529336    
+
+    "Salem's Lot (2024)":
+        year: 2024
+        title: "Salem's Lot"
+        match:
+          mapping_id: 748230
+        url_poster: https://theposterdb.com/api/assets/530287    
+
+    "The Killer's Game (2024)":
+        year: 2024
+        title: "The Killer's Game"
+        match:
+          mapping_id: 507241
+        url_poster: https://theposterdb.com/api/assets/530880    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
@@ -9372,5 +9414,4 @@ metadata:
         url_poster: ööööö    
 
         
-
 
