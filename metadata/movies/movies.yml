@@ -9406,6 +9406,20 @@ metadata:
           mapping_id: 507241
         url_poster: https://theposterdb.com/api/assets/530880    
 
+    "Last Knights (2015)":
+        year: 2015
+        title: "Last Knights"
+        match:
+          mapping_id: 308504
+        url_poster: https://theposterdb.com/api/assets/193739    
+
+    "Never Let Go (2024)":
+        year: 2024
+        title: "Never Let Go"
+        match:
+          mapping_id: 814889
+        url_poster: https://theposterdb.com/api/assets/532896    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
