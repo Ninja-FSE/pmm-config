@@ -9420,6 +9420,13 @@ metadata:
           mapping_id: 814889
         url_poster: https://theposterdb.com/api/assets/532896    
 
+    "Ernest Scared Stupid (1991)":
+        year: 1991
+        title: "Ernest Scared Stupid"
+        match:
+          mapping_id: 32685
+        url_poster: https://theposterdb.com/api/assets/174309   
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
