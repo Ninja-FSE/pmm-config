@@ -9427,6 +9427,20 @@ metadata:
           mapping_id: 32685
         url_poster: https://theposterdb.com/api/assets/174309   
 
+    "Lee (2024)":
+        year: 2024
+        title: "Lee"
+        match:
+          mapping_id: 832964
+        url_poster: https://theposterdb.com/api/assets/535289    
+
+    "Brothers (2024)":
+        year: 2024
+        title: "Brothers"
+        match:
+          mapping_id: 616446
+        url_poster: https://theposterdb.com/api/assets/534889    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
