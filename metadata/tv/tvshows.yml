@@ -4980,6 +4980,19 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/450773
 
 #####################################################################
+    "Georgie & Mandy's First Marriage (2024)":
+        year: 2024
+        title: "Georgie & Mandy's First Marriage"
+        url_poster: https://theposterdb.com/api/assets/535090
+        match:
+          mapping_id: 448023
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/535091        
+            1:
+                url_poster: https://theposterdb.com/api/assets/535092
+
+#####################################################################
     "xxxx (xxxx)":
         year: xxxx
         title: "xxxx"
