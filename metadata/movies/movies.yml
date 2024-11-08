@@ -9441,12 +9441,35 @@ metadata:
           mapping_id: 616446
         url_poster: https://theposterdb.com/api/assets/534889    
 
+    "The Substance (2024)":
+        year: 2024
+        title: "The Substance"
+        match:
+          mapping_id: 933260
+        url_poster: https://theposterdb.com/api/assets/534331    
+
+    "Apocalipsis Z: el principio del fin (2024)":
+        year: 2024
+        title: "Apocalypse Z: The Beginning of the End"
+        match:
+          mapping_id: 1118031
+        url_poster: https://theposterdb.com/api/assets/541152    
+
+    "War Blade (2024)":
+        year: 2024
+        title: "War Blade"
+        match:
+          mapping_id: 1195425
+        url_poster: https://theposterdb.com/api/assets/540977    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
         match:
           mapping_id: öööö
         url_poster: ööööö    
+
+
 
         
 
