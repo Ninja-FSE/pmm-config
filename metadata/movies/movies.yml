@@ -9462,6 +9462,139 @@ metadata:
           mapping_id: 1195425
         url_poster: https://theposterdb.com/api/assets/540977    
 
+    "The Perfect Storm (2000)":
+        year: 2000
+        title: "The Perfect Storm"
+        match:
+          mapping_id: 2133
+        url_poster: https://theposterdb.com/api/assets/194490    
+
+    "The Package (2018)":
+        year: 2018
+        title: "The Package"
+        match:
+          mapping_id: 503619
+        url_poster: https://theposterdb.com/api/assets/423691    
+
+    "The Count of Monte-Cristo (2024)":
+        year: 2024
+        title: "The Count of Monte-Cristo"
+        match:
+          mapping_id: 1084736
+        url_poster: https://theposterdb.com/api/assets/541209    
+
+    "The Faculty (1998)":
+        year: 1998
+        title: "The Faculty"
+        match:
+          mapping_id: 9276
+        url_poster: https://theposterdb.com/api/assets/180633    
+
+    "Super 8 (2011)":
+        year: 2011
+        title: "Super 8"
+        match:
+          mapping_id: 37686
+        url_poster: https://theposterdb.com/api/assets/175315    
+
+    "Kick-Ass (2010)":
+        year: 2010
+        title: "Kick-Ass"
+        match:
+          mapping_id: 23483
+        url_poster: https://theposterdb.com/api/assets/171683    
+
+    "Kick-Ass 2 (2013)":
+        year: 2013
+        title: "Kick-Ass 2"
+        match:
+          mapping_id: 59859
+        url_poster: https://theposterdb.com/api/assets/171684    
+
+    "Disturbing Behavior (1998)":
+        year: 1998
+        title: "Disturbing Behavior"
+        match:
+          mapping_id: 9424
+        url_poster: https://theposterdb.com/api/assets/257872    
+
+    "The Merry Gentlemen (2024)":
+        year: 2024
+        title: "The Merry Gentlemen"
+        match:
+          mapping_id: 1290486
+        url_poster: https://theposterdb.com/api/assets/546747    
+
+    "This Is Where I Leave You (2014)":
+        year: 2014
+        title: "This Is Where I Leave You"
+        match:
+          mapping_id: 239678
+        url_poster: https://theposterdb.com/api/assets/289062    
+
+    "Melancholia (2011)":
+        year: 2011
+        title: "Melancholia"
+        match:
+          mapping_id: 62215
+        url_poster: https://theposterdb.com/api/assets/185142    
+
+    "Birth of the Dragon (2017)":
+        year: 2017
+        title: "Birth of the Dragon"
+        match:
+          mapping_id: 408266
+        url_poster: https://theposterdb.com/api/assets/312870    
+
+    "Megalopolis (2024)":
+        year: 2024
+        title: "Megalopolis"
+        match:
+          mapping_id: 592831
+        url_poster: https://theposterdb.com/api/assets/543013    
+
+    "Conclave (2024)":
+        year: 2024
+        title: "Conclave"
+        match:
+          mapping_id: 974576
+        url_poster: https://theposterdb.com/api/assets/546591    
+
+    "Elevation (2024)":
+        year: 2024
+        title: "Elevation"
+        match:
+          mapping_id: 1035048
+        url_poster: https://theposterdb.com/api/assets/546652    
+
+    "Dear Santa (2024)":
+        year: 2024
+        title: "Dear Santa"
+        match:
+          mapping_id: 1097870
+        url_poster: https://theposterdb.com/api/assets/546590    
+
+    "Levels (2024)":
+        year: 2024
+        title: "Levels"
+        match:
+          mapping_id: 791042
+        url_poster: https://theposterdb.com/api/assets/540167    
+
+    "Overlord (2018)":
+        year: 2018
+        title: "Overlord"
+        match:
+          mapping_id: 438799
+        url_poster: https://theposterdb.com/api/assets/178832    
+
+    "Absolution (2024)":
+        year: 2024
+        title: "Absolution"
+        match:
+          mapping_id: 974453
+        url_poster: https://theposterdb.com/api/assets/545810    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
