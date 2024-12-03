@@ -1975,13 +1975,6 @@ metadata:
           mapping_id: 505642
         url_poster: https://theposterdb.com/api/assets/279102
 
-    "Blade (2025)":
-        year: 2025
-        title: "Blade"
-        match:
-          mapping_id: 617127
-        #url_poster: https://theposterdb.com/api/assets/200126
-
     "Blade Runner (1982)":
         year: 1982
         title: "Blade Runner"
@@ -2080,13 +2073,6 @@ metadata:
           mapping_id: 271110
         url_poster: https://theposterdb.com/api/assets/170957
 
-    "Captain America: Brave New World (2025)":
-        year: 2025
-        title: "Captain America: Brave New World"
-        match:
-          mapping_id: 822119
-        #url_poster: https://theposterdb.com/api/assets/170957
-
     "Chevalier (2023)":
         year: 2023
         title: "Chevalier"
@@ -2120,13 +2106,6 @@ metadata:
         title: "Deadpool 3"
         match:
           mapping_id: 533535
-
-    "Disney's Snow White (2025)":
-        year: 2025
-        title: "Disney's Snow White"
-        match:
-          mapping_id: 447273
-        #url_poster: https://theposterdb.com/api/assets/395654
 
     "Doctor Strange (2016)":
         year: 2016
@@ -9594,6 +9573,13 @@ metadata:
         match:
           mapping_id: 974453
         url_poster: https://theposterdb.com/api/assets/545810    
+
+    "Dreamcatcher (2003)":
+        year: 2003
+        title: "Dreamcatcher"
+        match:
+          mapping_id: 6171
+        url_poster: https://theposterdb.com/api/assets/328489    
 
     "öööö (öööö)":
         year: ööööö
