@@ -9693,6 +9693,20 @@ metadata:
           mapping_id: 465109
         url_poster: https://theposterdb.com/api/assets/195577    
 
+    "Crossroads (1986)":
+        year: 1986
+        title: "Crossroads"
+        match:
+          mapping_id: 15392
+        url_poster: https://theposterdb.com/api/assets/222766    
+
+    "Going Overboard (1989)":
+        year: 1989
+        title: "Going Overboard"
+        match:
+          mapping_id: 19157
+        url_poster: https://theposterdb.com/api/assets/333255    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
