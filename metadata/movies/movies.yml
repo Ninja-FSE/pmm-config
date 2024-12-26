@@ -9581,6 +9581,118 @@ metadata:
           mapping_id: 6171
         url_poster: https://theposterdb.com/api/assets/328489    
 
+    "Act of Valor (2012)":
+        year: 2012
+        title: "Act of Valor"
+        match:
+          mapping_id: 75674
+        url_poster: https://theposterdb.com/api/assets/195580    
+
+    "Black Sea (2014)":
+        year: 2014
+        title: "Black Sea"
+        match:
+          mapping_id: 246080
+        url_poster: https://theposterdb.com/api/assets/212722    
+
+    "Gladiator II (2024)":
+        year: 2024
+        title: "Gladiator II"
+        match:
+          mapping_id: 558449
+        url_poster: https://theposterdb.com/api/assets/547629    
+
+    "Rush Hour (1998)":
+        year: 1998
+        title: "Rush Hour"
+        match:
+          mapping_id: 2109
+        url_poster: https://theposterdb.com/api/assets/192569    
+
+    "Rush Hour 2 (2001)":
+        year: 2001
+        title: "Rush Hour 2"
+        match:
+          mapping_id: 5175
+        url_poster: https://theposterdb.com/api/assets/192570    
+
+    "Rush Hour 3 (ö2007ööö)":
+        year: 2007
+        title: "Rush Hour 3"
+        match:
+          mapping_id: 5174
+        url_poster: https://theposterdb.com/api/assets/192571    
+
+    "Harley Davidson and the Marlboro Man (1991)":
+        year: 1991
+        title: "Harley Davidson and the Marlboro Man"
+        match:
+          mapping_id: 2453
+        url_poster: https://theposterdb.com/api/assets/218705    
+
+    "Below (2002)":
+        year: 2002
+        title: "Below"
+        match:
+          mapping_id: 12590
+        url_poster: https://theposterdb.com/api/assets/180048    
+
+    "The Six Triple Eight (2024)":
+        year: 2024
+        title: "The Six Triple Eight"
+        match:
+          mapping_id: 1061699
+        url_poster: https://theposterdb.com/api/assets/553882    
+
+    "Kraven: The Hunter (2024)":
+        year: 2024
+        title: "Kraven: The Hunter"
+        match:
+          mapping_id: 539972
+        url_poster: https://theposterdb.com/api/assets/553884    
+
+    "The Apprentice (2024)":
+        year: 2024
+        title: "The Apprentice"
+        match:
+          mapping_id: 1182047
+        url_poster: https://theposterdb.com/api/assets/541153    
+
+    "Carry-On (2024)":
+        year: 2024
+        title: "Carry-On"
+        match:
+          mapping_id: 1005331
+        url_poster: https://theposterdb.com/api/assets/552468    
+
+    "Red One (2024)":
+        year: 2024
+        title: "Red One"
+        match:
+          mapping_id: 845781
+        url_poster: https://theposterdb.com/api/assets/553184    
+
+    "Palm Springs (2020)":
+        year: 2020
+        title: "Palm Springs"
+        match:
+          mapping_id: 587792
+        url_poster: https://theposterdb.com/api/assets/183791    
+
+    "This Is the End (2013)":
+        year: 2013
+        title: "This Is the End"
+        match:
+          mapping_id: 109414
+        url_poster: https://theposterdb.com/api/assets/179659    
+
+    "The Week Of (2018)":
+        year: 2018
+        title: "The Week Of"
+        match:
+          mapping_id: 465109
+        url_poster: https://theposterdb.com/api/assets/195577    
+
     "öööö (öööö)":
         year: ööööö
         title: "öööööö"
